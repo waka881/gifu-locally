@@ -17,6 +17,16 @@ SITE_NAME = "Gifu, Locally"
 TAGLINE = "Gifu, Japan, from people who live here."
 DRAFT = "--draft" in sys.argv
 
+TRAVELPAYOUTS = """<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+  (function () {
+      var script = document.createElement("script");
+      script.async = 1;
+      script.setAttribute("data-cmp-ab","2");
+      script.src = 'https://emrld.ltd/NTg1NTQ5.js?t=585549';
+      document.head.appendChild(script);
+  })();
+</script>"""
+
 CSS = """
 :root{--bg:#fbfaf7;--fg:#222;--muted:#666;--accent:#a4472b;--line:#e6e2da}
 @media (prefers-color-scheme:dark){:root{--bg:#161514;--fg:#eee;--muted:#aaa;--accent:#e08a6a;--line:#333}}
@@ -52,7 +62,7 @@ def page(title, desc, content):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title><meta name="description" content="{html.escape(desc)}">
-<style>{CSS}</style></head><body>
+<style>{CSS}</style>{TRAVELPAYOUTS}</head><body>
 <header><div class="wrap"><a href="index.html">{SITE_NAME}</a><p>{TAGLINE}</p></div></header>
 <main class="wrap">{content}</main>
 <footer><div class="wrap"><a href="about.html">About &amp; disclosure</a></div></footer>
