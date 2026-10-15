@@ -36,7 +36,7 @@ The castle sits on a hill above town. It began as a fort built in 1559, and the 
 
 ## Walk the old town
 
-The Shokunin-machi district is a nationally recognized historic townscape of matching wooden townhouses and waterways. The Nagaragawa Railway's Gujo Hachiman Station, opened in 1929, has been restored to its original look ([source](https://www.gujohachiman.com/kanko/)).
+The Shokunin-machi district is a 14-hectare area of matching wooden townhouses and waterways. The Nagaragawa Railway's Gujo Hachiman Station, opened in 1929, has been restored to its original look ([source](https://www.gujohachiman.com/kanko/)).
 
 ## Coming back in summer: Gujo Odori
 
