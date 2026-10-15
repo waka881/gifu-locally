@@ -37,5 +37,10 @@ Staying near JR Gifu Station puts you within walking distance of downtown coffee
 
 Pair a slow morning with a walk up Mount Kinka to Gifu Castle, or head to the old Kawaramachi district along the Nagara River.
 
+
+## Book ahead
+
+Find tours, activity tickets, rail passes and eSIMs for your Japan trip on **[Klook](https://klook.tpk.lu/zp1hCE5f)**.
+
 ---
 *Prices and opening hours change. Always check with the shop before you go. Facts last checked: 2026-10-14.*

@@ -31,5 +31,10 @@ Walk or take the bus to the Nagarabashi stop for **Kawaramachi**, a former river
 
 Stay near JR Gifu Station for easy train and bus access, or by the Nagara River for an onsen-hotel atmosphere.
 
+
+## Book ahead
+
+Find tours, activity tickets, rail passes and eSIMs for your Japan trip on **[Klook](https://klook.tpk.lu/zp1hCE5f)**.
+
 ---
 *Prices, hours and bus routes change. Check official sources before you go. Facts last checked: 2026-10-14.*

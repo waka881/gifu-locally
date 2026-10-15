@@ -40,5 +40,10 @@ A shop and museum where you can buy the in-house Seki Yoshihide kitchen knives a
 
 Seki is an easy day trip from Gifu City.
 
+
+## Book ahead
+
+Find tours, activity tickets, rail passes and eSIMs for your Japan trip on **[Klook](https://klook.tpk.lu/zp1hCE5f)**.
+
 ---
 *Prices, hours and bus routes change. Check official sources before you go. Facts last checked: 2026-10-14.*
