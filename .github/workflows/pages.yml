@@ -29,3 +29,11 @@ jobs:
           path: dist
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Notify search engines (IndexNow)
+        continue-on-error: true
+        run: |
+          KEY=$(basename static/*.txt .txt)
+          URLS=$(grep -o '<loc>[^<]*' dist/sitemap.xml | sed 's/<loc>//' | jq -R . | jq -s -c .)
+          curl -sS -w '\nHTTP %{http_code}\n' -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            -d "{\"host\":\"waka881.github.io\",\"key\":\"$KEY\",\"keyLocation\":\"https://waka881.github.io/gifu-locally/$KEY.txt\",\"urlList\":$URLS}"
