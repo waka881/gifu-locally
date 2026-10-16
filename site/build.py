@@ -106,6 +106,8 @@ commission at no extra cost to you. We only link to things we think are useful f
     urls = [BASE] + [f"{BASE}{p['slug']}.html" for p in posts]
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                      + "".join(f"<url><loc>{u}</loc></url>" for u in urls) + "</urlset>\n")
+    for f in (ROOT / "static").glob("*"):  # IndexNow鍵ファイルなど、そのまま配信するファイル
+        (OUT / f.name).write_bytes(f.read_bytes())
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n")
     print(f"built {len(posts)} article(s) -> {OUT}")
 
