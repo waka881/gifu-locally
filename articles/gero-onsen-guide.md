@@ -25,7 +25,7 @@ The usual route is the **JR Limited Express Hida** from Nagoya Station along the
 
 **Journey time.** This guide does not give a travel time, because we could not find an official Nagoya–Gero figure on JR Central's site. Check the current timetable on [JR Central's train information pages](https://traininfo.jr-central.co.jp/zairaisen/index.html?lang=en) or at the station before you set your plans. Service on the Takayama Line can change for seasonal timetables and disruptions. For example, JR Central announced [temporary Hida schedules for winter 2025–26](https://jr-central.co.jp/news/release/_pdf/000044746.pdf) after rolling-stock problems.
 
-If you are combining Gero with Takayama or other parts of central Japan, compare rail passes with point-to-point tickets before you buy. You can browse rail passes and activities for your trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
+If you are combining Gero with Takayama or other parts of central Japan, compare rail passes with point-to-point tickets before you buy. One option sold on Klook is the [JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/); check its route map and validity against your plan.
 
 From Gero Station, the town's public baths and foot baths are within walking distance. Walking times are listed in each section below.
 
@@ -100,7 +100,7 @@ We don't rank individual inns. These questions will help you narrow down the opt
 
 **Practical checks.** Look at check-in and check-out times, the bath hours (some baths switch between men and women overnight), the tattoo policy, dietary accommodations, and whether staff can communicate in English. If you are on a day trip, ask whether the inn accepts day-use bathers or the Yumeguri Tegata.
 
-Booking a combined trip with rail travel and activities? Compare options on [Klook](https://klook.tpk.lu/zp1hCE5f).
+Continuing to Takayama? Klook sells a [2-day Takayama–Gero Onsen bus ticket](https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/). For anything else, compare options on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---
 *Prices, hours and train schedules change. Check official sources before you go. Facts last checked: 2026-10-16.*

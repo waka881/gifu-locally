@@ -49,7 +49,9 @@ Gujo Hachiman has traditional inns with dinner and breakfast, as well as room-on
 
 ## Book ahead
 
-Find tours, activity tickets, rail passes and eSIMs for your Japan trip on **[Klook](https://klook.tpk.lu/zp1hCE5f)**.
+- **Short on time?** A [guided day tour from Nagoya](https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/) on Klook combines Gujo Hachiman with Takayama and Shirakawa-go.
+- **Stay connected:** a [Japan eSIM on Klook](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) works from the moment you land.
+- **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---
 *Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-15.*

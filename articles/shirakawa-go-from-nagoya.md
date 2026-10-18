@@ -52,7 +52,7 @@ Points to compare before booking:
 - **Guide language** and whether the guide walks the village with you.
 - **Cancellation policy**, which matters in snowy months.
 
-Compare guided Shirakawa-go day tours from Nagoya on [Klook](https://klook.tpk.lu/zp1hCE5f).
+On Klook, examples include a [Shirakawa-go, Takayama and Gujo Hachiman day tour from Nagoya](https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/) and a [Takayama and Shirakawa-go day tour from Nagoya](https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/). Check the itinerary, guide language and return time on each page before you book.
 
 ## What to see in Shirakawa-go
 
@@ -133,7 +133,7 @@ Because of these rules, many visitors from Nagoya go to the light-up on an organ
 
 **Choose a tour** if you'd rather not deal with reservations and timetables, want a guide, want to add another town in one day, or are going to the winter light-up.
 
-If you're leaning toward a tour, you can browse Shirakawa-go day tours departing Nagoya on [Klook](https://klook.tpk.lu/zp1hCE5f).
+If you're leaning toward a tour, you can browse Shirakawa-go day tours departing Nagoya on [Klook](https://klook.tpk.lu/zp1hCE5f). Don't forget a [Japan eSIM](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) for maps and bus times on the day.
 
 ---
 *Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-16.*

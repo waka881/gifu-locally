@@ -102,7 +102,7 @@ The official access page doesn't list fares. It links to bus reservation sites, 
 
 **Highlight:** A village of steep thatched-roof houses, registered as a UNESCO World Heritage Site in 1995. More than 100 gassho-style buildings remain, and people still live in them ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/)).
 
-Travel there and back takes up most of the day, so leave early and know your return bus time. Remember that you're visiting a place where people live. Our [Shirakawa-go from Nagoya guide](shirakawa-go-from-nagoya.html) goes into routes and timing in more detail. If you'd rather not handle buses yourself, guided tours are another option: compare day tours from Nagoya on [Klook](https://klook.tpk.lu/zp1hCE5f).
+Travel there and back takes up most of the day, so leave early and know your return bus time. Remember that you're visiting a place where people live. Our [Shirakawa-go from Nagoya guide](shirakawa-go-from-nagoya.html) goes into routes and timing in more detail. If you'd rather not handle buses yourself, guided tours are another option: one example on Klook is a [Shirakawa-go, Takayama and Gujo Hachiman day tour from Nagoya](https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/).
 
 ## Tips for day trips from Nagoya
 

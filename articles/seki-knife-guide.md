@@ -43,7 +43,8 @@ Seki is an easy day trip from Gifu City.
 
 ## Book ahead
 
-Find tours, activity tickets, rail passes and eSIMs for your Japan trip on **[Klook](https://klook.tpk.lu/zp1hCE5f)**.
+- **Stay connected:** a [Japan eSIM on Klook](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) works from the moment you land.
+- **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---
 *Prices, hours and bus routes change. Check official sources before you go. Facts last checked: 2026-10-14.*
