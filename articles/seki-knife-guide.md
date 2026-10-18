@@ -2,7 +2,7 @@
 title: "Seki Knife Guide: Sword Forging, Knife Shops and How to Get There"
 description: "Seki in Gifu has 700+ years of blade-making history. When to see traditional sword forging, where to buy knives, and what is closed for renovation until March 2027."
 status: 公開
-facts_checked: 2026-10-14
+facts_checked: 2026-10-19
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*
@@ -11,7 +11,7 @@ Seki, a quiet city about 40 minutes by bus from Gifu Station, has been making bl
 
 ## Important for 2026–27: the sword museum is under renovation
 
-The **Seki Kaji Denshokan** (Seki Swordsmith Museum) is closed for renovation from September 7, 2026 to March 31, 2027. The **forging workshop stays open** during this period, and the first-floor exhibition room is expected to reopen first. Dates may change ([Gifu tourism, Japanese](https://www.kankou-gifu.jp/spot/1179/), as of 2026-10-14).
+The **Seki Kaji Denshokan** (Seki Swordsmith Museum) is closed for renovation from September 7, 2026 to March 31, 2027. The **forging workshop stays open** during this period, and the first-floor exhibition room is expected to reopen first. Dates may change ([Gifu tourism, Japanese](https://www.kankou-gifu.jp/spot/1179/), as of October 2026).
 
 ## Watch traditional sword forging
 
@@ -19,17 +19,17 @@ Swordsmiths give public demonstrations of traditional Japanese sword forging at 
 
 - **When:** the first Sunday of February to September and of November and December, plus January 2 and the October cutlery festival day
 - **Times:** 10:30 and 13:00 on regular demonstration days
-- **Next dates:** Sunday, November 1 and Sunday, December 6, 2026
+- **Next dates:** Sunday, November 1 and Sunday, December 6, 2026. Because of the renovation, these two days show sword forging only; the sword polishing and fittings demonstrations are not held ([Seki City, Japanese](https://www.city.seki.lg.jp/kanko/0000017993.html), as of October 2026)
 
-([Gifu tourism, Japanese](https://www.kankou-gifu.jp/event/detail_4962.html), as of 2026-10-14. Times may change, so check before you go, especially while the museum is being renovated.)
+([Gifu tourism, Japanese](https://www.kankou-gifu.jp/event/detail_4962.html), as of October 2026. Times may change, so check before you go, especially while the museum is being renovated.)
 
 **Getting there:** 3-minute walk from Seki Terrace-mae Station on the Nagaragawa Railway.
 
 ## Buy a knife: Seki Hamono Museum (Cutler SANSYU)
 
-A shop and museum where you can buy the in-house Seki Yoshihide kitchen knives and scissors, and watch traditional swordsmithing at the on-site forge. Trying it yourself costs extra and needs a reservation. Entry is free, it's open 8:30 to 17:00, and it has no closing days ([Visit Gifu](https://visitgifu.com/see-do/cutler-sansyu-seki-hamono-museum/), as of 2026-10-14).
+A shop and museum where you can buy the in-house Seki Yoshihide kitchen knives and scissors, and watch traditional swordsmithing at the on-site forge. Trying it yourself costs extra and needs a reservation ([Visit Gifu](https://visitgifu.com/see-do/cutler-sansyu-seki-hamono-museum/), as of October 2026). Entry is free, and it's open 9:00 to 16:30 every day, with irregular closures during the New Year holidays (January 1–3) ([Seki Hamono Museum, official](https://www.hamonoyasan.com/sekihamonomuseum/), as of October 2026).
 
-**Getting there:** From JR Gifu Station, take bus B81 or B87 from bus zone 14 to the **Oyana** stop (about 40 minutes, ¥630).
+**Getting there:** From JR Gifu Station, take Gifu Bus B81 (Gifu Seki Line, toward Seki Higashiyama) from bus zone 14 to the **Oyana** stop (about 35–40 minutes) ([Gifu Bus timetable, Japanese PDF](https://www.gifubus.co.jp/2610_gifu-seki.pdf), as of October 2026). From the stop it's about a 14-minute walk ([Seki Hamono Museum access guide, PDF](https://www.hamonoyasan.com/data/public-transport-en.pdf)).
 
 ## Tips for buying a knife in Japan
 
@@ -47,4 +47,4 @@ Seki is an easy day trip from Gifu City.
 - **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---
-*Prices, hours and bus routes change. Check official sources before you go. Facts last checked: 2026-10-14.*
+*Prices, hours and bus routes change. Check official sources before you go. Facts last checked: 2026-10-19.*

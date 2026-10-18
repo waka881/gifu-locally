@@ -47,7 +47,7 @@ In spring, the city runs *tarai-bune* tub-boat rides along its waterways, about 
 
 ## 3. Seki: knives and sword forging
 
-**Getting there:** Take the train to JR Gifu Station (about 20 minutes, see above). From bus zone 14, take bus B81 or B87 to the Oyana stop: about 40 minutes, ¥630 ([Visit Gifu](https://visitgifu.com/see-do/cutler-sansyu-seki-hamono-museum/), as of October 2026).
+**Getting there:** Take the train to JR Gifu Station (about 20 minutes, see above). From bus zone 14, take Gifu Bus B81 (Gifu Seki Line) to the Oyana stop: about 35–40 minutes ([Gifu Bus timetable](https://www.gifubus.co.jp/2610_gifu-seki.pdf), as of October 2026).
 
 **Who it suits:** Cooks, knife collectors, and anyone who wants to watch traditional craftspeople at work.
 
