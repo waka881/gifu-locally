@@ -31,11 +31,11 @@ Morning service is shared with neighboring Aichi Prefecture, but in Gifu it is l
 
 ## Where to stay for an early start
 
-Staying near JR Gifu Station puts you within walking distance of downtown coffee shops and makes it easy to continue to Nagara River, Gifu Castle, or a day trip.
+Staying near JR Gifu Station puts you within walking distance of downtown coffee shops and makes it easy to continue to the Nagara River, the Mt. Kinka Ropeway, or a day trip.
 
 ## Make a day of it
 
-Pair a slow morning with a walk up Mount Kinka to Gifu Castle, or head to the old Kawaramachi district along the Nagara River.
+Pair a slow morning with a ride up the Mt. Kinka Ropeway (Gifu Castle's keep is closed for renovation until late 2027), or head to the old Kawaramachi district along the Nagara River.
 
 
 ## Book ahead

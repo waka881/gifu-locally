@@ -15,7 +15,7 @@ This guide ranks Gifu day trips from Nagoya by effort, from "hop on the next tra
 
 | Destination | From Nagoya | Time | Best for |
 |---|---|---|---|
-| [Gifu City](gifu-city-one-day.html) | JR train | About 20 min | First-timers, castles, coffee culture |
+| [Gifu City](gifu-city-one-day.html) | JR train | About 20 min | First-timers, old town, coffee culture |
 | Ogaki | JR Tokaido Line | Not listed by official sources; check the JR timetable | Castle and canal walks |
 | [Seki](seki-knife-guide.html) | JR to Gifu, then bus | About 20 min + about 40 min | Knife shoppers, sword forging |
 | Mino | Highway bus | 1 hr 30 min to 1 hr 50 min | Washi paper, old merchant streets |
@@ -31,9 +31,9 @@ Sources and dates for each figure are in the sections below.
 
 **Who it suits:** First-time visitors, anyone with half a day, and travelers who like history.
 
-**Highlight:** Ride the Mt. Kinka Ropeway up to Gifu Castle, once the base of Oda Nobunaga, then walk the latticed townhouses of the Kawaramachi old merchant district ([Gifu Convention & Visitors Bureau](https://www.kankou-gifu.jp/spot/910/)).
+**Highlight:** Ride the Mt. Kinka Ropeway up the mountain where Oda Nobunaga kept his castle (the keep itself is closed for renovation until late 2027, per the [Gifu CVB](https://www.gifucvb.or.jp/sightseeing/gifu-castle.php)), then walk the latticed townhouses of the Kawaramachi old merchant district ([Gifu Convention & Visitors Bureau](https://www.kankou-gifu.jp/spot/910/)).
 
-Gifu City is so close that you can start the morning in Nagoya and still sit down to breakfast in a Gifu coffee shop. Order a drink before late morning and toast or eggs often come with it. Read our guide to [Gifu's morning service](gifu-morning-service.html), then follow our [one-day Gifu City plan](gifu-city-one-day.html) for the castle, ropeway times and old town.
+Gifu City is so close that you can start the morning in Nagoya and still sit down to breakfast in a Gifu coffee shop. Order a drink before late morning and toast or eggs often come with it. Read our guide to [Gifu's morning service](gifu-morning-service.html), then follow our [one-day Gifu City plan](gifu-city-one-day.html) for ropeway times and the old town.
 
 ## 2. Ogaki: castle town on the water
 
