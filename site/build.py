@@ -19,6 +19,7 @@ SITE_NAME = "Gifu Gourmand"
 TAGLINE = "Eat and travel your way through Gifu, Japan."
 DRAFT = "--draft" in sys.argv
 BASE = "https://waka881.github.io/gifu-locally/"
+INSTAGRAM = ""  # 例: "https://www.instagram.com/gifu_gourmand/"（決まったら入れる）
 
 TRAVELPAYOUTS = """<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
   (function () {
@@ -61,6 +62,8 @@ background:var(--bg);border-top:1px solid var(--line);padding:10px 16px;color:va
 .card:hover,.cta:hover{box-shadow:0 4px 18px rgba(0,0,0,.08)}.cta span.btn{box-shadow:0 2px 0 rgba(0,0,0,.15)}
 article h2{margin-top:2em;border-bottom:1px solid var(--line);padding-bottom:4px}article table{border-collapse:collapse;width:100%;font-size:15px}
 article th,article td{border:1px solid var(--line);padding:6px 8px;text-align:left}
+.insta{display:block;border:1px dashed var(--accent);border-radius:12px;padding:12px 16px;margin:24px 0;text-decoration:none;color:var(--fg)}
+.insta strong{display:block}.insta span{color:var(--muted);font-size:14px}
 .card img{width:100%;height:160px;object-fit:cover;border-radius:6px;margin-bottom:8px;display:block}
 .draft{background:#fff3c4;color:#222;padding:2px 6px;border-radius:4px;font-size:13px}
 footer{border-top:1px solid var(--line);padding:18px 0;color:var(--muted);font-size:14px}
@@ -104,6 +107,13 @@ def cta_card(spec, cls="cta"):
             f'<span class="sub">{sub}</span></span><span class="btn">{btn or "Check availability"} →</span></a>')
 
 
+def insta_card(url):
+    if not url:
+        return ""
+    return (f'<a class="insta" href="{html.escape(url)}" rel="noopener" target="_blank"><strong>Watch it on Instagram</strong>'
+            f'<span>Real footage from our visit, on @{html.escape(INSTAGRAM.rstrip("/").rsplit("/", 1)[-1]) if INSTAGRAM else SITE_NAME}</span></a>')
+
+
 def sticky_bar(spec):
     if not spec:
         return ""
@@ -114,12 +124,17 @@ def sticky_bar(spec):
 
 def image_url(meta, width=1200):
     f = meta.get("image", "")
+    if f.startswith("img/"):  # 自前の写真（static/img/ に置く）
+        return BASE + f
     return f"https://commons.wikimedia.org/wiki/Special:FilePath/{urllib.parse.quote(f.replace(' ', '_'))}?width={width}" if f else ""
 
 
 def hero(meta):
     if not meta.get("image"):
         return ""
+    if meta["image"].startswith("img/"):
+        return (f'<figure class="hero"><img src="{image_url(meta)}" alt="{html.escape(meta.get("image_alt", ""))}" width="1200" height="675" fetchpriority="high">'
+                f'<figcaption>Photo: {html.escape(meta.get("image_credit") or SITE_NAME)}</figcaption></figure>')
     page_url = "https://commons.wikimedia.org/wiki/File:" + urllib.parse.quote(meta["image"].replace(" ", "_"))
     lic = meta.get("image_license", "")
     m = re.match(r"CC (BY(?:-SA)?) ([0-9.]+)", lic)
@@ -158,8 +173,11 @@ def page(title, desc, content, path="", jsonld="", img=""):
 <style>{CSS}</style>{TRAVELPAYOUTS}</head><body>
 <header><div class="wrap"><a href="index.html">{SITE_NAME}</a><p>{TAGLINE}</p></div></header>
 <main class="wrap">{content}</main>
-<footer><div class="wrap"><a href="about.html">About &amp; disclosure</a></div></footer>
+<footer><div class="wrap"><a href="about.html">About &amp; disclosure</a>{f' · <a href="{INSTAGRAM}" rel="me noopener">Instagram</a>' if INSTAGRAM else ''}</div></footer>
 </body></html>"""
+
+
+ORG = {"@type": "Organization", "name": SITE_NAME, "alternateName": "岐阜グルマン", "url": BASE, **({"sameAs": [INSTAGRAM]} if INSTAGRAM else {})}
 
 
 def main():
@@ -173,8 +191,8 @@ def main():
         graph = [{"@type": "Article", "headline": p["title"], "description": p.get("description", ""),
                   "abstract": p.get("summary", ""), "image": image_url(p) or None, "inLanguage": "en", "dateModified": p.get("facts_checked", ""),
                   "mainEntityOfPage": f"{BASE}{p['slug']}.html",
-                  "author": {"@type": "Organization", "name": SITE_NAME, "url": BASE},
-                  "publisher": {"@type": "Organization", "name": SITE_NAME, "url": BASE}}]
+                  "author": ORG,
+                  "publisher": ORG}]
         graph[0] = {k: v for k, v in graph[0].items() if v}
         if p["faq"]:
             graph.append({"@type": "FAQPage", "mainEntity": [
@@ -186,7 +204,7 @@ def main():
                        for q in posts if q is not p)
         (OUT / f"{p['slug']}.html").write_text(
             page(f"{p['title']} | {SITE_NAME}", p.get("description", ""),
-                 f"<article><h1>{html.escape(p['title'])}{badge}</h1>{top}{hero(p)}{cta_card(p.get('cta'), 'cta top')}{p['html']}"
+                 f"<article><h1>{html.escape(p['title'])}{badge}</h1>{top}{hero(p)}{cta_card(p.get('cta'), 'cta top')}{p['html']}{insta_card(p.get('instagram'))}"
                  f"{('<h2>Ready to book?</h2>' + cta_card(p.get('cta'))) if p.get('cta') else ''}"
                  f'<p class="disc">We may earn a commission if you book through links on this page, at no extra cost to you. <a href="about.html">Disclosure</a></p></article>'
                  f"{sticky_bar(p.get('cta'))}"
@@ -211,8 +229,11 @@ commission at no extra cost to you. We only link to things we think are useful f
     urls = [BASE] + [f"{BASE}{p['slug']}.html" for p in posts]
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                      + "".join(f"<url><loc>{u}</loc></url>" for u in urls) + "</urlset>\n")
-    for f in (ROOT / "static").glob("*"):  # IndexNow鍵ファイルなど、そのまま配信するファイル
-        (OUT / f.name).write_bytes(f.read_bytes())
+    for f in (ROOT / "static").rglob("*"):  # IndexNow鍵ファイル・自前の写真など、そのまま配信するファイル
+        if f.is_file() and f.name != ".keep":
+            dest = OUT / f.relative_to(ROOT / "static")
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            dest.write_bytes(f.read_bytes())
     # AIアシスタント向けのサイト案内（llms.txt）
     (OUT / "llms.txt").write_text(f"# {SITE_NAME}\n\n> English travel guides to Gifu Prefecture, Japan, written for first-time visitors. "
         "Prices, hours and dates are checked against official sources, and each page shows the date it was last checked.\n\n## Guides\n\n"
