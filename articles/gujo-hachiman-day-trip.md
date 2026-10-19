@@ -5,6 +5,10 @@ summary: From Nagoya, take the highway bus from the JR Nagoya Station (Shinkanse
 status: 公開
 facts_checked: 2026-10-15
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|Gujo Hachiman + Shirakawa-go + Takayama in one day|Guided day tour from Nagoya, no transfers to plan. See dates and reviews on Klook.|Check dates
+image: Gujo from Gujo Hachiman castle.jpg
+image_alt: View over Gujo Hachiman town from Gujo Hachiman Castle
+image_credit: Roniius
+image_license: CC BY 3.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

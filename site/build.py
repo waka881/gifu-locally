@@ -8,6 +8,7 @@ import json
 import pathlib
 import re
 import sys
+import urllib.parse
 
 import markdown
 
@@ -113,15 +114,20 @@ def sticky_bar(spec):
 
 def image_url(meta, width=1200):
     f = meta.get("image", "")
-    return f"https://commons.wikimedia.org/wiki/Special:FilePath/{f.replace(' ', '_')}?width={width}" if f else ""
+    return f"https://commons.wikimedia.org/wiki/Special:FilePath/{urllib.parse.quote(f.replace(' ', '_'))}?width={width}" if f else ""
 
 
 def hero(meta):
     if not meta.get("image"):
         return ""
-    page_url = "https://commons.wikimedia.org/wiki/File:" + meta["image"].replace(" ", "_")
-    return (f'<figure class="hero"><img src="{image_url(meta)}" alt="{html.escape(meta.get("image_alt", ""))}" width="1200" height="675">'
-            f'<figcaption>Photo: {html.escape(meta.get("image_credit", ""))}, {html.escape(meta.get("image_license", ""))}, '
+    page_url = "https://commons.wikimedia.org/wiki/File:" + urllib.parse.quote(meta["image"].replace(" ", "_"))
+    lic = meta.get("image_license", "")
+    m = re.match(r"CC (BY(?:-SA)?) ([0-9.]+)", lic)
+    lic_url = (f"https://creativecommons.org/licenses/{m.group(1).lower()}/{m.group(2)}/" if m
+               else "https://creativecommons.org/publicdomain/zero/1.0/" if lic == "CC0" else "")
+    lic_html = f'<a href="{lic_url}" rel="noopener license">{html.escape(lic)}</a>' if lic_url else html.escape(lic)
+    return (f'<figure class="hero"><img src="{image_url(meta)}" alt="{html.escape(meta.get("image_alt", ""))}" width="1200" height="675" fetchpriority="high">'
+            f'<figcaption>Photo: {html.escape(meta.get("image_credit", ""))}, {lic_html}, '
             f'via <a href="{page_url}" rel="noopener">Wikimedia Commons</a></figcaption></figure>')
 
 

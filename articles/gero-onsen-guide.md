@@ -5,6 +5,10 @@ summary: Take the JR Limited Express Hida from Nagoya Station to Gero Station; t
 status: 公開
 facts_checked: 2026-10-16
 cta: https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/|Gero Onsen + Takayama on one bus ticket|2-day bus ticket covering Takayama and Gero Onsen. See price and conditions on Klook.|See ticket
+image: Hida River and Gero Onsen from Mutsumi Bridge.jpg
+image_alt: Gero Onsen and the Hida River seen from Mutsumi Bridge
+image_credit: Alpsdake
+image_license: CC BY-SA 4.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

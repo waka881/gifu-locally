@@ -5,6 +5,10 @@ summary: The 41st Shirakawa-go Light-Up is listed for January 11, 17, 24 and 31,
 status: 公開
 facts_checked: 2026-10-19
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Leave the snowy roads to someone else|Takayama and Shirakawa-go day trip from Nagoya. Check winter dates and itinerary on Klook.|Check dates
+image: Snow in Ogimachi Area, Shirakawa village, Gifu.JPG
+image_alt: Snow in the Ogimachi area of Shirakawa-go
+image_credit: そらみみ (Soramimi)
+image_license: CC BY-SA 4.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

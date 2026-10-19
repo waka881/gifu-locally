@@ -5,6 +5,10 @@ summary: Gifu City is about 20 minutes from Nagoya by JR train, Gujo Hachiman ab
 status: 公開
 facts_checked: 2026-10-16
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|See three Gifu towns in one day from Nagoya|Shirakawa-go, Takayama and Gujo Hachiman on one guided tour. See dates and reviews on Klook.|Check dates
+image: Gifu Castle.jpg
+image_alt: Gifu Castle on Mount Kinka
+image_credit: Alpsdake
+image_license: CC BY-SA 3.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

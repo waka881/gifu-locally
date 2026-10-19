@@ -5,6 +5,10 @@ summary: Hida beef is meat from Japanese Black cattle raised in Gifu Prefecture 
 status: 公開
 facts_checked: 2026-10-18
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Get to Takayama without planning buses|Takayama and Shirakawa-go day trip from Nagoya. See dates and reviews on Klook.|Check dates
+image: Sushi, Hida Beef.jpg
+image_alt: Hida beef nigiri sushi in Takayama
+image_credit: Miyuki Meinaka
+image_license: CC BY-SA 4.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

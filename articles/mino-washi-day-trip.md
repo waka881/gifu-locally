@@ -5,6 +5,10 @@ summary: The Gifu Bus Nagoya–Seki–Mino highway bus runs from the Meitetsu Bu
 status: 公開
 facts_checked: 2026-10-18
 cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Navigate rural Gifu trains with live data|Japan eSIM with a QR code voucher. See data plans and prices on Klook.|See plans
+image: Mino Oishi House ac.jpg
+image_alt: Oishi House, a merchant house with udatsu firewalls in Mino
+image_credit: Asturio Cantabrio
+image_license: CC BY-SA 4.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

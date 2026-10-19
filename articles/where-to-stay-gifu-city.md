@@ -5,6 +5,10 @@ summary: Stay near JR Gifu Station if Gifu City is your base for day trips, you 
 status: 公開
 facts_checked: 2026-10-18
 cta: https://klook.tpk.lu/zp1hCE5f|Compare stays and activities in Gifu|Browse hotels, tours and passes for your Gifu trip on Klook.|Browse options
+image: Nagara River and Mount Ibuki from Gifu Castle.jpg
+image_alt: Nagara River and Gifu City seen from Gifu Castle
+image_credit: Alpsdake
+image_license: CC BY-SA 4.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

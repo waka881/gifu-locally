@@ -5,6 +5,10 @@ summary: The Nagoya–Shirakawa-go highway bus leaves from the Meitetsu Bus Cent
 status: 公開
 facts_checked: 2026-10-16
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|Skip the bus planning: Shirakawa-go day tour from Nagoya|Guided tour that also stops in Takayama and Gujo Hachiman. See dates, itinerary and reviews on Klook.|Check dates
+image: Shirakawa-go 002.jpg
+image_alt: Gassho-style farmhouses in Ogimachi village, Shirakawa-go
+image_credit: tsuda from Tsushima, Aichi, Japan
+image_license: CC BY-SA 2.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

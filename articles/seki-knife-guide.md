@@ -5,6 +5,10 @@ summary: Seki is about 40 minutes by bus from Gifu Station and has been making b
 status: 公開
 facts_checked: 2026-10-19
 cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Get mobile data before you land|Japan eSIM with a QR code voucher. See data plans and prices on Klook.|See plans
+image: Seki Sword Tradition Museum 1.JPG
+image_alt: Seki Sword Tradition Museum in Seki, Gifu
+image_credit: Hide-sp
+image_license: CC BY-SA 3.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

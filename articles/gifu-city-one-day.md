@@ -5,6 +5,10 @@ summary: Gifu City is about 20 minutes from Nagoya by JR rapid train, and one da
 status: 公開
 facts_checked: 2026-10-18
 cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Get mobile data before you land|Japan eSIM with a QR code voucher. See data plans and prices on Klook.|See plans
+image: Mount Kinka and Gifu Castle from Twinarch138.jpg
+image_alt: Mount Kinka with Gifu Castle on its summit
+image_credit: Alpsdake
+image_license: CC BY-SA 4.0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

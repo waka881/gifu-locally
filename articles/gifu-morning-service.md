@@ -5,6 +5,10 @@ title: "Gifu's Morning Service: Order a Coffee, Get Breakfast"
 status: 公開
 facts_checked: 2026-10-14
 cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Get mobile data before you land|Japan eSIM with a QR code voucher. See data plans and prices on Klook.|See plans
+image: Blend Coffee and Morning Sets 20231123 02.jpg
+image_alt: Coffee with a free morning set at a cafe in Kakamigahara, Gifu
+image_credit: 先従隗始
+image_license: CC0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

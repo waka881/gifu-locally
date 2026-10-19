@@ -5,6 +5,10 @@ summary: The Magome to Tsumago walk on the Nakasendo is about 9 km and takes 2.5
 status: 公開
 facts_checked: 2026-10-18
 cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Keep maps and bus times on your phone|Japan eSIM you can set up before you fly. See data plans on Klook.|See plans
+image: Looking up the Nakasendō in the central part of the village, Tsumago-juku, Nagiso, 2016.jpg
+image_alt: The Nakasendo road through Tsumago-juku
+image_credit: DimiTalen
+image_license: CC0
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*
