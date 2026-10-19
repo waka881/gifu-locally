@@ -120,7 +120,7 @@ Because of these rules, many visitors from Nagoya go to the light-up on an organ
 - **Carry cash.** Wada House admission and the viewpoint shuttle are cash only.
 - **Lock in your return bus first.** Reserved seats mean you can't count on catching an earlier or later bus.
 - **Watch the shuttle's hours.** The viewpoint shuttle stops at 14:40 and pauses at midday.
-- **Pack light.** Gifu Bus says luggage space is limited and asks passengers to keep bags to a minimum.
+- **Pack light.** Gifu Bus says luggage space is limited and asks passengers to keep bags to a minimum. If you have checked out of your Nagoya hotel, you can leave suitcases in Nagoya for the day: [Radical Storage lists luggage storage spots in Nagoya](https://radicalstorage.com/luggage-storage/nagoya), with prices shown per bag per day (as of October 2026).
 - **Driving instead?** The village's designated lot (Seseragi Park) charges 2,000 yen for a standard car and is open 8:00–17:00, with last entry at 16:30 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026).
 - **Respect the residents.** Many of the houses are still homes ([Visit Gifu](https://visitgifu.com/see-do/unesco-world-heritage-site-shirakawa-go/)). Keep to public paths and don't enter private property.
 
