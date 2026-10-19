@@ -5,6 +5,10 @@ on:
       dir:
         description: folder under social/ (e.g. lightup-2027)
         required: true
+      size:
+        description: width,height (pins = 1000,1500)
+        required: false
+        default: "1080,1350"
 permissions:
   contents: write
 jobs:
@@ -17,7 +21,7 @@ jobs:
           cd social/${{ inputs.dir }}
           for f in slide*.html; do
             google-chrome --headless=new --no-sandbox --hide-scrollbars --virtual-time-budget=8000 \
-              --window-size=1080,1350 --screenshot="$PWD/${f%.html}.png" "file://$PWD/$f"
+              --window-size=${{ inputs.size }} --screenshot="$PWD/${f%.html}.png" "file://$PWD/$f"
           done
           ls -la
       - name: Commit PNGs
