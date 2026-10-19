@@ -18,7 +18,7 @@ OUT = ROOT / "dist"
 SITE_NAME = "Gifu Gourmand"
 TAGLINE = "Eat and travel your way through Gifu, Japan."
 DRAFT = "--draft" in sys.argv
-BASE = "https://waka881.github.io/gifu-locally/"
+BASE = "https://gifugourmand.com/"
 INSTAGRAM = ""  # 例: "https://www.instagram.com/gifu_gourmand/"（決まったら入れる）
 
 TRAVELPAYOUTS = """<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">

@@ -19,7 +19,7 @@ Q = {
  "gifu-morning-service": "Japanese coffee morning set",
 }
 OK = re.compile(r"^(CC BY(-SA)? [0-9.]+|CC0|Public domain)", re.I)
-UA = {"User-Agent": "gifu-locally-image-check/1.0 (https://waka881.github.io/gifu-locally/)"}
+UA = {"User-Agent": "gifu-locally-image-check/1.0 (https://gifugourmand.com/)"}
 def api(params):
     url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({**params, "format": "json"})
     return json.load(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30))

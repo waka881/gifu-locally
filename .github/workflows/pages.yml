@@ -36,4 +36,4 @@ jobs:
           URLS=$(grep -o '<loc>[^<]*' dist/sitemap.xml | sed 's/<loc>//' | jq -R . | jq -s -c .)
           curl -sS -w '\nHTTP %{http_code}\n' -X POST https://api.indexnow.org/indexnow \
             -H 'Content-Type: application/json; charset=utf-8' \
-            -d "{\"host\":\"waka881.github.io\",\"key\":\"$KEY\",\"keyLocation\":\"https://waka881.github.io/gifu-locally/$KEY.txt\",\"urlList\":$URLS}"
+            -d "{\"host\":\"gifugourmand.com\",\"key\":\"$KEY\",\"keyLocation\":\"https://gifugourmand.com/$KEY.txt\",\"urlList\":$URLS}"
