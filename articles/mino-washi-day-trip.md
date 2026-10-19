@@ -1,6 +1,7 @@
 ---
 title: "Mino Day Trip: Washi Paper, the Udatsu Townscape and How to Get There"
 description: "Plan a Mino, Gifu day trip: highway bus from Nagoya, routes from Gifu City, the udatsu-wall old town and hands-on Mino washi papermaking."
+summary: The Gifu Bus Nagoya–Seki–Mino highway bus runs from the Meitetsu Bus Center to the Chuno Chosha stop in Mino in about 1 hour 34 minutes, for ¥1,400 one way for adults, and reservations aren't taken. From Gifu City, the train via Mino-Ota and the Nagaragawa Railway to Mino-shi Station takes about 1 hour 10 minutes. The udatsu old town is free to walk around, and a basic papermaking session at Mino Washi no Sato Kaikan costs ¥500 on top of admission and needs booking.
 status: 公開
 facts_checked: 2026-10-18
 ---
@@ -27,12 +28,12 @@ The same line stops at **Seki City Terminal** (¥1,200 from Nagoya, as of Octobe
 
 ## Getting to Mino from Gifu City
 
-Gifu Prefecture's official tourism site lists two public transport routes from Gifu City ([Gifu tourism](https://www.kankou-gifu.jp/article/detail_310.html), as of October 2026):
+Gifu Prefecture's official tourism site lists two public transport routes from Gifu City ([Gifu tourism](https://www.kankou-gifu.jp/article/detail_310.html), as of October 2026), but the bus option has since changed:
 
-- **By bus:** take the Gifu Bus **Gifu–Mino Line** (岐阜美濃線) or another local bus from JR Gifu Station or Meitetsu Gifu Station to Mino-shi Station. The trip takes about **55 minutes**.
+- **By bus (changed):** the Gifu Bus **Gifu–Mino Line** (岐阜美濃線) that the tourism site still lists was renamed and cut back from April 1, 2025, and now runs only a short Seki–Mino section with one round trip on weekdays ([Gifu Bus notice](https://www.gifubus.co.jp/ce2a110dfb49655f51d9881bcf92ec175e6247d6.pdf), as of October 2026). Don't plan around it.
 - **By train:** take the JR Takayama Line from JR Gifu Station to **Mino-Ota Station**, then change to the **Nagaragawa Railway** for **Mino-shi Station**. The trip takes about **1 hour 10 minutes**.
 
-The bus is handy because the **"Udatsu no Machinami-dori"** stop on the Gifu–Mino Line is about a one-minute walk from the old town. If you come by train, Mino-shi Station is about a 10-minute walk away ([Visit Gifu](https://visitgifu.com/see-do/udatsu-wall-historical-district/)).
+From Mino-shi Station, the old town is about a 10-minute walk away ([Visit Gifu](https://visitgifu.com/see-do/udatsu-wall-historical-district/)).
 
 ## The udatsu townscape
 
@@ -105,6 +106,28 @@ If you visit during the exhibition, you'll be in Mino after dark. Check the time
 Seki is on the same Nagoya–Seki–Mino highway bus line and is famous for its blades. You could visit Seki in the morning and Mino in the afternoon, or the other way round. Our [Seki knife guide](seki-knife-guide.html) covers what to see there.
 
 For more ideas for day trips into Gifu, see our [Nagoya day trips hub](nagoya-day-trips.html). If you're planning several trips, you can also browse tours and passes on [Klook](https://klook.tpk.lu/zp1hCE5f).
+
+## FAQ
+
+### How do I get to Mino from Nagoya?
+
+Take the Gifu Bus Nagoya–Seki–Mino highway bus from the Meitetsu Bus Center or Sakae to Chuno Chosha, which costs ¥1,400 one way for adults and takes about 1 hour 34 minutes ([Gifu Bus](https://www.gifubus.co.jp/highway/sekimino.html), as of October 2026). Reservations aren't taken, and you pay on board.
+
+### How do I get to Mino from Gifu Station?
+
+Take the train: the JR Takayama Line to Mino-Ota Station and then the Nagaragawa Railway to Mino-shi Station takes about 1 hour 10 minutes ([Gifu tourism](https://www.kankou-gifu.jp/article/detail_310.html), as of October 2026).
+
+### Can I make my own washi paper in Mino?
+
+Yes. Mino Washi no Sato Kaikan holds basic papermaking courses daily for ¥500 each on top of admission, in 30-minute sessions of up to 15 people, and individuals need to book ([Mino Washi no Sato Kaikan](https://www.city.mino.gifu.jp/minogami/docs/2438.html), as of October 2026). Admission is ¥500 for adults ([Mino Washi no Sato Kaikan](https://www.city.mino.gifu.jp/minogami/), as of October 2026).
+
+### When is the Mino Washi Akari Art Exhibition in 2026?
+
+The 33rd exhibition runs from October 11 to October 23 and from October 24 to November 30, 2026. The lanterns are lit from 17:00 to 21:00 and entry is free ([Mino Washi Akari Art Exhibition](https://www.akariart.jp/), as of October 2026).
+
+### Which day should I avoid for a Mino day trip?
+
+Avoid Tuesdays: the washi museum and the Akari Art Gallery close every Tuesday, and so does the Imai Residence in winter. All three also close the day after a national holiday.
 
 ---
 *Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-18.*

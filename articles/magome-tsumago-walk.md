@@ -1,6 +1,7 @@
 ---
 title: "Magome to Tsumago: Walking the Nakasendo from Nagoya (Luggage, Buses, Timing)"
 description: "How to walk Magome to Tsumago on the Nakasendo from Nagoya: JR and bus links, luggage forwarding, trail time, bear bells and winter tips."
+summary: The Magome to Tsumago walk on the Nakasendo is about 9 km and takes 2.5 to 3 hours, with the highest point at Magome Pass, 790 m above sea level. From Nagoya, take the Limited Express Shinano to Nakatsugawa in about 50 minutes and a 25-minute bus to Magome, then return from Tsumago by bus to Nagiso Station and take the Shinano back to Nagoya in about 1 hour. Luggage forwarding costs 1,000 yen per bag from March 20 to November 30, 2026, with drop-off from 8:30 to 11:30.
 status: 公開
 facts_checked: 2026-10-18
 ---
@@ -116,6 +117,28 @@ A day built from the official figures above might look like this:
 5. Take the Shinano back to Nagoya (about 1 hour).
 
 Check every connection against the current timetables before you set out. If you would rather join a guided trip, you can [browse Nakasendo tours on Klook](https://klook.tpk.lu/zp1hCE5f).
+
+## FAQ
+
+### How long is the walk from Magome to Tsumago?
+
+The Tsumago Tourist Association gives the route as 9 km, taking 2.5 to 3 hours ([tsumago.jp walking page, as of October 2026](https://tsumago.jp/walk/)). The highest point is Magome Pass, at 790 m above sea level ([Magome hiking page, as of October 2026](https://kiso-magome.com/hiking)).
+
+### How do you get from Nagoya to Magome?
+
+Take the Limited Express Shinano from Nagoya to Nakatsugawa, about 50 minutes ([JR Central, as of October 2026](https://global.jr-central.co.jp/en/goldenroute/area/kisoji-magome-tsumago/)). Then take the Kita-Ena Kotsu Magome Line bus from stop 3 at Nakatsugawa Station, a 25-minute ride (weekday timetable revised October 1, 2025, as of October 2026, [Kita-Ena Kotsu](https://kitaena.co.jp/timetable/)).
+
+### Can I send my luggage from Magome to Tsumago?
+
+Yes. A luggage transport service runs from March 20 to November 30, 2026, at 1,000 yen per bag, with drop-off from 8:30 to 11:30 and pick-up from 13:00 to 17:00 (as of October 2026, [Tsumago Tourist Association walking page](https://tsumago.jp/walk/)). The service does not run outside that season.
+
+### Should I walk from Magome to Tsumago or from Tsumago to Magome?
+
+The climb from Magome to Magome Pass is steep but short, and the climb from Tsumago to Magome Pass is gentle but long ([tsumago.jp, as of October 2026](https://tsumago.jp/walk/)). Starting in Magome means a short, steep climb, then a long, gentle descent into Tsumago.
+
+### Do I need a bear bell on the Magome–Tsumago trail?
+
+The Tsumago Tourist Association recommends carrying a bell or something else that makes noise ([tsumago.jp, as of October 2026](https://tsumago.jp/walk/)). A bell can be rented at either tourist information office for 2,100 yen, with 2,000 yen refunded on return, so the rental costs 100 yen.
 
 ---
 *Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-18.*

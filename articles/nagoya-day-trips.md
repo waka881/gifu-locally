@@ -1,6 +1,7 @@
 ---
 title: "Day Trips from Nagoya to Gifu, Ranked by Effort"
 description: "Seven Gifu day trips from Nagoya, from a 20-minute train ride to Gifu City to a full day out to Shirakawa-go, with travel times from official sources."
+summary: Gifu City is about 20 minutes from Nagoya by JR train, Gujo Hachiman about 1 hour 20 minutes by highway bus from JR Nagoya Station, and Gero Onsen about 1 hour 40 minutes by JR Limited Express Hida. Shirakawa-go takes about 2 hours 50 minutes in total by express bus via the Meitetsu Bus Center, so it needs an early start. Gifu City suits a first visit with little planning, while Gujo Hachiman or Gero Onsen suit a full day out.
 status: 公開
 facts_checked: 2026-10-16
 ---
@@ -113,6 +114,23 @@ Travel there and back takes up most of the day, so leave early and know your ret
 - **Combine nearby stops.** Gifu City, Seki and Mino are close to one another, so two of them can fit into one day.
 
 Not sure where to start? For a first visit with little planning, Gifu City is the simplest choice. For a full day out, Gujo Hachiman or Gero Onsen. Choose Shirakawa-go if you're ready for an early start. To see the options in one place, browse tours and activity tickets on [Klook](https://klook.tpk.lu/zp1hCE5f).
+
+## FAQ
+
+### What is a good first day trip from Nagoya to Gifu?
+Gifu City suits a first visit with little planning: it is about 20 minutes by train between JR Nagoya Station and JR Gifu Station ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya), as of October 2026). It suits first-time visitors, anyone with half a day, and travelers who like history.
+
+### How long does it take to get from Nagoya to Gero Onsen?
+About 1 hour 40 minutes by JR Limited Express Hida between Nagoya Station and Gero Station ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya), as of October 2026).
+
+### How do you get from Nagoya to Shirakawa-go?
+Walk about 5 minutes from Nagoya Station to the Meitetsu Bus Center and take the express bus to Shirakawago Bus Terminal, about 2 hours 50 minutes in total. Alternatively, take the JR Limited Express Hida to Takayama and an express bus from there, about 3 hours 25 minutes in total ([official access page](https://shirakawa-go.gr.jp/en/access/), as of October 2026).
+
+### How do you get from Nagoya to Seki?
+Take the train to JR Gifu Station (about 20 minutes), then Gifu Bus B81 (Gifu Seki Line) from bus zone 14 to the Oyana stop, about 35–40 minutes ([Gifu Bus timetable](https://www.gifubus.co.jp/2610_gifu-seki.pdf), as of October 2026).
+
+### Is Inuyama in Gifu Prefecture?
+No. Inuyama, often listed among day trips from Nagoya, is in Aichi Prefecture.
 
 ---
 *Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-16.*

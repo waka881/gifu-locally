@@ -1,6 +1,7 @@
 ---
 title: "Gifu City in One Day: Ropeway, Old Town and a Slow Breakfast"
 description: "A simple one-day plan for Gifu City: morning service breakfast, the Mt. Kinka Ropeway (castle keep closed for renovation until late 2027), and the Kawaramachi old town."
+summary: Gifu City is about 20 minutes from Nagoya by JR rapid train, and one day is enough for a morning service breakfast, the Mt. Kinka Ropeway and the Kawaramachi old town. From JR Gifu Station, a Gifu Bus to the Gifu Park stop takes about 15 minutes, and the 4-minute ropeway costs ¥1,300 round trip for adults (as of October 2026). The Gifu Castle keep has been closed for renovation since May 19, 2026, with reopening planned for November 2027.
 status: 公開
 facts_checked: 2026-10-18
 ---
@@ -31,6 +32,23 @@ Walk or take the bus to the Nagarabashi stop for **Kawaramachi**, a former river
 
 Stay near JR Gifu Station for easy train and bus access, or by the Nagara River for an onsen-hotel atmosphere.
 
+
+## FAQ
+
+### How do you get to the Mt. Kinka Ropeway from Gifu Station?
+From the bus terminal at JR Gifu Station, take a Gifu Bus toward Nagarabashi (or the City Loop, counter-clockwise) for about 15 minutes and get off at the Gifu Park stop. The ropeway base station is about a 3-minute walk ([Gifu Convention & Visitors Bureau](https://www.kankou-gifu.jp/spot/923/)).
+
+### How much does the Mt. Kinka Ropeway cost and how long is the ride?
+An adult round trip costs ¥1,300 and one way costs ¥800, and the ride takes about 4 minutes ([source](https://www.kankou-gifu.jp/spot/923/), as of October 2026). It normally runs 9:00 to 18:00, and until 20:30 on Fridays, weekends and holidays from October 1 to November 30.
+
+### Is Gifu Castle open?
+The castle keep has been closed for renovation since May 19, 2026, with work planned until late October 2027 and reopening planned for November 2027 ([Gifu Convention & Visitors Bureau](https://www.gifucvb.or.jp/sightseeing/gifu-castle.php), as of October 2026). The castle museum is also closed.
+
+### When is the Mt. Kinka Ropeway closed for maintenance?
+It closes on set dates, including December 1 to 28, 2026 and January 7 to February 16, 2027 ([Gifu CVB](https://www.gifucvb.or.jp/sightseeing/gifu-castle.php), as of October 2026).
+
+### How far is Gifu City from Nagoya?
+Gifu City is about 20 minutes from Nagoya by JR rapid train, so it works as a one-day trip.
 
 ## Book ahead
 

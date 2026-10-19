@@ -1,6 +1,7 @@
 ---
 title: "Nagoya to Takayama: Train, Bus and a Day Trip or Overnight Plan"
 description: "How to get from Nagoya to Takayama by Limited Express Hida or highway bus, plus the old town, Jinya, morning markets and Hida Folk Village."
+summary: From Nagoya, the Limited Express Hida reaches Takayama in approximately 2 hours and 20 minutes, with a limited express charge of ¥2,730 for an adult reserved seat in the regular season plus a separate basic fare ticket. The Nohi Bus highway bus takes 2 hours 40 minutes for a one-way fare of ¥3,600, or ¥3,300 with the web discount, and needs a reservation. A day trip works if you leave early, while an overnight stay adds the quieter evening and the morning markets, which close at noon.
 status: 公開
 facts_checked: 2026-10-18
 ---
@@ -103,6 +104,28 @@ A simple overnight plan:
 - **Bus tickets.** Highway buses take reservations only. Book online, and pay within the deadline so your booking is not cancelled.
 - **Staying connected.** Maps and timetables are easier with mobile data. A [Japan eSIM](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) is one option. Check the product page for data allowance, validity, and whether your phone is compatible.
 - **Tourist information.** Hida Takayama's official tourism site, [hida.jp](https://www.hida.jp/english/), has maps and up-to-date notices.
+
+## FAQ
+
+### How long does it take to get from Nagoya to Takayama?
+
+The Limited Express Hida takes approximately 2 hours and 20 minutes from JR Nagoya Station to JR Takayama Station (as of October 2026, [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/)). The Nohi Bus highway bus takes 2 hours 40 minutes (as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/)).
+
+### How much is the train or bus from Nagoya to Takayama?
+
+The limited express charge is ¥2,730 for an adult reserved seat and ¥5,000 for the Green Car in the regular season, and a separate basic fare ticket is also needed (as of October 2026, [JR Central ticketless service, Japanese](https://railway.jr-central.co.jp/ticketless/)). The one-way bus fare to Takayama Bus Terminal is ¥3,600, or ¥3,300 with the web discount (as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/)).
+
+### Do I need to reserve the Nagoya–Takayama highway bus?
+
+Yes. Reservations are required on every bus and all seats are reserved, with booking opening one month ahead (as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/)). Online bookings are cancelled if you do not pay within 3 days.
+
+### What time do the Takayama morning markets open?
+
+Both the Miyagawa and Jinya-mae morning markets are open every day, from 7 a.m. to noon from April to November and 8 a.m. to noon from December to March (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html)). On a day trip from Nagoya, you will only catch them with an early train or bus.
+
+### When is the Takayama Festival?
+
+The Spring Takayama Festival is on April 14 and 15, and the Autumn Takayama Festival is on October 9 and 10 (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000105.html)). Book train seats and rooms well in advance if you plan to stay overnight then.
 
 ---
 *Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-18.*

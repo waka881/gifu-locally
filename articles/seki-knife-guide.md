@@ -1,6 +1,7 @@
 ---
 title: "Seki Knife Guide: Sword Forging, Knife Shops and How to Get There"
 description: "Seki in Gifu has 700+ years of blade-making history. When to see traditional sword forging, where to buy knives, and what is closed for renovation until March 2027."
+summary: Seki is about 40 minutes by bus from Gifu Station and has been making blades for more than 700 years. The Seki Kaji Denshokan (Seki Swordsmith Museum) is closed for renovation from September 7, 2026 to March 31, 2027, but its forging workshop stays open, with sword forging demonstrations on Sunday, November 1 and Sunday, December 6, 2026. To buy a knife, the Seki Hamono Museum (Cutler SANSYU) has free entry and is open 9:00 to 16:30 every day.
 status: 公開
 facts_checked: 2026-10-19
 ---
@@ -40,6 +41,28 @@ A shop and museum where you can buy the in-house Seki Yoshihide kitchen knives a
 
 Seki is an easy day trip from Gifu City.
 
+
+## FAQ
+
+### How do I get to Seki from Gifu Station?
+
+From JR Gifu Station, take Gifu Bus B81 (Gifu Seki Line, toward Seki Higashiyama) from bus zone 14 to the Oyana stop, which takes about 35–40 minutes ([Gifu Bus timetable, Japanese PDF](https://www.gifubus.co.jp/2610_gifu-seki.pdf), as of October 2026). The Seki Hamono Museum is about a 14-minute walk from the stop ([Seki Hamono Museum access guide, PDF](https://www.hamonoyasan.com/data/public-transport-en.pdf)).
+
+### Is the Seki Swordsmith Museum open in 2026?
+
+The Seki Kaji Denshokan is closed for renovation from September 7, 2026 to March 31, 2027, but the forging workshop stays open during this period. Dates may change ([Gifu tourism, Japanese](https://www.kankou-gifu.jp/spot/1179/), as of October 2026).
+
+### When can I watch sword forging in Seki?
+
+Demonstrations are held on the first Sunday of February to September and of November and December, plus January 2 and the October cutlery festival day, at 10:30 and 13:00 on regular demonstration days. The next dates are Sunday, November 1 and Sunday, December 6, 2026, which show sword forging only because of the renovation ([Seki City, Japanese](https://www.city.seki.lg.jp/kanko/0000017993.html), as of October 2026).
+
+### Where can I buy a Japanese kitchen knife in Seki?
+
+The Seki Hamono Museum (Cutler SANSYU) sells its in-house Seki Yoshihide kitchen knives and scissors. Entry is free, and it's open 9:00 to 16:30 every day, with irregular closures during the New Year holidays (January 1–3) ([Seki Hamono Museum, official](https://www.hamonoyasan.com/sekihamonomuseum/), as of October 2026).
+
+### Can I take a knife bought in Japan on the plane?
+
+Knives are not allowed in airplane carry-on bags, so carry it home in checked baggage.
 
 ## Book ahead
 

@@ -1,5 +1,6 @@
 ---
 description: "Gifu City spends more on coffee shops than any other major city in Japan. Here is how morning service works: order a coffee and breakfast comes free."
+summary: Morning service is a Gifu coffee shop custom: order a drink in the morning and toast, a boiled egg or a small salad comes with it at no extra charge. Most shops run it until around 10 or 11 a.m., each shop sets its own hours, and many small shops are cash only. Gifu City households spend more on coffee shops than any other prefectural capital or major city in Japan, ranking first for the fourth year in a row in the 2023 Family Income and Expenditure Survey.
 title: "Gifu's Morning Service: Order a Coffee, Get Breakfast"
 status: 公開
 facts_checked: 2026-10-14
@@ -37,6 +38,23 @@ Staying near JR Gifu Station puts you within walking distance of downtown coffee
 
 Pair a slow morning with a ride up the Mt. Kinka Ropeway (Gifu Castle's keep is closed for renovation until late 2027), or head to the old Kawaramachi district along the Nagara River.
 
+
+## FAQ
+
+### What is morning service in Gifu?
+Morning service (*mōningu*) is a coffee shop custom: order a drink before late morning and food such as toast, a boiled egg or a small salad comes with it at no extra charge. Some shops let you choose a set, such as toast, a rice ball or something sweet.
+
+### What time does morning service end in Gifu?
+Most shops run morning service until around 10 or 11 a.m., but each shop sets its own hours, so check with the shop before you go.
+
+### Why is Gifu known for coffee shops?
+Gifu City households spend more on coffee shops than any other prefectural capital or major city in Japan. In the national Family Income and Expenditure Survey for 2023, Gifu City ranked first for the fourth year in a row ([Gifu City](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/005/752/cafe_ura.pdf)).
+
+### Do Gifu coffee shops accept cards?
+Many small shops are cash only, so carry some yen. You pay at the register when you leave.
+
+### Do Gifu coffee shops have English menus?
+Do not expect English menus. A photo menu or pointing at the menu works fine.
 
 ## Book ahead
 

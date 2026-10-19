@@ -1,6 +1,7 @@
 ---
 title: "Gifu in Winter 2026–27: Shirakawa-go, Takayama, Okuhida Onsen and Getting Around Safely"
 description: "Plan a Gifu winter trip: Shirakawa-go light-up 2027 dates, Takayama illuminations, Okuhida onsen, Gero fireworks and snow-safe transport."
+summary: The 41st Shirakawa-go Light-Up is listed for January 11, 17, 24 and 31, 2027, and the previous edition was a fully advance-reservation event with no same-day visits. Takayama is a winter base about 2 hours 20 minutes from Nagoya Station on the Limited Express Hida, with buses to Shirakawa-go and Okuhida, where the Shinhotaka Ropeway round trip costs 3,800 yen for adults. Snow tires are required to drive to the Shinhotaka Ropeway, Takayama asks visitors not to drive rental cars on normal tires in winter, and Takayama–Shirakawa-go buses can run two hours or more late, so build spare time into each day.
 status: 公開
 facts_checked: 2026-10-19
 ---
@@ -90,6 +91,28 @@ Plan for below-freezing temperatures and snow underfoot. Useful items include:
 - footwear with good grip
 
 Higher spots such as the ropeway's upper station are colder than the valleys. Bring a small towel for onsen visits, and leave room in your schedule for weather changes.
+
+## FAQ
+
+### When is the Shirakawa-go light-up in 2027?
+
+The Shirakawa-go Tourist Association lists the 41st Light-Up on January 11, January 17, January 24 and January 31, 2027 (as of October 2026, [Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/)). The first round of regular car parking reservations is listed as sold out.
+
+### Do you need a reservation for the Shirakawa-go light-up?
+
+For the 2026 edition, Gifu Prefecture's tourism site described the light-up as held under a fully advance-reservation system, with no same-day visits (as of October 2026, [Gifu Prefecture Tourism Federation](https://www.kankou-gifu.jp/event/detail_1287.html)). Confirm the 2027 rules on the [association's website](https://shirakawa-go.gr.jp/en/).
+
+### Is the Shinhotaka Ropeway open in winter?
+
+Yes, the Shinhotaka Ropeway runs year-round, and the adult round-trip fare between Shinhotaka Onsen and Nishi-Hotaka-guchi is 3,800 yen (as of October 2026, [Shinhotaka Ropeway](https://shinhotaka-ropeway.jp/en/price/)). It may stop in strong winds, so check the operating status on the morning you go.
+
+### Can you drive to Takayama in winter?
+
+Hida Takayama's official site asks visitors not to drive rental cars with normal tires to Takayama in winter ([Hida Takayama](https://www.hida.jp/english/traveltips/practicalguide/4001651.html)). If you drive, confirm snow tires when you book the rental.
+
+### Do buses from Takayama to Shirakawa-go run on time in winter?
+
+Nohi Bus warns that Takayama–Shirakawa-go buses can run two hours or more late because of parking-lot queues, heavy snow or expressway closures, and some services do not run from December 29 to January 3 (as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Build spare time into any day that includes Shirakawa-go.
 
 ---
 *Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-19.*

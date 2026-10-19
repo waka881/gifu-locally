@@ -1,6 +1,7 @@
 ---
 title: "Gero Onsen for First-Timers: Day Trip from Nagoya, Baths and Ryokan"
 description: "How to reach Gero Onsen from Nagoya on the Hida Limited Express, where to bathe, how the Yumeguri Tegata pass works, and how to choose a ryokan."
+summary: Take the JR Limited Express Hida from Nagoya Station to Gero Station; the ticketless limited express charge is 2,390 yen for an adult ordinary reserved seat or 4,660 yen for the Green Car, one way in the normal season, plus the base fare (as of July 16, 2025). You can bathe without staying at a ryokan: public baths such as Shirasagi-no-yu and Sachi-no-yu charge 470 yen for adults, and the Yumeguri Tegata pass costs 2,500 yen for 3 ryokan baths within 6 months (as of October 2026). Gero works as a day trip from Nagoya or as an overnight stop on the way to Takayama.
 status: 公開
 facts_checked: 2026-10-16
 ---
@@ -101,6 +102,23 @@ We don't rank individual inns. These questions will help you narrow down the opt
 **Practical checks.** Look at check-in and check-out times, the bath hours (some baths switch between men and women overnight), the tattoo policy, dietary accommodations, and whether staff can communicate in English. If you are on a day trip, ask whether the inn accepts day-use bathers or the Yumeguri Tegata.
 
 Continuing to Takayama? Klook sells a [2-day Takayama–Gero Onsen bus ticket](https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/). For anything else, compare options on [Klook](https://klook.tpk.lu/zp1hCE5f).
+
+## FAQ
+
+### How much is the train from Nagoya to Gero Onsen?
+JR Central's [July 2025 press release](https://jr-central.co.jp/news/release/_pdf/000044393.pdf) lists the ticketless limited express charge for Nagoya to Gero on the Hida as 2,390 yen for an adult ordinary reserved seat and 4,660 yen for the Green Car, one way in the normal season (as of July 16, 2025). The base fare is extra.
+
+### Can you bathe in Gero Onsen without staying at a ryokan?
+Yes. Public bathhouses such as Shirasagi-no-yu, about a 7-minute walk from Gero Station, charge 470 yen for adults ([tourism association page](https://www.gero-spa.com/spot/detail_3.html), as of October 2026). Kur Garden Rotenburo, about a 10-minute walk from the station, charges 800 yen for adults ([tourism association page](https://www.gero-spa.com/spot/detail_4.html), as of October 2026).
+
+### How does the Gero Onsen Yumeguri Tegata pass work?
+The Yumeguri Tegata costs 2,500 yen per adult pass and covers 3 day-use baths at member ryokan, valid for 6 months, with a towel and a drawstring bag included ([tourism association](https://www.gero-spa.com/spot/detail_50.html), as of October 2026). It is sold at member ryokan, convenience stores and souvenir shops, and bathing hours differ from inn to inn.
+
+### Can you still bathe at Funsen-chi in Gero?
+No. According to the [tourism association](https://www.gero-spa.com/spot/detail_2.html), bathing at the open-air pool on the Hida riverbank has been prohibited since December 1, 2021. Visitors can still look at it.
+
+### Is Gero Onsen better as a day trip or an overnight stay?
+A day trip suits travellers based in Nagoya who mainly want to try the water at a public bath, a few foot baths or Yumeguri Tegata baths. Staying overnight gives the full ryokan experience with dinner and a morning soak, and fits well when continuing to Takayama the next day.
 
 ---
 *Prices, hours and train schedules change. Check official sources before you go. Facts last checked: 2026-10-16.*

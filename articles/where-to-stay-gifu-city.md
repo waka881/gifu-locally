@@ -1,6 +1,7 @@
 ---
 title: "Where to Stay in Gifu City: JR Gifu Station Area vs Nagaragawa Onsen"
 description: "Choosing a Gifu hotel? Compare the JR Gifu Station area and riverside Nagaragawa Onsen: access, onsen, meals and who each area suits."
+summary: Stay near JR Gifu Station if Gifu City is your base for day trips, you have a late arrival or early train, or you want room-only hotels and the freedom to eat out, with JR Nagoya Station around 20 minutes away by train. Stay at Nagaragawa Onsen for a ryokan-style night with a hot-spring bath, dinner and a river view, about 20 minutes by bus from Gifu Station. The two areas are linked by frequent city buses, so many visitors do one night in each.
 status: 公開
 facts_checked: 2026-10-18
 ---
@@ -98,6 +99,28 @@ Compare hotels and activities in Gifu on [Klook](https://klook.tpk.lu/zp1hCE5f).
 If you have two nights, a common pattern is to arrive at JR Gifu Station, stay one night nearby, and spend the next day on the sights in our [Gifu City in one day](gifu-city-one-day.html) itinerary: breakfast, the ropeway, then Kawaramachi. Then move your bags to Nagaragawa Onsen for an evening by the river, with the cormorant fishing if you're visiting between May and mid-October. With one night, decide on your priority: easy train connections (station) or the onsen and river (Nagaragawa).
 
 For tours and passes to pair with your stay, you can also browse options on [Klook](https://klook.tpk.lu/zp1hCE5f).
+
+## FAQ
+
+### Should I stay near Gifu Station or at Nagaragawa Onsen?
+
+Stay near JR Gifu Station if you are doing day trips, arriving late or leaving early by train, or want room-only accommodation and the freedom to eat out. Stay at Nagaragawa Onsen if you want a ryokan-style night with a hot-spring bath and dinner included, a river view, or easy evening access to the cormorant fishing boats and Kawaramachi.
+
+### How do I get from Gifu Station to Nagaragawa Onsen?
+
+Visit Gifu gives the bus ride from Gifu Station to the Nagarabashi or Ukaiya stops as about 20 minutes ([Visit Gifu](https://visitgifu.com/see-do/nagaragawa-hot-springs/), as of October 2026). For the south bank, the City Loop Line counter-clockwise from stop 11 takes about 15 minutes to "Nagarabashi-minami / Kawaramachi" and costs ¥250 ([Gifu Convention & Visitors Bureau](https://www.gifucvb.or.jp/access/city.php), as of October 2026).
+
+### How far is Gifu Station from Nagoya?
+
+JR Nagoya Station is around 20 minutes by train from JR Gifu Station ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya/), as of October 2026).
+
+### Do all Nagaragawa Onsen hotels have hot-spring baths?
+
+No. Not every member property has hot-spring baths, so check before you book; the tourism bureau lists which inns have onsen baths, and some also offer day-use bathing to non-guests at set hours ([Gifu Convention & Visitors Bureau](https://www.gifucvb.or.jp/sightseeing/detail_kankou.php?eid=00059), as of October 2026).
+
+### When is the cormorant fishing season in Gifu?
+
+The season runs May 11 to October 15 each year, and the fishing starts at 19:45. Shared viewing boats cost ¥4,200 for adults on regular days and ¥5,100 on designated busy days ([Gifu Convention & Visitors Bureau](https://www.gifucvb.or.jp/sightseeing/ukai.php), as of October 2026). The 2026 season has ended, so the next season opens in May 2027.
 
 ---
 *Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-18.*

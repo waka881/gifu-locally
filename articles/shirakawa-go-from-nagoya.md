@@ -1,6 +1,7 @@
 ---
 title: "Shirakawa-go from Nagoya: Day Trip by Highway Bus or Guided Tour"
 description: "How to visit Shirakawa-go from Nagoya in a day: the reserved highway bus, guided tours, what to see, fees and the 2027 light-up."
+summary: The Nagoya–Shirakawa-go highway bus leaves from the Meitetsu Bus Center, about a 5-minute walk from Nagoya Station, and takes about 2 hours 30 minutes, or about 2 hours 50 minutes in total from Nagoya Station. Seats must be reserved, bookings open one month before the travel date, and the adult one-way fare ranges from 3,600 yen to 4,700 yen depending on the date. A guided day tour from Nagoya suits travelers who would rather not deal with reservations, want a guide or want to add another town such as Takayama in one day.
 status: 公開
 facts_checked: 2026-10-16
 ---
@@ -134,6 +135,28 @@ Because of these rules, many visitors from Nagoya go to the light-up on an organ
 **Choose a tour** if you'd rather not deal with reservations and timetables, want a guide, want to add another town in one day, or are going to the winter light-up.
 
 If you're leaning toward a tour, you can browse Shirakawa-go day tours departing Nagoya on [Klook](https://klook.tpk.lu/zp1hCE5f). Don't forget a [Japan eSIM](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) for maps and bus times on the day.
+
+## FAQ
+
+### How long does it take to get from Nagoya to Shirakawa-go?
+
+The highway bus from the Meitetsu Bus Center takes about 2 hours 30 minutes to Shirakawago Bus Terminal, or about 2 hours 50 minutes in total from Nagoya Station. Going by JR Limited Express Hida to Takayama and then express bus takes about 3 hours 25 minutes ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026).
+
+### How much is the bus from Nagoya to Shirakawa-go?
+
+The adult one-way fare from the Meitetsu Bus Center ranges from 3,600 yen to 4,700 yen across five date categories, and child fares are half the adult fare ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026).
+
+### Do I need to reserve the bus from Nagoya to Shirakawa-go?
+
+Yes. Seats are reserved, you cannot board a full bus without a reservation, and bookings open one month before the travel date ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026). You can book online through Highway Bus.com or by phone.
+
+### How much time do I need in Shirakawa-go?
+
+The Tourist Association estimates that walking around the village takes about 2–3 hours ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of October 2026).
+
+### When is the Shirakawa-go light-up in 2027?
+
+The light-up takes place on four days in 2027: January 11, January 17, January 24 and January 31 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of October 2026). The 2026 event was run on a fully advance-reservation basis ([Gifu Prefecture tourism site](https://www.kankou-gifu.jp/event/detail_1287.html), as of October 2026), so confirm the 2027 rules on the official overview page.
 
 ---
 *Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-16.*
