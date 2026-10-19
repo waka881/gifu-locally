@@ -19,6 +19,15 @@ For more trips from the same base, see our [Nagoya day trips hub](nagoya-day-tri
 
 ## Getting from Nagoya to Takayama
 
+| | Limited Express Hida (train) | Nohi Bus highway bus |
+|---|---|---|
+| Travel time | About 2 h 20 min | 2 h 40 min |
+| One-way cost (adult) | ¥2,730 reserved-seat charge + separate basic fare | ¥3,600, or ¥3,300 with web discount |
+| Booking | Reserved seat via JR Central ticketless service | Reservation required, opens 1 month ahead |
+| Nagoya departure point | JR Nagoya Station | Meitetsu Bus Center or JR Nagoya Station |
+
+*Regular-season figures from JR Central and Nohi Bus, as of October 2026. Details and sources below.*
+
 ### By train: Limited Express Hida
 
 The Limited Express Hida runs from JR Nagoya Station to JR Takayama Station. According to JR Central, the trip takes **approximately 2 hours and 20 minutes** (as of October 2026, [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/)).
