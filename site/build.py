@@ -165,6 +165,7 @@ def page(title, desc, content, path="", jsonld="", img=""):
     t, d = html.escape(title), html.escape(desc)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="p:domain_verify" content="0358eb35ecb74ece18718c935fcfb376"/>
 <title>{t}</title><meta name="description" content="{d}">
 <link rel="canonical" href="{url}">
 <meta property="og:type" content="website"><meta property="og:site_name" content="{SITE_NAME}">
