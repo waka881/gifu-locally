@@ -119,7 +119,7 @@ A simple overnight plan:
 
 - **Book ahead in festival seasons.** Reserve train seats and accommodation early around April 14–15 and October 9–10.
 - **Bus tickets.** Highway buses take reservations only. Book online, and pay within the deadline so your booking is not cancelled.
-- **Staying connected.** Maps and timetables are easier with mobile data. A [Japan eSIM](https://yesim.app/country/japan/) is one option. Check the product page for data allowance, validity, and whether your phone is compatible.
+- **Staying connected.** Maps and timetables are easier with mobile data. A [Japan eSIM](https://yesim.tpk.lu/T6xnCd9w) is one option. Check the product page for data allowance, validity, and whether your phone is compatible.
 - **Tourist information.** Hida Takayama's official tourism site, [hida.jp](https://www.hida.jp/english/), has maps and up-to-date notices.
 
 ## FAQ

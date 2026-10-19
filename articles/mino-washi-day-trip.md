@@ -4,7 +4,7 @@ description: "Plan a Mino, Gifu day trip: highway bus from Nagoya, routes from G
 summary: The Gifu Bus Nagoya–Seki–Mino highway bus runs from the Meitetsu Bus Center to the Chuno Chosha stop in Mino in about 1 hour 34 minutes, for ¥1,400 one way for adults, and reservations aren't taken. From Gifu City, the train via Mino-Ota and the Nagaragawa Railway to Mino-shi Station takes about 1 hour 10 minutes. The udatsu old town is free to walk around, and a basic papermaking session at Mino Washi no Sato Kaikan costs ¥500 on top of admission and needs booking.
 status: 公開
 facts_checked: 2026-10-18
-cta: https://yesim.app/country/japan/|Navigate rural Gifu trains with live data|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
+cta: https://yesim.tpk.lu/T6xnCd9w|Navigate rural Gifu trains with live data|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Mino Oishi House ac.jpg
 image_alt: Oishi House, a merchant house with udatsu firewalls in Mino
 image_credit: Asturio Cantabrio

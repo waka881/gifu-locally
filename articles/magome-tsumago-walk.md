@@ -4,7 +4,7 @@ description: "How to walk Magome to Tsumago on the Nakasendo from Nagoya: JR and
 summary: The Magome to Tsumago walk on the Nakasendo is about 9 km and takes 2.5 to 3 hours, with the highest point at Magome Pass, 790 m above sea level. From Nagoya, take the Limited Express Shinano to Nakatsugawa in about 50 minutes and a 25-minute bus to Magome, then return from Tsumago by bus to Nagiso Station and take the Shinano back to Nagoya in about 1 hour. Luggage forwarding costs 1,000 yen per bag from March 20 to November 30, 2026, with drop-off from 8:30 to 11:30.
 status: 公開
 facts_checked: 2026-10-18
-cta: https://yesim.app/country/japan/|Keep maps and bus times on your phone|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
+cta: https://yesim.tpk.lu/T6xnCd9w|Keep maps and bus times on your phone|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Looking up the Nakasendō in the central part of the village, Tsumago-juku, Nagiso, 2016.jpg
 image_alt: The Nakasendo road through Tsumago-juku
 image_credit: DimiTalen
@@ -94,7 +94,7 @@ The Tsumago Tourist Association recommends carrying a bell or something else tha
 
 Nagiso Town links to a Nagano Prefecture leaflet on preventing bear encounters ([PDF](https://en.nagiso.jp/wordpress/wp-content/uploads/2026/04/kankonagano2026kuma.pdf)). Read it before you set out.
 
-You will want a working phone for maps, bus times and emergencies. If you need data, a [Japan eSIM from Yesim](https://yesim.app/country/japan/) can be set up before you leave home.
+You will want a working phone for maps, bus times and emergencies. If you need data, a [Japan eSIM from Yesim](https://yesim.tpk.lu/T6xnCd9w) can be set up before you leave home.
 
 ## Getting back from Tsumago
 
