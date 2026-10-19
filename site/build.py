@@ -166,6 +166,7 @@ def page(title, desc, content, path="", jsonld="", img=""):
     t, d = html.escape(title), html.escape(desc)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="alternate" type="application/rss+xml" title="Gifu Gourmand" href="https://gifugourmand.com/feed.xml">
 <meta name="p:domain_verify" content="0358eb35ecb74ece18718c935fcfb376"/>
 <title>{t}</title><meta name="description" content="{d}">
 <link rel="canonical" href="{url}">
@@ -239,6 +240,25 @@ commission at no extra cost to you. We only link to things we think are useful f
     urls = [BASE] + [f"{BASE}{p['slug']}.html" for p in posts]
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                      + "".join(f"<url><loc>{u}</loc></url>" for u in urls) + "</urlset>\n")
+    # RSSフィード（Pinterestの自動投稿などに使う）
+    from email.utils import format_datetime
+    from datetime import datetime, timezone
+    def pub(p):
+        try:
+            return datetime.strptime(p.get("facts_checked", "")[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        except ValueError:
+            return datetime.now(timezone.utc)
+    items = ""
+    for p in sorted([q for q in posts if q["is_public"]], key=pub, reverse=True):
+        u, img = f"{BASE}{p['slug']}.html", image_url(p, 1000)
+        e = html.escape
+        items += (f"<item><title>{e(p['title'])}</title><link>{u}</link><guid>{u}</guid>"
+                  f"<pubDate>{format_datetime(pub(p))}</pubDate><description>{e(p.get('description', ''))}</description>"
+                  + (f'<media:content url="{e(img)}" medium="image"/><enclosure url="{e(img)}" type="image/jpeg" length="0"/>' if img else "")
+                  + "</item>")
+    (OUT / "feed.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">'
+                                  f"<channel><title>{SITE_NAME}</title><link>{BASE}</link><description>{TAGLINE}</description><language>en</language>"
+                                  + items + "</channel></rss>\n")
     for f in (ROOT / "static").rglob("*"):  # IndexNow鍵ファイル・自前の写真など、そのまま配信するファイル
         if f.is_file() and f.name != ".keep":
             dest = OUT / f.relative_to(ROOT / "static")
