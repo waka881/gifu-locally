@@ -226,6 +226,14 @@ def main():
 Facts such as prices and opening hours come from official sources and carry the date we last checked them.</p>
 <h2>Affiliate disclosure</h2><p>Some links on this site are affiliate links. If you book through them we may earn a
 commission at no extra cost to you. We only link to things we think are useful for your trip.</p>""", "about.html"))
+    # インスタのプロフィール用の入口ページ（サイトマップには載せない）
+    feat = ["shirakawa-go-light-up", "shirakawa-go-from-nagoya", "takayama-from-nagoya", "where-to-stay-takayama", "gero-onsen-guide", "japan-esim-gifu", "nagoya-day-trips"]
+    bys = {p["slug"]: p for p in posts}
+    links = "".join(f'<a class="card" href="{s}.html"><h2>{html.escape(bys[s]["title"])}</h2></a>' for s in feat if s in bys)
+    (OUT / "links.html").write_text(page(f"Links | {SITE_NAME}", "Gifu Gourmand guides featured on Instagram.",
+        '<section class="intro"><h1>Gifu Gourmand</h1><p>Eat and travel your way through Gifu, Japan. '
+        'Routes, prices and booking options, checked against official sources.</p></section>'
+        + links + '<a class="pill" href="index.html">All guides →</a>', "links.html").replace('<meta name="description"', '<meta name="robots" content="noindex"><meta name="description"', 1))
     urls = [BASE] + [f"{BASE}{p['slug']}.html" for p in posts]
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
                                      + "".join(f"<url><loc>{u}</loc></url>" for u in urls) + "</urlset>\n")
