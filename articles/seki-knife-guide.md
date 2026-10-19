@@ -47,6 +47,9 @@ A shop and museum where you can buy the in-house Seki Yoshihide kitchen knives a
 Seki is an easy day trip from Gifu City.
 
 
+
+[[cta|https://www.klook.com/en-US/destination/c6370-gifu/3-hotel/|Hotels in Gifu Prefecture|Compare prices and availability for your dates on Klook.|See stays]]
+
 ## FAQ
 
 ### How do I get to Seki from Gifu Station?

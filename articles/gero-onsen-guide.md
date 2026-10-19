@@ -108,6 +108,9 @@ We don't rank individual inns. These questions will help you narrow down the opt
 
 Continuing to Takayama? Klook sells a [2-day Takayama–Gero Onsen bus ticket](https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/). For anything else, compare options on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
+
+[[cta|https://www.klook.com/en-US/destination/p60271486-gero-onsen/3-hotel/|Ryokan and hotels in Gero Onsen|Compare prices and availability for your dates on Klook.|See stays]]
+
 ## FAQ
 
 ### How much is the train from Nagoya to Gero Onsen?

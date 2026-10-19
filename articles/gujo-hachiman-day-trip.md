@@ -53,6 +53,9 @@ Gujo Odori is a dance festival held on about 30 nights each summer, where anyone
 Gujo Hachiman has traditional inns with dinner and breakfast, as well as room-only stays. Staying overnight lets you see the town early in the morning, before day-trippers arrive.
 
 
+
+[[cta|https://www.klook.com/destination/p50051351-gujo-hachiman-castle/3-hotel/|Stays near Gujo Hachiman|Compare prices and availability for your dates on Klook.|See stays]]
+
 ## FAQ
 
 ### How do I get from Nagoya to Gujo Hachiman?

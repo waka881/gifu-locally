@@ -39,6 +39,9 @@ Morning service is shared with neighboring Aichi Prefecture, but in Gifu it is l
 
 Staying near JR Gifu Station puts you within walking distance of downtown coffee shops and makes it easy to continue to the Nagara River, the Mt. Kinka Ropeway, or a day trip.
 
+
+[[cta|https://www.klook.com/en-US/destination/c6370-gifu/3-hotel/|Hotels in Gifu Prefecture|Compare prices and availability for your dates on Klook.|See stays]]
+
 ## Make a day of it
 
 Pair a slow morning with a ride up the Mt. Kinka Ropeway (Gifu Castle's keep is closed for renovation until late 2027), or head to the old Kawaramachi district along the Nagara River.

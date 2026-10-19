@@ -4,7 +4,7 @@ description: "Where to stay in Takayama by area: station, Sanmachi old town, the
 summary: For a first visit, stay near JR Takayama Station for easy trains and buses, or between the station and Sanmachi if you want to walk to the old town and morning markets. Add a night in Okuhida only if you want a mountain onsen stay, and book early for the April 14–15 and October 9–10 festivals.
 status: 公開
 facts_checked: 2026-10-19
-cta: https://klook.tpk.lu/zp1hCE5f|Plan your Takayama stay|Compare stays, bus passes and day tours for Hida Takayama on Klook.|Compare stays
+cta: https://www.klook.com/en-US/destination/c9316-takayama/3-hotel/|Find your Takayama stay|Compare hotels and ryokan in Takayama for your dates on Klook.|See stays
 image: Hida-Takayama Miyagawa Morning Market (15668520238).jpg
 image_alt: Miyagawa Morning Market along the river in Takayama
 image_credit: bryan... from Taipei, Taiwan
@@ -77,6 +77,9 @@ Okuhida Onsengo is in the mountains east of town, and Hirayu Onsen is its gatewa
 A common split for a first trip is a hotel or small inn in Takayama town, followed by one ryokan night with a hot-spring bath in Okuhida or Gero.
 
 **Local tax:** Takayama has charged an accommodation tax since October 1, 2025. It is ¥100 per person per night for stays under ¥10,000, ¥200 for ¥10,000 to under ¥30,000, and ¥300 for ¥30,000 or more, based on the room charge excluding meals and consumption tax. Young children are exempt (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4001680.html)).
+
+
+[[cta|https://www.klook.com/en-US/destination/c9316-takayama/3-hotel/|Hotels and ryokan in Takayama|Compare prices and availability for your dates on Klook.|See stays]]
 
 ## When to book early: the April and October festivals
 

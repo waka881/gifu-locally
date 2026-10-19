@@ -106,6 +106,9 @@ A simple overnight plan:
 - **Day 1:** Arrive late morning. See Sanmachi and Takayama Jinya, then Hida Folk Village in the afternoon.
 - **Day 2:** Visit the Miyagawa and Jinya-mae morning markets. Then go back to Nagoya, or continue to Shirakawa-go or Gero.
 
+
+[[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Hotels near JR Takayama Station|Compare prices and availability for your dates on Klook.|See stays]]
+
 ## Combining Takayama with Shirakawa-go or Gero
 
 **Shirakawa-go.** The gassho-style village of Shirakawa-go is often paired with Takayama. See our guide to [Shirakawa-go from Nagoya](shirakawa-go-from-nagoya.html) for routes. If you would rather not plan the connections yourself, one option is the [Takayama & Shirakawa-go day tour from Nagoya](https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/). Check the tour page for the itinerary, time in each place, and what is included.

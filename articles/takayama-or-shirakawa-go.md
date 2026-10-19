@@ -67,6 +67,9 @@ Tours that visit both in one day handle all the transport and reservations. The 
 This is the most relaxed option and gives you the morning markets. See [where to stay in Takayama](where-to-stay-takayama.html) for areas to book.
 
 
+
+[[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Hotels near JR Takayama Station|Compare prices and availability for your dates on Klook.|See stays]]
+
 ## Which is better in winter?
 
 Shirakawa-go in snow is the image many people have in mind. On four evenings in 2027 (January 11, 17, 24 and 31), the village holds its winter light-up, and the 2026 event was reservation-only ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/); [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/event/detail_1287.html), as of October 2026). Read our [light-up guide](shirakawa-go-light-up.html) before you plan.
