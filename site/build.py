@@ -249,7 +249,9 @@ commission at no extra cost to you. We only link to things we think are useful f
         except ValueError:
             return datetime.now(timezone.utc)
     items = ""
-    for p in sorted([q for q in posts if q["is_public"]], key=pub, reverse=True):
+    # デザイン済みピンがある記事は除く（PinterestのRSS自動投稿で重複させないため）
+    pinned = {x["slug"] for x in json.loads((ROOT / "social" / "pins" / "pins.json").read_text())} if (ROOT / "social" / "pins" / "pins.json").exists() else set()
+    for p in sorted([q for q in posts if q["is_public"] and q["slug"] not in pinned], key=pub, reverse=True):
         u, img = f"{BASE}{p['slug']}.html", image_url(p, 1000)
         e = html.escape
         items += (f"<item><title>{e(p['title'])}</title><link>{u}</link><guid>{u}</guid>"
