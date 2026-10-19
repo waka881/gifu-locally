@@ -40,6 +40,15 @@ header p{margin:2px 0 0;color:var(--muted);font-size:14px}
 main{padding:24px 0 48px}a{color:var(--accent)}h1{line-height:1.3}
 .card{display:block;border:1px solid var(--line);border-radius:10px;padding:16px;margin:12px 0;text-decoration:none;color:var(--fg)}
 .card h2{margin:0 0 4px;font-size:20px}.card p{margin:0;color:var(--muted);font-size:15px}
+.tldr{border-left:4px solid var(--accent);background:rgba(164,71,43,.07);padding:12px 14px;margin:0 0 20px;border-radius:6px}
+.checked{color:var(--muted);font-size:14px;margin:-8px 0 16px}
+figure.hero{margin:0 0 20px}figure.hero img{width:100%;height:auto;max-height:420px;object-fit:cover;border-radius:10px;display:block}
+figure.hero figcaption{font-size:12px;color:var(--muted);margin-top:4px}
+.cta{display:flex;gap:14px;align-items:center;justify-content:space-between;border:2px solid var(--accent);border-radius:12px;padding:14px 16px;margin:20px 0;text-decoration:none;color:var(--fg)}
+.cta strong{display:block;font-size:17px}.cta span.sub{display:block;color:var(--muted);font-size:14px}
+.cta span.btn{flex:none;background:var(--accent);color:#fff;border-radius:8px;padding:9px 14px;font-weight:700;font-size:15px;white-space:nowrap}
+@media (max-width:480px){.cta{flex-direction:column;align-items:stretch}.cta span.btn{text-align:center}}
+.card img{width:100%;height:160px;object-fit:cover;border-radius:6px;margin-bottom:8px;display:block}
 .draft{background:#fff3c4;color:#222;padding:2px 6px;border-radius:4px;font-size:13px}
 footer{border-top:1px solid var(--line);padding:18px 0;color:var(--muted);font-size:14px}
 """
@@ -56,11 +65,52 @@ def parse(path):
         body = text[m.end():]
     meta["slug"] = path.stem
     meta["is_public"] = meta.get("status") == "公開"
-    meta["html"] = markdown.markdown(body, extensions=["extra"])
+    meta["html"] = markdown.markdown(expand_cta(body), extensions=["extra"])
+    meta["faq"] = parse_faq(body)
     return meta
 
 
-def page(title, desc, content, path="", jsonld=""):
+CTA_RE = re.compile(r"^\[\[cta\|([^|\]]+)\|([^|\]]+)\|([^|\]]*)\|([^|\]]+)\]\]\s*$", re.M)
+
+
+def expand_cta(body):
+    """[[cta|URL|見出し|補足|ボタン文言]] を予約ボタン付きのカードに置き換える。"""
+    def rep(m):
+        url, title, sub, btn = (html.escape(x.strip()) for x in m.groups())
+        return (f'<a class="cta" href="{url}" rel="sponsored noopener" target="_blank"><span><strong>{title}</strong>'
+                f'<span class="sub">{sub}</span></span><span class="btn">{btn}</span></a>')
+    return CTA_RE.sub(rep, body)
+
+
+def image_url(meta, width=1200):
+    f = meta.get("image", "")
+    return f"https://commons.wikimedia.org/wiki/Special:FilePath/{f.replace(' ', '_')}?width={width}" if f else ""
+
+
+def hero(meta):
+    if not meta.get("image"):
+        return ""
+    page_url = "https://commons.wikimedia.org/wiki/File:" + meta["image"].replace(" ", "_")
+    return (f'<figure class="hero"><img src="{image_url(meta)}" alt="{html.escape(meta.get("image_alt", ""))}" width="1200" height="675">'
+            f'<figcaption>Photo: {html.escape(meta.get("image_credit", ""))}, {html.escape(meta.get("image_license", ""))}, '
+            f'via <a href="{page_url}" rel="noopener">Wikimedia Commons</a></figcaption></figure>')
+
+
+def parse_faq(body):
+    """「## FAQ」節の「### 質問」＋本文を (質問, 回答テキスト) のリストにする（FAQPage構造化データ用）。"""
+    m = re.search(r"^## (?:FAQ|Frequently asked questions)\s*$(.*?)(?=^## |^---\s*$|\Z)", body, re.S | re.M | re.I)
+    if not m:
+        return []
+    out = []
+    for q, a in re.findall(r"^### (.+?)\s*$(.*?)(?=^### |\Z)", m.group(1), re.S | re.M):
+        text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", a)  # リンクは文字だけ残す
+        text = re.sub(r"[*_`]", "", " ".join(text.split()))
+        if text:
+            out.append((q.strip(), text))
+    return out
+
+
+def page(title, desc, content, path="", jsonld="", img=""):
     url = BASE + path
     t, d = html.escape(title), html.escape(desc)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
@@ -69,7 +119,7 @@ def page(title, desc, content, path="", jsonld=""):
 <link rel="canonical" href="{url}">
 <meta property="og:type" content="website"><meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:title" content="{t}"><meta property="og:description" content="{d}"><meta property="og:url" content="{url}">
-<meta name="twitter:card" content="summary">{jsonld}
+<meta name="twitter:card" content="{'summary_large_image' if img else 'summary'}">{f'<meta property="og:image" content="{img}">' if img else ''}{jsonld}
 <style>{CSS}</style>{TRAVELPAYOUTS}</head><body>
 <header><div class="wrap"><a href="index.html">{SITE_NAME}</a><p>{TAGLINE}</p></div></header>
 <main class="wrap">{content}</main>
@@ -85,17 +135,27 @@ def main():
     cards = []
     for p in posts:
         badge = "" if p["is_public"] else ' <span class="draft">draft</span>'
-        ld = json.dumps({"@context": "https://schema.org", "@type": "Article", "headline": p["title"],
-                         "description": p.get("description", ""), "dateModified": p.get("facts_checked", ""),
-                         "publisher": {"@type": "Organization", "name": SITE_NAME}})
+        graph = [{"@type": "Article", "headline": p["title"], "description": p.get("description", ""),
+                  "abstract": p.get("summary", ""), "image": image_url(p) or None, "inLanguage": "en", "dateModified": p.get("facts_checked", ""),
+                  "mainEntityOfPage": f"{BASE}{p['slug']}.html",
+                  "author": {"@type": "Organization", "name": SITE_NAME, "url": BASE},
+                  "publisher": {"@type": "Organization", "name": SITE_NAME, "url": BASE}}]
+        graph[0] = {k: v for k, v in graph[0].items() if v}
+        if p["faq"]:
+            graph.append({"@type": "FAQPage", "mainEntity": [
+                {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in p["faq"]]})
+        ld = json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False)
+        top = (f'<p class="checked">Facts checked against official sources: {html.escape(p.get("facts_checked", ""))}</p>'
+               + (f'<div class="tldr"><strong>Quick answer:</strong> {html.escape(p["summary"])}</div>' if p.get("summary") else ""))
         more = "".join(f'<li><a href="{q["slug"]}.html">{html.escape(q["title"])}</a></li>'
                        for q in posts if q is not p)
         (OUT / f"{p['slug']}.html").write_text(
             page(f"{p['title']} | {SITE_NAME}", p.get("description", ""),
-                 f"<article><h1>{html.escape(p['title'])}{badge}</h1>{p['html']}</article>"
+                 f"<article><h1>{html.escape(p['title'])}{badge}</h1>{top}{hero(p)}{p['html']}</article>"
                  f"<nav><h2>More Gifu guides</h2><ul>{more}</ul></nav>",
-                 f"{p['slug']}.html", f'<script type="application/ld+json">{ld}</script>'))
-        cards.append(f'<a class="card" href="{p["slug"]}.html"><h2>{html.escape(p["title"])}{badge}</h2>'
+                 f"{p['slug']}.html", f'<script type="application/ld+json">{ld}</script>', image_url(p)))
+        thumb = f'<img src="{image_url(p, 640)}" alt="" loading="lazy">' if p.get("image") else ""
+        cards.append(f'<a class="card" href="{p["slug"]}.html">{thumb}<h2>{html.escape(p["title"])}{badge}</h2>'
                      f'<p>{html.escape(p.get("description", ""))}</p></a>')
     (OUT / "index.html").write_text(page(SITE_NAME, "English travel guides to Gifu, Japan: day trips from Nagoya, Gifu City, Seki, Gujo Hachiman and more, with prices checked against official sources.", "<h1>Guides</h1>" + "".join(cards)))
     (OUT / "about.html").write_text(page(f"About | {SITE_NAME}", "About this site", """
@@ -108,6 +168,10 @@ commission at no extra cost to you. We only link to things we think are useful f
                                      + "".join(f"<url><loc>{u}</loc></url>" for u in urls) + "</urlset>\n")
     for f in (ROOT / "static").glob("*"):  # IndexNow鍵ファイルなど、そのまま配信するファイル
         (OUT / f.name).write_bytes(f.read_bytes())
+    # AIアシスタント向けのサイト案内（llms.txt）
+    (OUT / "llms.txt").write_text(f"# {SITE_NAME}\n\n> English travel guides to Gifu Prefecture, Japan, written for first-time visitors. "
+        "Prices, hours and dates are checked against official sources, and each page shows the date it was last checked.\n\n## Guides\n\n"
+        + "".join(f"- [{q['title']}]({BASE}{q['slug']}.html): {q.get('summary') or q.get('description', '')}\n" for q in posts))
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n")
     print(f"built {len(posts)} article(s) -> {OUT}")
 
