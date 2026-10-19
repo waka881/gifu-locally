@@ -4,6 +4,7 @@ description: "Seven Gifu day trips from Nagoya, from a 20-minute train ride to G
 summary: Gifu City is about 20 minutes from Nagoya by JR train, Gujo Hachiman about 1 hour 20 minutes by highway bus from JR Nagoya Station, and Gero Onsen about 1 hour 40 minutes by JR Limited Express Hida. Shirakawa-go takes about 2 hours 50 minutes in total by express bus via the Meitetsu Bus Center, so it needs an early start. Gifu City suits a first visit with little planning, while Gujo Hachiman or Gero Onsen suit a full day out.
 status: 公開
 facts_checked: 2026-10-16
+cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|See three Gifu towns in one day from Nagoya|Shirakawa-go, Takayama and Gujo Hachiman on one guided tour. See dates and reviews on Klook.|Check dates
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

@@ -32,9 +32,9 @@ TRAVELPAYOUTS = """<script nowprocket data-noptimize="1" data-cfasync="false" da
 CSS = """
 :root{--bg:#fbfaf7;--fg:#222;--muted:#666;--accent:#a4472b;--line:#e6e2da}
 @media (prefers-color-scheme:dark){:root{--bg:#161514;--fg:#eee;--muted:#aaa;--accent:#e08a6a;--line:#333}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);
+*{box-sizing:border-box}html,body{overflow-x:hidden}article{overflow-wrap:break-word}article table{display:block;overflow-x:auto}body{margin:0;background:var(--bg);color:var(--fg);
 font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
-.wrap{max-width:720px;margin:0 auto;padding:0 16px}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px}
 header{border-bottom:1px solid var(--line);padding:18px 0}header a{color:var(--fg);text-decoration:none;font-weight:700}
 header p{margin:2px 0 0;color:var(--muted);font-size:14px}
 main{padding:24px 0 48px}a{color:var(--accent)}h1{line-height:1.3}
@@ -48,6 +48,18 @@ figure.hero figcaption{font-size:12px;color:var(--muted);margin-top:4px}
 .cta strong{display:block;font-size:17px}.cta span.sub{display:block;color:var(--muted);font-size:14px}
 .cta span.btn{flex:none;background:var(--accent);color:#fff;border-radius:8px;padding:9px 14px;font-weight:700;font-size:15px;white-space:nowrap}
 @media (max-width:480px){.cta{flex-direction:column;align-items:stretch}.cta span.btn{text-align:center}}
+.cta.top{margin-top:0}.disc{font-size:13px;color:var(--muted);margin-top:28px}
+.sticky{display:none}
+@media (max-width:720px){.sticky{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:9;gap:10px;align-items:center;justify-content:space-between;
+background:var(--bg);border-top:1px solid var(--line);padding:10px 16px;color:var(--fg);text-decoration:none;font-size:14px;font-weight:600;box-shadow:0 -4px 16px rgba(0,0,0,.08)}
+.sticky span:first-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sticky .btn{flex:none;background:var(--accent);color:#fff;border-radius:8px;padding:8px 12px}body{padding-bottom:64px}}
+.intro{padding:8px 0 12px}.intro h1{font-size:30px;margin:0 0 8px}.intro p{color:var(--muted);margin:0 0 14px}
+.pill{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;border-radius:999px;padding:10px 16px;font-weight:700;font-size:15px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:4px 14px}.grid .card{margin:6px 0}
+.card:hover,.cta:hover{box-shadow:0 4px 18px rgba(0,0,0,.08)}.cta span.btn{box-shadow:0 2px 0 rgba(0,0,0,.15)}
+article h2{margin-top:2em;border-bottom:1px solid var(--line);padding-bottom:4px}article table{border-collapse:collapse;width:100%;font-size:15px}
+article th,article td{border:1px solid var(--line);padding:6px 8px;text-align:left}
 .card img{width:100%;height:160px;object-fit:cover;border-radius:6px;margin-bottom:8px;display:block}
 .draft{background:#fff3c4;color:#222;padding:2px 6px;border-radius:4px;font-size:13px}
 footer{border-top:1px solid var(--line);padding:18px 0;color:var(--muted);font-size:14px}
@@ -80,6 +92,23 @@ def expand_cta(body):
         return (f'<a class="cta" href="{url}" rel="sponsored noopener" target="_blank"><span><strong>{title}</strong>'
                 f'<span class="sub">{sub}</span></span><span class="btn">{btn}</span></a>')
     return CTA_RE.sub(rep, body)
+
+
+def cta_card(spec, cls="cta"):
+    """frontmatter の cta: URL|見出し|補足|ボタン文言 からカードを作る。"""
+    if not spec:
+        return ""
+    url, title, sub, btn = (html.escape(x.strip()) for x in (spec.split("|") + ["", "", ""])[:4])
+    return (f'<a class="{cls}" href="{url}" rel="sponsored noopener" target="_blank"><span><strong>{title}</strong>'
+            f'<span class="sub">{sub}</span></span><span class="btn">{btn or "Check availability"} →</span></a>')
+
+
+def sticky_bar(spec):
+    if not spec:
+        return ""
+    url, title, _, btn = (html.escape(x.strip()) for x in (spec.split("|") + ["", "", ""])[:4])
+    return (f'<a class="sticky" href="{url}" rel="sponsored noopener" target="_blank"><span>{title}</span>'
+            f'<span class="btn">{btn or "Check availability"}</span></a>')
 
 
 def image_url(meta, width=1200):
@@ -151,13 +180,23 @@ def main():
                        for q in posts if q is not p)
         (OUT / f"{p['slug']}.html").write_text(
             page(f"{p['title']} | {SITE_NAME}", p.get("description", ""),
-                 f"<article><h1>{html.escape(p['title'])}{badge}</h1>{top}{hero(p)}{p['html']}</article>"
+                 f"<article><h1>{html.escape(p['title'])}{badge}</h1>{top}{hero(p)}{cta_card(p.get('cta'), 'cta top')}{p['html']}"
+                 f"{('<h2>Ready to book?</h2>' + cta_card(p.get('cta'))) if p.get('cta') else ''}"
+                 f'<p class="disc">We may earn a commission if you book through links on this page, at no extra cost to you. <a href="about.html">Disclosure</a></p></article>'
+                 f"{sticky_bar(p.get('cta'))}"
                  f"<nav><h2>More Gifu guides</h2><ul>{more}</ul></nav>",
                  f"{p['slug']}.html", f'<script type="application/ld+json">{ld}</script>', image_url(p)))
         thumb = f'<img src="{image_url(p, 640)}" alt="" loading="lazy">' if p.get("image") else ""
         cards.append(f'<a class="card" href="{p["slug"]}.html">{thumb}<h2>{html.escape(p["title"])}{badge}</h2>'
                      f'<p>{html.escape(p.get("description", ""))}</p></a>')
-    (OUT / "index.html").write_text(page(SITE_NAME, "English travel guides to Gifu, Japan: day trips from Nagoya, Gifu City, Seki, Gujo Hachiman and more, with prices checked against official sources.", "<h1>Guides</h1>" + "".join(cards)))
+    order = ["nagoya-day-trips", "shirakawa-go-from-nagoya", "takayama-from-nagoya", "gero-onsen-guide", "gujo-hachiman-day-trip", "gifu-winter-guide"]
+    rank = {s: i for i, s in enumerate(order)}
+    cards = [c for _, c in sorted(zip(posts, cards), key=lambda pc: rank.get(pc[0]["slug"], 99))]
+    intro = ('<section class="intro"><h1>Day trips and stays in Gifu, Japan</h1>'
+             '<p>Shirakawa-go, Takayama, Gero Onsen and Gujo Hachiman are all reachable from Nagoya. '
+             'Each guide gives you the route, the costs and the booking options, checked against official sources.</p>'
+             '<a class="pill" href="nagoya-day-trips.html">Start here: which Gifu day trip from Nagoya? →</a></section>')
+    (OUT / "index.html").write_text(page(SITE_NAME, "English travel guides to Gifu, Japan: day trips from Nagoya, Gifu City, Seki, Gujo Hachiman and more, with prices checked against official sources.", intro + '<h2>Guides</h2><div class="grid">' + "".join(cards) + "</div>"))
     (OUT / "about.html").write_text(page(f"About | {SITE_NAME}", "About this site", """
 <h1>About</h1><p>Gifu, Locally is a small travel guide to Gifu Prefecture, Japan, written from local knowledge.
 Facts such as prices and opening hours come from official sources and carry the date we last checked them.</p>

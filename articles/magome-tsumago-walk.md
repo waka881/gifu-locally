@@ -4,6 +4,7 @@ description: "How to walk Magome to Tsumago on the Nakasendo from Nagoya: JR and
 summary: The Magome to Tsumago walk on the Nakasendo is about 9 km and takes 2.5 to 3 hours, with the highest point at Magome Pass, 790 m above sea level. From Nagoya, take the Limited Express Shinano to Nakatsugawa in about 50 minutes and a 25-minute bus to Magome, then return from Tsumago by bus to Nagiso Station and take the Shinano back to Nagoya in about 1 hour. Luggage forwarding costs 1,000 yen per bag from March 20 to November 30, 2026, with drop-off from 8:30 to 11:30.
 status: 公開
 facts_checked: 2026-10-18
+cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Keep maps and bus times on your phone|Japan eSIM you can set up before you fly. See data plans on Klook.|See plans
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

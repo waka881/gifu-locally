@@ -4,6 +4,7 @@ summary: Morning service is a Gifu coffee shop custom: order a drink in the morn
 title: "Gifu's Morning Service: Order a Coffee, Get Breakfast"
 status: 公開
 facts_checked: 2026-10-14
+cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Get mobile data before you land|Japan eSIM with a QR code voucher. See data plans and prices on Klook.|See plans
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

@@ -4,6 +4,7 @@ description: "How to visit Shirakawa-go from Nagoya in a day: the reserved highw
 summary: The Nagoya–Shirakawa-go highway bus leaves from the Meitetsu Bus Center, about a 5-minute walk from Nagoya Station, and takes about 2 hours 30 minutes, or about 2 hours 50 minutes in total from Nagoya Station. Seats must be reserved, bookings open one month before the travel date, and the adult one-way fare ranges from 3,600 yen to 4,700 yen depending on the date. A guided day tour from Nagoya suits travelers who would rather not deal with reservations, want a guide or want to add another town such as Takayama in one day.
 status: 公開
 facts_checked: 2026-10-16
+cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|Skip the bus planning: Shirakawa-go day tour from Nagoya|Guided tour that also stops in Takayama and Gujo Hachiman. See dates, itinerary and reviews on Klook.|Check dates
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

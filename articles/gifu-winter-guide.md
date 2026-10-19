@@ -4,6 +4,7 @@ description: "Plan a Gifu winter trip: Shirakawa-go light-up 2027 dates, Takayam
 summary: The 41st Shirakawa-go Light-Up is listed for January 11, 17, 24 and 31, 2027, and the previous edition was a fully advance-reservation event with no same-day visits. Takayama is a winter base about 2 hours 20 minutes from Nagoya Station on the Limited Express Hida, with buses to Shirakawa-go and Okuhida, where the Shinhotaka Ropeway round trip costs 3,800 yen for adults. Snow tires are required to drive to the Shinhotaka Ropeway, Takayama asks visitors not to drive rental cars on normal tires in winter, and Takayama–Shirakawa-go buses can run two hours or more late, so build spare time into each day.
 status: 公開
 facts_checked: 2026-10-19
+cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Leave the snowy roads to someone else|Takayama and Shirakawa-go day trip from Nagoya. Check winter dates and itinerary on Klook.|Check dates
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

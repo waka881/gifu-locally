@@ -4,6 +4,7 @@ description: "What makes beef officially Hida beef, how the grades work, and the
 summary: Hida beef is meat from Japanese Black cattle raised in Gifu Prefecture for at least 14 months, with a yield grade of A or B and a meat quality grade of 5, 4 or 3, confirmed by the Hida Beef Brand Promotion Council. Beef from the same cattle outside those grades is sold as Hida wagyu. In Takayama it is eaten as street food such as nigiri, skewers, buns and croquettes, or at sit-down meals of hoba miso, yakiniku, sukiyaki, shabu-shabu and steak.
 status: 公開
 facts_checked: 2026-10-18
+cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Get to Takayama without planning buses|Takayama and Shirakawa-go day trip from Nagoya. See dates and reviews on Klook.|Check dates
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*

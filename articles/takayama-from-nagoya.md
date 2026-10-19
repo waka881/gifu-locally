@@ -4,6 +4,7 @@ description: "How to get from Nagoya to Takayama by Limited Express Hida or high
 summary: From Nagoya, the Limited Express Hida reaches Takayama in approximately 2 hours and 20 minutes, with a limited express charge of ¥2,730 for an adult reserved seat in the regular season plus a separate basic fare ticket. The Nohi Bus highway bus takes 2 hours 40 minutes for a one-way fare of ¥3,600, or ¥3,300 with the web discount, and needs a reservation. A day trip works if you leave early, while an overnight stay adds the quieter evening and the morning markets, which close at noon.
 status: 公開
 facts_checked: 2026-10-18
+cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Takayama and Shirakawa-go day trip from Nagoya|Guided tour with transport included. See dates, itinerary and reviews on Klook.|Check dates
 ---
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*
