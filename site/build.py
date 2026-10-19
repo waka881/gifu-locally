@@ -84,6 +84,7 @@ def parse(path):
     meta["is_public"] = meta.get("status") == "公開"
     meta["html"] = markdown.markdown(expand_cta(body), extensions=["extra"])
     meta["faq"] = parse_faq(body)
+    meta["body"] = body
     return meta
 
 
@@ -197,6 +198,9 @@ def main():
                   "author": ORG,
                   "publisher": ORG}]
         graph[0] = {k: v for k, v in graph[0].items() if v}
+        graph.append({"@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": SITE_NAME, "item": BASE},
+            {"@type": "ListItem", "position": 2, "name": p["title"], "item": f"{BASE}{p['slug']}.html"}]})
         if p["faq"]:
             graph.append({"@type": "FAQPage", "mainEntity": [
                 {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in p["faq"]]})
@@ -223,10 +227,22 @@ def main():
              '<p>Shirakawa-go, Takayama, Gero Onsen and Gujo Hachiman are all reachable from Nagoya. '
              'Each guide gives you the route, the costs and the booking options, checked against official sources.</p>'
              '<a class="pill" href="nagoya-day-trips.html">Start here: which Gifu day trip from Nagoya? →</a></section>')
-    (OUT / "index.html").write_text(page(SITE_NAME, "English travel guides to Gifu, Japan: day trips from Nagoya, Gifu City, Seki, Gujo Hachiman and more, with prices checked against official sources.", intro + '<h2>Guides</h2><div class="grid">' + "".join(cards) + "</div>"))
+    (OUT / "index.html").write_text(page(SITE_NAME, "English travel guides to Gifu, Japan: day trips from Nagoya, Gifu City, Seki, Gujo Hachiman and more, with prices checked against official sources.", intro + '<h2>Guides</h2><div class="grid">' + "".join(cards) + "</div>", "",
+        '<script type="application/ld+json">' + json.dumps({"@context": "https://schema.org", "@graph": [
+            {"@type": "WebSite", "name": SITE_NAME, "alternateName": "岐阜グルマン", "url": BASE, "inLanguage": "en", "publisher": ORG},
+            {"@type": "ItemList", "name": "Gifu travel guides", "itemListElement": [
+                {"@type": "ListItem", "position": i + 1, "url": f"{BASE}{q['slug']}.html", "name": q["title"]} for i, q in enumerate(posts) if q["is_public"]]}]},
+            ensure_ascii=False) + "</script>"))
     (OUT / "about.html").write_text(page(f"About | {SITE_NAME}", "About this site", """
 <h1>About</h1><p>Gifu Gourmand is a food-led travel guide to Gifu Prefecture, Japan: what to eat, where to go and how to get there, from Nagoya day trips to onsen stays.
 Facts such as prices and opening hours come from official sources and carry the date we last checked them.</p>
+<h2>How we check facts</h2><ul>
+<li>Every price, timetable, opening hour and date comes from an official source: the operator, the municipality or the tourist association. We link that source next to the fact.</li>
+<li>Each guide shows the date its facts were last checked. We re-check guides on a rolling basis and update them when official information changes.</li>
+<li>We do not describe meals, rooms or experiences we have not had. When something could not be confirmed, we say so instead of guessing.</li>
+<li>Bookings are never a condition of being mentioned, and no one pays to be included in a guide.</li>
+</ul>
+<h2>Photos</h2><p>Photos are our own or come from Wikimedia Commons under Creative Commons licences. Each photo shows its author and licence.</p>
 <h2>Affiliate disclosure</h2><p>Some links on this site are affiliate links. If you book through them we may earn a
 commission at no extra cost to you. We only link to things we think are useful for your trip.</p>""", "about.html"))
     # インスタのプロフィール用の入口ページ（サイトマップには載せない）
@@ -237,9 +253,10 @@ commission at no extra cost to you. We only link to things we think are useful f
         '<section class="intro"><h1>Gifu Gourmand</h1><p>Eat and travel your way through Gifu, Japan. '
         'Routes, prices and booking options, checked against official sources.</p></section>'
         + links + '<a class="pill" href="index.html">All guides →</a>', "links.html").replace('<meta name="description"', '<meta name="robots" content="noindex"><meta name="description"', 1))
-    urls = [BASE] + [f"{BASE}{p['slug']}.html" for p in posts]
+    newest = max((p.get("facts_checked", "") for p in posts), default="")
+    urls = [(BASE, newest)] + [(f"{BASE}{p['slug']}.html", p.get("facts_checked", "")) for p in posts]
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-                                     + "".join(f"<url><loc>{u}</loc></url>" for u in urls) + "</urlset>\n")
+                                     + "".join(f"<url><loc>{u}</loc>" + (f"<lastmod>{d[:10]}</lastmod>" if re.match(r"\d{4}-\d{2}-\d{2}", d) else "") + "</url>" for u, d in urls) + "</urlset>\n")
     # RSSフィード（Pinterestの自動投稿などに使う）
     from email.utils import format_datetime
     from datetime import datetime, timezone
@@ -269,8 +286,23 @@ commission at no extra cost to you. We only link to things we think are useful f
     # AIアシスタント向けのサイト案内（llms.txt）
     (OUT / "llms.txt").write_text(f"# {SITE_NAME}\n\n> English travel guides to Gifu Prefecture, Japan, written for first-time visitors. "
         "Prices, hours and dates are checked against official sources, and each page shows the date it was last checked.\n\n## Guides\n\n"
-        + "".join(f"- [{q['title']}]({BASE}{q['slug']}.html): {q.get('summary') or q.get('description', '')}\n" for q in posts))
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n")
+        + "".join(f"- [{q['title']}]({BASE}{q['slug']}.html): {q.get('summary') or q.get('description', '')}\n" for q in posts)
+        + f"\n## Optional\n\n- [Full text of every guide]({BASE}llms-full.txt): all guides as plain Markdown, with check dates\n- [About and affiliate disclosure]({BASE}about.html)\n")
+    # AI検索・AIアシスタントのクローラーも明示的に許可する（引用されるため）
+    ai_bots = ["OAI-SearchBot", "ChatGPT-User", "GPTBot", "PerplexityBot", "Perplexity-User", "Claude-SearchBot",
+               "Claude-User", "ClaudeBot", "Google-Extended", "Applebot-Extended", "Bingbot", "DuckAssistBot", "CCBot"]
+    (OUT / "robots.txt").write_text("".join(f"User-agent: {b}\nAllow: /\n\n" for b in ai_bots)
+                                    + f"User-agent: *\nAllow: /\n\nSitemap: {BASE}sitemap.xml\n")
+    # AIエージェント向けの全文テキスト（llms-full.txt）
+    full = [f"# {SITE_NAME}: full text of all guides\n\n> {TAGLINE} Facts are checked against official sources; each guide shows its check date.\n"]
+    for p in posts:
+        if not p["is_public"]:
+            continue
+        b = re.sub(r"^\[\[cta\|.*?\]\]\s*$", "", p["body"], flags=re.M)
+        b = re.sub(r"\]\((?!https?://)([\w-]+\.html)\)", lambda m: f"]({BASE}{m.group(1)})", b)
+        full.append(f"\n---\n\n# {p['title']}\n\nURL: {BASE}{p['slug']}.html\nFacts checked: {p.get('facts_checked', '')}\n\n"
+                    + (f"Quick answer: {p['summary']}\n\n" if p.get("summary") else "") + b.strip() + "\n")
+    (OUT / "llms-full.txt").write_text("".join(full))
     print(f"built {len(posts)} article(s) -> {OUT}")
 
 
