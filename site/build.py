@@ -19,6 +19,7 @@ SITE_NAME = "Gifu Gourmand"
 TAGLINE = "Eat and travel your way through Gifu, Japan."
 DRAFT = "--draft" in sys.argv
 BASE = "https://gifugourmand.com/"
+PINTEREST = "https://www.pinterest.com/gifugourmand/"
 INSTAGRAM = ""  # 例: "https://www.instagram.com/gifu_gourmand/"（決まったら入れる）
 
 TRAVELPAYOUTS = """<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
@@ -174,11 +175,11 @@ def page(title, desc, content, path="", jsonld="", img=""):
 <style>{CSS}</style>{TRAVELPAYOUTS}</head><body>
 <header><div class="wrap"><a href="index.html">{SITE_NAME}</a><p>{TAGLINE}</p></div></header>
 <main class="wrap">{content}</main>
-<footer><div class="wrap"><a href="about.html">About &amp; disclosure</a>{f' · <a href="{INSTAGRAM}" rel="me noopener">Instagram</a>' if INSTAGRAM else ''}</div></footer>
+<footer><div class="wrap"><a href="about.html">About &amp; disclosure</a>{f' · <a href="{INSTAGRAM}" rel="me noopener">Instagram</a>' if INSTAGRAM else ''} · <a href="{PINTEREST}" rel="me noopener">Pinterest</a></div></footer>
 </body></html>"""
 
 
-ORG = {"@type": "Organization", "name": SITE_NAME, "alternateName": "岐阜グルマン", "url": BASE, **({"sameAs": [INSTAGRAM]} if INSTAGRAM else {})}
+ORG = {"@type": "Organization", "name": SITE_NAME, "alternateName": "岐阜グルマン", "url": BASE, "sameAs": [u for u in (INSTAGRAM, PINTEREST) if u]}
 
 
 def main():
