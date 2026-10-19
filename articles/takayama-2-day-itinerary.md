@@ -71,7 +71,7 @@ Go first thing, before you check out.
 
 ### Late morning: bus to Shirakawa-go
 
-The express bus from Takayama to Shirakawago Bus Terminal takes about 50 minutes, and the village is a 1-minute walk from the terminal ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). Check the current Nohi Bus timetable and reserve your seats.
+The express bus from Takayama to Shirakawago Bus Terminal takes about 50 minutes, and the village is a 1-minute walk from the terminal ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). The adult fare is ¥2,800 one way, and most departures need a reserved seat ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026). Check the current timetable and reserve your seats.
 
 ### Afternoon: 2–3 hours in Shirakawa-go
 
@@ -82,9 +82,11 @@ The Tourist Association estimates that walking around the village takes about 2�
 
 More detail is in our [Shirakawa-go guide](shirakawa-go-from-nagoya.html).
 
-### Evening: back to Nagoya
+### Evening: back to Nagoya, or on to Kanazawa
 
 The highway bus between Shirakawa-go and the Meitetsu Bus Center in Nagoya takes about 2 hours 30 minutes, with reserved seats only and adult fares of ¥3,600–¥4,700 depending on the date ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/); [Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026). Book this seat when you plan the trip; on a two-day trip, it sets how long you can stay in the village.
+
+If you are continuing to Kanazawa instead, buses run on from Shirakawa-go; see our [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html).
 
 ## Variations
 

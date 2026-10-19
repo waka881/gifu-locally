@@ -64,7 +64,7 @@ Tours that visit both in one day handle all the transport and reservations. The 
 - **Day 1:** Nagoya to Takayama by train or bus. Sanmachi, Takayama Jinya and Hida Folk Village.
 - **Day 2:** The morning markets, then the bus to Shirakawa-go for 2–3 hours, then onward travel.
 
-This is the most relaxed option and gives you the morning markets. See [where to stay in Takayama](where-to-stay-takayama.html) for areas to book.
+This is the most relaxed option and gives you the morning markets. If you are travelling on to Kanazawa, Shirakawa-go sits on the way; see our [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html). See [where to stay in Takayama](where-to-stay-takayama.html) for areas to book.
 
 
 

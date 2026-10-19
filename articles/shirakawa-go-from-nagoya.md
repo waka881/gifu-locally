@@ -40,7 +40,7 @@ Gifu Bus does not post the full timetable on the route page itself; it is a PDF 
 
 ### Alternative: train to Takayama, then bus
 
-You can also take the JR Limited Express Hida from Nagoya to Takayama (about 2 hours 20 minutes), then an express bus to Shirakawago Bus Terminal (about 50 minutes). The total is about 3 hours 25 minutes from Nagoya Station ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). This route takes longer, but it suits travelers who want to see Takayama as well or are using a rail pass. The Tourist Association links to [Nohi Bus](https://www.nouhibus.co.jp/) for the Takayama–Shirakawa-go leg.
+You can also take the JR Limited Express Hida from Nagoya to Takayama (about 2 hours 20 minutes), then an express bus to Shirakawago Bus Terminal (about 50 minutes). The total is about 3 hours 25 minutes from Nagoya Station ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). This route takes longer, but it suits travelers who want to see Takayama as well or are using a rail pass. The Tourist Association links to [Nohi Bus](https://www.nouhibus.co.jp/) for the Takayama–Shirakawa-go leg. Continuing to Kanazawa? See our [Nagoya–Takayama–Shirakawa-go–Kanazawa route guide](nagoya-takayama-shirakawa-go-kanazawa.html).
 
 ### Weather and delays
 
