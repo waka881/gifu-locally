@@ -220,7 +220,7 @@ def main():
         thumb = f'<img src="{image_url(p, 640)}" alt="" loading="lazy">' if p.get("image") else ""
         cards.append(f'<a class="card" href="{p["slug"]}.html">{thumb}<h2>{html.escape(p["title"])}{badge}</h2>'
                      f'<p>{html.escape(p.get("description", ""))}</p></a>')
-    order = ["nagoya-day-trips", "shirakawa-go-from-nagoya", "takayama-from-nagoya", "gero-onsen-guide", "gujo-hachiman-day-trip", "gifu-winter-guide"]
+    order = ["nagoya-day-trips", "takayama-or-shirakawa-go", "takayama-2-day-itinerary", "shirakawa-go-from-nagoya", "takayama-from-nagoya", "centrair-airport-to-gifu", "gero-onsen-guide", "gujo-hachiman-day-trip", "gifu-winter-guide"]
     rank = {s: i for i, s in enumerate(order)}
     cards = [c for _, c in sorted(zip(posts, cards), key=lambda pc: rank.get(pc[0]["slug"], 99))]
     intro = ('<section class="intro"><h1>Eat, explore and stay in Gifu, Japan</h1>'

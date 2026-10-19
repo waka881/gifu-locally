@@ -15,7 +15,7 @@ image_license: CC BY-SA 3.0
 
 Takayama is a mountain town in northern Gifu Prefecture. It has a preserved merchant district, two daily morning markets, and an Edo-period government office you can walk through. From Nagoya you can get there by train or by highway bus. This guide covers both, what to see once you arrive, and whether to go for the day or stay a night.
 
-For more trips from the same base, see our [Nagoya day trips hub](nagoya-day-trips.html).
+For more trips from the same base, see our [Nagoya day trips hub](nagoya-day-trips.html). Flying into Nagoya? See [Centrair Airport to Gifu and Takayama](centrair-airport-to-gifu.html). Planning two days? Try our [Takayama 2-day itinerary](takayama-2-day-itinerary.html).
 
 ## Getting from Nagoya to Takayama
 
