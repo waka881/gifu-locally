@@ -15,8 +15,8 @@ import markdown
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 ARTICLES = ROOT / "articles"
 OUT = ROOT / "dist"
-SITE_NAME = "Gifu, Locally"
-TAGLINE = "Gifu, Japan, from people who live here."
+SITE_NAME = "Gifu Gourmand"
+TAGLINE = "Eat and travel your way through Gifu, Japan."
 DRAFT = "--draft" in sys.argv
 BASE = "https://waka881.github.io/gifu-locally/"
 
@@ -198,13 +198,13 @@ def main():
     order = ["nagoya-day-trips", "shirakawa-go-from-nagoya", "takayama-from-nagoya", "gero-onsen-guide", "gujo-hachiman-day-trip", "gifu-winter-guide"]
     rank = {s: i for i, s in enumerate(order)}
     cards = [c for _, c in sorted(zip(posts, cards), key=lambda pc: rank.get(pc[0]["slug"], 99))]
-    intro = ('<section class="intro"><h1>Day trips and stays in Gifu, Japan</h1>'
+    intro = ('<section class="intro"><h1>Eat, explore and stay in Gifu, Japan</h1>'
              '<p>Shirakawa-go, Takayama, Gero Onsen and Gujo Hachiman are all reachable from Nagoya. '
              'Each guide gives you the route, the costs and the booking options, checked against official sources.</p>'
              '<a class="pill" href="nagoya-day-trips.html">Start here: which Gifu day trip from Nagoya? →</a></section>')
     (OUT / "index.html").write_text(page(SITE_NAME, "English travel guides to Gifu, Japan: day trips from Nagoya, Gifu City, Seki, Gujo Hachiman and more, with prices checked against official sources.", intro + '<h2>Guides</h2><div class="grid">' + "".join(cards) + "</div>"))
     (OUT / "about.html").write_text(page(f"About | {SITE_NAME}", "About this site", """
-<h1>About</h1><p>Gifu, Locally is a small travel guide to Gifu Prefecture, Japan, written from local knowledge.
+<h1>About</h1><p>Gifu Gourmand is a food-led travel guide to Gifu Prefecture, Japan: what to eat, where to go and how to get there, from Nagoya day trips to onsen stays.
 Facts such as prices and opening hours come from official sources and carry the date we last checked them.</p>
 <h2>Affiliate disclosure</h2><p>Some links on this site are affiliate links. If you book through them we may earn a
 commission at no extra cost to you. We only link to things we think are useful for your trip.</p>""", "about.html"))
