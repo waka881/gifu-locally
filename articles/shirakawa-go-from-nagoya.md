@@ -13,7 +13,7 @@ image_license: CC BY-SA 2.0
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*
 
-Shirakawa-go, the gassho-zukuri farmhouse village in the mountains of northern Gifu, is a realistic day trip from Nagoya. You have two practical choices: book a seat on the direct highway bus and explore on your own, or join a guided day tour that handles the transport for you. This guide covers both, with the official details you need to plan.
+Shirakawa-go, the gassho-zukuri farmhouse village in the mountains of northern Gifu, is a realistic day trip from Nagoya. You have two practical choices: book a seat on the direct highway bus and explore on your own, or join a guided day tour that handles the transport for you. This guide covers both, with the official details you need to plan. Still deciding? See [Is Shirakawa-go worth visiting?](is-shirakawa-go-worth-visiting.html) and the [best time to visit Shirakawa-go](best-time-to-visit-shirakawa-go.html).
 
 ## Getting there by highway bus from Nagoya
 

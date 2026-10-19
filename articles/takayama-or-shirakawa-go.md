@@ -72,7 +72,7 @@ This is the most relaxed option and gives you the morning markets. See [where to
 
 ## Which is better in winter?
 
-Shirakawa-go in snow is the image many people have in mind. On four evenings in 2027 (January 11, 17, 24 and 31), the village holds its winter light-up, and the 2026 event was reservation-only ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/); [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/event/detail_1287.html), as of October 2026). Read our [light-up guide](shirakawa-go-light-up.html) before you plan.
+Shirakawa-go in snow is the image many people have in mind. On four evenings in 2027 (January 11, 17, 24 and 31), the village holds its winter light-up, and the 2026 event was reservation-only ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/); [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/event/detail_1287.html), as of October 2026). Read our [light-up guide](shirakawa-go-light-up.html) before you plan. For cherry blossom and autumn leaf dates, see the [best time to visit Shirakawa-go](best-time-to-visit-shirakawa-go.html).
 
 Highway buses can be delayed by road and weather conditions, and Gifu Bus does not refund fares or cover missed connections caused by delays ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html)). In winter, leave a buffer before any onward train or flight. Our [Gifu winter guide](gifu-winter-guide.html) has more.
 
