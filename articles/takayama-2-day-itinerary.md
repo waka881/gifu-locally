@@ -89,7 +89,7 @@ The highway bus between Shirakawa-go and the Meitetsu Bus Center in Nagoya takes
 ## Variations
 
 - **Winter light-up:** in January 2027, Shirakawa-go holds its light-up on January 11, 17, 24 and 31, and the 2026 event was reservation-only. See our [light-up guide](shirakawa-go-light-up.html) before building it into this plan.
-- **Add an onsen night:** continue to Gero Onsen instead of returning to Nagoya directly. JR Central lists the train from Takayama to Gero at about 45–60 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). See our [Gero Onsen guide](gero-onsen-guide.html).
+- **Add an onsen night:** continue to Gero Onsen instead of returning to Nagoya directly. JR Central lists the train from Takayama to Gero at about 45–60 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). See our [Gero Onsen guide](gero-onsen-guide.html). For mountain open-air baths instead, compare [Gero and Okuhida](gero-vs-okuhida-onsen.html).
 - **Only one day?** A guided tour from Nagoya can cover both towns in a day, with less time in each. Compare the options in [Takayama or Shirakawa-go?](takayama-or-shirakawa-go.html)
 
 ## FAQ

@@ -15,7 +15,7 @@ image_license: CC BY-SA 4.0
 
 Gero Onsen is a hot spring town on the Hida River in southern Gifu Prefecture. The [Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/) describes it as one of Japan's "three famous hot springs" (*Nihon Sanmeisen*), alongside Arima in Hyogo and Kusatsu in Gunma. It sits on the JR Takayama Line between Nagoya and Takayama, so it works as a day trip from Nagoya or as an overnight stop on the way into the Hida mountains.
 
-This guide covers getting there, where to bathe without staying at an inn, the Yumeguri Tegata bath pass, onsen etiquette, and how to pick a ryokan if you decide to stay.
+This guide covers getting there, where to bathe without staying at an inn, the Yumeguri Tegata bath pass, onsen etiquette, and how to pick a ryokan if you decide to stay. Deciding between Gero and the mountain hot springs above Takayama? See [Gero Onsen vs Okuhida Onsen](gero-vs-okuhida-onsen.html).
 
 ## What makes Gero's water different
 

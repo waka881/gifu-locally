@@ -66,7 +66,7 @@ Okuhida Onsengo is in the mountains east of town, and Hirayu Onsen is its gatewa
 
 **Example property:** Okada Ryokan Warakutei is in Hirayu Onsen. Its official site says the inn has 10 guest rooms, each with its own open-air bath, and draws on its own hot-spring sources (as of October 2026, [official site](https://www.okadaryokan.com/eng/)).
 
-**Trade-off:** Okuhida is a separate trip, not a base for exploring Takayama town. Most first-time visitors sleep in Takayama, then move to Okuhida for one night. If you would rather stay at a hot-spring town on the train line, compare it with [Gero Onsen](gero-onsen-guide.html). The [Hida Takayama–Gero Onsen 2-day free bus ticket](https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/) is one way to combine the two.
+**Trade-off:** Okuhida is a separate trip, not a base for exploring Takayama town. Most first-time visitors sleep in Takayama, then move to Okuhida for one night. If you would rather stay at a hot-spring town on the train line, compare it with [Gero Onsen](gero-onsen-guide.html), or read our [Gero vs Okuhida comparison](gero-vs-okuhida-onsen.html). The [Hida Takayama–Gero Onsen 2-day free bus ticket](https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/) is one way to combine the two.
 
 ## Ryokan vs hotel in Takayama
 
