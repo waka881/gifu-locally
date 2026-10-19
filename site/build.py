@@ -278,6 +278,33 @@ commission at no extra cost to you. We only link to things we think are useful f
     (OUT / "feed.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">'
                                   f"<channel><title>{SITE_NAME}</title><link>{BASE}</link><description>{TAGLINE}</description><language>en</language>"
                                   + items + "</channel></rss>\n")
+    # Pinterest用の縦長ピン（1000x1500）を記事ごとに作る。HTMLをここで出し、PNGはデプロイ時にChromeで描画する。
+    # feed-pins.xml はそのピン画像を使う2本目のRSS（Pinterestで別ボードにつなぐと、記事ごとに新しいピンが自動で増える）。
+    sys.path.insert(0, str(ROOT / "social"))
+    from make_pins import CSS as PIN_CSS
+    (OUT / "pins").mkdir(exist_ok=True)
+    pin_items = ""
+    for p in sorted([q for q in posts if q["is_public"] and q["slug"] not in pinned and q.get("image")], key=pub, reverse=True):
+        e = html.escape
+        head = p["title"].split(":")[0].split("?")[0].strip()
+        head = head + "?" if p["title"].split(":")[0].strip().endswith("?") else head
+        qs = [q for q, _ in p["faq"]][:3] or [p.get("description", "")[:90]]
+        lis = "".join(f"<li>{e(q if len(q) <= 64 else q[:61].rsplit(' ', 1)[0] + '…')}</li>" for q in qs)
+        credit = f"Photo: {p.get('image_credit', '')}, {p.get('image_license', '')} (cropped)"
+        (OUT / "pins" / f"{p['slug']}.html").write_text(
+            f'<!doctype html><html><head><meta charset="utf-8"><meta name="robots" content="noindex"><style>{PIN_CSS}</style></head><body>'
+            f'<div class="photo" style="background-image:url(\'{e(image_url(p, 1400))}\')"><div class="tag">GIFU TRAVEL GUIDE</div>'
+            f'<div class="credit">{e(credit)}</div></div>'
+            f'<div class="body"><h1>{e(head)}</h1><ul>{lis}</ul></div>'
+            f'<div class="foot"><b>Gifu Gourmand</b><span>Full guide · gifugourmand.com</span></div></body></html>')
+        u = f"{BASE}{p['slug']}.html?utm_source=pinterest&utm_medium=social&utm_campaign=pin-rss"
+        img = f"{BASE}pins/{p['slug']}.png"
+        pin_items += (f"<item><title>{e(p['title'])}</title><link>{e(u)}</link><guid>{BASE}pins/{p['slug']}</guid>"
+                      f"<pubDate>{format_datetime(pub(p))}</pubDate><description>{e((p.get('summary') or p.get('description', ''))[:480])}</description>"
+                      f'<media:content url="{img}" medium="image"/><enclosure url="{img}" type="image/png" length="0"/></item>')
+    (OUT / "feed-pins.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">'
+                                       f"<channel><title>{SITE_NAME} pins</title><link>{BASE}</link><description>{TAGLINE}</description><language>en</language>"
+                                       + pin_items + "</channel></rss>\n")
     for f in (ROOT / "static").rglob("*"):  # IndexNow鍵ファイル・自前の写真など、そのまま配信するファイル
         if f.is_file() and f.name != ".keep":
             dest = OUT / f.relative_to(ROOT / "static")
@@ -292,7 +319,7 @@ commission at no extra cost to you. We only link to things we think are useful f
     ai_bots = ["OAI-SearchBot", "ChatGPT-User", "GPTBot", "PerplexityBot", "Perplexity-User", "Claude-SearchBot",
                "Claude-User", "ClaudeBot", "Google-Extended", "Applebot-Extended", "Bingbot", "DuckAssistBot", "CCBot"]
     (OUT / "robots.txt").write_text("".join(f"User-agent: {b}\nAllow: /\n\n" for b in ai_bots)
-                                    + f"User-agent: *\nAllow: /\n\nSitemap: {BASE}sitemap.xml\n")
+                                    + f"User-agent: *\nAllow: /\nDisallow: /pins/*.html\n\nSitemap: {BASE}sitemap.xml\n")
     # AIエージェント向けの全文テキスト（llms-full.txt）
     full = [f"# {SITE_NAME}: full text of all guides\n\n> {TAGLINE} Facts are checked against official sources; each guide shows its check date.\n"]
     for p in posts:

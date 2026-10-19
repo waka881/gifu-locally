@@ -23,6 +23,15 @@ jobs:
           python-version: "3.12"
       - run: pip install markdown
       - run: python site/build.py
+      - name: Render Pinterest pin images
+        continue-on-error: true
+        run: |
+          cd dist/pins
+          for f in *.html; do
+            google-chrome --headless=new --no-sandbox --hide-scrollbars --virtual-time-budget=8000 \
+              --window-size=1000,1500 --screenshot="$PWD/${f%.html}.png" "file://$PWD/$f" 2>/dev/null
+          done
+          ls -la | head -40
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
