@@ -76,7 +76,7 @@ From October to March, early mornings can leave the castle floating above a sea 
 ## Book ahead
 
 - **Short on time?** A [guided day tour from Nagoya](https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/) on Klook combines Gujo Hachiman with Takayama and Shirakawa-go.
-- **Stay connected:** a [Japan eSIM on Klook](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) works from the moment you land.
+- **Stay connected:** a [Japan eSIM from Yesim](https://yesim.app/country/japan/) works from the moment you land.
 - **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---

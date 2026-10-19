@@ -4,7 +4,7 @@ description: "eSIM, pocket WiFi or SIM for Takayama, Shirakawa-go and the Nakase
 summary: If your phone is unlocked and supports eSIM, a data-only travel eSIM is usually the simplest option for Gifu. Pocket WiFi suits groups sharing one connection, and a physical SIM suits phones without eSIM. Whatever you pick, check the carrier coverage map for the places on your route.
 status: 公開
 facts_checked: 2026-10-19
-cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Get a Japan eSIM before you fly|Data-only eSIM with a QR code. Check the plans and supported devices on Klook.|See plans
+cta: https://yesim.app/country/japan/|Get a Japan eSIM before you fly|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Takayama Train and Bus Station from above.jpg
 image_alt: Takayama train and bus station seen from above
 image_credit: BobTanGo
@@ -68,6 +68,8 @@ An eSIM is a digital SIM built into your phone. A travel eSIM adds a data line a
 - activation through the Klook app, a QR code or manual entry
 
 The page also says locked devices are not supported and that each QR code works on one device. Plans and compatible devices can change, so check both on the product page before you buy.
+
+**Another example:** [Yesim's Japan eSIM page](https://yesim.app/country/japan/) lists data-only plans by size and length, including 1 GB, 5 GB and 10 GB plans valid for 30 days, and unlimited-data plans for set numbers of days, such as 5, 10 or 30 days (as of October 2026, [Yesim](https://yesim.app/country/japan/)). Its 10 GB, 30-day plan was listed at $19.20 when we checked ([Yesim](https://yesim.app/country/japan/30days-10gb-esim-data-plan/)). Prices change, so check the current plan list before you buy.
 
 ## How to set up an eSIM (iPhone and Android)
 

@@ -139,7 +139,7 @@ Because of these rules, many visitors from Nagoya go to the light-up on an organ
 
 **Choose a tour** if you'd rather not deal with reservations and timetables, want a guide, want to add another town in one day, or are going to the winter light-up.
 
-If you're leaning toward a tour, you can browse Shirakawa-go day tours departing Nagoya on [Klook](https://klook.tpk.lu/zp1hCE5f). Don't forget a [Japan eSIM](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) for maps and bus times on the day.
+If you're leaning toward a tour, you can browse Shirakawa-go day tours departing Nagoya on [Klook](https://klook.tpk.lu/zp1hCE5f). Don't forget a [Japan eSIM](https://yesim.app/country/japan/) for maps and bus times on the day.
 
 ## FAQ
 

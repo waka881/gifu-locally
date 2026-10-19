@@ -83,7 +83,7 @@ The 2027 schedule had not been published when this guide was checked. Dates are 
 Tips for a smooth trip:
 
 - Build spare time into any day that includes Shirakawa-go or Okuhida, and avoid tight connections to the last train.
-- Keep a data connection for checking live status. **Booking option:** [Japan eSIM, high-speed internet QR code voucher](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) (Klook). Check data allowance, validity and phone compatibility before buying.
+- Keep a data connection for checking live status. **Booking option:** [Japan eSIM plans](https://yesim.app/country/japan/) (Yesim). Check data allowance, validity and phone compatibility before buying.
 - For more winter-friendly routes from Nagoya, see [Nagoya day trips](nagoya-day-trips.html).
 
 ## What to pack

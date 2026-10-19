@@ -115,7 +115,7 @@ There's no official Nohi light-up tour leaving from Nagoya, since its tours star
 - **Dress for cold and snow.** Nohi Bus warns that evenings are very cold and recommends warm clothing and non-slip, snow-ready shoes ([source](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/)).
 - **Allow for delays.** Snow and traffic can shorten your time in the village (same source).
 - **Watch for cancellations.** The organisers said the 2026 event could be cancelled if a nationwide cold wave seriously disrupted transport ([2026 notice](https://shirakawa-go.gr.jp/datas/files/2025/06/27/1dde4eb133e0d6ab4d776ad54ec807c1961b7b14.pdf)).
-- **Stay connected.** Booking emails and bus updates come by email and online, so data on your phone helps. A [Japan eSIM](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) is one option.
+- **Stay connected.** Booking emails and bus updates come by email and online, so data on your phone helps. A [Japan eSIM](https://yesim.app/country/japan/) is one option.
 - Planning the rest of your trip? See our [Gifu winter guide](gifu-winter-guide.html).
 
 ## Where official updates appear

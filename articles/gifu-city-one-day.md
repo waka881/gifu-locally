@@ -4,7 +4,7 @@ description: "A simple one-day plan for Gifu City: morning service breakfast, th
 summary: Gifu City is about 20 minutes from Nagoya by JR rapid train, and one day is enough for a morning service breakfast, the Mt. Kinka Ropeway and the Kawaramachi old town. From JR Gifu Station, a Gifu Bus to the Gifu Park stop takes about 15 minutes, and the 4-minute ropeway costs ¥1,300 round trip for adults (as of October 2026). The Gifu Castle keep has been closed for renovation since May 19, 2026, with reopening planned for November 2027.
 status: 公開
 facts_checked: 2026-10-18
-cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Get mobile data before you land|Japan eSIM with a QR code voucher. See data plans and prices on Klook.|See plans
+cta: https://yesim.app/country/japan/|Get mobile data before you land|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Mount Kinka and Gifu Castle from Twinarch138.jpg
 image_alt: Mount Kinka with Gifu Castle on its summit
 image_credit: Alpsdake
@@ -60,7 +60,7 @@ Gifu City is about 20 minutes from Nagoya by JR rapid train, so it works as a on
 
 ## Book ahead
 
-- **Stay connected:** a [Japan eSIM on Klook](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) works from the moment you land.
+- **Stay connected:** a [Japan eSIM from Yesim](https://yesim.app/country/japan/) works from the moment you land.
 - **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---

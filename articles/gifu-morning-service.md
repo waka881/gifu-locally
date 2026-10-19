@@ -4,7 +4,7 @@ summary: Morning service is a Gifu coffee shop custom: order a drink in the morn
 title: "Gifu's Morning Service: Order a Coffee, Get Breakfast"
 status: 公開
 facts_checked: 2026-10-14
-cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Get mobile data before you land|Japan eSIM with a QR code voucher. See data plans and prices on Klook.|See plans
+cta: https://yesim.app/country/japan/|Get mobile data before you land|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Blend Coffee and Morning Sets 20231123 02.jpg
 image_alt: Coffee with a free morning set at a cafe in Kakamigahara, Gifu
 image_credit: 先従隗始
@@ -66,7 +66,7 @@ Do not expect English menus. A photo menu or pointing at the menu works fine.
 
 ## Book ahead
 
-- **Stay connected:** a [Japan eSIM on Klook](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) works from the moment you land.
+- **Stay connected:** a [Japan eSIM from Yesim](https://yesim.app/country/japan/) works from the moment you land.
 - **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---

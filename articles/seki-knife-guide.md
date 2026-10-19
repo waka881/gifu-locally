@@ -4,7 +4,7 @@ description: "Seki in Gifu has 700+ years of blade-making history. When to see t
 summary: Seki is about 40 minutes by bus from Gifu Station and has been making blades for more than 700 years. The Seki Kaji Denshokan (Seki Swordsmith Museum) is closed for renovation from September 7, 2026 to March 31, 2027, but its forging workshop stays open, with sword forging demonstrations on Sunday, November 1 and Sunday, December 6, 2026. To buy a knife, the Seki Hamono Museum (Cutler SANSYU) has free entry and is open 9:00 to 16:30 every day.
 status: 公開
 facts_checked: 2026-10-19
-cta: https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/|Get mobile data before you land|Japan eSIM with a QR code voucher. See data plans and prices on Klook.|See plans
+cta: https://yesim.app/country/japan/|Get mobile data before you land|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Seki Sword Tradition Museum 1.JPG
 image_alt: Seki Sword Tradition Museum in Seki, Gifu
 image_credit: Hide-sp
@@ -74,7 +74,7 @@ Knives are not allowed in airplane carry-on bags, so carry it home in checked ba
 
 ## Book ahead
 
-- **Stay connected:** a [Japan eSIM on Klook](https://www.klook.com/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/) works from the moment you land.
+- **Stay connected:** a [Japan eSIM from Yesim](https://yesim.app/country/japan/) works from the moment you land.
 - **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---
