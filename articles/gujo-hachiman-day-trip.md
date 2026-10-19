@@ -3,7 +3,7 @@ title: "Gujo Hachiman Day Trip from Nagoya: Castle, Water Town and Autumn Leaves
 description: "How to reach Gujo Hachiman from Nagoya by highway bus, what to see in the castle town, and the autumn 2026 dates for leaves and the castle above the clouds."
 summary: From Nagoya, take the highway bus from the JR Nagoya Station (Shinkansen side) bus stop to the Gujo Hachiman IC stop: about 1 hour 20 minutes, six buses each way per day, ¥2,600 one way or ¥2,300 if booked online (fares as of April 2026). From the IC stop, a reservation-only shared taxi to the town center costs ¥350 per person. The town suits a day trip for its castle, canals and autumn leaves, with peak color forecast around November 7 to 23, 2026.
 status: 公開
-facts_checked: 2026-10-15
+facts_checked: 2026-10-20
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|Gujo Hachiman + Shirakawa-go + Takayama in one day|Guided day tour from Nagoya, no transfers to plan. See dates and reviews on Klook.|Check dates
 image: Gujo from Gujo Hachiman castle.jpg
 image_alt: View over Gujo Hachiman town from Gujo Hachiman Castle
@@ -18,6 +18,14 @@ Gujo Hachiman is a small castle town in the mountains of central Gifu, built alo
 ## Getting there from Nagoya
 
 The easiest way is the **highway bus** from the JR Nagoya Station (Shinkansen side) bus stop to the **Gujo Hachiman IC** stop: about 1 hour 20 minutes, six buses each way per day, ¥2,600 one way (¥2,300 if you book online). Buses from the Meitetsu Bus Center also run, with fewer departures ([Gifu tourism](https://www.kankou-gifu.jp/article/detail_370.html), fares as of April 2026).
+
+| Bus line | From | To | Buses each way | Time | Adult fare |
+|---|---|---|---|---|---|
+| Nagoya–Takayama line | JR Nagoya Station (Shinkansen side) | Gujo Hachiman IC | 6 | About 1 h 20 min | ¥2,600 (¥2,300 online) |
+| Nagoya–Shirakawa-go (Kanazawa) line | Meitetsu Bus Center | Gujo Hachiman IC | 3 | About 1 h 7 min | ¥2,400 |
+| Nagoya–Gujo Hachiman/Hirugano line | Meitetsu Bus Center | Gujo Hachiman Castle Town Plaza (in town) | 1 | About 1 h 35 min | ¥2,400 |
+
+*Source: [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/article/detail_370.html), as of April 1, 2026. The Meitetsu Bus Center is a 10–15 minute walk from JR Nagoya Station.*
 
 The Gujo Hachiman IC stop is on the expressway, not in town. A shared taxi takes you to the center for **¥350 per person**, but it runs **by reservation only**, so book it before you set off ([Gujo Hachiman Tourism Association](https://www.gujohachiman.com/kanko/)).
 
@@ -80,4 +88,4 @@ From October to March, early mornings can leave the castle floating above a sea 
 - **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-15.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-20.*

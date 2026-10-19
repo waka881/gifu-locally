@@ -98,6 +98,7 @@ It is most worth it if the thatched farmhouse village is a sight you specificall
 |---|---|---|
 | Highway bus from Nagoya | Independent travellers on a day trip | Reserved seats; booking opens one month ahead ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html)) |
 | Express bus from Takayama | Anyone staying in Takayama | About 50 minutes; reserve seats with Nohi Bus |
+| Express bus from Kanazawa | Anyone staying in Kanazawa | About 1 h 20 min, ¥2,800; see [Shirakawa-go from Kanazawa](shirakawa-go-from-kanazawa.html) |
 | Guided day tour from Nagoya | One-day visitors who want to add Takayama | Less time in each place; check the itinerary |
 | Overnight stay | Avoiding the midday crowds | Farmhouse inns book up early |
 

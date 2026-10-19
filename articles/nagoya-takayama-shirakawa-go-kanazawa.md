@@ -1,7 +1,7 @@
 ---
 title: "Nagoya to Kanazawa via Takayama and Shirakawa-go: The Japan Alps Route"
 description: "How to travel Nagoya → Takayama → Shirakawa-go → Kanazawa: trains, the Nohi Bus to Kanazawa, fares, reservations, luggage, winter delays and a sample 2–3 day plan."
-summary: The classic Japan Alps route runs Nagoya to Takayama by Limited Express Hida (about 2 hours 20 minutes), then Takayama to Shirakawa-go by Nohi Bus (about 50 minutes, ¥2,800), then Shirakawa-go to Kanazawa by bus (about 1 hour 15 minutes, ¥2,800); the Takayama–Kanazawa bus fare is ¥4,200 if you ride through. Most buses need a reserved seat, and in winter delays of two hours or more can happen, so plan 2–3 days with a night in Takayama.
+summary: The classic Japan Alps route runs Nagoya to Takayama by Limited Express Hida (about 2 hours 20 minutes), then Takayama to Shirakawa-go by Nohi Bus (about 50 minutes, ¥2,800), then Shirakawa-go to Kanazawa by bus (about 1 hour 20 minutes, ¥2,800); the Takayama–Kanazawa bus fare is ¥4,200 if you ride through. Most buses need a reserved seat, and in winter delays of two hours or more can happen, so plan 2–3 days with a night in Takayama.
 status: 公開
 facts_checked: 2026-10-19
 cta: https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/|JR Takayama-Hokuriku Area Tourist Pass|5-day pass for travelling between Nagoya, Takayama and the Hokuriku region. Check the route map and price on Klook.|See pass
@@ -22,10 +22,10 @@ One of the most popular routes through central Japan runs from Nagoya up into th
 | Nagoya → Takayama | JR Limited Express Hida | About 2 h 20 min | Base fare + limited express charge |
 | Nagoya → Takayama (alternative) | Nohi Bus highway bus | 2 h 40 min | ¥3,600 (¥3,300 web discount) |
 | Takayama → Shirakawa-go | Nohi Bus | About 50 min | ¥2,800 |
-| Shirakawa-go → Kanazawa | Bus | About 1 h 15 min | ¥2,800 |
+| Shirakawa-go → Kanazawa | Bus | About 1 h 20 min | ¥2,800 |
 | Takayama → Kanazawa (riding through) | Nohi Bus | 2 h 5 min–2 h 20 min | ¥4,200 |
 
-*Sources: [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/); [Nohi Bus, Nagoya line](https://www.nouhibus.co.jp/highwaybus/nagoya_en/); [Nohi Bus, Shirakawa-go line](https://www.nouhibus.co.jp/route_bus/shirakawago_en/); [Nohi Bus express bus list](https://www.nouhibus.co.jp/english/highwaybus/); [Visit Gifu](https://visitgifu.com/see-do/unesco-world-heritage-site-shirakawa-go/), as of October 2026.*
+*Sources: [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/); [Nohi Bus, Nagoya line](https://www.nouhibus.co.jp/highwaybus/nagoya_en/); [Nohi Bus, Shirakawa-go line](https://www.nouhibus.co.jp/route_bus/shirakawago_en/); [Nohi Bus express bus list](https://www.nouhibus.co.jp/english/highwaybus/); [Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026.*
 
 ## How do you get from Nagoya to Takayama?
 
@@ -43,7 +43,7 @@ Nohi Bus runs a line from the Takayama Nohi Bus Center, next to JR Takayama Stat
 - **Frequency:** the page lists 16 round trips a day, but some services do not run on weekends, national holidays, August 13–15 or December 29–January 3.
 - **Reservations:** services marked "R" on the timetable need a reserved seat, and most Takayama–Shirakawa-go services carry that mark. Reserved buses can be booked online through Japan Bus Online. Mobile tickets are only for non-reserved buses.
 
-Visit Gifu gives the Shirakawa-go–Kanazawa bus time as about 1 hour 15 minutes ([Visit Gifu](https://visitgifu.com/see-do/unesco-world-heritage-site-shirakawa-go/)).
+The Shirakawa-go Tourist Association gives the express bus time between Kanazawa Station and Shirakawago Bus Terminal as about 1 hour 20 minutes ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)). For a day trip the other way, see [Shirakawa-go from Kanazawa](shirakawa-go-from-kanazawa.html).
 
 ### Should you buy Takayama–Kanazawa or two separate tickets?
 
