@@ -1,6 +1,9 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
+ "shirakawa-go-light-up": "Shirakawa-go light up",
+ "where-to-stay-takayama": "Takayama Miyagawa",
+ "japan-esim-gifu": "Takayama station Gifu",
  "shirakawa-go-from-nagoya": "Shirakawa-go gassho village",
  "takayama-from-nagoya": "Takayama Sanmachi old town",
  "hida-beef-takayama": "Hida beef",
@@ -21,8 +24,12 @@ def api(params):
     url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode({**params, "format": "json"})
     return json.load(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30))
 def clean(s): return re.sub(r"<[^>]+>", "", s or "").strip()
+import os
+ONLY = set(filter(None, os.environ.get("ONLY", "").split(",")))
 out = {}
 for slug, q in Q.items():
+    if ONLY and slug not in ONLY:
+        continue
     d = api({"action": "query", "generator": "search", "gsrsearch": f"{q} filetype:bitmap", "gsrnamespace": 6, "gsrlimit": 20,
              "prop": "imageinfo", "iiprop": "extmetadata|size"})
     cands = []

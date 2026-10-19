@@ -1,5 +1,11 @@
 name: Commons image candidates
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: comma-separated slugs (empty = all)
+        required: false
+        default: ""
 permissions:
   contents: read
 jobs:
@@ -8,3 +14,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 tools/commons_candidates.py
+        env:
+          ONLY: ${{ inputs.only }}
