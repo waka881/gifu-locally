@@ -54,6 +54,8 @@ Takayama is a good winter base. The limited express trains from Nagoya and the b
 
 ## Okuhida Onsen and the Shinhotaka Ropeway in winter
 
+Full details on tickets, buses from Takayama and temperatures are in our [Shinhotaka Ropeway guide](shinhotaka-ropeway.html).
+
 Okuhida Onsengo is a group of five hot spring areas in the mountains east of Takayama: **Hirayu, Fukuchi, Shin-Hirayu, Tochio and Shinhotaka** ([Okuhida Onsengo Tourism Association](https://okuhida.or.jp/hot-springs)). The tourism association describes winter as the season to warm up in a snow-viewing bath ([Okuhida Onsengo](https://okuhida.or.jp/experience)). It also notes that the **Shinhotaka no Yu** day-use bath is closed in winter (as of October 2026, [Okuhida Onsengo](https://okuhida.or.jp/hot-springs)).
 
 Winter night events in the area listed on Hida Takayama's calendar include:

@@ -5,9 +5,9 @@ summary: Takayama is fully open in winter, with shorter hours at some sights (th
 status: 公開
 facts_checked: 2026-10-20
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay near JR Takayama Station this winter|The station area keeps you close to trains and the bus center when roads are snowy. Compare hotels on Klook.|See stays
-image: Takayamacity center Old town No,2.JPG
-image_alt: Old merchant houses in central Takayama
-image_credit: Mti
+image: Takayama's Early Winter Welcome (NE).jpg
+image_alt: Takayama under early winter snow
+image_credit: Nickaura (Nick Sevarg)
 image_license: CC BY-SA 3.0
 ---
 
@@ -55,7 +55,7 @@ Hida Takayama Tourism's event calendar lists these winter events. The dates belo
 
 *Sources: Hida Takayama Tourism event calendar for [December](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000181.html), [January](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000180.html) and [February](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000184.html), checked October 2026.*
 
-The Nijuyokka-ichi fair, held since 1872, sells handmade crafts from local farmers, and the street is closed to traffic for the day. The Aodaru ice columns at Fukuji Onsen are about 1 hour 10 minutes by bus from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000180.html)). To combine the Okuhida ice events with a hot spring night, see [Gero Onsen vs Okuhida Onsen](gero-vs-okuhida-onsen.html).
+The Nijuyokka-ichi fair, held since 1872, sells handmade crafts from local farmers, and the street is closed to traffic for the day. The Aodaru ice columns at Fukuji Onsen are about 1 hour 10 minutes by bus from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000180.html)). To combine the Okuhida ice events with a hot spring night, see [Gero Onsen vs Okuhida Onsen](gero-vs-okuhida-onsen.html). For snowy mountain views from 2,156 m, see the [Shinhotaka Ropeway](shinhotaka-ropeway.html).
 
 ## Can you add the Shirakawa-go light-up?
 
