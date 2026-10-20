@@ -3,7 +3,7 @@ title: "Day Trips from Nagoya to Gifu, Ranked by Effort"
 description: "Seven Gifu day trips from Nagoya, from a 20-minute train ride to Gifu City to a full day out to Shirakawa-go, with travel times from official sources."
 summary: Gifu City is about 20 minutes from Nagoya by JR train, Gujo Hachiman about 1 hour 20 minutes by highway bus from JR Nagoya Station, and Gero Onsen about 1 hour 40 minutes by JR Limited Express Hida. Shirakawa-go takes about 2 hours 50 minutes in total by express bus via the Meitetsu Bus Center, so it needs an early start. Gifu City suits a first visit with little planning, while Gujo Hachiman or Gero Onsen suit a full day out.
 status: 公開
-facts_checked: 2026-10-16
+facts_checked: 2026-10-21
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|See three Gifu towns in one day from Nagoya|Shirakawa-go, Takayama and Gujo Hachiman on one guided tour. See dates and reviews on Klook.|Check dates
 image: Gifu Castle.jpg
 image_alt: Gifu Castle on Mount Kinka
@@ -93,7 +93,7 @@ Gujo takes more effort because of the last leg. Most buses stop at the Gujo Hach
 
 **Highlight:** Gero's soft, alkaline water is known for leaving skin feeling smooth. Around town you'll find free foot baths and the open-air Funsenchi pool ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)).
 
-The train ride is longer, but it's a single direct limited express with no transfers or road traffic, which keeps the effort manageable. Many visitors stay the night, but a day trip works if you take an early train. See our [Gero Onsen guide](gero-onsen-guide.html) for bathing tips and what to see.
+The train ride is longer, but it's a single direct limited express with no transfers or road traffic, which keeps the effort manageable. Many visitors stay the night, but a day trip works if you take an early train. See our [Gero Onsen guide](gero-onsen-guide.html) for bathing tips and what to see, and [Nagoya to Gero Onsen](nagoya-to-gero-onsen.html) for tickets and advance discounts.
 
 ## 7. Shirakawa-go: the most effort
 
@@ -139,4 +139,4 @@ Take the train to JR Gifu Station (about 20 minutes), then Gifu Bus B81 (Gifu Se
 No. Inuyama, often listed among day trips from Nagoya, is in Aichi Prefecture.
 
 ---
-*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-16.*
+*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-21.*

@@ -21,7 +21,7 @@ This guide covers getting there, where to bathe without staying at an inn, the Y
 
 | | Details |
 |---|---|
-| Getting there | Limited Express Hida from Nagoya, direct to Gero Station; about 45–60 min by train from Takayama |
+| Getting there | Limited Express Hida from Nagoya, direct to Gero Station, about 1 h 30–40 min; about 45–60 min by train from Takayama |
 | Limited express charge, Nagoya–Gero | ¥2,390 reserved seat, ¥4,660 Green Car (base fare extra) |
 | Water | Alkaline simple spring, pH 9.2 |
 | Public baths | Shirasagi-no-yu and Sachi-no-yu ¥470; Kur Garden Rotenburo ¥800 (adults) |
@@ -43,7 +43,7 @@ The usual route is the **JR Limited Express Hida** from Nagoya Station along the
 
 **Tickets.** On the Hida you pay a base fare plus a limited express charge. JR Central's [July 2025 press release](https://jr-central.co.jp/news/release/_pdf/000044393.pdf) lists the ticketless limited express charge for Nagoya to Gero as **2,390 yen for an adult ordinary reserved seat** and **4,660 yen for the Green Car**, one way in the normal season. This is the charge only, and the base fare is extra (as of July 16, 2025). The same release says that from October 1, 2025, you can book the Hida ticketlessly through JR West's e5489 service. It also says TOICA IC cards became valid at Gero Station for Hida journeys, which covers the base fare. Fares change, so check the price when you book.
 
-**Journey time.** This guide does not give a travel time, because we could not find an official Nagoya–Gero figure on JR Central's site. From Takayama, JR Central gives the train time to Gero as about 45–60 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). For Nagoya, check the current timetable on [JR Central's train information pages](https://traininfo.jr-central.co.jp/zairaisen/index.html?lang=en) or at the station before you set your plans. Service on the Takayama Line can change for seasonal timetables and disruptions. For example, JR Central announced [temporary Hida schedules for winter 2025–26](https://jr-central.co.jp/news/release/_pdf/000044746.pdf) after rolling-stock problems.
+**Journey time.** Visit Gifu gives Nagoya to Gero by Limited Express Hida as about 1 hour 30–40 minutes ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya), as of October 2026); see [Nagoya to Gero Onsen](nagoya-to-gero-onsen.html) for tickets and discounts. From Takayama, JR Central gives the train time to Gero as about 45–60 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). For your exact train, check the current timetable on [JR Central's train information pages](https://traininfo.jr-central.co.jp/zairaisen/index.html?lang=en) or at the station before you set your plans. Service on the Takayama Line can change for seasonal timetables and disruptions. For example, JR Central announced [temporary Hida schedules for winter 2025–26](https://jr-central.co.jp/news/release/_pdf/000044746.pdf) after rolling-stock problems.
 
 If you are combining Gero with Takayama or other parts of central Japan, compare rail passes with point-to-point tickets before you buy. One option sold on Klook is the [JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/); check its route map and validity against your plan.
 
