@@ -98,7 +98,7 @@ If you are continuing to Kanazawa instead, buses run on from Shirakawa-go; see o
 
 ### Is 2 days in Takayama enough?
 
-Two days covers Takayama's main sights, the morning markets and a visit to Shirakawa-go. Stay longer if you want to add Hida Folk Village and Shirakawa-go at a slower pace, or an onsen night in Gero or Okuhida.
+Two days covers Takayama's main sights, the morning markets and a visit to Shirakawa-go. Stay longer if you want to add Hida Folk Village and Shirakawa-go at a slower pace, or an onsen night in Gero or Okuhida. From mid-April to mid-November, a third day could be a mountain walk in [Kamikochi](kamikochi-from-takayama.html).
 
 ### Should I stay in Takayama or Shirakawa-go?
 

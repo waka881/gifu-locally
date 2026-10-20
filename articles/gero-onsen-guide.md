@@ -3,7 +3,7 @@ title: "Gero Onsen for First-Timers: Day Trip from Nagoya, Baths and Ryokan"
 description: "How to reach Gero Onsen from Nagoya on the Hida Limited Express, where to bathe, how the Yumeguri Tegata pass works, and how to choose a ryokan."
 summary: Take the JR Limited Express Hida from Nagoya Station to Gero Station; the ticketless limited express charge is 2,390 yen for an adult ordinary reserved seat or 4,660 yen for the Green Car, one way in the normal season, plus the base fare (as of July 16, 2025). You can bathe without staying at a ryokan: public baths such as Shirasagi-no-yu and Sachi-no-yu charge 470 yen for adults, and the Yumeguri Tegata pass costs 2,500 yen for 3 ryokan baths within 6 months (as of October 2026). Gero works as a day trip from Nagoya or as an overnight stop on the way to Takayama.
 status: 公開
-facts_checked: 2026-10-16
+facts_checked: 2026-10-20
 cta: https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/|Gero Onsen + Takayama on one bus ticket|2-day bus ticket covering Takayama and Gero Onsen. See price and conditions on Klook.|See ticket
 image: Hida River and Gero Onsen from Mutsumi Bridge.jpg
 image_alt: Gero Onsen and the Hida River seen from Mutsumi Bridge
@@ -17,6 +17,20 @@ Gero Onsen is a hot spring town on the Hida River in southern Gifu Prefecture. T
 
 This guide covers getting there, where to bathe without staying at an inn, the Yumeguri Tegata bath pass, onsen etiquette, and how to pick a ryokan if you decide to stay. Deciding between Gero and the mountain hot springs above Takayama? See [Gero Onsen vs Okuhida Onsen](gero-vs-okuhida-onsen.html).
 
+## Gero Onsen at a glance
+
+| | Details |
+|---|---|
+| Getting there | Limited Express Hida from Nagoya, direct to Gero Station; about 45–60 min by train from Takayama |
+| Limited express charge, Nagoya–Gero | ¥2,390 reserved seat, ¥4,660 Green Car (base fare extra) |
+| Water | Alkaline simple spring, pH 9.2 |
+| Public baths | Shirasagi-no-yu and Sachi-no-yu ¥470; Kur Garden Rotenburo ¥800 (adults) |
+| Bath-hopping pass | Yumeguri Tegata ¥2,500 for 3 day-use baths at member ryokan, valid 6 months |
+| Foot baths | Nine around town, several free |
+| Note | Bathing at the Funsen-chi riverside pool has been prohibited since December 1, 2021 |
+
+*Sources: Gero Onsen Tourism Association, Gifu Prefecture tourism site and JR Central (charges as of July 16, 2025), as of October 2026. Details and links below.*
+
 ## What makes Gero's water different
 
 According to the [tourism association's onsen page](https://www.gero-spa.com/onsen/), the water is an alkaline simple spring (*arukari-sei tanjun onsen*) with a pH of 9.2 (as of October 2026). The [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/article/detail_9.html) describes it as colorless and transparent. It also says Gero adopted a centralized hot spring management system in 1974, which pipes water from shared tanks to the inns (as of October 2026).
@@ -29,7 +43,7 @@ The usual route is the **JR Limited Express Hida** from Nagoya Station along the
 
 **Tickets.** On the Hida you pay a base fare plus a limited express charge. JR Central's [July 2025 press release](https://jr-central.co.jp/news/release/_pdf/000044393.pdf) lists the ticketless limited express charge for Nagoya to Gero as **2,390 yen for an adult ordinary reserved seat** and **4,660 yen for the Green Car**, one way in the normal season. This is the charge only, and the base fare is extra (as of July 16, 2025). The same release says that from October 1, 2025, you can book the Hida ticketlessly through JR West's e5489 service. It also says TOICA IC cards became valid at Gero Station for Hida journeys, which covers the base fare. Fares change, so check the price when you book.
 
-**Journey time.** This guide does not give a travel time, because we could not find an official Nagoya–Gero figure on JR Central's site. Check the current timetable on [JR Central's train information pages](https://traininfo.jr-central.co.jp/zairaisen/index.html?lang=en) or at the station before you set your plans. Service on the Takayama Line can change for seasonal timetables and disruptions. For example, JR Central announced [temporary Hida schedules for winter 2025–26](https://jr-central.co.jp/news/release/_pdf/000044746.pdf) after rolling-stock problems.
+**Journey time.** This guide does not give a travel time, because we could not find an official Nagoya–Gero figure on JR Central's site. From Takayama, JR Central gives the train time to Gero as about 45–60 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). For Nagoya, check the current timetable on [JR Central's train information pages](https://traininfo.jr-central.co.jp/zairaisen/index.html?lang=en) or at the station before you set your plans. Service on the Takayama Line can change for seasonal timetables and disruptions. For example, JR Central announced [temporary Hida schedules for winter 2025–26](https://jr-central.co.jp/news/release/_pdf/000044746.pdf) after rolling-stock problems.
 
 If you are combining Gero with Takayama or other parts of central Japan, compare rail passes with point-to-point tickets before you buy. One option sold on Klook is the [JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/); check its route map and validity against your plan.
 
@@ -129,4 +143,4 @@ No. According to the [tourism association](https://www.gero-spa.com/spot/detail_
 A day trip suits travellers based in Nagoya who mainly want to try the water at a public bath, a few foot baths or Yumeguri Tegata baths. Staying overnight gives the full ryokan experience with dinner and a morning soak, and fits well when continuing to Takayama the next day.
 
 ---
-*Prices, hours and train schedules change. Check official sources before you go. Facts last checked: 2026-10-16.*
+*Prices, hours and train schedules change. Check official sources before you go. Facts last checked: 2026-10-20.*

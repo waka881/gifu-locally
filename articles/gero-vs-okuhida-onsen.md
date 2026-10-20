@@ -75,7 +75,7 @@ With up to about 1¾ hours each way on the bus from Takayama to the farther area
 
 **In Gero:** walk between the free foot baths, and visit Gero Onsen Gassho Village, an open-air museum of thatched farmhouses, ¥800 for adults ([Gero Onsen Tourism Association](https://www.gero-spa.com/spot/detail_12.html), as of October 2026).
 
-**In Okuhida:** ride the Shinhotaka Ropeway, which the operator calls Japan's only two-storey gondola, to a top station at 2,156 m. The adult round trip is ¥3,800, and it is listed as open year-round, subject to weather ([Shinhotaka Ropeway](https://shinhotaka-ropeway.jp/en/price/), as of October 2026). The area is also a base for hiking, and for Kamikochi and Mount Norikura ([Okuhida tourism association](https://www.okuhida.or.jp/en/)). Our [Shinhotaka Ropeway guide](shinhotaka-ropeway.html) has tickets, buses and winter tips.
+**In Okuhida:** ride the Shinhotaka Ropeway, which the operator calls Japan's only two-storey gondola, to a top station at 2,156 m. The adult round trip is ¥3,800, and it is listed as open year-round, subject to weather ([Shinhotaka Ropeway](https://shinhotaka-ropeway.jp/en/price/), as of October 2026). The area is also a base for hiking, and for Kamikochi and Mount Norikura ([Okuhida tourism association](https://www.okuhida.or.jp/en/)). Our [Shinhotaka Ropeway guide](shinhotaka-ropeway.html) has tickets, buses and winter tips, and [Kamikochi from Takayama](kamikochi-from-takayama.html) covers the seasonal bus from Hirayu Onsen.
 
 ## So which should you choose?
 

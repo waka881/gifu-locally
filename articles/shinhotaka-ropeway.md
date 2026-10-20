@@ -72,7 +72,7 @@ For more on winter in the area, see [Takayama in winter](takayama-in-winter.html
 
 ## Is the Shinhotaka Ropeway worth it?
 
-It is worth it if you want mountain scenery without hiking and the weather is clear: the whole point is the view from 2,156 m. With the bus at about 1 hour 35–45 minutes each way from Takayama, it takes most of a day, so it fits best with a night in Okuhida's hot spring villages. Compare the area with Gero in [Gero Onsen vs Okuhida Onsen](gero-vs-okuhida-onsen.html).
+It is worth it if you want mountain scenery without hiking and the weather is clear: the whole point is the view from 2,156 m. With the bus at about 1 hour 35–45 minutes each way from Takayama, it takes most of a day, so it fits best with a night in Okuhida's hot spring villages. Compare the area with Gero in [Gero Onsen vs Okuhida Onsen](gero-vs-okuhida-onsen.html). From April to mid-November you can also add Kamikochi from the same base; see [Kamikochi from Takayama](kamikochi-from-takayama.html).
 
 Skip it on a cloudy or stormy day, when the view may be hidden and the ropeway may stop for wind.
 
