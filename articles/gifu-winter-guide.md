@@ -36,6 +36,8 @@ The easiest way to see the light-up without a car is often a reserved light-up b
 
 ## Takayama in winter
 
+For opening hours, every illumination and snow travel tips, see our full guide to [Takayama in winter](takayama-in-winter.html).
+
 Takayama's old town stays open all winter. Its winter evenings also have their own events. Hida Takayama's official tourism site listed these for the 2025–26 season (as of October 2026, [Hida Takayama event calendar, January](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000180.html)):
 
 - **Winter Illumination in Takayama:** The snow-covered Nakabashi bridge and Miyagawa River area were lit from December 1, 2025 to March 15, 2026.

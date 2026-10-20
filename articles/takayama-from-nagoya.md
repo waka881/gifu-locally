@@ -122,6 +122,9 @@ A simple overnight plan:
 - **Staying connected.** Maps and timetables are easier with mobile data. A [Japan eSIM](https://yesim.tpk.lu/T6xnCd9w) is one option. Check the product page for data allowance, validity, and whether your phone is compatible.
 - **Tourist information.** Hida Takayama's official tourism site, [hida.jp](https://www.hida.jp/english/), has maps and up-to-date notices.
 
+
+Visiting between December and March? See [Takayama in winter](takayama-in-winter.html) for winter hours, illuminations and snow tips.
+
 ## FAQ
 
 ### How long does it take to get from Nagoya to Takayama?

@@ -98,6 +98,9 @@ If your dates overlap a festival:
 
 You can [compare stays and activities on Klook](https://klook.tpk.lu/zp1hCE5f) when you start looking.
 
+
+Coming in winter? Read [Takayama in winter](takayama-in-winter.html) first: staying near the station helps when roads are snowy.
+
 ## FAQ
 
 ### Is it better to stay near Takayama Station or in the old town?
