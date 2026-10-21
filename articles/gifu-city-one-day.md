@@ -3,7 +3,7 @@ title: "Gifu City in One Day: Ropeway, Old Town and a Slow Breakfast"
 description: "A simple one-day plan for Gifu City: morning service breakfast, the Mt. Kinka Ropeway (castle keep closed for renovation until late 2027), and the Kawaramachi old town."
 summary: Gifu City is about 20 minutes from Nagoya by JR rapid train, and one day is enough for a morning service breakfast, the Mt. Kinka Ropeway and the Kawaramachi old town. From JR Gifu Station, a Gifu Bus to the Gifu Park stop takes about 15 minutes, and the 4-minute ropeway costs ¥1,300 round trip for adults (as of October 2026). The Gifu Castle keep has been closed for renovation since May 19, 2026, with reopening planned for November 2027.
 status: 公開
-facts_checked: 2026-10-18
+facts_checked: 2026-10-22
 cta: https://yesim.tpk.lu/T6xnCd9w|Get mobile data before you land|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Mount Kinka and Gifu Castle from Twinarch138.jpg
 image_alt: Mount Kinka with Gifu Castle on its summit
@@ -15,13 +15,26 @@ image_license: CC BY-SA 4.0
 
 Gifu City is about 20 minutes from Nagoya by JR rapid train, yet most visitors pass straight through on the way to Takayama or Shirakawa-go. That's a shame: in one unhurried day you can ride up the mountain where Oda Nobunaga based his castle, wander a riverside merchant district, and eat breakfast the way locals do.
 
+## Gifu City in one day at a glance
+
+| | Details |
+|---|---|
+| From Nagoya | About 20 minutes by JR train to JR Gifu Station |
+| To the ropeway | Gifu Bus from stop 12 at the JR Gifu bus terminal, about 15 min to Gifu Koen/Gifu-jo, then 3 min on foot |
+| Mt. Kinka Ropeway | ¥1,300 round trip, ¥800 one way (adults); about 4 min ride |
+| Ropeway hours | 9:00–18:00; until 20:30 on Fri, weekends and holidays Oct 1–Nov 30 |
+| Ropeway closures | Dec 1–28, 2026 and Jan 7–Feb 16, 2027 (planned) |
+| Gifu Castle keep | Closed for renovation until late Oct 2027; reopening planned Nov 2027 |
+
+*Sources: [Gifu Convention & Visitors Bureau, ropeway](https://www.kankou-gifu.jp/spot/923/); [Gifu CVB, Gifu Castle](https://www.gifucvb.or.jp/sightseeing/gifu-castle.php); [Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya), as of October 2026.*
+
 ## Morning: breakfast with your coffee
 
 Start at a neighborhood coffee shop for **morning service**: order a drink before late morning and toast or eggs come with it at no extra charge. Gifu City households spend more on coffee shops than any other prefectural capital or major city in Japan ([Gifu City](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/005/752/cafe_ura.pdf)). Read our full guide: [Gifu's Morning Service](gifu-morning-service.html).
 
 ## Late morning: Mt. Kinka Ropeway
 
-**Getting there:** From the bus terminal at JR Gifu Station, take a Gifu Bus toward Nagarabashi (or the City Loop, counter-clockwise) for about 15 minutes and get off at the Gifu Park stop. The ropeway base station is about a 3-minute walk ([Gifu Convention & Visitors Bureau](https://www.kankou-gifu.jp/spot/923/), [Gifu Castle](https://www.gltjp.com/en/directory/item/11946)).
+**Getting there:** From stop 12 at the bus terminal at JR Gifu Station, take a Gifu Bus toward Nagarabashi (or the City Loop, counter-clockwise) for about 15 minutes and get off at the Gifu Koen/Gifu-jo (Gifu Park/Gifu Castle) stop. The ropeway base station is about a 3-minute walk ([Gifu Convention & Visitors Bureau](https://www.kankou-gifu.jp/spot/923/), [Gifu Castle](https://www.gltjp.com/en/directory/item/11946)).
 
 **The ropeway:** The ride takes about 4 minutes. An adult round trip costs ¥1,300 (one way ¥800). It normally runs 9:00 to 18:00, with later evening service on some dates; on Fridays, weekends and holidays from October 1 to November 30 it runs until 20:30. It closes for maintenance on set dates, including December 1 to 28, 2026 and January 7 to February 16, 2027 ([source](https://www.kankou-gifu.jp/spot/923/), [Gifu CVB](https://www.gifucvb.or.jp/sightseeing/gifu-castle.php), as of October 2026).
 
@@ -44,7 +57,7 @@ Stay near JR Gifu Station for easy train and bus access, or by the Nagara River 
 ## FAQ
 
 ### How do you get to the Mt. Kinka Ropeway from Gifu Station?
-From the bus terminal at JR Gifu Station, take a Gifu Bus toward Nagarabashi (or the City Loop, counter-clockwise) for about 15 minutes and get off at the Gifu Park stop. The ropeway base station is about a 3-minute walk ([Gifu Convention & Visitors Bureau](https://www.kankou-gifu.jp/spot/923/)).
+From stop 12 at the bus terminal at JR Gifu Station, take a Gifu Bus toward Nagarabashi (or the City Loop, counter-clockwise) for about 15 minutes and get off at the Gifu Koen/Gifu-jo (Gifu Park/Gifu Castle) stop. The ropeway base station is about a 3-minute walk ([Gifu Convention & Visitors Bureau](https://www.kankou-gifu.jp/spot/923/)).
 
 ### How much does the Mt. Kinka Ropeway cost and how long is the ride?
 An adult round trip costs ¥1,300 and one way costs ¥800, and the ride takes about 4 minutes ([source](https://www.kankou-gifu.jp/spot/923/), as of October 2026). It normally runs 9:00 to 18:00, and until 20:30 on Fridays, weekends and holidays from October 1 to November 30.
@@ -64,4 +77,4 @@ Gifu City is about 20 minutes from Nagoya by JR rapid train, so it works as a on
 - **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---
-*Prices, hours and bus routes change. Check official sources before you go. Facts last checked: 2026-10-14.*
+*Prices, hours and bus routes change. Check official sources before you go. Facts last checked: 2026-10-22.*
