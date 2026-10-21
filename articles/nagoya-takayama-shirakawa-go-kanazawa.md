@@ -78,7 +78,7 @@ Day 1 is covered in detail in our [Takayama 2-day itinerary](takayama-2-day-itin
 
 ## Is there a rail pass for this route?
 
-Klook sells the [JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/), a 5-day pass for overseas visitors aimed at the Takayama and Hokuriku region. Coverage and conditions can change, so check the current route map, which bus sections are included, and the price on the product page against your own plan before you buy. Compare it with paying for each leg using the fares above.
+Klook sells the [JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/), a 5-day pass for overseas visitors aimed at the Takayama and Hokuriku region. Coverage and conditions can change, so check the current route map, which bus sections are included, and the price on the product page against your own plan before you buy. Compare it with paying for each leg using the fares above; our [Takayama-Hokuriku pass guide](takayama-hokuriku-pass.html) sets out the coverage (¥19,800 for 5 days, including the Shirakawa-go buses) and the comparison.
 
 ## FAQ
 

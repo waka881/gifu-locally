@@ -50,7 +50,7 @@ The 2026–27 dates had not been published when this guide was checked. The cale
 
 Takayama is a good winter base. The limited express trains from Nagoya and the buses to Shirakawa-go and Okuhida all start there. JR Central gives the trip as about 2 hours 20 minutes from Nagoya Station on the Limited Express Hida (as of October 2026, [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/)). For step-by-step routes, see [Takayama from Nagoya](takayama-from-nagoya.html). Warm food matters on cold days, and our [Hida beef in Takayama](hida-beef-takayama.html) guide covers where to start.
 
-**Booking option:** [5-Day JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/) (Klook). Check which trains and buses the pass covers, its price and who can buy it before you book.
+**Booking option:** [5-Day JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/) (Klook). Check which trains and buses the pass covers, its price and who can buy it before you book; see our [Takayama-Hokuriku pass guide](takayama-hokuriku-pass.html).
 
 ## Okuhida Onsen and the Shinhotaka Ropeway in winter
 

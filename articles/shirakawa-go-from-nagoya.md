@@ -3,7 +3,7 @@ title: "Shirakawa-go from Nagoya: Day Trip by Highway Bus or Guided Tour"
 description: "How to visit Shirakawa-go from Nagoya in a day: the reserved highway bus, guided tours, what to see, fees and the 2027 light-up."
 summary: The Nagoya–Shirakawa-go highway bus leaves from the Meitetsu Bus Center, about a 5-minute walk from Nagoya Station, and takes about 2 hours 30 minutes, or about 2 hours 50 minutes in total from Nagoya Station. Seats must be reserved, bookings open one month before the travel date, and the adult one-way fare ranges from 3,600 yen to 4,700 yen depending on the date. A guided day tour from Nagoya suits travelers who would rather not deal with reservations, want a guide or want to add another town such as Takayama in one day.
 status: 公開
-facts_checked: 2026-10-16
+facts_checked: 2026-10-21
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|Skip the bus planning: Shirakawa-go day tour from Nagoya|Guided tour that also stops in Takayama and Gujo Hachiman. See dates, itinerary and reviews on Klook.|Check dates
 image: Shirakawa-go 002.jpg
 image_alt: Gassho-style farmhouses in Ogimachi village, Shirakawa-go
@@ -40,7 +40,7 @@ Gifu Bus does not post the full timetable on the route page itself; it is a PDF 
 
 ### Alternative: train to Takayama, then bus
 
-You can also take the JR Limited Express Hida from Nagoya to Takayama (about 2 hours 20 minutes), then an express bus to Shirakawago Bus Terminal (about 50 minutes). The total is about 3 hours 25 minutes from Nagoya Station ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). This route takes longer, but it suits travelers who want to see Takayama as well or are using a rail pass. The Tourist Association links to [Nohi Bus](https://www.nouhibus.co.jp/) for the Takayama–Shirakawa-go leg. Continuing to Kanazawa? See our [Nagoya–Takayama–Shirakawa-go–Kanazawa route guide](nagoya-takayama-shirakawa-go-kanazawa.html). Staying in Kanazawa instead? See [Shirakawa-go from Kanazawa](shirakawa-go-from-kanazawa.html).
+You can also take the JR Limited Express Hida from Nagoya to Takayama (about 2 hours 20 minutes), then an express bus to Shirakawago Bus Terminal (about 50 minutes). The total is about 3 hours 25 minutes from Nagoya Station ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). This route takes longer, but it suits travelers who want to see Takayama as well or are using a rail pass (see the [Takayama-Hokuriku pass](takayama-hokuriku-pass.html), which covers both the Hida and the Takayama–Shirakawa-go bus). The Tourist Association links to [Nohi Bus](https://www.nouhibus.co.jp/) for the Takayama–Shirakawa-go leg. Continuing to Kanazawa? See our [Nagoya–Takayama–Shirakawa-go–Kanazawa route guide](nagoya-takayama-shirakawa-go-kanazawa.html). Staying in Kanazawa instead? See [Shirakawa-go from Kanazawa](shirakawa-go-from-kanazawa.html).
 
 ### Weather and delays
 
@@ -121,7 +121,7 @@ Because of these rules, many visitors from Nagoya go to the light-up on an organ
 - **Lock in your return bus first.** Reserved seats mean you can't count on catching an earlier or later bus.
 - **Watch the shuttle's hours.** The viewpoint shuttle stops at 14:40 and pauses at midday.
 - **Pack light.** Gifu Bus says luggage space is limited and asks passengers to keep bags to a minimum. If you have checked out of your Nagoya hotel, you can leave suitcases in Nagoya for the day: [Radical Storage lists luggage storage spots in Nagoya](https://radicalstorage.com/luggage-storage/nagoya), with prices shown per bag per day (as of October 2026).
-- **Driving instead?** The village's designated lot (Seseragi Park) charges 2,000 yen for a standard car and is open 8:00–17:00, with last entry at 16:30 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026).
+- **Driving instead?** The village's designated lot (Seseragi Park) charges 2,000 yen for a standard car and is open 8:00–17:00, with last entry at 16:30 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). On light-up days, every vehicle needs a parking reservation, and ordinary cars must move from Seseragi Park to the Terao temporary lot by 15:00 (same source).
 - **Respect the residents.** Many of the houses are still homes ([Visit Gifu](https://visitgifu.com/see-do/unesco-world-heritage-site-shirakawa-go/)). Keep to public paths and don't enter private property.
 
 ## Bus or tour?
@@ -164,4 +164,4 @@ The Tourist Association estimates that walking around the village takes about 2�
 The light-up takes place on four days in 2027: January 11, January 17, January 24 and January 31 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of October 2026). The 2026 event was run on a fully advance-reservation basis ([Gifu Prefecture tourism site](https://www.kankou-gifu.jp/event/detail_1287.html), as of October 2026), so confirm the 2027 rules on the official overview page.
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-16.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-21.*
