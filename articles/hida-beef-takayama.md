@@ -3,7 +3,7 @@ title: "Hida Beef in Takayama: What It Is, How to Order It, Street Food vs Sit-D
 description: "What makes beef officially Hida beef, how the grades work, and the main ways to eat it in Takayama, from nigiri and skewers to hoba miso and sukiyaki."
 summary: Hida beef is meat from Japanese Black cattle raised in Gifu Prefecture for at least 14 months, with a yield grade of A or B and a meat quality grade of 5, 4 or 3, confirmed by the Hida Beef Brand Promotion Council. Beef from the same cattle outside those grades is sold as Hida wagyu. In Takayama it is eaten as street food such as nigiri, skewers, buns and croquettes, or at sit-down meals of hoba miso, yakiniku, sukiyaki, shabu-shabu and steak.
 status: 公開
-facts_checked: 2026-10-18
+facts_checked: 2026-10-22
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Get to Takayama without planning buses|Takayama and Shirakawa-go day trip from Nagoya. See dates and reviews on Klook.|Check dates
 image: Sushi, Hida Beef.jpg
 image_alt: Hida beef nigiri sushi in Takayama
@@ -18,6 +18,20 @@ Hida beef (*Hida-gyu*) is the wagyu brand of Gifu Prefecture, and Takayama is th
 This guide explains what the name officially means, how the grades work, the main styles you will find, and how to choose between snacking on the street and sitting down for a meal. It does not recommend specific restaurants. Prices and menus change often, so check them at each shop.
 
 If you are still planning the trip itself, start with our [Takayama guide](takayama-from-nagoya.html).
+
+## Hida beef at a glance
+
+| | Details |
+|---|---|
+| Breed | Japanese Black cattle |
+| Where raised | In Gifu Prefecture for at least 14 months |
+| Yield grade | A or B |
+| Meat quality grade | 5, 4 or 3 (Japan Meat Grading Association) |
+| Other grades | Sold as "Hida wagyu", not "Hida beef" |
+| Street snacks in Takayama | Beef nigiri, skewers, beef buns, croquettes |
+| Table dishes | Hoba miso, sukiyaki, shabu-shabu, yakiniku |
+
+*Sources: [Hida Takayama Tourism](https://www.hida.jp/english/localspeciality/food/4000195.html); [Gifu Prefecture Hida beef feature](https://www.kankou-gifu.jp/article/gifu-hidagyu/top/), as of October 2026.*
 
 ## What counts as Hida beef
 
@@ -136,4 +150,4 @@ Street snacks in the old town include Hida beef nigiri, skewers, Hida beef buns 
 Littering is prohibited throughout Takayama City, and an offender who ignores a ranger's instructions can be fined 1,000 yen (as of October 2026, [Manners page](https://www.hida.jp/english/traveltips/practicalguide/4000216.html)). Keep skewer sticks, napkins and wrappers with you until you find a bin.
 
 ---
-*Prices and menus change. Check with each shop before you go. Facts last checked: 2026-10-18.*
+*Prices and menus change. Check with each shop before you go. Facts last checked: 2026-10-22.*

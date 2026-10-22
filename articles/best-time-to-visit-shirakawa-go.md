@@ -36,7 +36,7 @@ What to plan for in winter:
 - **Shorter opening hours.** For example, the Gassho-zukuri Minkaen open-air museum opens 9:00–16:00 from December to February and closes on Thursdays from December to March ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/active/7/)).
 - **Warm, waterproof shoes.** You walk everywhere in the village.
 
-Our [Gifu winter guide](gifu-winter-guide.html) has more on travelling in snow.
+Our [Shirakawa-go in winter guide](shirakawa-go-in-winter.html) covers driving rules, what to wear and winter hours, and the [Gifu winter guide](gifu-winter-guide.html) has more on travelling in snow.
 
 ## When is the Shirakawa-go light-up in 2027?
 

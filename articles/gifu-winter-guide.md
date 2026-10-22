@@ -30,7 +30,7 @@ Visiting during the light-up takes planning:
 
 Start times, viewing-spot rules and any fees for 2027 were not set out on the pages checked. Look for them on the association's site, or call the association on +81-5769-6-1013 (9:00–17:00, as of October 2026).
 
-The easiest way to see the light-up without a car is often a reserved light-up bus tour or a package that includes entry. Shirakawa-go is also lovely on ordinary winter days. Our [Shirakawa-go from Nagoya](shirakawa-go-from-nagoya.html) guide covers the regular bus routes.
+The easiest way to see the light-up without a car is often a reserved light-up bus tour or a package that includes entry. Shirakawa-go is also lovely on ordinary winter days. Our [Shirakawa-go from Nagoya](shirakawa-go-from-nagoya.html) guide covers the regular bus routes. For snow, driving rules and what to wear, see [Shirakawa-go in winter](shirakawa-go-in-winter.html).
 
 **Booking option:** [Takayama & Shirakawa-go day trip from Nagoya](https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/) (Klook). This is a general day tour, not a light-up tour. Check the itinerary, dates and inclusions before booking.
 

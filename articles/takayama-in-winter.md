@@ -59,7 +59,7 @@ The Nijuyokka-ichi fair, held since 1872, sells handmade crafts from local farme
 
 ## Can you add the Shirakawa-go light-up?
 
-The 41st Shirakawa-go Light-Up is on **January 11, 17, 24 and 31, 2027** ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of October 2026). It is about 50 minutes from Takayama by express bus ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)), but the 2026 event was reservation-only, and on normal nights day visitors are not admitted to the village after dark ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/events/106/)). Read our [light-up guide](shirakawa-go-light-up.html) before you plan. Many visitors go on an organised tour that handles the reservations.
+The 41st Shirakawa-go Light-Up is on **January 11, 17, 24 and 31, 2027** ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of October 2026). It is about 50 minutes from Takayama by express bus ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)), but the 2026 event was reservation-only, and on normal nights day visitors are not admitted to the village after dark ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/events/106/)). Read our [light-up guide](shirakawa-go-light-up.html) and [Shirakawa-go in winter](shirakawa-go-in-winter.html) before you plan. Many visitors go on an organised tour that handles the reservations.
 
 ## How do you get to Takayama in winter?
 
