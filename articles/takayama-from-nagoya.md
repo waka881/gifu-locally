@@ -3,7 +3,7 @@ title: "Nagoya to Takayama: Train, Bus and a Day Trip or Overnight Plan"
 description: "How to get from Nagoya to Takayama by Limited Express Hida or highway bus, plus the old town, Jinya, morning markets and Hida Folk Village."
 summary: From Nagoya, the Limited Express Hida reaches Takayama in approximately 2 hours and 20 minutes, with a limited express charge of ¥2,730 for an adult reserved seat in the regular season plus a separate basic fare ticket. The Nohi Bus highway bus takes 2 hours 40 minutes for a one-way fare of ¥3,600, or ¥3,300 with the web discount, and needs a reservation. A day trip works if you leave early, while an overnight stay adds the quieter evening and the morning markets, which close at noon.
 status: 公開
-facts_checked: 2026-10-18
+facts_checked: 2026-10-23
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Takayama and Shirakawa-go day trip from Nagoya|Guided tour with transport included. See dates, itinerary and reviews on Klook.|Check dates
 image: Takayamacity center Old town No,2.JPG
 image_alt: Old merchant houses in central Takayama
@@ -33,6 +33,8 @@ For more trips from the same base, see our [Nagoya day trips hub](nagoya-day-tri
 The Limited Express Hida runs from JR Nagoya Station to JR Takayama Station. According to JR Central, the trip takes **approximately 2 hours and 20 minutes** (as of October 2026, [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/)).
 
 **Cost.** JR Central's ticketless service lists a Nagoya–Takayama limited express charge of **¥2,730 for an adult reserved seat** and **¥5,000 for the Green Car** in the regular season. The charge is ¥200 lower in off-peak periods and up to ¥400 higher in the busiest periods (as of October 2026, [JR Central ticketless service, Japanese](https://railway.jr-central.co.jp/ticketless/)). That page notes that **you also need a separate basic fare ticket**, and it does not list the basic fare. Check the total at the ticket office or with JR Central's own tools before you travel.
+
+**Save by booking ahead.** JR Central's July 2025 release lists the Tokkyu Ticketless Hayatoku 3 for Nagoya–Takayama at ¥2,400 for an adult reserved seat if you book at least 3 days ahead through JR West's E5489, with limited seats and blackout periods around Golden Week, Obon and New Year. It listed that price as provisional, so check it when you book ([JR Central press release](https://jr-central.co.jp/news/release/_pdf/000044393.pdf)). The same release says TOICA IC cards can be used for the basic fare at Takayama Station on the Hida from October 1, 2025.
 
 If Takayama is one stop on a longer rail trip through central Japan, a regional pass may cost less than single tickets. One option is the [JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/). Check the pass page for the covered trains, validity and eligibility, and compare it with the price of the trips you actually plan to take. Our [Takayama-Hokuriku pass guide](takayama-hokuriku-pass.html) lists exactly what it covers, and [Japan Rail Pass or Takayama-Hokuriku pass?](jr-pass-vs-takayama-hokuriku-pass.html) compares it with the nationwide pass.
 
@@ -148,4 +150,4 @@ Both the Miyagawa and Jinya-mae morning markets are open every day, from 7 a.m. 
 The Spring Takayama Festival is on April 14 and 15, and the Autumn Takayama Festival is on October 9 and 10 (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000105.html)). Book train seats and rooms well in advance if you plan to stay overnight then.
 
 ---
-*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-18.*
+*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-23.*

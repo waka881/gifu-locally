@@ -71,7 +71,7 @@ Go first thing, before you check out.
 
 ### Late morning: bus to Shirakawa-go
 
-The express bus from Takayama to Shirakawago Bus Terminal takes about 50 minutes, and the village is a 1-minute walk from the terminal ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). The adult fare is ¥2,800 one way, and most departures need a reserved seat ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026). Check the current timetable and reserve your seats.
+The express bus from Takayama to Shirakawago Bus Terminal takes about 50 minutes, and the village is a 1-minute walk from the terminal ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). The adult fare is ¥2,800 one way, and most departures need a reserved seat ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026). Check the current timetable and reserve your seats; our [Takayama to Shirakawa-go guide](takayama-to-shirakawa-go.html) lists the departures and last buses.
 
 ### Afternoon: 2–3 hours in Shirakawa-go
 
