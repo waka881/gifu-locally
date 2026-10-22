@@ -166,6 +166,8 @@ def page(title, desc, content, path="", jsonld="", img=""):
     url = BASE + path
     t, d = html.escape(title), html.escape(desc)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="base-uri 'self'; object-src 'none'; upgrade-insecure-requests">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="alternate" type="application/rss+xml" title="Gifu Gourmand" href="https://gifugourmand.com/feed.xml">
 <meta name="p:domain_verify" content="0358eb35ecb74ece18718c935fcfb376"/>
