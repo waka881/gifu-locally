@@ -23,6 +23,7 @@ Q = {
  "shinhotaka-ropeway": "Shinhotaka Ropeway",
  "takayama-in-winter": "Takayama snow winter",
  "kamikochi-from-takayama": "Kamikochi Kappa bridge",
+ "takayama-gero-okuhida-ryokan": "Okuhida onsen rotenburo",
 }
 OK = re.compile(r"^(CC BY(-SA)? [0-9.]+|CC0|Public domain)", re.I)
 UA = {"User-Agent": "gifu-locally-image-check/1.0 (https://gifugourmand.com/)"}
