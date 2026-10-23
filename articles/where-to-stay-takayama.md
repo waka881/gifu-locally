@@ -109,7 +109,7 @@ Stay near the station if you have day trips, heavy luggage or early departures. 
 
 ### How many nights should I stay in Takayama?
 
-One night lets you see the old town and a morning market ([how many days you need](how-many-days-in-takayama.html)). Two nights leave time for a day trip to Shirakawa-go (see [bus times from Takayama](takayama-to-shirakawa-go.html)) or Okuhida. Add a separate night if you want a hot-spring ryokan in Okuhida or Gero.
+One night lets you see the old town and a morning market ([how many days you need](how-many-days-in-takayama.html)). Two nights leave time for a day trip to Shirakawa-go (see [bus times from Takayama](takayama-to-shirakawa-go.html)) or Okuhida. Add a separate night if you want a hot-spring ryokan in Okuhida or Gero; compare them in [Takayama, Gero or Okuhida](takayama-gero-okuhida-ryokan.html).
 
 ### Do I need to book far ahead for the Takayama Festival?
 

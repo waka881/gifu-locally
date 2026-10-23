@@ -106,7 +106,7 @@ If you would rather not bathe in front of others, see the notes on private baths
 
 ## How to choose a ryokan in Gero
 
-We don't rank individual inns. These questions will help you narrow down the options on the [tourism association's accommodation listings](https://www.gero-spa.com/shukuhaku/) or a booking site.
+Still deciding between Gero, Takayama and Okuhida? See [where to stay for a ryokan night](takayama-gero-okuhida-ryokan.html). We don't rank individual inns. These questions will help you narrow down the options on the [tourism association's accommodation listings](https://www.gero-spa.com/shukuhaku/) or a booking site.
 
 **With or without meals?** A traditional stay includes a multi-course dinner and breakfast (*ippaku nishoku*), which is part of the experience but raises the price. Room-only or breakfast-only plans give you more flexibility and let you eat in town. Check dinner times, because many ryokan serve dinner early and at a set hour.
 

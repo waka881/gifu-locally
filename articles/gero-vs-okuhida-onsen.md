@@ -83,6 +83,8 @@ With up to about 1¾ hours each way on the bus from Takayama to the farther area
 
 **Choose Okuhida Onsen-go** if you are already going to Takayama, want mountain views from an open-air bath, and can stay at least one night.
 
+Choosing where to sleep, Takayama included? See [Takayama, Gero or Okuhida](takayama-gero-okuhida-ryokan.html), which also covers Takayama's accommodation tax.
+
 **Do both** on a longer Hida trip: Gero on the way up from Nagoya, Takayama for a night, then Okuhida. See our [Takayama 2-day itinerary](takayama-2-day-itinerary.html) and [where to stay in Takayama](where-to-stay-takayama.html).
 
 [[cta|https://www.klook.com/en-US/destination/c6370-gifu/3-hotel/|Ryokan with open-air baths in Gifu|Compare hotels and ryokan across Gifu Prefecture, including Okuhida, on Klook.|See stays]]
