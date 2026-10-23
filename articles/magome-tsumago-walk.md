@@ -3,7 +3,7 @@ title: "Magome to Tsumago: Walking the Nakasendo from Nagoya (Luggage, Buses, Ti
 description: "How to walk Magome to Tsumago on the Nakasendo from Nagoya: JR and bus links, luggage forwarding, trail time, bear bells and winter tips."
 summary: The Magome to Tsumago walk on the Nakasendo is about 9 km and takes 2.5 to 3 hours, with the highest point at Magome Pass, 790 m above sea level. From Nagoya, take the Limited Express Shinano to Nakatsugawa in about 50 minutes and a 25-minute bus to Magome, then return from Tsumago by bus to Nagiso Station and take the Shinano back to Nagoya in about 1 hour. Luggage forwarding costs 1,000 yen per bag from March 20 to November 30, 2026, with drop-off from 8:30 to 11:30.
 status: 公開
-facts_checked: 2026-10-18
+facts_checked: 2026-10-23
 cta: https://yesim.tpk.lu/T6xnCd9w|Keep maps and bus times on your phone|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Looking up the Nakasendō in the central part of the village, Tsumago-juku, Nagiso, 2016.jpg
 image_alt: The Nakasendo road through Tsumago-juku
@@ -146,4 +146,4 @@ The climb from Magome to Magome Pass is steep but short, and the climb from Tsum
 The Tsumago Tourist Association recommends carrying a bell or something else that makes noise ([tsumago.jp, as of October 2026](https://tsumago.jp/walk/)). A bell can be rented at either tourist information office for 2,100 yen, with 2,000 yen refunded on return, so the rental costs 100 yen.
 
 ---
-*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-18.*
+*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-23.*

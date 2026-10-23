@@ -99,7 +99,7 @@ The 2026 autumn festival has already taken place. The next festival is the sprin
 
 ## Day trip or overnight?
 
-**A day trip works** if you leave Nagoya early. With about 2 hours 20 minutes each way by train, or 2 hours 40 minutes by bus, you can still have a full afternoon in town. A realistic plan covers Sanmachi, Takayama Jinya, and either Hida Folk Village or a sake brewery. The morning markets close at noon, so on a day trip you will likely see them only if you arrive early.
+**A day trip works** if you leave Nagoya early (compare in [How many days in Takayama?](how-many-days-in-takayama.html)). With about 2 hours 20 minutes each way by train, or 2 hours 40 minutes by bus, you can still have a full afternoon in town. A realistic plan covers Sanmachi, Takayama Jinya, and either Hida Folk Village or a sake brewery. The morning markets close at noon, so on a day trip you will likely see them only if you arrive early.
 
 **An overnight stay** adds the evening, when the old town is quieter, and the morning markets the next day. It also lets you continue to another destination, such as Shirakawa-go or Gero, instead of going back to Nagoya.
 
