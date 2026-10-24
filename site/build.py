@@ -304,6 +304,23 @@ commission at no extra cost to you. We only link to things we think are useful f
         pin_items += (f"<item><title>{e(p['title'])}</title><link>{e(u)}</link><guid>{BASE}pins/{p['slug']}</guid>"
                       f"<pubDate>{format_datetime(pub(p))}</pubDate><description>{e((p.get('summary') or p.get('description', ''))[:480])}</description>"
                       f'<media:content url="{img}" medium="image"/><enclosure url="{img}" type="image/png" length="0"/></item>')
+        # 2枚目のピン（別デザイン）：FAQの1問目を見出しに、要約の1文目を答えとして載せる。guidが別なのでPinterestに新しいピンとして入る。
+        if p["faq"] and p.get("summary"):
+            q1 = p["faq"][0][0]
+            ans = re.split(r"(?<!Mt\.)(?<!St\.)(?<=[.!?;])\s", p["summary"], maxsplit=1)[0].rstrip(";") + "."; ans = ans.replace("..", ".")
+            ans = ans if len(ans) <= 230 else ans[:227].rsplit(" ", 1)[0] + "…"
+            (OUT / "pins" / f"{p['slug']}-b.html").write_text(
+                f'<!doctype html><html><head><meta charset="utf-8"><meta name="robots" content="noindex"><style>{PIN_CSS}'
+                f'.ans{{margin-top:28px;font-size:38px;line-height:1.35;color:#333}}h1{{font-size:{64 if len(q1) > 48 else 72}px}}</style></head><body>'
+                f'<div class="photo" style="background-image:url(\'{e(image_url(p, 1400))}\');height:620px"><div class="tag">QUICK ANSWER</div>'
+                f'<div class="credit">{e(credit)}</div></div>'
+                f'<div class="body"><h1>{e(q1)}</h1><p class="ans">{e(ans)}</p></div>'
+                f'<div class="foot"><b>Gifu Gourmand</b><span>Read the full guide →</span></div></body></html>')
+            ub = f"{BASE}{p['slug']}.html?utm_source=pinterest&utm_medium=social&utm_campaign=pin-rss-b"
+            imgb = f"{BASE}pins/{p['slug']}-b.png"
+            pin_items += (f"<item><title>{e(q1)}</title><link>{e(ub)}</link><guid>{BASE}pins/{p['slug']}-b</guid>"
+                          f"<pubDate>{format_datetime(pub(p))}</pubDate><description>{e(ans + ' Full guide with sources and check dates on Gifu Gourmand.')}</description>"
+                          f'<media:content url="{imgb}" medium="image"/><enclosure url="{imgb}" type="image/png" length="0"/></item>')
     (OUT / "feed-pins.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">'
                                        f"<channel><title>{SITE_NAME} pins</title><link>{BASE}</link><description>{TAGLINE}</description><language>en</language>"
                                        + pin_items + "</channel></rss>\n")
