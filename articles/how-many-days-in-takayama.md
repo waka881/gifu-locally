@@ -58,7 +58,7 @@ Our [Takayama 2-day itinerary](takayama-2-day-itinerary.html) has an hour-by-hou
 
 *Sources: [Nohi Bus, Shinhotaka line](https://www.nouhibus.co.jp/route_bus/shinhotaka-line-en/); [Shinhotaka Ropeway](https://shinhotaka-ropeway.jp/en/price/); [Nohi Bus, Kamikochi line](https://www.nouhibus.co.jp/route_bus/kamikochi-line-en/); [JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/); [Gero Onsen Tourism Association](https://www.gero-spa.com/spot/detail_3.html), as of October 2026.*
 
-A third day also makes Takayama easier in winter, when buses can be delayed by snow. Guides: [Shinhotaka Ropeway](shinhotaka-ropeway.html), [Kamikochi from Takayama](kamikochi-from-takayama.html), [Gero Onsen](gero-onsen-guide.html) and [Gero vs Okuhida](gero-vs-okuhida-onsen.html).
+A third day also makes Takayama easier in winter, when buses can be delayed by snow. Guides: [Shinhotaka Ropeway](shinhotaka-ropeway.html), [Kamikochi from Takayama](kamikochi-from-takayama.html), [Gero Onsen](gero-onsen-guide.html) and [Gero vs Okuhida](gero-vs-okuhida-onsen.html). For a ready-made plan with a Gero Onsen night, see our [Gifu 3-day itinerary](gifu-3-day-itinerary.html).
 
 ## Where should you stay?
 

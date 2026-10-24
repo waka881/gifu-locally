@@ -3,7 +3,7 @@ title: "Best Time to Visit Shirakawa-go: Season by Season"
 description: "When to visit Shirakawa-go: snow and the winter light-up, cherry blossoms, green summer and autumn leaves, with official dates, crowds and travel tips for each season."
 summary: The best time to visit Shirakawa-go depends on what you want to see. For the famous snow-covered farmhouses, go in deep winter, when February snow can reach 170 cm or more; for autumn leaves, go from late October to mid-November; for cherry blossoms, mid-April to early May. The 2027 winter light-up is on January 11, 17, 24 and 31, and it is the hardest time to visit because the 2026 event was reservation-only.
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-25
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Shirakawa-go and Takayama in one day|Guided day tour from Nagoya with transport included, useful in snowy months. See dates and reviews on Klook.|Check dates
 image: 2016-11-03 Shirakawa-go.jpg
 image_alt: Shirakawa-go in early November
@@ -107,4 +107,4 @@ January 11, 17, 24 and 31, 2027 ([Shirakawa-go Tourist Association](https://shir
 Only on light-up evenings or if you stay overnight. On other nights, day visitors are not admitted to the village after dark ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/events/106/)).
 
 ---
-*Dates, prices and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-19.*
+*Dates, prices and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-25.*

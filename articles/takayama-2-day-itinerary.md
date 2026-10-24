@@ -94,6 +94,8 @@ If you are continuing to Kanazawa instead, buses run on from Shirakawa-go; see o
 - **Add an onsen night:** continue to Gero Onsen instead of returning to Nagoya directly. JR Central lists the train from Takayama to Gero at about 45–60 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). See our [Gero Onsen guide](gero-onsen-guide.html). For mountain open-air baths instead, compare [Gero and Okuhida](gero-vs-okuhida-onsen.html).
 - **Only one day?** A guided tour from Nagoya can cover both towns in a day, with less time in each. Compare the options in [Takayama or Shirakawa-go?](takayama-or-shirakawa-go.html)
 
+**Have a third day?** Our [Gifu 3-day itinerary](gifu-3-day-itinerary.html) adds a ryokan night in Gero Onsen on the way from Nagoya.
+
 ## FAQ
 
 ### Is 2 days in Takayama enough?
