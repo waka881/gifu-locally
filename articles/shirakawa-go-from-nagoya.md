@@ -141,6 +141,8 @@ Because of these rules, many visitors from Nagoya go to the light-up on an organ
 
 If you're leaning toward a tour, you can browse Shirakawa-go day tours departing Nagoya on [Klook](https://klook.tpk.lu/zp1hCE5f). Don't forget a [Japan eSIM](https://yesim.tpk.lu/T6xnCd9w) for maps and bus times on the day.
 
+**Prefer a guided tour?** We compare the main [Shirakawa-go day tours from Nagoya](shirakawa-go-tours-from-nagoya.html), including the Hida beef lunch and Gujo Hachiman versions.
+
 ## FAQ
 
 ### How long does it take to get from Nagoya to Shirakawa-go?
