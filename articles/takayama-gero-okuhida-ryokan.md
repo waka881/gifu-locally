@@ -73,6 +73,8 @@ Yes, and on a longer trip that is often the best answer: Gero on the way up from
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Staying in Takayama?|Compare hotels near JR Takayama Station, next to the buses for Shirakawa-go and Okuhida, on Klook.|See stays]]
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### Is Takayama or Gero better for an onsen ryokan?

@@ -121,6 +121,8 @@ Travel there and back takes up most of the day, so leave early and know your ret
 
 Not sure where to start? For a first visit with little planning, Gifu City is the simplest choice. For a full day out, Gujo Hachiman or Gero Onsen. Choose Shirakawa-go if you're ready for an early start. To see the options in one place, browse tours and activity tickets on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### What is a good first day trip from Nagoya to Gifu?

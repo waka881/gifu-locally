@@ -83,6 +83,8 @@ Staying in a farmhouse inn is the only way to see the village at night outside t
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Base yourself in Takayama this winter|The Shirakawa-go buses leave from the bus center next to JR Takayama Station. Compare hotels nearby on Klook.|See stays]]
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### Is Shirakawa-go worth visiting in winter?

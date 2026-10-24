@@ -105,6 +105,8 @@ If you have two nights, a common pattern is to arrive at JR Gifu Station, stay o
 
 For tours and passes to pair with your stay, you can also browse options on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### Should I stay near Gifu Station or at Nagaragawa Onsen?

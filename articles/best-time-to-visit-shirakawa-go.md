@@ -86,6 +86,8 @@ Note that the highway bus fare depends on the date: Gifu Bus uses five date cate
 
 [[cta|https://www.klook.com/en-US/destination/c9316-takayama/3-hotel/|Stay in Takayama for Shirakawa-go|Takayama is about 50 minutes from Shirakawa-go by express bus. Compare hotels and ryokan on Klook.|See stays]]
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### What month is best to visit Shirakawa-go?

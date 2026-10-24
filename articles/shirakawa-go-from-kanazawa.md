@@ -83,6 +83,8 @@ Yes. The same line continues from Shirakawa-go to Takayama in about 50 minutes f
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Continuing to Takayama?|Book a night near JR Takayama Station, where the bus from Shirakawa-go arrives. Compare hotels on Klook.|See stays]]
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### How long is the bus from Kanazawa to Shirakawa-go?

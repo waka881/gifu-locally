@@ -70,6 +70,8 @@ The regional pass gives you 5 days, and the Japan Rail Pass's shortest option is
 - **Use the free seat reservations.** Both passes let you reserve seats at no extra cost (with the regional pass limited to 6).
 - **Check the arrival stamp.** The Japan Rail Pass is for foreign visitors with Temporary Visitor status ([Japan Rail Pass](https://japanrailpass.net/en/use/conditions-for-use/)), and Klook's listing for the regional pass also asks for a Temporary Visitor stamp, so avoid the automated immigration gates that skip the stamp ([Klook](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/)).
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### Is the Japan Rail Pass worth it for Takayama and Shirakawa-go?

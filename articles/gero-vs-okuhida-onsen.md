@@ -89,6 +89,8 @@ Choosing where to sleep, Takayama included? See [Takayama, Gero or Okuhida](taka
 
 [[cta|https://www.klook.com/en-US/destination/c6370-gifu/3-hotel/|Ryokan with open-air baths in Gifu|Compare hotels and ryokan across Gifu Prefecture, including Okuhida, on Klook.|See stays]]
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### Is Gero or Okuhida better for a day trip from Nagoya?

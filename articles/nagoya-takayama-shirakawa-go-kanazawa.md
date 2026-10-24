@@ -80,6 +80,8 @@ Day 1 is covered in detail in our [Takayama 2-day itinerary](takayama-2-day-itin
 
 Klook sells the [JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/), a 5-day pass for overseas visitors aimed at the Takayama and Hokuriku region. Coverage and conditions can change, so check the current route map, which bus sections are included, and the price on the product page against your own plan before you buy. Compare it with paying for each leg using the fares above; our [Takayama-Hokuriku pass guide](takayama-hokuriku-pass.html) sets out the coverage (¥19,800 for 5 days, including the Shirakawa-go buses) and the comparison.
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### How long does it take from Takayama to Kanazawa by bus?

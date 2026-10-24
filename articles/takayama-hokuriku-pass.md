@@ -85,6 +85,8 @@ The official page lists three ways ([JR Central and JR West](https://touristpass
 - **Plan the 5 days.** The days are consecutive, so put the long travel legs inside the 5 days and the days you stay in one town outside them.
 - **Winter:** Nohi Bus warns of delays of two hours or more on the Shirakawa-go line in winter ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Leave slack before any onward train. See [Takayama in winter](takayama-in-winter.html).
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### How much is the Takayama-Hokuriku Area Tourist Pass?

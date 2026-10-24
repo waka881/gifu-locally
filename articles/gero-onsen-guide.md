@@ -125,6 +125,8 @@ Continuing to Takayama? Klook sells a [2-day Takayama–Gero Onsen bus ticket](h
 
 [[cta|https://www.klook.com/en-US/destination/p60271486-gero-onsen/3-hotel/|Ryokan and hotels in Gero Onsen|Compare prices and availability for your dates on Klook.|See stays]]
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### How much is the train from Nagoya to Gero Onsen?

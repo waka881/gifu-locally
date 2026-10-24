@@ -101,6 +101,8 @@ You can [compare stays and activities on Klook](https://klook.tpk.lu/zp1hCE5f) w
 
 Coming in winter? Read [Takayama in winter](takayama-in-winter.html) first: staying near the station helps when roads are snowy.
 
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+
 ## FAQ
 
 ### Is it better to stay near Takayama Station or in the old town?
