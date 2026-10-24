@@ -99,7 +99,7 @@ The viewpoint shuttle runs every 20 minutes from 10:00 to 14:40, with a break fr
 
 ## Can you go on to Kanazawa instead of coming back?
 
-Yes. The same line continues from Shirakawa-go to Kanazawa for ¥2,800, about 1 hour 20 minutes ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/); [Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)). Coin lockers at the Shirakawago Bus Terminal cost ¥500 or ¥1,000 per use, 8:00–17:00 ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)). See the [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html).
+Yes. The same line continues from Shirakawa-go to Kanazawa for ¥2,800, about 1 hour 20 minutes ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/); [Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)). Coin lockers at the Shirakawago Bus Terminal cost ¥500 or ¥1,000 per use, 8:00–17:00 ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)). See the [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html). For the through buses and stopover timings, see [Takayama to Kanazawa by bus](takayama-to-kanazawa-bus.html).
 
 ## Bus or guided tour?
 

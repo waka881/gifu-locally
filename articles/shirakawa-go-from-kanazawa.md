@@ -79,7 +79,7 @@ Go up to the viewpoint early: the shuttle's last run is 14:40. More on each sigh
 
 ## Can you continue to Takayama instead of going back?
 
-Yes. The same line continues from Shirakawa-go to Takayama in about 50 minutes for ¥2,800 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). That turns the trip into the classic route in reverse; see our [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html) and [where to stay in Takayama](where-to-stay-takayama.html).
+Yes. The same line continues from Shirakawa-go to Takayama in about 50 minutes for ¥2,800 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). That turns the trip into the classic route in reverse; see our [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html), [Kanazawa to Takayama bus times](takayama-to-kanazawa-bus.html) and [where to stay in Takayama](where-to-stay-takayama.html).
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Continuing to Takayama?|Book a night near JR Takayama Station, where the bus from Shirakawa-go arrives. Compare hotels on Klook.|See stays]]
 

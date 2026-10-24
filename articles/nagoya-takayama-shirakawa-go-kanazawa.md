@@ -47,7 +47,7 @@ The Shirakawa-go Tourist Association gives the express bus time between Kanazawa
 
 ### Should you buy Takayama–Kanazawa or two separate tickets?
 
-A through ticket from Takayama to Kanazawa costs ¥4,200, but you stay on the bus. To spend time in Shirakawa-go, you buy two tickets (¥2,800 + ¥2,800 = ¥5,600) and reserve two separate buses. Book the second bus with enough time in the village: the Tourist Association says walking around takes about 2–3 hours ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)).
+A through ticket from Takayama to Kanazawa costs ¥4,200, but you stay on the bus. To spend time in Shirakawa-go, you buy two tickets (¥2,800 + ¥2,800 = ¥5,600) and reserve two separate buses. Book the second bus with enough time in the village: the Tourist Association says walking around takes about 2–3 hours ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)). Our [Takayama to Kanazawa bus guide](takayama-to-kanazawa-bus.html) lists the through buses and stopover combinations.
 
 ## What about luggage?
 
