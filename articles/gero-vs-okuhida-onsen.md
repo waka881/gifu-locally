@@ -3,7 +3,7 @@ title: "Gero Onsen vs Okuhida Onsen: Which Gifu Hot Spring Should You Pick?"
 description: "Gero Onsen or Okuhida Onsen-go? A side-by-side comparison of access from Nagoya and Takayama, the water, day-use baths, scenery and costs, from official sources."
 summary: Pick Gero Onsen if you want an easy hot spring town with a direct Limited Express Hida stop, public baths from ¥470 and about 50 ryokan along the Hida River, which works as a day trip from Nagoya or a stop on the way to Takayama. Pick Okuhida Onsen-go if you want open-air baths with Northern Alps views: it is five mountain hot spring areas at about 800–1,300 m, roughly 1 to 1¾ hours by Nohi Bus from Takayama, with the Shinhotaka Ropeway nearby, and it rewards an overnight stay.
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-26
 cta: https://www.klook.com/en-US/destination/p60271486-gero-onsen/3-hotel/|Ryokan and hotels in Gero Onsen|Compare prices and availability for your dates on Klook.|See stays
 image: Hida River and Gero Onsen from Mutsumi Bridge.jpg
 image_alt: Gero Onsen and the Hida River seen from Mutsumi Bridge
@@ -110,4 +110,4 @@ Hirayu, Fukuji, Shin-Hirayu, Tochio and Shinhotaka ([Okuhida hot springs page](h
 The Gero Onsen Tourism Association describes Gero as one of Japan's "three famous hot springs" (*Nihon Sanmeisen*), with Arima in Hyogo and Kusatsu in Gunma ([Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/)).
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-19.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-26.*
