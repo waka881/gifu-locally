@@ -3,7 +3,7 @@ title: "Chubu Centrair Airport to Gifu, Takayama and Shirakawa-go: Trains, Buses
 description: "How to get from Chubu Centrair (Nagoya) Airport to Gifu City, Takayama, Shirakawa-go and Gero by Meitetsu train, highway bus or private transfer, with times and fares from official sources."
 summary: From Chubu Centrair Airport, the Meitetsu μSKY reaches Meitetsu Nagoya in as little as 28 minutes and Meitetsu Gifu in about an hour. For Takayama, the cheapest option is Nohi Bus's combined Centrair–Takayama ticket (train to Gifu, then express bus, ¥4,100 for adults), while Centrair also lists a direct airport–Takayama highway bus. Shirakawa-go buses leave from the Meitetsu Bus Center in Nagoya, and a private transfer is the simplest choice with heavy luggage or a group.
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-25
 cta: https://www.klook.com/airport-transfers/service/ngo-chubu-centrair-international-airport/|Private transfer from Chubu Centrair Airport|Door-to-door car from the arrivals hall to your hotel. Compare vehicles and prices on Klook.|See transfers
 image: Takayama Train and Bus Station from above.jpg
 image_alt: Takayama's train and bus station seen from above
@@ -117,4 +117,4 @@ Centrair describes the route via Gifu as the cheapest to Takayama. Nohi Bus sell
 Yes. Nohi Bus says all its express buses are reserved-seat only, with reservations opening one month in advance ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/gifu_en/), as of October 2026).
 
 ---
-*Prices, timetables and booking rules change. Check official sources before you travel. Facts last checked: 2026-10-19.*
+*Prices, timetables and booking rules change. Check official sources before you travel. Facts last checked: 2026-10-25.*
