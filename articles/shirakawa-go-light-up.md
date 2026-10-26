@@ -3,8 +3,8 @@ title: "Shirakawa-go Light-Up 2027: Dates, Reservations and How to Get There"
 description: "Shirakawa-go winter light-up 2027 runs Jan 11, 17, 24 and 31. Reservation rules, Nohi Bus tours from Takayama, and routes from Nagoya."
 summary: The 41st Shirakawa-go Light-Up takes place on January 11, 17, 24 and 31, 2027, lit 5:30–7:30 pm, and you must reserve in advance. You can book a Nohi Bus light-up tour from Takayama (from 13,000 yen), a lottery-allocated inn stay, or a parking slot, and the observation deck needs a pre-booked ticket.
 status: 公開
-facts_checked: 2026-10-19
-cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|See Shirakawa-go by day from Nagoya|A general Takayama and Shirakawa-go day tour from Nagoya (not a light-up tour), on Klook.|Check dates
+facts_checked: 2026-10-26
+cta: https://www.klook.com/en-US/activity/233458-nagoya-shirakawa-go-winter-illumination-day-tour/|2027 light-up tour from Nagoya|Day tour on the 2027 light-up dates: Takayama old town, then about 5 hours in Shirakawa-go. Back in Nagoya around 22:30. Check dates and what's included on Klook.|Check dates
 image: Shirakawa Go (198622037).jpeg
 image_alt: Lit-up gassho-style houses in Shirakawa-go on a snowy night
 image_credit: Yoshiyuki Ito
@@ -83,7 +83,17 @@ Winter roads to Shirakawa-go can be snowy and icy. If you aren't used to driving
 
 ### 4. Tours from other travel companies
 
-Some travel companies sell light-up packages. Before you buy one, check that it includes the light-up entry and, if you want it, an observation deck ticket.
+Some travel companies sell light-up packages, including day tours from Nagoya. Before you buy one, check that it includes the light-up entry and, if you want it, an observation deck ticket.
+
+Light-up tours from Nagoya listed on Klook, checked October 26, 2026:
+
+| Tour (Klook) | Status | Duration | What the listing states |
+|---|---|---|---|
+| [2027 Shirakawa-go Winter Illumination & Hida Takayama Tour](https://www.klook.com/en-US/activity/233458-nagoya-shirakawa-go-winter-illumination-day-tour/) | Bookable; next date January 11, 2027 | 13.5 h (9:00–22:30) | Meets near Nagoya Station West Exit; about 1.5 h guided walk in Takayama, then about 5 h in Shirakawa-go; English, Chinese and Japanese guides; full refund if cancelled at least 60 days before; meals not included; listed from US$181.85 |
+| [Takayama Old Town + Shirakawa-go Illumination](https://www.klook.com/en-US/activity/175324-shirakawa-go-light-up-2026-day-tour-nagoya-departure-via-takayama/) | No dates showing | 10 h | Small group of about 9; observation deck excluded; Chinese-speaking guide |
+| [Shirakawa-go Winter Light-Up and Hida Takayama Day Trip](https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/) | Currently unavailable | 12 h 25 min | Departs Meitetsu Bus Center; dinner plan options |
+
+*Source: each tour's Klook page, checked October 26, 2026. None of these listings says it includes the observation deck. The first listing doesn't say whether light-up entry is arranged, so ask the operator before you book.*
 
 ## The observation deck: book it in advance
 
@@ -102,7 +112,7 @@ Takayama is the departure point for the official light-up tours, so it is the ea
 
 ## How to get there from Nagoya
 
-There's no official Nohi light-up tour leaving from Nagoya, since its tours start only in Takayama. You have two practical options:
+There's no official Nohi light-up tour leaving from Nagoya, since its tours start only in Takayama. You have two practical options, or you can book a day tour from Nagoya (see option 4 above):
 
 **Option A: Train to Takayama, then the Nohi tour.** The Limited Express Hida takes about 2 hours 20 minutes from Nagoya Station to Takayama ([JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/), as of October 2026). Arrive with time to collect your ticket before the tour leaves between 2:40 pm and 3:40 pm. Tours return to Takayama between 8:20 pm and 8:45 pm, so plan to stay the night in Takayama. Our [Takayama from Nagoya guide](takayama-from-nagoya.html) covers the train in more detail.
 

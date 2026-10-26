@@ -95,6 +95,8 @@ For a wider plan around Takayama, see our [Takayama 2-day itinerary](takayama-2-
 
 **Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
+**Save on buses and the ropeway:** compare the Nohi Bus value tickets in our [Okuhida bus pass guide](okuhida-bus-pass.html).
+
 ## FAQ
 
 ### How long does it take from Takayama to Kamikochi?
