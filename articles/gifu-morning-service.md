@@ -3,7 +3,7 @@ description: "Gifu City spends more on coffee shops than any other major city in
 summary: Morning service is a Gifu coffee shop custom: order a drink in the morning and toast, a boiled egg or a small salad comes with it at no extra charge. It is served only in the morning, each shop sets its own cut-off time, and many small shops are cash only. Gifu City households spend more on coffee shops than any other prefectural capital or major city in Japan, ranking first for the fourth year in a row in the 2023 Family Income and Expenditure Survey.
 title: "Gifu's Morning Service: Order a Coffee, Get Breakfast"
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-27
 cta: https://yesim.tpk.lu/T6xnCd9w|Get mobile data before you land|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Blend Coffee and Morning Sets 20231123 02.jpg
 image_alt: Coffee with a free morning set at a cafe in Kakamigahara, Gifu
@@ -18,7 +18,17 @@ Walk into a neighborhood coffee shop in Gifu before late morning, order a coffee
 
 ## Why Gifu?
 
-Gifu City households spend more on coffee shops than any other prefectural capital or major city in Japan. According to Japan's national Family Income and Expenditure Survey for 2023, Gifu City ranked first among prefectural capitals and designated cities for the fourth year in a row, in annual coffee shop spending per household (two-or-more-person households) ([Gifu City](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/005/752/cafe_ura.pdf)).
+Gifu City households spend more on coffee shops than any other prefectural capital or major city in Japan. According to Japan's national Family Income and Expenditure Survey for 2023, Gifu City ranked first among prefectural capitals and designated cities for the fourth year in a row, in annual coffee shop spending per household (two-or-more-person households) ([Gifu City](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/005/752/cafe_ura.pdf)). Gifu Prefecture's own summary of the same survey, averaged over 2022–2024, puts Gifu City's annual coffee shop spending at ¥14,750 per household, again first among prefectural capitals and designated cities ([Gifu Prefecture](https://www.pref.gifu.lg.jp/uploaded/attachment/481799.pdf), as of October 2026).
+
+| Gifu morning service at a glance | |
+|---|---|
+| What you get | Toast, a boiled egg or a small salad with your drink, at no extra charge |
+| When | Mornings; each shop sets its own cut-off time |
+| How to order | Order a drink; some shops let you choose a set |
+| Paying | At the register when you leave; many small shops take cash only |
+| Why Gifu | Gifu City ranks first in Japan for household coffee shop spending (¥14,750 a year, 2022–2024 average) |
+
+*Sources: [Gifu City](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/005/752/cafe_ura.pdf); [Gifu Prefecture](https://www.pref.gifu.lg.jp/uploaded/attachment/481799.pdf). Cash and ordering tips are general advice.*
 
 Morning service is shared with neighboring Aichi Prefecture, but in Gifu it is less of a tourist attraction and more of a daily routine. You'll be sitting next to retirees reading the paper, not other travelers.
 

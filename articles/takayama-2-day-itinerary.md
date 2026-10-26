@@ -96,6 +96,8 @@ If you are continuing to Kanazawa instead, buses run on from Shirakawa-go; see o
 
 **Have a third day?** Our [Gifu 3-day itinerary](gifu-3-day-itinerary.html) adds a ryokan night in Gero Onsen on the way from Nagoya. Or spend a half day in [Hida Furukawa](hida-furukawa-or-takayama.html), about 15 minutes by train.
 
+**Morning markets:** hours and which one to visit are in our [Takayama morning market guide](takayama-morning-market.html).
+
 ## FAQ
 
 ### Is 2 days in Takayama enough?
