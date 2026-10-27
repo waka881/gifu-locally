@@ -39,7 +39,7 @@ Hida Furukawa is a small castle town one stop beyond Takayama on the JR Takayama
 
 Every year on **April 19 and 20**. On the night of April 19, the Okoshi Daiko procession carries a large drum through town late into the night, and on the night of April 20 lantern-lit floats tour the streets. The float parade is cancelled in rain, but the Okoshi Daiko goes ahead. The Okoshi Daiko and float events are registered as UNESCO Intangible Cultural Heritage ([Hida City tourism](https://www.hida-kankou.jp/event/408), as of October 2026).
 
-The Spring Takayama Festival is on April 14–15 ([Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000105.html)), so a mid-April trip can take in both; book a Takayama hotel early for those dates.
+The Spring Takayama Festival is on April 14–15 ([Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000105.html)), so a mid-April trip can take in both; book a Takayama hotel early for those dates. See our [Takayama Festival guide](takayama-festival.html) for the spring schedule.
 
 ## How do you get from Takayama to Hida Furukawa?
 

@@ -83,7 +83,7 @@ A common split for a first trip is a hotel or small inn in Takayama town, follow
 
 ## When to book early: the April and October festivals
 
-The Takayama Festival happens twice a year:
+The Takayama Festival happens twice a year: Our [Takayama Festival guide](takayama-festival.html) has the full schedule.
 
 - **Spring Takayama Festival (Sannō Matsuri):** April 14 and 15, for Hie Jinja Shrine (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000105.html)).
 - **Autumn Takayama Festival (Hachiman Matsuri):** October 9 and 10, for Sakurayama Hachimangu Shrine (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000105.html)).
