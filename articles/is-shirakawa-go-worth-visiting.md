@@ -3,7 +3,7 @@ title: "Is Shirakawa-go Worth Visiting? What to Expect, Costs and Crowds"
 description: "Is Shirakawa-go worth it? What the UNESCO village is really like, how long you need, what it costs from Nagoya or Takayama, crowds, rules and who should skip it."
 summary: Shirakawa-go is worth visiting if you want to see Japan's thatched gassho-style farmhouses, which UNESCO describes as the only examples of their kind in Japan, but it is a small village that most people walk around in 2–3 hours, so it suits a half-day stop from Takayama or a long day trip from Nagoya rather than a full day on its own. Entry to the village is free, most houses charge ¥300–¥400, and the main costs are the reserved highway bus (¥3,600–¥4,700 one way from Nagoya) and your time.
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-28
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|See Shirakawa-go without planning the buses|Guided day tour from Nagoya that also stops in Takayama and Gujo Hachiman. See dates, itinerary and reviews on Klook.|Check dates
 image: Overview of Ogimachi, Shirakawa, from the Ogimachi Castle observation point.jpg
 image_alt: Ogimachi village in Shirakawa-go seen from the observation point
@@ -127,4 +127,4 @@ It works as a day trip, but the highway bus takes about 2 hours 50 minutes each 
 Yes. The Tourist Association's accommodation search lists 41 places to stay, including gassho-style farmhouse inns, ryokan and a hotel ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/), as of October 2026).
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-19.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-28.*

@@ -68,6 +68,8 @@ For a two- or three-day stay, the area around JR Takayama Station is the practic
 
 **Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
+**Short on time?** [Hida Folk Village](hida-folk-village.html), 10 minutes by bus from Takayama Station, has over 30 traditional farmhouses you can walk into.
+
 ## FAQ
 
 ### Is one day enough for Takayama?
