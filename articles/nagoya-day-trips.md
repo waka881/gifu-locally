@@ -117,7 +117,7 @@ Travel there and back takes up most of the day, so leave early and know your ret
 - **Know which Nagoya terminal you need.** JR trains leave from Nagoya Station. Several highway buses leave from the Meitetsu Bus Center, about a 5-minute walk away ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)). Some Gujo buses leave from the JR Nagoya Station (Shinkansen side) bus stop instead.
 - **Check return times first.** On bus routes with only a few departures a day, the last bus home shapes your whole day.
 - **Leave big bags in Nagoya.** Highway buses have limited luggage space. If you are between hotels, [Radical Storage lists luggage storage spots in Nagoya](https://radicalstorage.com/luggage-storage/nagoya), priced per bag per day (as of October 2026).
-- **Combine nearby stops.** Gifu City, Seki and Mino are close to one another, so two of them can fit into one day.
+- **Combine nearby stops.** Gifu City, Seki and Mino are close to one another, so two of them can fit into one day. Seki City also has Monet's Pond in the Itadori mountains; see [Monet's Pond from Nagoya](monets-pond-from-nagoya.html).
 
 Not sure where to start? For a first visit with little planning, Gifu City is the simplest choice. For a full day out, Gujo Hachiman or Gero Onsen. Choose Shirakawa-go if you're ready for an early start. To see the options in one place, browse tours and activity tickets on [Klook](https://klook.tpk.lu/zp1hCE5f).
 

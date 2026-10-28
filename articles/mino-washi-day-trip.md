@@ -108,7 +108,7 @@ If you visit during the exhibition, you'll be in Mino after dark. Check the time
 
 ## Combine Mino with Seki
 
-Seki is on the same Nagoya–Seki–Mino highway bus line and is famous for its blades. You could visit Seki in the morning and Mino in the afternoon, or the other way round. Our [Seki knife guide](seki-knife-guide.html) covers what to see there.
+Seki is on the same Nagoya–Seki–Mino highway bus line and is famous for its blades. You could visit Seki in the morning and Mino in the afternoon, or the other way round. Our [Seki knife guide](seki-knife-guide.html) covers what to see there. The private [Monet's Pond tour from Nagoya](monets-pond-from-nagoya.html) also combines the pond with Mino Old Town.
 
 For more ideas for day trips into Gifu, see our [Nagoya day trips hub](nagoya-day-trips.html). If you're planning several trips, you can also browse tours and passes on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
