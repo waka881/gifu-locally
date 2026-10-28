@@ -79,7 +79,7 @@ The 41st Shirakawa-go Light-Up is on **January 11, 17, 24 and 31, 2027** ([Shira
 
 ## Should you stay overnight?
 
-Staying in a farmhouse inn is the only way to see the village at night outside the light-up dates, and it avoids racing the last bus in snow. The Tourist Association's accommodation search lists 41 places to stay ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/), as of October 2026). Most travellers base themselves in Takayama instead, about 50 minutes away by bus; see [where to stay in Takayama](where-to-stay-takayama.html) and [Takayama in winter](takayama-in-winter.html).
+Staying in a farmhouse inn is the only way to see the village at night outside the light-up dates, and it avoids racing the last bus in snow; see [staying overnight in Shirakawa-go](shirakawa-go-overnight-stay.html). The Tourist Association's accommodation search lists 41 places to stay ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/), as of October 2026). Most travellers base themselves in Takayama instead, about 50 minutes away by bus; see [where to stay in Takayama](where-to-stay-takayama.html) and [Takayama in winter](takayama-in-winter.html).
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Base yourself in Takayama this winter|The Shirakawa-go buses leave from the bus center next to JR Takayama Station. Compare hotels nearby on Klook.|See stays]]
 

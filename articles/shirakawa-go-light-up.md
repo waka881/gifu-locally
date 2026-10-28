@@ -66,7 +66,7 @@ Nohi Bus runs official light-up bus tours from the **Takayama Nohi Bus Center** 
 
 ### 2. Stay overnight in the village (lottery)
 
-Inns booked through the Tourist Association are allocated **by lottery**, not first come, first served. Applications opened on October 1, 2026 ([Tourist Association](https://shirakawa-go.gr.jp/en/), as of October 2026). Check the 2027 deadlines on the association's [lottery page](https://shirakawa-go.gr.jp/en/events/145/).
+Inns booked through the Tourist Association are allocated **by lottery**, not first come, first served. Applications opened on October 1, 2026 ([Tourist Association](https://shirakawa-go.gr.jp/en/), as of October 2026). Check the 2027 deadlines on the association's [lottery page](https://shirakawa-go.gr.jp/en/events/145/). For other nights, see [staying overnight in Shirakawa-go](shirakawa-go-overnight-stay.html).
 
 Here is how it worked for the **2026 event** (Tourist Association, [published November 26, 2025](https://shirakawa-go.gr.jp/en/events/130/)):
 

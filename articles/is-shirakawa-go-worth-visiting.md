@@ -69,7 +69,7 @@ It can be, mainly in the middle of the day when tour buses arrive. The village h
 
 Two practical ways to get more space:
 
-- **Stay the night.** The Tourist Association's accommodation search lists 41 places, including gassho-style farmhouse inns, ryokan, a hotel and a guest house ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/), as of October 2026). Staying lets you walk the village before day visitors arrive and after they leave.
+- **Stay the night.** The Tourist Association's accommodation search lists 41 places, including gassho-style farmhouse inns, ryokan, a hotel and a guest house ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/), as of October 2026). Staying lets you walk the village before day visitors arrive and after they leave; see [staying overnight in Shirakawa-go](shirakawa-go-overnight-stay.html).
 - **Go up the viewpoint early.** The shuttle stops at 14:40, so the view is easiest earlier in your visit.
 
 The winter light-up evenings are the busiest dates of all, and the 2026 event was reservation-only. See our [2027 light-up guide](shirakawa-go-light-up.html).
