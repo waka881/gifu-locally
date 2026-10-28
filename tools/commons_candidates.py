@@ -1,7 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
-    "monets-pond-from-nagoya": "Monet pond Seki Gifu",
+    "monets-pond-from-nagoya": "Monet's Pond",
     "shirakawa-go-overnight-stay": "Shirakawa-go gassho minshuku",
     "hida-folk-village": "Hida Folk Village Takayama",
     "takayama-festival": "Takayama Festival yatai",
