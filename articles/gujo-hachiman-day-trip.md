@@ -27,6 +27,8 @@ The easiest way is the **highway bus** from the JR Nagoya Station (Shinkansen si
 
 *Source: [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/article/detail_370.html), as of April 1, 2026. The Meitetsu Bus Center is a 10–15 minute walk from JR Nagoya Station.*
 
+Coming from Kyoto or Osaka? The Takayama–Kyoto/Osaka highway bus also stops at Gujo Hachiman IC (¥5,500 from Kyoto, ¥6,000 from Osaka); see [Osaka or Kyoto to Takayama](osaka-kyoto-to-takayama.html).
+
 The Gujo Hachiman IC stop is on the expressway, not in town. A shared taxi takes you to the center for **¥350 per person**, but it runs **by reservation only**, so book it before you set off ([Gujo Hachiman Tourism Association](https://www.gujohachiman.com/kanko/)).
 
 ## Gujo Hachiman Castle

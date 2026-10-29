@@ -13,7 +13,7 @@ image_license: CC BY 4.0
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*
 
-If your Japan trip runs from Nagoya into the Japanese Alps and out through Kanazawa to Kyoto or Osaka, the JR Takayama-Hokuriku Area Tourist Pass is built for that route. This guide sets out exactly what it covers, using the official pass page run by JR Central and JR West, and gives a simple way to check whether it pays off for your plan.
+If your Japan trip runs from Nagoya into the Japanese Alps and out through Kanazawa to Kyoto or Osaka, the JR Takayama-Hokuriku Area Tourist Pass is built for that route. This guide sets out exactly what it covers, using the official pass page run by JR Central and JR West, and gives a simple way to check whether it pays off for your plan. Coming from Osaka or Kyoto by bus instead? See [Osaka or Kyoto to Takayama](osaka-kyoto-to-takayama.html).
 
 ## The pass at a glance
 

@@ -3,7 +3,7 @@ title: "Takayama 2-Day Itinerary from Nagoya, with Shirakawa-go"
 description: "A 2-day Takayama itinerary from Nagoya: old town, Takayama Jinya and Hida Folk Village on day 1, morning markets and Shirakawa-go on day 2, with times, fees and where to stay."
 summary: Spend day 1 travelling from Nagoya to Takayama (about 2 hours 20 minutes by Limited Express Hida) and seeing Sanmachi, Takayama Jinya and Hida Folk Village, then sleep near the station or the old town. On day 2, visit the morning markets, which close at noon, and take the roughly 50-minute express bus to Shirakawa-go for 2–3 hours before heading on or back to Nagoya.
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-30
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book your night in Takayama|Compare hotels and ryokan near JR Takayama Station for your dates on Klook.|See stays
 image: Takayamacity center Old town No,2.JPG
 image_alt: Old merchant houses in central Takayama
@@ -35,7 +35,7 @@ Two days is enough to see Takayama properly and add Shirakawa-go without rushing
 - **Train:** the Limited Express Hida runs from JR Nagoya Station to JR Takayama Station in approximately 2 hours 20 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/), as of October 2026).
 - **Bus:** the Nohi Bus highway bus takes 2 hours 40 minutes and costs ¥3,600 one way, or ¥3,300 with the web discount ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/), as of October 2026).
 
-Leave early so you arrive by late morning. Drop your bags at your hotel near the station; the main sights are 10 to 12 minutes away on foot. Full details are in our [Nagoya to Takayama guide](takayama-from-nagoya.html).
+Leave early so you arrive by late morning. Drop your bags at your hotel near the station; the main sights are 10 to 12 minutes away on foot. Full details are in our [Nagoya to Takayama guide](takayama-from-nagoya.html); starting elsewhere, see [Tokyo to Takayama](tokyo-to-takayama.html) or [Osaka or Kyoto to Takayama](osaka-kyoto-to-takayama.html).
 
 ### Lunch: Hida beef
 
@@ -84,7 +84,7 @@ More detail is in our [Shirakawa-go guide](shirakawa-go-from-nagoya.html).
 
 ### Evening: back to Nagoya, or on to Kanazawa
 
-The highway bus between Shirakawa-go and the Meitetsu Bus Center in Nagoya takes about 2 hours 30 minutes, with reserved seats only and adult fares of ¥3,600–¥4,700 depending on the date ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/); [Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026). Book this seat when you plan the trip; on a two-day trip, it sets how long you can stay in the village.
+The highway bus between Shirakawa-go and the Meitetsu Bus Center in Nagoya takes about 2 hours 45 minutes (Gifu Bus lists 2 hours 46 minutes for the return), with reserved seats only and adult fares of ¥3,600–¥4,700 depending on the date ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026). Book this seat when you plan the trip; on a two-day trip, it sets how long you can stay in the village.
 
 If you are continuing to Kanazawa instead, buses run on from Shirakawa-go; see our [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html).
 
@@ -106,7 +106,7 @@ Two days covers Takayama's main sights, the morning markets and a visit to Shira
 
 ### Should I stay in Takayama or Shirakawa-go?
 
-Takayama is the easier base: it has trains to Nagoya, the Nohi Bus Center by the station, and more places to stay. Shirakawa-go is about 50 minutes away by express bus ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)).
+Takayama is the easier base: it has trains to Nagoya, the Nohi Bus Center by the station, and more places to stay. Shirakawa-go is about 50 minutes away by express bus ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)). Stay in the village only if you want to see it after dark; see [staying overnight in Shirakawa-go](shirakawa-go-overnight-stay.html).
 
 ### What time do the Takayama morning markets close?
 
@@ -117,4 +117,4 @@ Both the Miyagawa and Jinya-mae morning markets close at noon. They open at 7:00
 Yes. The Nagoya–Takayama Nohi Bus and the Shirakawa-go–Nagoya highway bus both use reserved seats, with booking opening one month ahead ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/); [Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html)).
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-19.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-30.*

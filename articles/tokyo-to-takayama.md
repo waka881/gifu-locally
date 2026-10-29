@@ -56,7 +56,7 @@ The bus also stops at **Hirayu Onsen** in Okuhida before Takayama, so you can st
 
 ## Train or bus: which should you choose?
 
-- **Take the train via Nagoya** if you have a Japan Rail Pass, want the shorter, more flexible trip, or are continuing to Kyoto or Osaka afterwards.
+- **Take the train via Nagoya** if you have a Japan Rail Pass, want the shorter, more flexible trip, or are continuing to Kyoto or Osaka afterwards (see [Osaka or Kyoto to Takayama](osaka-kyoto-to-takayama.html) for that leg).
 - **Take the bus** if price matters most: ¥8,000 with no change of vehicle, and you arrive next to the station. Book as soon as reservations open for busy dates.
 - **Take the Toyama route** if you plan to go on to Shirakawa-go and Kanazawa: see the [Nagoya–Takayama–Shirakawa-go–Kanazawa route](nagoya-takayama-shirakawa-go-kanazawa.html), which works in either direction.
 
