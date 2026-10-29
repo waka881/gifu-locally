@@ -3,7 +3,7 @@ title: "Nagoya to Kanazawa via Takayama and Shirakawa-go: The Japan Alps Route"
 description: "How to travel Nagoya → Takayama → Shirakawa-go → Kanazawa: trains, the Nohi Bus to Kanazawa, fares, reservations, luggage, winter delays and a sample 2–3 day plan."
 summary: The classic Japan Alps route runs Nagoya to Takayama by Limited Express Hida (about 2 hours 20 minutes), then Takayama to Shirakawa-go by Nohi Bus (about 50 minutes, ¥2,800), then Shirakawa-go to Kanazawa by bus (about 1 hour 20 minutes, ¥2,800); the Takayama–Kanazawa bus fare is ¥4,200 if you ride through. Most buses need a reserved seat, and in winter delays of two hours or more can happen, so plan 2–3 days with a night in Takayama.
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-29
 cta: https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/|JR Takayama-Hokuriku Area Tourist Pass|5-day pass for travelling between Nagoya, Takayama and the Hokuriku region. Check the route map and price on Klook.|See pass
 image: Takayama Train and Bus Station from above.jpg
 image_alt: Takayama's train and bus station seen from above
@@ -32,7 +32,7 @@ One of the most popular routes through central Japan runs from Nagoya up into th
 - **Train:** the Limited Express Hida runs from JR Nagoya Station to JR Takayama Station in approximately 2 hours 20 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/), as of October 2026). You pay the base fare plus a limited express charge.
 - **Bus:** the Nohi Bus highway bus takes 2 hours 40 minutes and costs ¥3,600 one way, or ¥3,300 with the web discount. Every bus needs a reservation, and booking opens one month ahead ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/), as of October 2026).
 
-The train suits rail-pass holders and anyone who wants to stop at Gero Onsen on the way; see [Gero Onsen vs Okuhida](gero-vs-okuhida-onsen.html). Full details for this leg are in [Nagoya to Takayama](takayama-from-nagoya.html).
+The train suits rail-pass holders and anyone who wants to stop at Gero Onsen on the way; see [Gero Onsen vs Okuhida](gero-vs-okuhida-onsen.html). Full details for this leg are in [Nagoya to Takayama](takayama-from-nagoya.html). Starting in Tokyo instead? See [Tokyo to Takayama](tokyo-to-takayama.html).
 
 ## How do you get from Takayama to Shirakawa-go and Kanazawa?
 
@@ -101,4 +101,4 @@ Usually yes. Nohi Bus marks reservation-required services with "R" on the timeta
 Yes. Coin lockers at Shirakawago Bus Terminal cost ¥500 or ¥1,000 per use, and a luggage storage service next to the terminal is open until 17:00 ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of October 2026).
 
 ---
-*Prices, timetables and booking rules change. Check official sources before you travel. Facts last checked: 2026-10-19.*
+*Prices, timetables and booking rules change. Check official sources before you travel. Facts last checked: 2026-10-29.*

@@ -50,6 +50,8 @@ Nohi Bus runs a Takayama–Nagoya express bus line. Its official page lists (as 
 
 The bus takes about 20 minutes longer than the train. Its one-way fare is a single fixed amount, which makes the cost easy to work out.
 
+Coming from Tokyo instead? Change to the Hida at Nagoya or Toyama, or take the highway bus from Shinjuku; see [Tokyo to Takayama](tokyo-to-takayama.html).
+
 ## What to see in Takayama
 
 The town center is walkable. The main sights below are 10 to 12 minutes on foot from JR Takayama Station. Hida Folk Village is a short bus ride away.

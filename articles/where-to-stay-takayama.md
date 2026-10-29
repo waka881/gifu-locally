@@ -27,7 +27,7 @@ Getting here first? See our guide to [getting from Nagoya to Takayama](takayama-
 
 **Who this area suits:** first-time visitors, travelers with large luggage, anyone doing day trips to Shirakawa-go or Okuhida, and people arriving late or leaving early.
 
-The station area is the transport hub. Once you exit JR Takayama Station, the Nohi Bus Center is behind the police box, and loop buses within the city plus express buses to Shirakawa-go and Tokyo leave from there (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4000219.html)). That makes the station area practical if you plan to take a [day trip to Shirakawa-go](shirakawa-go-from-nagoya.html) or ride the bus up to the Northern Alps.
+The station area is the transport hub. Once you exit JR Takayama Station, the Nohi Bus Center is behind the police box, and loop buses within the city plus express buses to Shirakawa-go and Tokyo leave from there (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4000219.html)). That makes the station area practical if you plan to take a [day trip to Shirakawa-go](shirakawa-go-from-nagoya.html) or ride the bus up to the Northern Alps. Coming from Tokyo? See [Tokyo to Takayama](tokyo-to-takayama.html).
 
 The old town is still close. The Sanmachi preservation area is a 12-minute walk from JR Takayama Station (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000153.html)).
 

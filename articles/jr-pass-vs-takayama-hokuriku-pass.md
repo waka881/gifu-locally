@@ -60,7 +60,7 @@ Note that the Japan Rail Pass is not valid on Nozomi or Mizuho Shinkansen trains
 
 *This table is our reading of the coverage and prices above, not an official recommendation.*
 
-The regional pass gives you 5 days, and the Japan Rail Pass's shortest option is 7. If your week also has a Tokyo leg, price that leg as a single ticket and add it to the regional pass before deciding. Our [Takayama-Hokuriku pass guide](takayama-hokuriku-pass.html) has the full coverage, and the [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html) has every leg with times and fares.
+The regional pass gives you 5 days, and the Japan Rail Pass's shortest option is 7. If your week also has a Tokyo leg, price that leg as a single ticket and add it to the regional pass before deciding. Our [Takayama-Hokuriku pass guide](takayama-hokuriku-pass.html) has the full coverage, and the [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html) has every leg with times and fares. For the Tokyo–Takayama options, including the cheaper highway bus, see [Tokyo to Takayama](tokyo-to-takayama.html).
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book your Takayama night|Both passes start the Shirakawa-go leg at the bus center next to JR Takayama Station. Compare nearby hotels on Klook.|See stays]]
 
