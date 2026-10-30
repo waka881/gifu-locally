@@ -3,7 +3,7 @@ title: "Where to Stay in Takayama: Best Areas, Ryokan vs Hotel, and What to Book
 description: "Where to stay in Takayama by area: station, Sanmachi old town, the morning markets and Okuhida onsen, plus ryokan vs hotel and festival booking tips."
 summary: For a first visit, stay near JR Takayama Station for easy trains and buses, or between the station and Sanmachi if you want to walk to the old town and morning markets. Add a night in Okuhida only if you want a mountain onsen stay, and book early for the April 14–15 and October 9–10 festivals.
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-31
 cta: https://www.klook.com/en-US/destination/c9316-takayama/3-hotel/|Find your Takayama stay|Compare hotels and ryokan in Takayama for your dates on Klook.|See stays
 image: Hida-Takayama Miyagawa Morning Market (15668520238).jpg
 image_alt: Miyagawa Morning Market along the river in Takayama
@@ -23,11 +23,22 @@ Here is the quick answer:
 
 Getting here first? See our guide to [getting from Nagoya to Takayama](takayama-from-nagoya.html). The Limited Express Hida takes about 2 hours 20 minutes from Nagoya (as of October 2026, [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/)).
 
+## Takayama areas compared
+
+| Area | Walk to JR Takayama Station | Best for | Trade-off |
+|---|---|---|---|
+| Station area | On the doorstep; Nohi Bus Center by the station | First visits, luggage, day trips by bus | Not in the historic streets |
+| Sanmachi old town | 12 min | Early mornings and evenings in the old streets | Walk to the station for every train or bus |
+| Near the morning markets | About 10–15 min | Early risers, a middle ground | Properties vary; check the map |
+| Okuhida Onsengo (Hirayu) | About 1 h by bus from Hirayu | Mountain hot-spring night | A separate trip, not a town base |
+
+*Sources: [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000153.html), [morning markets](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html), [model itinerary](https://www.hida.jp/english/touristattractions/takayamacity/modelitinerary/4000213.html), as of October 2026.*
+
 ## Takayama Station area: easiest for trains, buses and day trips
 
 **Who this area suits:** first-time visitors, travelers with large luggage, anyone doing day trips to Shirakawa-go or Okuhida, and people arriving late or leaving early.
 
-The station area is the transport hub. Once you exit JR Takayama Station, the Nohi Bus Center is behind the police box, and loop buses within the city plus express buses to Shirakawa-go and Tokyo leave from there (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4000219.html)). That makes the station area practical if you plan to take a [day trip to Shirakawa-go](shirakawa-go-from-nagoya.html) or ride the bus up to the Northern Alps. Coming from Tokyo? See [Tokyo to Takayama](tokyo-to-takayama.html).
+The station area is the transport hub. Once you exit JR Takayama Station, the Nohi Bus Center is behind the police box, and loop buses within the city plus express buses to Shirakawa-go and Tokyo leave from there (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4000219.html)). That makes the station area practical if you plan to take a [day trip to Shirakawa-go](shirakawa-go-from-nagoya.html) or ride the bus up to the Northern Alps. Coming from Tokyo? See [Tokyo to Takayama](tokyo-to-takayama.html); from Osaka or Kyoto, [Osaka or Kyoto to Takayama](osaka-kyoto-to-takayama.html); from Matsumoto, [Matsumoto to Takayama](matsumoto-to-takayama.html).
 
 The old town is still close. The Sanmachi preservation area is a 12-minute walk from JR Takayama Station (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000153.html)).
 
@@ -76,7 +87,7 @@ Okuhida Onsengo is in the mountains east of town, and Hirayu Onsen is its gatewa
 
 A common split for a first trip is a hotel or small inn in Takayama town, followed by one ryokan night with a hot-spring bath in Okuhida or Gero.
 
-**Local tax:** Takayama has charged an accommodation tax since October 1, 2025. It is ¥100 per person per night for stays under ¥10,000, ¥200 for ¥10,000 to under ¥30,000, and ¥300 for ¥30,000 or more, based on the room charge excluding meals and consumption tax. Young children are exempt (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4001680.html)).
+**Local tax:** Takayama has charged an accommodation tax since October 1, 2025. It is ¥100 per person per night for stays under ¥10,000, ¥200 for ¥10,000 to under ¥30,000, and ¥300 for ¥30,000 or more, based on the room charge excluding meals and consumption tax. Children are exempt until the first March 31 after their 12th birthday (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4001680.html)).
 
 
 [[cta|https://www.klook.com/en-US/destination/c9316-takayama/3-hotel/|Hotels and ryokan in Takayama|Compare prices and availability for your dates on Klook.|See stays]]

@@ -90,6 +90,10 @@ Tips for a smooth trip:
 - Keep a data connection for checking live status. **Booking option:** [Japan eSIM plans](https://yesim.tpk.lu/T6xnCd9w) (Yesim). Check data allowance, validity and phone compatibility before buying.
 - For more winter-friendly routes from Nagoya, see [Nagoya day trips](nagoya-day-trips.html).
 
+## Can you ski in Gifu?
+
+Yes. The Gujo area has 10 ski resorts about 1.5 hours from Nagoya by car, and the Hida area around Takayama has more ([Gujo Tourism Federation](https://en.tabitabigujo.com/appeal/ski/?c=th)). See [Skiing near Nagoya](skiing-near-nagoya.html) for the resorts and day packages from Nagoya.
+
 ## What to pack
 
 Plan for below-freezing temperatures and snow underfoot. Useful items include:

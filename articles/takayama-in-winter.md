@@ -69,6 +69,10 @@ The 41st Shirakawa-go Light-Up is on **January 11, 17, 24 and 31, 2027** ([Shira
 
 More options are in [Nagoya to Takayama](takayama-from-nagoya.html).
 
+## Can you ski from Takayama?
+
+Yes. JNTO lists resorts around Takayama such as Hounokidaira and Hirayu Onsen, and a Dynaland day package with bus and lift ticket also leaves from JR Takayama Station; see [Skiing near Nagoya](skiing-near-nagoya.html).
+
 ## Tips for travelling in snow
 
 - **Leave buffers.** On the Takayama–Shirakawa-go–Kanazawa bus line, Nohi Bus warns that winter delays of two hours or more can occur ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Avoid tight connections to trains or flights.

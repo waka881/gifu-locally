@@ -58,6 +58,10 @@ The Shokunin-machi district is a 14-hectare area of matching wooden townhouses a
 
 Gujo Odori is a dance festival held on about 30 nights each summer, where anyone can join in. In 2026 it ran from July 11 to September 5, with all-night dancing from August 13 to 16 ([Gifu tourism](https://www.kankou-gifu.jp/article/detail_370.html)). Check the official schedule for 2027 dates.
 
+## Gujo in winter: ski resorts
+
+The Gujo Tourism Federation lists 10 ski resorts in Gujo, including Dynaland, Washigatake and Takasu Snow Park ([Gujo Tourism Federation](https://en.tabitabigujo.com/appeal/ski/?c=th)). See [Skiing near Nagoya](skiing-near-nagoya.html).
+
 ## Where to stay
 
 Gujo Hachiman has traditional inns with dinner and breakfast, as well as room-only stays. Staying overnight lets you see the town early in the morning, before day-trippers arrive.
