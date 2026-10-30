@@ -3,7 +3,7 @@ title: "Takayama or Shirakawa-go? Which to Visit, and How to Do Both"
 description: "Takayama vs Shirakawa-go compared: travel time and cost from Nagoya, what each place is like, how long you need, and the easiest ways to see both."
 summary: Choose Takayama if you want a walkable old town with morning markets, sake breweries and museums that rewards a night's stay; choose Shirakawa-go if you mainly want to see the thatched gassho-zukuri farmhouse village, which takes about 2–3 hours on foot. They are about 50 minutes apart by express bus, so many travelers do both, either on a guided day tour from Nagoya or by staying a night in Takayama.
 status: 公開
-facts_checked: 2026-10-19
+facts_checked: 2026-10-30
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Takayama and Shirakawa-go in one day from Nagoya|Guided tour with transport included. See the itinerary, time in each place and reviews on Klook.|Check dates
 image: Shirakawa-go 002.jpg
 image_alt: Thatched gassho-zukuri farmhouses in Shirakawa-go village
@@ -21,7 +21,7 @@ Takayama and Shirakawa-go are the two places most visitors to northern Gifu want
 |---|---|---|
 | What it is | Mountain town with a preserved merchant district, two morning markets and an Edo-period government office | UNESCO World Heritage village of thatched gassho-zukuri farmhouses |
 | From Nagoya | About 2 h 20 min by Limited Express Hida, or 2 h 40 min by highway bus | About 2 h 50 min from Nagoya Station by highway bus |
-| One-way cost from Nagoya (adult) | Train: ¥2,730 reserved-seat charge plus a separate basic fare. Bus: ¥3,600, or ¥3,300 with web discount | Bus: ¥3,600–¥4,700 depending on the date |
+| One-way cost from Nagoya (adult) | Train: basic fare plus limited express charge. Bus: ¥3,600, or ¥3,300 with web discount | Bus: ¥3,600–¥4,700 depending on the date |
 | Time needed | A full day, or better with a night's stay | About 2–3 hours to walk around the village |
 | Morning markets | Yes, two, daily until noon | No |
 | Best for | Food, sake, old streets and an overnight stay | The classic farmhouse village view, especially in snow |
@@ -57,7 +57,7 @@ Yes. The express bus between Takayama and Shirakawago Bus Terminal takes about 5
 
 ### 1. A guided day tour from Nagoya
 
-Tours that visit both in one day handle all the transport and reservations. The trade-off is time: on multi-stop tours, each stop can be short. Compare the time in each place, the meeting point and the return time before booking. One option is the [Takayama and Shirakawa-go day tour from Nagoya on Klook](https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/).
+Tours that visit both in one day handle all the transport and reservations. The trade-off is time: on multi-stop tours, each stop can be short. Compare the time in each place, the meeting point and the return time before booking. One option is the [Takayama and Shirakawa-go day tour from Nagoya on Klook](https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/), whose listing gives two hours in Takayama's old town and two hours in Shirakawa-go, leaving from Nagoya Station (as of October 2026).
 
 ### 2. Two days with a night in Takayama
 
@@ -80,7 +80,7 @@ Highway buses can be delayed by road and weather conditions, and Gifu Bus does n
 
 **Choose Takayama** if you have one day and want food, sake, old streets and museums, or if you can stay a night.
 
-**Choose Shirakawa-go** if the thatched farmhouse village is the one thing you want to see, and you are happy with a few hours there.
+**Choose Shirakawa-go** if the thatched farmhouse village is the one thing you want to see, and you are happy with a few hours there. To see it after dark, you need to [stay overnight in the village](shirakawa-go-overnight-stay.html).
 
 **Do both** if you have two days, or book a combined tour if you only have one.
 
@@ -107,4 +107,4 @@ Yes, most easily on a guided day tour from Nagoya that includes both. Expect les
 Yes for the highway buses from Nagoya. Nohi Bus requires a reservation on every Nagoya–Takayama bus, and the Nagoya–Shirakawa-go bus has reserved seats that open for booking one month before the travel date ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/); [Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026).
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-19.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-30.*

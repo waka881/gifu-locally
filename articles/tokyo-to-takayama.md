@@ -52,7 +52,7 @@ Keio and Nohi Bus run the Takayama–Tokyo (Shinjuku) line, with all seats reser
 
 Nohi Bus lists a ¥500 web discount when booking through a site with Japanese-language support, and unpaid online reservations are cancelled automatically, so pay promptly after booking (same source). Keep mobile batteries with you: they may not go in the luggage bay.
 
-The bus also stops at **Hirayu Onsen** in Okuhida before Takayama, so you can start a trip at the hot springs; see [Gero vs Okuhida](gero-vs-okuhida-onsen.html) and the [Shinhotaka Ropeway guide](shinhotaka-ropeway.html).
+The bus also stops at **Hirayu Onsen** in Okuhida before Takayama, so you can start a trip at the hot springs; see [Gero vs Okuhida](gero-vs-okuhida-onsen.html) and the [Shinhotaka Ropeway guide](shinhotaka-ropeway.html). Travelling via Matsumoto instead? See [Matsumoto to Takayama by bus](matsumoto-to-takayama.html).
 
 ## Train or bus: which should you choose?
 

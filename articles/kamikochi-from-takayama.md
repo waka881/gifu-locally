@@ -97,6 +97,8 @@ For a wider plan around Takayama, see our [Takayama 2-day itinerary](takayama-2-
 
 **Save on buses and the ropeway:** compare the Nohi Bus value tickets in our [Okuhida bus pass guide](okuhida-bus-pass.html).
 
+Coming from the Nagano side? The Matsumoto–Takayama bus also stops at Hirayu Onsen; see [Matsumoto to Takayama by bus](matsumoto-to-takayama.html).
+
 ## FAQ
 
 ### How long does it take from Takayama to Kamikochi?

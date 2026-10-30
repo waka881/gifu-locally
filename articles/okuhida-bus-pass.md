@@ -55,7 +55,7 @@ The 2-day Kamikochi version (¥10,500) costs ¥500 less than the ¥11,000 for th
 - **No reservations:** Nohi Bus says neither the buses nor the ropeway take reservations with these tickets, so at busy times you may not board the bus you want (same source).
 - **If the ropeway stops:** the passes can't be used when the ropeway is suspended; if it is suspended after your trip starts, you get a service voucher for the ropeway facilities, not a cash refund ([Nohi Bus](https://www.nouhibus.co.jp/marugoto_value_ticket_en/)).
 
-Bus times, journey lengths and what to see at the top are in our [Shinhotaka Ropeway guide](shinhotaka-ropeway.html). For hot spring stays, see [Gero vs Okuhida](gero-vs-okuhida-onsen.html), and for Kamikochi, [Kamikochi from Takayama](kamikochi-from-takayama.html).
+Bus times, journey lengths and what to see at the top are in our [Shinhotaka Ropeway guide](shinhotaka-ropeway.html). Arriving from Matsumoto? See [Matsumoto to Takayama by bus](matsumoto-to-takayama.html), which stops at Hirayu Onsen. For hot spring stays, see [Gero vs Okuhida](gero-vs-okuhida-onsen.html), and for Kamikochi, [Kamikochi from Takayama](kamikochi-from-takayama.html).
 
 **Before you go:** you'll rely on your phone for bus times, mobile tickets and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
