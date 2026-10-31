@@ -55,7 +55,7 @@ The official listing highlights pickles, seasonal vegetables and fruit, spices a
 
 ## Visiting in winter
 
-The markets open an hour later, at 8:00, from December to March, and fewer stalls set up in snow or cold (same source). Combine an early market with a warm indoor sight, and see [Takayama in winter](takayama-in-winter.html) for snow and travel tips.
+The markets open an hour later, at 8:00, from December to March, and fewer stalls set up in snow or cold (same source). Combine an early market with a warm indoor sight, and see [Takayama in winter](takayama-in-winter.html) for snow and travel tips. Visiting over the holidays? See [Takayama at New Year](takayama-new-year.html) for what's open.
 
 **Before you go:** you'll rely on your phone for bus times and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 

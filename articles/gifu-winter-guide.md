@@ -94,6 +94,8 @@ Tips for a smooth trip:
 
 Yes. The Gujo area has 10 ski resorts about 1.5 hours from Nagoya by car, and the Hida area around Takayama has more ([Gujo Tourism Federation](https://en.tabitabigujo.com/appeal/ski/?c=th)). See [Skiing near Nagoya](skiing-near-nagoya.html) for the resorts and day packages from Nagoya.
 
+Travelling between December 29 and January 3? Takayama Jinya is closed then, and some buses change; see [Takayama at New Year](takayama-new-year.html).
+
 ## What to pack
 
 Plan for below-freezing temperatures and snow underfoot. Useful items include:
