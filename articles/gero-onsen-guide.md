@@ -147,4 +147,4 @@ No. According to the [tourism association](https://www.gero-spa.com/spot/detail_
 A day trip suits travellers based in Nagoya who mainly want to try the water at a public bath, a few foot baths or Yumeguri Tegata baths. Staying overnight gives the full ryokan experience with dinner and a morning soak, and fits well when continuing to Takayama the next day.
 
 ---
-*Prices, hours and train schedules change. Check official sources before you go. Facts last checked: 2026-10-20.*
+*Prices, hours and train schedules change. Check official sources before you go. Facts last checked: 2026-10-31.*
