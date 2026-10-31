@@ -103,6 +103,10 @@ The [Takayama tourism page](https://www.hida.jp/english/localspeciality/food/400
 **Pros of sitting down:** a wider choice of cuts and grades, time to compare, and a warm meal in cold months.
 **Cons:** higher cost than a snack, and some places may ask for a reservation, so check ahead.
 
+## What to drink with it
+
+Takayama has seven sake breweries, mostly in the Sanmachi old town ([JNTO](https://www.japan.travel/en/spot/153/)). See [Takayama sake breweries](takayama-sake-breweries.html) for tastings.
+
 ## Budget tips
 
 This guide does not quote prices, because they vary by shop, cut and grade and change often. A few general points:

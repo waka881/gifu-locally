@@ -3,7 +3,7 @@ title: "Gero Onsen for First-Timers: Day Trip from Nagoya, Baths and Ryokan"
 description: "How to reach Gero Onsen from Nagoya on the Hida Limited Express, where to bathe, how the Yumeguri Tegata pass works, and how to choose a ryokan."
 summary: Take the JR Limited Express Hida from Nagoya Station to Gero Station; the ticketless limited express charge is 2,390 yen for an adult ordinary reserved seat or 4,660 yen for the Green Car, one way in the normal season, plus the base fare (as of July 16, 2025). You can bathe without staying at a ryokan: public baths such as Shirasagi-no-yu and Sachi-no-yu charge 470 yen for adults, and the Yumeguri Tegata pass costs 2,500 yen for 3 ryokan baths within 6 months (as of October 2026). Gero works as a day trip from Nagoya or as an overnight stop on the way to Takayama.
 status: 公開
-facts_checked: 2026-10-20
+facts_checked: 2026-10-31
 cta: https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/|Gero Onsen + Takayama on one bus ticket|2-day bus ticket covering Takayama and Gero Onsen. See price and conditions on Klook.|See ticket
 image: Hida River and Gero Onsen from Mutsumi Bridge.jpg
 image_alt: Gero Onsen and the Hida River seen from Mutsumi Bridge

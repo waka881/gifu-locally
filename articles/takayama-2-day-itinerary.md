@@ -43,7 +43,7 @@ Takayama is known for Hida beef, eaten as street food such as nigiri and skewers
 
 ### Afternoon: Sanmachi and Takayama Jinya
 
-- **Sanmachi** is the old merchant district, with lattice-fronted wooden townhouses, sake breweries and small shops, a 12-minute walk from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000153.html)).
+- **Sanmachi** is the old merchant district, with lattice-fronted wooden townhouses, sake breweries and small shops, a 12-minute walk from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000153.html)). See [Takayama sake breweries](takayama-sake-breweries.html) for tastings.
 - **Takayama Jinya**, the former Edo-period government office, is open 8:45–17:00 from April to October and 8:45–16:30 from November to March, with the ticket window closing 30 minutes earlier. Admission is ¥500 ([Takayama Jinya](https://jinya.gifu.jp/en/guide/info/), as of October 2026).
 
 ### Late afternoon: Hida Folk Village
