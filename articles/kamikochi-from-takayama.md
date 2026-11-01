@@ -1,9 +1,9 @@
 ---
 title: "Kamikochi from Takayama: Bus, Fares, Season and a Day Trip Plan"
 description: "How to get to Kamikochi from Takayama: the Nohi Bus via Hirayu Onsen (about 90 minutes, ¥3,000 one way, ¥5,800 round trip), the 2026 season, last buses, walking routes and the private car ban."
-summary: Take the Nohi Bus from Takayama to Hirayu Onsen and change to the Kamikochi shuttle; the trip takes about 90 minutes and costs ¥3,000 one way or ¥5,800 round trip for adults, with no reservation needed. The Kamikochi line runs only in season (April 17 to November 15 in 2026), private cars are banned, and the last bus back from Kamikochi to Hirayu leaves at 17:30, so a day trip gives you about 5–7 hours for walks such as Taisho Pond to Kappa Bridge.
+summary: Take the Nohi Bus from Takayama to Hirayu Onsen and change to the Kamikochi shuttle; the trip takes about 90 minutes and costs ¥3,000 one way or ¥5,800 round trip for adults, with no reservation needed. The Kamikochi line runs only in season (April 17 to November 15 in 2026), private cars are banned, and to get back to Takayama the same day you need the 17:00 bus from Kamikochi (it connects at Hirayu Onsen with the last bus to Takayama, arriving 18:31), so a day trip gives you about 5–7 hours for walks such as Taisho Pond to Kappa Bridge.
 status: 公開
-facts_checked: 2026-10-20
+facts_checked: 2026-11-01
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Base yourself near Takayama Station|The Kamikochi bus starts at the Nohi Bus Center next to JR Takayama Station. Compare hotels nearby on Klook.|See stays
 image: Kamikochi - Kamikochi6538.jpg
 image_alt: Kappa Bridge over the Azusa River in Kamikochi with the Hotaka mountains behind autumn larches
@@ -24,7 +24,7 @@ Kamikochi is a high mountain valley in the Northern Alps, and Takayama is the cl
 | Adult fare | ¥3,000 one way; ¥5,800 round trip (valid 7 days) |
 | Reservations | Not required |
 | Season (2026) | April 17 – November 15 |
-| Last bus back | Kamikochi → Hirayu 17:30; Hirayu → Takayama 17:30 |
+| Last bus back | Kamikochi → Hirayu 17:30; for Takayama, take the 17:00 from Kamikochi (Hirayu 17:25, Takayama 18:31) |
 | Cars | Private cars banned; park at Akandana (¥600) or Hirayu and take the bus |
 
 *Source: [Nohi Bus, Kamikochi line](https://www.nouhibus.co.jp/route_bus/kamikochi-line-en/), as of October 2026. Times change with the timetable; check it for your date.*
@@ -59,7 +59,7 @@ From the Nohi Bus timetable ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/kam
 | Kamikochi → Hirayu Onsen | 7:00 | 17:30 |
 | Hirayu Onsen → Takayama | 6:45 | 17:30 |
 
-Some early departures only run on certain dates, so check the timetable for your day. Note that the last Kamikochi bus arrives in Hirayu at 17:55, after the last listed bus to Takayama (17:30). To get back to Takayama the same day, leave Kamikochi well before the last bus. The Hotel Association warns that last buses in the mountains run early, and that missing one can mean a taxi ([Kamikochi Resort Hotel Association](https://www.kamikochi.org/access/public)). A taxi from Hirayu Onsen to Kamikochi Bus Terminal costs ¥6,000 ([Kamikochi Resort Hotel Association](https://www.kamikochi.org/access/car)).
+Some early departures only run on certain dates, so check the timetable for your day. Note that the last Kamikochi bus arrives in Hirayu at 17:55, after the last listed bus to Takayama (17:30). To get back to Takayama the same day, Nohi Bus says to take the 17:00 departure from Kamikochi, which reaches Hirayu Onsen at 17:25 and connects with the last bus to Takayama at 17:30, arriving at 18:31 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/kamikochi-line-en/), as of November 2026). The Hotel Association warns that last buses in the mountains run early, and that missing one can mean a taxi ([Kamikochi Resort Hotel Association](https://www.kamikochi.org/access/public)). A taxi from Hirayu Onsen to Kamikochi Bus Terminal costs ¥6,000 ([Kamikochi Resort Hotel Association](https://www.kamikochi.org/access/car)).
 
 ## Can you drive to Kamikochi?
 
@@ -118,4 +118,4 @@ No. Nohi Bus says reservations are not required on the Kamikochi, Takayama and H
 No. The Kamikochi bus line ran from April 17 to November 15 in 2026, and Kamikochi closes for the season on November 15 ([Kamikochi Resort Hotel Association](https://www.kamikochi.org/)).
 
 ---
-*Prices, timetables and season dates change. Check official sources before you go. Facts last checked: 2026-10-20.*
+*Prices, timetables and season dates change. Check official sources before you go. Facts last checked: 2026-11-01.*

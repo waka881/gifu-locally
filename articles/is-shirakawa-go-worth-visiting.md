@@ -31,7 +31,7 @@ Shirakawa-go appears on almost every Japan itinerary that includes the Japanese 
 
 ## Why is Shirakawa-go famous?
 
-UNESCO inscribed the "Historic Villages of Shirakawa-go and Gokayama" in 1995. The listing covers three villages along the Sho River in Gifu and Toyama prefectures, and describes their large, steep-roofed thatched farmhouses as the only examples of their kind in Japan. The villages lived from growing mulberry trees and raising silkworms, in a mountain region that was cut off for a long time ([UNESCO World Heritage Centre](https://whc.unesco.org/en/list/734/), as of October 2026). Ogimachi is the village most people mean by "Shirakawa-go".
+UNESCO inscribed the "Historic Villages of Shirakawa-go and Gokayama" in 1995. The listing covers three villages along the Sho River in Gifu and Toyama prefectures, and describes their large, steep-roofed thatched farmhouses as the only examples of their kind in Japan. The villages lived from growing mulberry trees and raising silkworms, in a mountain region that was cut off for a long time ([UNESCO World Heritage Centre](https://whc.unesco.org/en/list/734/), as of October 2026). Ogimachi is the village most people mean by "Shirakawa-go"; the other two are in Gokayama, which we compare in [Gokayama vs Shirakawa-go](gokayama-vs-shirakawa-go.html).
 
 The Tourist Association explains that the steep gassho roof suits heavy snowfall, and that February snow can reach 170 cm or more. Re-thatching a roof is done by the whole village working together, a custom of mutual help called *yui*. Residents of Ogimachi have also agreed not to sell, rent or destroy their houses ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/highlights/), as of October 2026).
 

@@ -53,7 +53,7 @@ Two hours is enough for the main sights: the Shirakawa-go Tourist Association es
 
 ## Tours from Takayama instead
 
-If you are staying in Takayama, a shorter tour works better. Klook lists a [Shirakawa-go and Gokayama tour from the Takayama Nohi Bus Center](https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/), which adds Gokayama, a second thatched village; its page lists about 2 hours 40 minutes in Shirakawa-go and a Japanese-speaking host. Or take the bus, about 50 minutes each way; see [Takayama to Shirakawa-go](takayama-to-shirakawa-go.html).
+If you are staying in Takayama, a shorter tour works better. Klook lists a [Shirakawa-go and Gokayama tour from the Takayama Nohi Bus Center](https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/), which adds Gokayama, a second thatched village (see [Gokayama vs Shirakawa-go](gokayama-vs-shirakawa-go.html)); its page lists about 2 hours 40 minutes in Shirakawa-go and a Japanese-speaking host. Or take the bus, about 50 minutes each way; see [Takayama to Shirakawa-go](takayama-to-shirakawa-go.html).
 
 ## Winter tours
 

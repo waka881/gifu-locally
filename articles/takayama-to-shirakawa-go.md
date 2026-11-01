@@ -103,7 +103,7 @@ Yes. The same line continues from Shirakawa-go to Kanazawa for ¥2,800, about 1 
 
 ## Bus or guided tour?
 
-A guided tour from Takayama saves you from booking buses and can add Gokayama, a second thatched village. One example on Klook is a [Shirakawa-go and Gokayama tour from the Takayama Nohi Bus Center](https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/), which lists about 2 hours 40 minutes in Shirakawa-go and a Japanese-speaking host; check the dates and language before booking. The bus is cheaper and lets you set your own pace.
+A guided tour from Takayama saves you from booking buses and can add Gokayama, a second thatched village (compare them in [Gokayama vs Shirakawa-go](gokayama-vs-shirakawa-go.html)). One example on Klook is a [Shirakawa-go and Gokayama tour from the Takayama Nohi Bus Center](https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/), which lists about 2 hours 40 minutes in Shirakawa-go and a Japanese-speaking host; check the dates and language before booking. The bus is cheaper and lets you set your own pace.
 
 **Winter:** Nohi Bus warns of delays of two hours or more on this line in winter ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). See [Shirakawa-go in winter](shirakawa-go-in-winter.html).
 
