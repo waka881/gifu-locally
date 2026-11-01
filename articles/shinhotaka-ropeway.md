@@ -3,7 +3,7 @@ title: "Shinhotaka Ropeway: Tickets, Getting There from Takayama and Is It Worth
 description: "Shinhotaka Ropeway guide: Japan's only two-storey gondola to 2,156 m in the Northern Alps. Fares, departures, the bus from Takayama, parking, winter temperatures and tips."
 summary: The Shinhotaka Ropeway in Okuhida carries you in two stages, including Japan's only two-storey gondola, from 1,117 m to an observation deck at 2,156 m with a 360-degree view of the Northern Alps. The adult round trip costs ¥3,800, it runs year-round every 30 minutes (weather permitting), and the Nohi Bus from Takayama takes about 1 hour 35–45 minutes (¥2,200). Dress warmly: the operator lists January temperatures of −7°C to −10°C.
 status: 公開
-facts_checked: 2026-10-20
+facts_checked: 2026-11-02
 cta: https://www.klook.com/activity/134705-shin-hotaka-ropeway-round-trip-ticket/|Shinhotaka Ropeway round-trip ticket|Mobile ticket for both ropeways, Shinhotaka Onsen to Nishi-Hotakaguchi. Check price and conditions on Klook.|Get tickets
 image: Shinhotaka Ropeway 003.jpg
 image_alt: View of the Northern Alps from the Shinhotaka Ropeway
@@ -58,7 +58,7 @@ Take the Nohi Bus Shinhotaka Line from Takayama Bus Terminal, next to JR Takayam
 | Takayama Bus Terminal | About 1 h 35–45 min | ¥2,200 |
 | Hirayu Onsen | — | ¥910 |
 
-Buses run roughly hourly, with some seasonal departures. Buy tickets at the ticket window or machine in Takayama or Hirayu; if those are closed, you pay on board. Nohi Bus warns that buses can be badly delayed by snow or traffic in Takayama (same source).
+Buses run roughly hourly, with some seasonal departures; several services are marked as running only from April 1 to November 30, so expect fewer buses in winter and check the timetable for your date (Nohi Bus, as of November 2026). Buy tickets at the ticket window or machine in Takayama or Hirayu; if those are closed, you pay on board. Nohi Bus warns that buses can be badly delayed by snow or traffic in Takayama (same source).
 
 **Driving:** the Shinhotaka Onsen car park (about 160 spaces) charges ¥800 per 6 hours for cars and is a 2–5 minute walk from the first station. The larger Nabedaira Kogen car park is closed from early November to late April ([Shinhotaka Ropeway access](https://shinhotaka-ropeway.jp/en/access/), as of October 2026). The operator says winter driving requires winter equipment such as snow tyres ([Shinhotaka Ropeway FAQ](https://shinhotaka-ropeway.jp/en/faq/)).
 
@@ -103,4 +103,4 @@ Take the Nohi Bus Shinhotaka Line from Takayama Bus Terminal. It takes about 1 h
 Yes, it is open year-round, but it can stop for strong winds and closes for inspection once or twice a year. Average January temperatures are listed at −7°C to −10°C ([Shinhotaka Ropeway FAQ](https://shinhotaka-ropeway.jp/en/faq/)).
 
 ---
-*Prices, timetables and operating conditions change. Check official sources before you go. Facts last checked: 2026-10-20.*
+*Prices, timetables and operating conditions change. Check official sources before you go. Facts last checked: 2026-11-02.*

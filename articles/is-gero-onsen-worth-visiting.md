@@ -63,7 +63,7 @@ The easiest way to fit it in is to break the Nagoya–Takayama train journey: st
 
 ## Gero or Okuhida?
 
-Gero is the easier, more walkable onsen town with a train station; Okuhida is a group of mountain hot spring villages with open-air baths and Northern Alps views, about 58 minutes by bus from Takayama to Hirayu ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shinhotaka-line-en/)). See [Gero vs Okuhida](gero-vs-okuhida-onsen.html) and [where to stay for a ryokan night](takayama-gero-okuhida-ryokan.html). Everything about bathing, foot baths and etiquette is in our full [Gero Onsen guide](gero-onsen-guide.html).
+Gero is the easier, more walkable onsen town with a train station; Okuhida is a group of mountain hot spring villages with open-air baths and Northern Alps views, about 58 minutes by bus from Takayama to Hirayu ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shinhotaka-line-en/)). See [Gero vs Okuhida](gero-vs-okuhida-onsen.html), [where to stay in Gero Onsen](where-to-stay-gero-onsen.html) and [where to stay for a ryokan night](takayama-gero-okuhida-ryokan.html). Everything about bathing, foot baths and etiquette is in our full [Gero Onsen guide](gero-onsen-guide.html).
 
 **Before you go:** you'll rely on your phone for train times and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
