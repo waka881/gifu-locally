@@ -83,7 +83,7 @@ Mino is known for **Mino washi**, handmade Japanese paper. At the Mino Washi Vil
 
 **Highlight:** A wooden castle above a town of canals and matching wooden townhouses.
 
-Gujo takes more effort because of the last leg. Most buses stop at the Gujo Hachiman IC bus stop on the expressway, not in town. The shared taxi into the center needs a reservation, so book it before you leave Nagoya. With only a few buses a day, also check the return times. Our [Gujo Hachiman day trip guide](gujo-hachiman-day-trip.html) covers the taxi, castle hours and autumn leaf dates.
+Gujo takes more effort because of the last leg. Most buses stop at the Gujo Hachiman IC bus stop on the expressway, not in town. The shared taxi into the center needs a reservation, so book it before you leave Nagoya. With only a few buses a day, also check the return times. Our [Gujo Hachiman day trip guide](gujo-hachiman-day-trip.html) covers the taxi, castle hours and autumn leaf dates, and you can also [make your own food replica](gujo-hachiman-food-samples.html) in town.
 
 ## 6. Gero Onsen: a hot spring day out
 

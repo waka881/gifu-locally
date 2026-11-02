@@ -69,7 +69,7 @@ Yes. JNTO lists resorts in the Takayama and Hida area including Hounokidaira, wh
 - **Rental sizes:** JNTO notes that some resorts stock boots only up to 28 or 29 cm, so check sizes in advance if you have large feet (same source).
 - **Season and opening dates:** neither source gives dates; check each resort's own website before you book.
 - **Weekends are busy:** JNTO says Dynaland gets very crowded on weekends (same source).
-- **Add Gujo Hachiman:** the old castle town is the gateway to the Gujo resorts; see [Gujo Hachiman day trip](gujo-hachiman-day-trip.html) and our [Nagoya day trips](nagoya-day-trips.html).
+- **Add Gujo Hachiman:** the old castle town is the gateway to the Gujo resorts; see [Gujo Hachiman day trip](gujo-hachiman-day-trip.html), [food sample workshops](gujo-hachiman-food-samples.html) and our [Nagoya day trips](nagoya-day-trips.html).
 
 **Before you go:** you'll rely on your phone for bus pick-up details and maps on a ski day. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 

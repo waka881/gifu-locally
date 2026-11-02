@@ -3,7 +3,7 @@ title: "Shirakawa-go from Kanazawa: Day Trip by Bus or Guided Tour"
 description: "How to visit Shirakawa-go from Kanazawa: the express bus (about 1 hour 20 minutes, ¥2,800), reservations, luggage, winter delays, a sample day and guided tours that add Takayama."
 summary: Kanazawa is the closest big city to Shirakawa-go, about 1 hour 20 minutes by express bus from Kanazawa Station to Shirakawago Bus Terminal, and the adult fare is ¥2,800 one way. Book seats in advance through Japan Bus Online, plan 2–3 hours in the village, and allow extra time in winter, when delays of two hours or more can happen. A guided day tour from Kanazawa can add Takayama in 8–10 hours.
 status: 公開
-facts_checked: 2026-10-20
+facts_checked: 2026-11-02
 cta: https://www.klook.com/activity/101875-shirakawago-takayama-join-one-day-bus-tour-kanazawa/|Shirakawa-go and Takayama day tour from Kanazawa|8–10 hour guided bus tour covering both towns, departing Kanazawa. See dates, itinerary and reviews on Klook.|Check dates
 image: Overview of Ogimachi, Shirakawa, from the Ogimachi Castle observation point.jpg
 image_alt: Ogimachi village in Shirakawa-go seen from the observation point
@@ -104,4 +104,4 @@ Check the timetable: services marked "R" need a reserved seat, and they can be b
 If you want to see the thatched gassho-style farmhouses, it is one of the shortest ways to reach them, with about 2–3 hours needed in the village. Read [Is Shirakawa-go worth visiting?](is-shirakawa-go-worth-visiting.html) to decide.
 
 ---
-*Prices, timetables and booking rules change. Check official sources before you travel. Facts last checked: 2026-10-20.*
+*Prices, timetables and booking rules change. Check official sources before you travel. Facts last checked: 2026-11-02.*
