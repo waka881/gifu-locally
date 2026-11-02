@@ -54,7 +54,7 @@ Coming from Tokyo instead? Change to the Hida at Nagoya or Toyama, or take the h
 
 ## What to see in Takayama
 
-The town center is walkable. The main sights below are 10 to 12 minutes on foot from JR Takayama Station. Hida Folk Village is a short bus ride away.
+The town center is walkable. The main sights below are 10 to 12 minutes on foot from JR Takayama Station. Hida Folk Village is a short bus ride away. For every sight with prices, hours and day trips, see [things to do in Takayama](things-to-do-in-takayama.html).
 
 ### Sanmachi old town
 

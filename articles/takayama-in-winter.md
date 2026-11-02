@@ -3,7 +3,7 @@ title: "Takayama in Winter: What's Open, Illuminations and Getting There in Snow
 description: "Visiting Takayama in winter: winter opening hours, the Miyagawa riverside and Hida Folk Village illuminations, ice events in Okuhida, Shirakawa-go light-up dates and snow travel tips."
 summary: Takayama is fully open in winter, with shorter hours at some sights (the morning markets open at 8:00 from December to March, and Takayama Jinya closes at 16:30 from November to March). Evening illuminations along the Miyagawa River and at Hida Folk Village, plus ice events in nearby Okuhida, are the winter highlights, and Shirakawa-go's light-up is on January 11, 17, 24 and 31, 2027. Travel by train or bus rather than driving, and allow extra time: buses can be delayed by snow, and taxis can have waits of over an hour on snowy days.
 status: 公開
-facts_checked: 2026-10-20
+facts_checked: 2026-11-03
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay near JR Takayama Station this winter|The station area keeps you close to trains and the bus center when roads are snowy. Compare hotels on Klook.|See stays
 image: Takayama's Early Winter Welcome (NE).jpg
 image_alt: Takayama under early winter snow
@@ -27,7 +27,7 @@ Winter is a good time to see Takayama: the old town is quieter than in autumn, t
 | Getting there | Limited Express Hida from Nagoya, about 2 h 20 min |
 | Driving | Hida Takayama Tourism asks visitors not to drive rental cars with normal tyres in winter |
 
-*Sources: Hida Takayama Tourism, Takayama Jinya, Hida Folk Village, JR Central and the Shirakawa-go Tourist Association, as of October 2026. Details and links below.*
+*Sources: Hida Takayama Tourism, Takayama Jinya, Hida Folk Village, JR Central and the Shirakawa-go Tourist Association, as of November 2026. Details and links below.*
 
 ## What is open in Takayama in winter?
 
@@ -107,4 +107,4 @@ Hida Takayama Tourism asks visitors not to drive rental cars with normal tyres t
 Hida Takayama Tourism listed the Winter Illumination in the Nakabashi and Miyagawa River area for December 1 to March 15 in the 2025–26 season, 16:30–21:30. Check the [official event calendar](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000181.html) for this winter's dates.
 
 ---
-*Prices, hours and event dates change. Check official sources before you go. Facts last checked: 2026-10-20.*
+*Prices, hours and event dates change. Check official sources before you go. Facts last checked: 2026-11-03.*

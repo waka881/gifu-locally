@@ -39,7 +39,7 @@ From Nagoya, the Limited Express Hida reaches Takayama in about 2 hours 20 minut
 
 The morning markets close at noon, so a day trip from Nagoya usually misses them. See [Nagoya to Takayama](takayama-from-nagoya.html) for trains, buses and advance discounts.
 
-Sake fans can add a brewery tasting in Sanmachi; see [Takayama sake breweries](takayama-sake-breweries.html).
+Sake fans can add a brewery tasting in Sanmachi; see [Takayama sake breweries](takayama-sake-breweries.html). For the full list of sights with prices and hours, see [things to do in Takayama](things-to-do-in-takayama.html).
 
 ## Why are two days the sweet spot?
 
