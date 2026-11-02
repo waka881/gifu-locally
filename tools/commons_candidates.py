@@ -1,6 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
+    "gujo-hachiman-food-samples": "Gujo Hachiman food sample",
     "gokayama-vs-shirakawa-go": "Ainokura Gokayama",
     "takayama-new-year": "Takayama snow Sanmachi",
     "takayama-sake-breweries": "Takayama sake brewery sugidama",
