@@ -3,7 +3,7 @@ title: "Nagoya to Gero Onsen: Train, Tickets, Discounts and a Day Trip Plan"
 description: "How to get from Nagoya to Gero Onsen on the Limited Express Hida: journey time, the ticketless limited express charge, Hayatoku discounts, TOICA for the base fare, and a simple day trip plan."
 summary: Take the JR Limited Express Hida from Nagoya Station to Gero Station, about 1 hour 30–40 minutes. The ticketless limited express charge is ¥2,390 for an adult reserved seat (or from ¥2,060 with the Hayatoku 3 advance discount) plus the base fare, which you can pay with a TOICA IC card. Gero works as a day trip from Nagoya, with public baths from ¥470 a short walk from the station.
 status: 公開
-facts_checked: 2026-10-21
+facts_checked: 2026-11-04
 cta: https://www.klook.com/en-US/destination/p60271486-gero-onsen/3-hotel/|Turn the day trip into an onsen night|An evening and morning bath is the main reason to stay. Compare ryokan and hotels in Gero Onsen on Klook.|See stays
 image: Hida River and Gero Onsen from Mutsumi Bridge.jpg
 image_alt: Gero Onsen and the Hida River seen from Mutsumi Bridge
@@ -105,4 +105,4 @@ Yes, for the base fare. Since October 1, 2025, TOICA can be used at Gero Station
 Yes, if you want an easy hot spring visit: the train is direct, and public baths such as Sachi-no-yu and Shirasagi-no-yu (¥470 for adults) are 4–7 minutes on foot from the station ([Gero Onsen Tourism Association](https://www.gero-spa.com/spot/), as of October 2026).
 
 ---
-*Prices, timetables and ticket rules change. Check official sources before you travel. Facts last checked: 2026-10-21.*
+*Prices, timetables and ticket rules change. Check official sources before you travel. Facts last checked: 2026-11-04.*

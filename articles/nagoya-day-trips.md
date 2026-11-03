@@ -15,7 +15,7 @@ image_license: CC BY-SA 3.0
 
 Nagoya is a good base for exploring central Japan, and Gifu Prefecture starts just north of the city. Castle towns, blade-making workshops, paper-making streets, hot springs and thatched-roof villages are all close enough for a day trip, but how much time and planning each one takes varies a lot.
 
-This guide ranks Gifu day trips from Nagoya by effort, from "hop on the next train" to "book your bus and leave early". Every travel time below comes from an official tourism or transport source, with the date we checked it. One note before you start: **Inuyama**, often listed among day trips from Nagoya, is in Aichi Prefecture, so it isn't covered here.
+This guide ranks Gifu day trips from Nagoya by effort, from "hop on the next train" to "book your bus and leave early". Every travel time below comes from an official tourism or transport source, with the date we checked it. One note before you start: **Inuyama**, often listed among day trips from Nagoya, is in Aichi Prefecture, so it isn't covered here. For the whole prefecture, including Takayama and the north, see [things to do in Gifu](things-to-do-in-gifu.html).
 
 ## Quick summary
 

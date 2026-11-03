@@ -15,6 +15,8 @@ image_license: CC BY-SA 4.0
 
 Three days is enough to see the best of northern Gifu without rushing: a hot spring night, Takayama's old town and Shirakawa-go's thatched farmhouses. All three sit along one route from Nagoya, so this plan never doubles back. Times and prices come from JR Central, Visit Gifu, Nohi Bus and the local tourism sites.
 
+Want other options than this route? See [things to do in Gifu](things-to-do-in-gifu.html).
+
 ## The 3-day plan at a glance
 
 | Day | Where | Highlights | Night |

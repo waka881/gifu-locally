@@ -13,7 +13,7 @@ image_license: CC BY-SA 3.0
 
 *This guide contains affiliate links. If you book through them, we may earn a small commission at no extra cost to you.*
 
-Takayama is a mountain town in northern Gifu with a preserved merchant quarter, daily morning markets and easy day trips into the Japanese Alps. This page lists the main things to do with the key facts from official sources, and links to our full guide for each.
+Takayama is a mountain town in northern Gifu with a preserved merchant quarter, daily morning markets and easy day trips into the Japanese Alps. This page lists the main things to do with the key facts from official sources, and links to our full guide for each. For the rest of the prefecture, see [things to do in Gifu](things-to-do-in-gifu.html).
 
 ## What are the best things to do in Takayama?
 
