@@ -27,7 +27,7 @@ The year-end holidays (roughly December 29 to January 3) are a popular time to t
 
 *Sources: [Takayama Jinya](https://jinya.gifu.jp/en/guide/info/); [Hida Takayama Tourism, morning markets](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html); [Floats Exhibition Hall](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html); [Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [JR West, Hida Furukawa Festival Hall](https://www.westjr.co.jp/global/en/ticket/hokuriku-arch-pass/Explore_Japan/spot/gifu/hida-furukawa-festival-hall/index.html), as of November 2026.*
 
-**Takayama Jinya** is the main closure: the former government office shuts for the year-end and New Year holidays from December 29 to January 3 ([Takayama Jinya](https://jinya.gifu.jp/en/guide/info/)). If it's on your list, visit on December 28 or from January 4.
+**Takayama Jinya** is the main closure: the former government office shuts for the year-end and New Year holidays from December 29 to January 3 ([Takayama Jinya](https://jinya.gifu.jp/en/guide/info/)). If it's on your list, visit on December 28 or from January 4; see our [Takayama Jinya guide](takayama-jinya.html).
 
 **The morning markets** are listed as open all year, from 8:00 to noon from December to March, but Hida Takayama Tourism notes the number of stalls can drop to about 10 in winter or rain ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html)). See our [morning market guide](takayama-morning-market.html).
 

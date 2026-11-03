@@ -41,6 +41,8 @@ From **7:00 to 12:00 from April to November**, and **8:00 to 12:00 from December
 
 They are close enough to see both in one morning: start at Jinya-mae, then walk to the river. Takayama Jinya itself opens at 8:45 (¥500 for adults) if you want to look inside afterwards ([Takayama Jinya](https://jinya.gifu.jp/en/guide/info/), as of October 2026).
 
+After the Jinya-mae market, Takayama Jinya opens at 8:45 right behind it; see our [Takayama Jinya guide](takayama-jinya.html).
+
 ## Can you see the morning market on a day trip from Nagoya?
 
 Not easily. The Limited Express Hida takes about 2 hours 20 minutes from Nagoya ([JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/)), and the markets close at noon. The simple answer is to stay one night: arrive in the afternoon, see Sanmachi and Takayama Jinya, and do the markets the next morning before a bus to Shirakawa-go. Our [Takayama 2-day itinerary](takayama-2-day-itinerary.html) and [How many days in Takayama?](how-many-days-in-takayama.html) are built around this.

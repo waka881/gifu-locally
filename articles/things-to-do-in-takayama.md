@@ -36,7 +36,7 @@ Takayama is a mountain town in northern Gifu with a preserved merchant quarter, 
 
 **Go to a morning market.** Miyagawa runs along the river and Jinya-mae is in front of Takayama Jinya; both open every morning and close at noon. See our [Takayama morning market guide](takayama-morning-market.html).
 
-**Tour Takayama Jinya.** The former government office is ¥500, free for those 18 and under, and closed from December 29 to January 3 ([Takayama Jinya](https://jinya.gifu.jp/en/guide/info/)). Visiting over the holidays? See [Takayama at New Year](takayama-new-year.html).
+**Tour Takayama Jinya.** The former government office is ¥500, free for those 18 and under, and closed from December 29 to January 3 ([Takayama Jinya](https://jinya.gifu.jp/en/guide/info/)). See our [Takayama Jinya guide](takayama-jinya.html) for the free English tour, and if you are visiting over the holidays, [Takayama at New Year](takayama-new-year.html).
 
 **Taste sake.** JNTO says Takayama has seven sake breweries, all over 100 years old, marked by cedar balls over the door ([JNTO](https://www.japan.travel/en/spot/153/)). See [Takayama sake breweries](takayama-sake-breweries.html).
 
