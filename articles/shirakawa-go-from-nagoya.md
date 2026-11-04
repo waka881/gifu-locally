@@ -3,7 +3,7 @@ title: "Shirakawa-go from Nagoya: Day Trip by Highway Bus or Guided Tour"
 description: "How to visit Shirakawa-go from Nagoya in a day: the reserved highway bus, guided tours, what to see, fees and the 2027 light-up."
 summary: The Nagoya–Shirakawa-go highway bus leaves from the Meitetsu Bus Center, about a 5-minute walk from Nagoya Station, and takes about 2 hours 30 minutes, or about 2 hours 50 minutes in total from Nagoya Station. Seats must be reserved, bookings open one month before the travel date, and the adult one-way fare ranges from 3,600 yen to 4,700 yen depending on the date. A guided day tour from Nagoya suits travelers who would rather not deal with reservations, want a guide or want to add another town such as Takayama in one day.
 status: 公開
-facts_checked: 2026-10-21
+facts_checked: 2026-11-04
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|Skip the bus planning: Shirakawa-go day tour from Nagoya|Guided tour that also stops in Takayama and Gujo Hachiman. See dates, itinerary and reviews on Klook.|Check dates
 image: Shirakawa-go 002.jpg
 image_alt: Gassho-style farmhouses in Ogimachi village, Shirakawa-go
@@ -19,7 +19,7 @@ Shirakawa-go, the gassho-zukuri farmhouse village in the mountains of northern G
 
 ### The direct route: Meitetsu Bus Center to Shirakawa-go
 
-The simplest public-transport option is the **Nagoya–Shirakawa-go highway bus** (名古屋白川郷線). It leaves from the **Meitetsu Bus Center**, about a 5-minute walk from Nagoya Station. The bus takes about 2 hours 30 minutes to Shirakawago Bus Terminal, and the village is a 1-minute walk from there. The trip from Nagoya Station takes about 2 hours 50 minutes in total ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026).
+The simplest public-transport option is the **Nagoya–Shirakawa-go highway bus** (名古屋白川郷線). It leaves from the **Meitetsu Bus Center**, about a 5-minute walk from Nagoya Station. The bus takes about 2 hours 30 minutes to Shirakawago Bus Terminal, and the village is a 1-minute walk from there. The trip from Nagoya Station takes about 2 hours 50 minutes in total ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). Gifu Bus's own timetable estimate is a little longer, 2 hours 42 minutes outbound and 2 hours 46 minutes back, so allow for that when planning connections ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of November 2026).
 
 The route is run jointly by Gifu Bus, Meitetsu Bus and Hokuriku Railroad. Between Nagoya and Shirakawa-go, it also stops at Kosoku Kakamigahara, Kosoku Seki, Gujo-Hachiman IC and Kosoku Hirugano-kogen ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026).
 
@@ -166,4 +166,4 @@ The Tourist Association estimates that walking around the village takes about 2�
 The light-up takes place on four days in 2027: January 11, January 17, January 24 and January 31 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of October 2026). The 2026 event was run on a fully advance-reservation basis ([Gifu Prefecture tourism site](https://www.kankou-gifu.jp/event/detail_1287.html), as of October 2026), so confirm the 2027 rules on the official overview page.
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-21.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-11-04.*

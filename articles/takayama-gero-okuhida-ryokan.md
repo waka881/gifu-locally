@@ -39,6 +39,8 @@ It is the easiest to reach: the Limited Express Hida runs direct from Nagoya, ab
 
 ## Why stay in Okuhida?
 
+For a village-by-village comparison, see [where to stay in Okuhida](where-to-stay-okuhida.html).
+
 Hida Takayama Tourism describes Okuhida Onsen-go as five hot spring areas ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/4000207.html), as of October 2026):
 
 | Area | How the tourism site describes it |

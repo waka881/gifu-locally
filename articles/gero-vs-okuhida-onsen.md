@@ -79,6 +79,8 @@ With up to about 1¾ hours each way on the bus from Takayama to the farther area
 
 ## So which should you choose?
 
+If you pick Okuhida, see [where to stay in Okuhida](where-to-stay-okuhida.html) to choose a village.
+
 **Choose Gero Onsen** if you are based in Nagoya, want a simple day trip or one night, or are travelling between Nagoya and Takayama by train and want to break the journey.
 
 **Choose Okuhida Onsen-go** if you are already going to Takayama, want mountain views from an open-air bath, and can stay at least one night.
