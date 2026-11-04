@@ -38,7 +38,7 @@ The train suits rail-pass holders and anyone who wants to stop at Gero Onsen on 
 
 Nohi Bus runs a line from the Takayama Nohi Bus Center, next to JR Takayama Station, to Shirakawa-go and on to Kanazawa Station, Takaoka or Toyama Station ([Nohi Bus](https://www.nouhibus.co.jp/english/highwaybus/), as of October 2026). Key points from the operator's route page ([Nohi Bus, Shirakawa-go line](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026):
 
-- **Fares (adult, one way):** Takayama–Shirakawa-go ¥2,800; Shirakawa-go–Kanazawa ¥2,800; Takayama–Kanazawa ¥4,200; Shirakawa-go–Toyama ¥2,400.
+- **Fares (adult, one way):** Takayama–Shirakawa-go ¥2,800; Shirakawa-go–Kanazawa ¥2,800; Takayama–Kanazawa ¥4,200; Shirakawa-go–Toyama ¥2,400 (see [Toyama to Takayama](toyama-to-takayama.html)).
 - **Time:** about 50 minutes from Takayama to Shirakawa-go.
 - **Frequency:** the page lists 16 round trips a day, but some services do not run on weekends, national holidays, August 13–15 or December 29–January 3.
 - **Reservations:** services marked "R" on the timetable need a reserved seat, and most Takayama–Shirakawa-go services carry that mark. Reserved buses can be booked online through Japan Bus Online. Mobile tickets are only for non-reserved buses.

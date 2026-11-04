@@ -3,7 +3,7 @@ title: "Takayama-Hokuriku Area Tourist Pass: What It Covers and Is It Worth It?"
 description: "The JR Takayama-Hokuriku Area Tourist Pass explained: ¥19,800 for 5 days, the Hida from Nagoya, Nohi Bus to Shirakawa-go and Kanazawa, the Hokuriku Shinkansen, 6 free reserved seats, and how to tell if it pays off."
 summary: The Takayama-Hokuriku Area Tourist Pass costs ¥19,800 for adults (¥9,900 for children) and gives 5 consecutive days on JR from Nagoya to Takayama and Toyama, the Hokuriku Shinkansen between Toyama and Tsuruga, JR from Tsuruga to Kyoto, Osaka and Kansai Airport, and the reserved Nohi Bus line Takayama–Shirakawa-go–Kanazawa/Toyama, with up to 6 free reserved seats. It is usually worth it for the full loop Nagoya → Takayama → Shirakawa-go → Kanazawa → Kyoto or Osaka, and usually not for a Takayama round trip alone.
 status: 公開
-facts_checked: 2026-10-21
+facts_checked: 2026-11-05
 cta: https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/|Buy the Takayama-Hokuriku pass before you fly|Klook mails you a paper exchange order to swap for the pass at a JR office in Japan. Check price, delivery time and conditions.|See pass
 image: Takayama Train and Bus Station from above.jpg
 image_alt: Takayama's train and bus station seen from above
@@ -81,7 +81,8 @@ The official page lists three ways ([JR Central and JR West](https://touristpass
 
 ## Tips for using the pass
 
-- **Reserve the Hida.** The official page notes that from September 18 to 23, 2026, every seat on the Limited Express Hida was reserved-only, so a (free) reserved-seat ticket was needed. Using your free reservations on the Hida and the Shinkansen is the simplest habit.
+- **Reserve the Hida.** The official page says every seat on the Limited Express Hida is reserved-only from December 25, 2026 to January 5, 2027 (as it was from September 18 to 23, 2026), so you need a free reserved-seat ticket before boarding ([official pass site](https://touristpass.jp/en/takayama_hokuriku/), as of November 2026). Using your free reservations on the Hida and the Shinkansen is the simplest habit.
+- **Starting in Toyama?** See [Toyama to Takayama](toyama-to-takayama.html) for the Hida and the bus via Shirakawa-go.
 - **Plan the 5 days.** The days are consecutive, so put the long travel legs inside the 5 days and the days you stay in one town outside them.
 - **Winter:** Nohi Bus warns of delays of two hours or more on the Shirakawa-go line in winter ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Leave slack before any onward train. See [Takayama in winter](takayama-in-winter.html).
 
@@ -106,4 +107,4 @@ It covers the Hokuriku Shinkansen between Toyama and Tsuruga, including Kanazawa
 Usually not. The pass is designed for the longer loop through Takayama, Shirakawa-go, Kanazawa and Kyoto or Osaka. For a Takayama round trip, compare it with separate tickets and advance discounts in our [Nagoya to Takayama guide](takayama-from-nagoya.html).
 
 ---
-*Prices, coverage and booking rules change. Check the official pass page before you buy. Facts last checked: 2026-10-21.*
+*Prices, coverage and booking rules change. Check the official pass page before you buy. Facts last checked: 2026-11-05.*
