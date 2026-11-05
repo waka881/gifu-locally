@@ -143,6 +143,8 @@ If you're leaning toward a tour, you can browse Shirakawa-go day tours departing
 
 **Prefer a guided tour?** We compare the main [Shirakawa-go day tours from Nagoya](shirakawa-go-tours-from-nagoya.html), including the Hida beef lunch and Gujo Hachiman versions.
 
+Coming from Osaka or Kyoto? See [Osaka or Kyoto to Shirakawa-go](osaka-kyoto-to-shirakawa-go.html).
+
 ## FAQ
 
 ### How long does it take to get from Nagoya to Shirakawa-go?

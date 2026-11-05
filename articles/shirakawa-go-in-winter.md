@@ -3,7 +3,7 @@ title: "Shirakawa-go in Winter: Snow, Getting There, What to Wear and the Light-
 description: "Visiting Shirakawa-go in winter: when the snow falls, how deep it gets, bus delays, driving rules (studless tyres required), what to wear, winter opening hours and the 2027 light-up dates."
 summary: Shirakawa-go is usually under snow from late December to late February, with February snow reaching 170 cm or more, so it is the best time for the classic snowy view, but you should go by bus or tour rather than drive (studless tyres are required), allow for bus delays of two hours or more, and wear warm, waterproof boots with deep treads. The 2027 light-up evenings are January 11, 17, 24 and 31, and on other nights day visitors cannot stay in the village after dark.
 status: 公開
-facts_checked: 2026-10-22
+facts_checked: 2026-11-06
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|See snowy Shirakawa-go without driving|Guided day tour from Nagoya to Takayama and Shirakawa-go with transport included. See dates and reviews on Klook.|Check dates
 image: Snow in Ogimachi Area, Shirakawa village, Gifu.JPG
 image_alt: Snow on the thatched farmhouses of Ogimachi, Shirakawa-go
@@ -28,7 +28,7 @@ Snow on the steep thatched roofs is the picture most people have of Shirakawa-go
 | Light-up 2027 | January 11, 17, 24 and 31 |
 | Nights | Day visitors not admitted after dark except on light-up evenings |
 
-*Sources: Shirakawa-go Tourist Association, Shirakawa Village, Nohi Bus and Gifu Bus, as of October 2026. Details and links below.*
+*Sources: Shirakawa-go Tourist Association, Shirakawa Village, Nohi Bus and Gifu Bus, as of November 2026. Details and links below.*
 
 ## When does Shirakawa-go get snow?
 
@@ -75,7 +75,7 @@ Shirakawa Village advises warm clothing, gloves and winter footwear, and says te
 
 ## When is the Shirakawa-go light-up?
 
-The 41st Shirakawa-go Light-Up is on **January 11, 17, 24 and 31, 2027** ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of October 2026). The 2026 event was reservation-only, and lodging handled by the Tourist Association is allocated by lottery. Our [light-up guide](shirakawa-go-light-up.html) explains how to attend.
+The 41st Shirakawa-go Light-Up is on **January 11, 17, 24 and 31, 2027** ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of November 2026). As of early November, the Association lists the first round of 2027 car-parking reservations (opened September 10) as sold out and the overnight-stay lottery application as closed, so going by bus or on a tour is the realistic option (same source). The 2026 event was reservation-only, and lodging handled by the Tourist Association is allocated by lottery. Our [light-up guide](shirakawa-go-light-up.html) explains how to attend.
 
 ## Should you stay overnight?
 
@@ -104,4 +104,4 @@ Yes. Shirakawa Village says studless tyres are required in winter and recommends
 Only on the light-up evenings (January 11, 17, 24 and 31, 2027) or if you stay overnight in the village. Day visitors are not admitted after dark on other nights ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/events/106/)).
 
 ---
-*Prices, timetables and event rules change. Check official sources before you go. Facts last checked: 2026-10-22.*
+*Prices, timetables and event rules change. Check official sources before you go. Facts last checked: 2026-11-06.*
