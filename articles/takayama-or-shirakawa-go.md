@@ -88,6 +88,8 @@ Highway buses can be delayed by road and weather conditions, and Gifu Bus does n
 
 **Short on time?** [Hida Folk Village](hida-folk-village.html), 10 minutes by bus from Takayama Station, has over 30 traditional farmhouses you can walk into.
 
+Comparing Takayama with Kanazawa instead? See [Takayama or Kanazawa?](takayama-or-kanazawa.html)
+
 ## FAQ
 
 ### Is Takayama or Shirakawa-go better for a day trip from Nagoya?
