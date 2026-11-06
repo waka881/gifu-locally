@@ -3,7 +3,7 @@ title: "Japan Rail Pass or Takayama-Hokuriku Pass for Takayama and Shirakawa-go?
 description: "Japan Rail Pass (7 days ¥50,000) vs the Takayama-Hokuriku Area Tourist Pass (5 days ¥19,800) for Takayama, Shirakawa-go and Kanazawa: what each covers, the Shirakawa-go bus, seat reservations and which to choose."
 summary: For a trip that centres on Nagoya, Takayama, Shirakawa-go, Kanazawa and Kyoto or Osaka, the Takayama-Hokuriku Area Tourist Pass (¥19,800 for 5 days) is the better fit, because it costs well under half a 7-day Japan Rail Pass bought online (¥50,000) and it also covers the reserved Nohi Bus to Shirakawa-go, which the Japan Rail Pass page does not list. The Japan Rail Pass makes sense only when the same 7 days also include long Shinkansen trips elsewhere in Japan, such as from Tokyo.
 status: 公開
-facts_checked: 2026-10-22
+facts_checked: 2026-11-07
 cta: https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/|Takayama-Hokuriku Area Tourist Pass on Klook|5-day pass for Nagoya, Takayama, the Shirakawa-go bus, Kanazawa and Kyoto/Osaka. Klook mails an exchange order; check price and delivery time.|See pass
 image: Takayama Train and Bus Station from above.jpg
 image_alt: Takayama's train and bus station seen from above
@@ -91,4 +91,4 @@ The 7-day Ordinary pass is ¥50,000 for adults bought online, or ¥53,000 throug
 Yes, on different days, as long as you qualify for each. For example, a Japan Rail Pass for a Tokyo-to-Kansai week and the regional pass for a separate 5 days in the Alps. Check that the days don't overlap so you are not paying twice.
 
 ---
-*Prices and coverage change. Check the official pass pages before you buy. Facts last checked: 2026-10-22.*
+*Prices and coverage change. Check the official pass pages before you buy. Facts last checked: 2026-11-07.*

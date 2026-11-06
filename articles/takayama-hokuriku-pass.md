@@ -57,7 +57,7 @@ The pass costs ¥19,800, so on the classic route the rest has to come from the J
 
 **As a rule of thumb:**
 
-- **Likely worth it:** the full loop Nagoya → Takayama → Shirakawa-go → Kanazawa → Kyoto/Osaka (or Kansai Airport) within 5 days, because that uses every part of the pass.
+- **Likely worth it:** the full loop Nagoya → Takayama → Shirakawa-go → Kanazawa → Kyoto/Osaka (or Kansai Airport) within 5 days, because that uses every part of the pass. Arriving at Kansai Airport? See [Kansai Airport to Takayama](kansai-airport-to-takayama.html).
 - **Likely not worth it:** only Nagoya to Takayama and back, or only Takayama and Shirakawa-go. Buy separate tickets and check the advance discounts in [Nagoya to Takayama](takayama-from-nagoya.html).
 - **Check carefully:** if you have a Japan Rail Pass, compare what it already covers before buying a second pass; see [Japan Rail Pass or Takayama-Hokuriku pass?](jr-pass-vs-takayama-hokuriku-pass.html)
 

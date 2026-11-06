@@ -28,6 +28,8 @@ Chubu Centrair International Airport (NGO), on an island south of Nagoya, is the
 
 *Sources: Chubu Centrair International Airport, Meitetsu, Nohi Bus, Gifu Bus and the Shirakawa-go Tourist Association, as of October 2026. Details below.*
 
+Landing at Kansai Airport instead? See [Kansai Airport to Takayama](kansai-airport-to-takayama.html).
+
 ## How do I get from Centrair Airport to Nagoya?
 
 The airport says the fastest train to Nagoya takes **28 minutes** on the μSKY limited express ([Centrair](https://www.centrair.jp/en/access/train.html), as of October 2026). Centrair's Takayama page lists the μSKY to Meitetsu Nagoya at 30 minutes for **¥1,230** ([Centrair](https://www.centrair.jp/en/tourist-information/destinations/takayama.html)).
