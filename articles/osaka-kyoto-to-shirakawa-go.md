@@ -29,7 +29,7 @@ There is no direct train or bus from Osaka or Kyoto to Shirakawa-go. You go via 
 
 The Tourist Association's route from Osaka is the Tokaido Shinkansen to Nagoya, about 1 hour from Shin-Osaka, then the express bus to Shirakawa-go, about 3 hours 45 minutes in total ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)). From Kyoto, take the same Shinkansen to Nagoya.
 
-The bus leaves from the **Meitetsu Bus Center** in Nagoya, not JR Nagoya Station. Gifu Bus says seats must be reserved (you can't board if the bus is full), bookings open one month ahead, and the adult fare is ¥3,600–¥4,700 depending on the date; its timetable estimate is 2 hours 42 minutes ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of November 2026). Our [Shirakawa-go from Nagoya guide](shirakawa-go-from-nagoya.html) covers the bus, booking and the walk from JR Nagoya Station.
+The bus leaves from the **Meitetsu Bus Center** in Nagoya, not JR Nagoya Station. Gifu Bus says seats must be reserved (you can't board if the bus is full), bookings open one month ahead, and the adult fare is ¥3,600–¥4,700 depending on the date; its timetable estimate is 2 hours 42 minutes ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of November 2026). Coming from Tokyo instead? See [Tokyo to Shirakawa-go](tokyo-to-shirakawa-go.html). Our [Shirakawa-go from Nagoya guide](shirakawa-go-from-nagoya.html) covers the bus, booking and the walk from JR Nagoya Station.
 
 As a day trip from Osaka this means about 7–8 hours of travel for 2–3 hours in the village, so most people stay a night on the way.
 

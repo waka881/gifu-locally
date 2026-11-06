@@ -85,7 +85,7 @@ Yes. The same line continues from Shirakawa-go to Takayama in about 50 minutes f
 
 **Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
-Deciding between a Kanazawa base and a Takayama base? See [Takayama or Kanazawa?](takayama-or-kanazawa.html)
+Coming from Tokyo? See [Tokyo to Shirakawa-go](tokyo-to-shirakawa-go.html). Deciding between a Kanazawa base and a Takayama base? See [Takayama or Kanazawa?](takayama-or-kanazawa.html)
 
 ## FAQ
 

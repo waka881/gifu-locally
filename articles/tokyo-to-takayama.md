@@ -66,6 +66,8 @@ Whichever way you go, the journey takes most of half a day, so plan at least one
 
 **Before you go:** you'll rely on your phone for bus bookings, train times and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
+Going straight to Shirakawa-go instead? See [Tokyo to Shirakawa-go](tokyo-to-shirakawa-go.html).
+
 ## FAQ
 
 ### How long does it take from Tokyo to Takayama?
