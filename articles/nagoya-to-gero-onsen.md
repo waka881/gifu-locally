@@ -82,6 +82,8 @@ A day trip works if you mainly want to try the water. Staying lets you bathe in 
 
 For more easy trips from the city, see [day trips from Nagoya](nagoya-day-trips.html).
 
+Coming from Osaka or Kyoto? One direct Hida a day reaches Gero without a change: see [Osaka or Kyoto to Gero Onsen](osaka-kyoto-to-gero-onsen.html).
+
 **Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
 **Still deciding?** See [Is Gero Onsen worth visiting?](is-gero-onsen-worth-visiting.html) for costs and how long to stay, and [where to stay in Gero Onsen](where-to-stay-gero-onsen.html) for riverside vs station inns.

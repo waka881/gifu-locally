@@ -1,9 +1,9 @@
 ---
 title: "Takayama to Shirakawa-go Day Trip: Bus Timetable, Tickets and a Simple Plan"
 description: "How to do a day trip from Takayama to Shirakawa-go by Nohi Bus: departure times, which buses need a reservation, the ¥2,800 fare, last buses back, luggage and a sample day."
-summary: Buses from the Takayama Nohi Bus Center reach Shirakawa-go in about 50 minutes for ¥2,800 one way, with departures from 7:20 to 17:50, and the last bus back leaves Shirakawa-go at 17:30. Most departures need a reserved seat (marked "R"), so book both directions on Japan Bus Online, and plan 2–3 hours in the village, for example the 8:10 bus out and a bus back around 12:35–13:30.
+summary: Buses from the Takayama Nohi Bus Center reach Shirakawa-go in about 50 minutes for ¥2,800 one way (¥2,900 from December 1, 2026), with departures from 7:20 to 17:50, and the last bus back leaves Shirakawa-go at 17:30. Most departures need a reserved seat (marked "R"), so book both directions on Japan Bus Online, and plan 2–3 hours in the village, for example the 8:10 bus out and a bus back around 12:35–13:30.
 status: 公開
-facts_checked: 2026-10-23
+facts_checked: 2026-11-08
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay next to the Shirakawa-go buses|The buses leave from the Nohi Bus Center next to JR Takayama Station. Compare hotels nearby on Klook.|See stays
 image: Overview of Ogimachi, Shirakawa, from the Ogimachi Castle observation point.jpg
 image_alt: Ogimachi village in Shirakawa-go seen from the observation point
@@ -21,13 +21,13 @@ Takayama is the closest major base for Shirakawa-go, and the bus makes it an eas
 |---|---|
 | From | Takayama Nohi Bus Center, next to JR Takayama Station |
 | Time | About 50 minutes (some buses about 1 hour 7 minutes) |
-| Adult fare | ¥2,800 one way |
+| Adult fare | ¥2,800 one way; ¥2,900 from December 1, 2026 |
 | First / last bus out | 7:20 / 17:50 |
 | Last bus back | 17:30 from Shirakawa-go |
 | Reservations | Needed on buses marked "R"; book through Japan Bus Online |
 | Time in the village | About 2–3 hours to walk around |
 
-*Sources: [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/); [Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of October 2026.*
+*Sources: [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/); [Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of November 2026.*
 
 ## What time are the buses from Takayama to Shirakawa-go?
 
@@ -51,7 +51,7 @@ Departures from the Takayama Nohi Bus Center, from the Nohi Bus timetable ([Nohi
 | 14:30 | 15:20 | R |
 | 14:50 | 15:57 | Not reserved |
 
-Later buses leave at 16:20, 16:30 and 17:50, too late for a day trip. Several companies run these services together under the same timetable. Timetables change, so check the current one for your date.
+Later buses leave at 16:20, 16:30 and 17:50, too late for a day trip. Several companies run these services together under the same timetable. Timetables change, so check the current one for your date. From December 1, 2026, Nohi Bus's revised timetable adds reserved departures at 9:10 and 9:50 from Takayama, and the return times change, so check the new table if you travel from December ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked November 8, 2026).
 
 ## What time is the last bus back to Takayama?
 
@@ -75,7 +75,7 @@ The last bus back leaves at **17:30**. Earlier departures run from 6:43 in the m
 
 ## How do you buy tickets?
 
-- **Fare:** ¥2,800 one way for adults between Takayama and Shirakawa-go. No round-trip fare is listed. Children under 6 ride free when they don't take a seat (one per adult) ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)).
+- **Fare:** ¥2,800 one way for adults between Takayama and Shirakawa-go, rising to ¥2,900 from December 1, 2026. No round-trip fare is listed. Children under 6 ride free when they don't take a seat (one per adult) ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)).
 - **Reserved buses ("R"):** book online through [Japan Bus Online](https://japanbusonline.com/), or by phone at the Nohi Bus Reservation Center, 9:00–17:00 (same source).
 - **Non-reserved buses:** mobile tickets are sold for these only (same source). Seats are first come, first served.
 
@@ -117,7 +117,7 @@ About 50 minutes on most buses; some non-reserved buses take about 1 hour 7 minu
 
 ### How much is the bus from Takayama to Shirakawa-go?
 
-¥2,800 one way for adults. No round-trip fare is listed (same source).
+¥2,800 one way for adults, or ¥2,900 from December 1, 2026. No round-trip fare is listed (same source).
 
 ### What time is the last bus from Shirakawa-go to Takayama?
 
@@ -128,4 +128,4 @@ About 50 minutes on most buses; some non-reserved buses take about 1 hour 7 minu
 For buses marked "R", yes; book on Japan Bus Online. Some departures are non-reserved, but booking a reserved bus is the safer choice (same source).
 
 ---
-*Timetables, prices and booking rules change. Check official sources before you go. Facts last checked: 2026-10-23.*
+*Timetables, prices and booking rules change. Check official sources before you go. Facts last checked: 2026-11-08.*

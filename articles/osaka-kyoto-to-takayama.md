@@ -76,7 +76,7 @@ Plan at least one night in Takayama: see [How many days in Takayama?](how-many-d
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay near JR Takayama Station|Trains and buses from Osaka and Kyoto arrive next to the station. Compare hotels on Klook.|See stays]]
 
-Flying into Kansai Airport? See [Kansai Airport to Takayama](kansai-airport-to-takayama.html) for the Haruka, the direct morning Hida and the bus from the airport.
+Stopping at Gero Onsen on the way? See [Osaka or Kyoto to Gero Onsen](osaka-kyoto-to-gero-onsen.html). Flying into Kansai Airport? See [Kansai Airport to Takayama](kansai-airport-to-takayama.html) for the Haruka, the direct morning Hida and the bus from the airport.
 
 **Before you go:** you'll rely on your phone for bus bookings, train times and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
