@@ -64,6 +64,8 @@ Whichever way you go, the journey takes most of half a day, so plan at least one
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay near JR Takayama Station|The Hida train and the Shinjuku bus both arrive by the station. Compare hotels nearby on Klook.|See stays]]
 
+Landing at Narita or Haneda? See [Narita or Haneda Airport to Takayama](narita-haneda-to-takayama.html) for the airport legs.
+
 **Before you go:** you'll rely on your phone for bus bookings, train times and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
 Going straight to Shirakawa-go instead? See [Tokyo to Shirakawa-go](tokyo-to-shirakawa-go.html).

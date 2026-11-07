@@ -3,7 +3,7 @@ title: "Nagoya to Takayama: Train, Bus and a Day Trip or Overnight Plan"
 description: "How to get from Nagoya to Takayama by Limited Express Hida or highway bus, plus the old town, Jinya, morning markets and Hida Folk Village."
 summary: From Nagoya, the Limited Express Hida reaches Takayama in approximately 2 hours and 20 minutes, with a limited express charge of ¥2,730 for an adult reserved seat in the regular season plus a separate basic fare ticket. The Nohi Bus highway bus takes 2 hours 40 minutes for a one-way fare of ¥3,600, or ¥3,300 with the web discount, and needs a reservation. A day trip works if you leave early, while an overnight stay adds the quieter evening and the morning markets, which close at noon.
 status: 公開
-facts_checked: 2026-10-23
+facts_checked: 2026-11-07
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Takayama and Shirakawa-go day trip from Nagoya|Guided tour with transport included. See dates, itinerary and reviews on Klook.|Check dates
 image: Takayamacity center Old town No,2.JPG
 image_alt: Old merchant houses in central Takayama
@@ -152,4 +152,4 @@ Both the Miyagawa and Jinya-mae morning markets are open every day, from 7 a.m. 
 The Spring Takayama Festival is on April 14 and 15, and the Autumn Takayama Festival is on October 9 and 10 (as of October 2026, [Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000105.html)). Book train seats and rooms well in advance if you plan to stay overnight then.
 
 ---
-*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-23.*
+*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-11-07.*

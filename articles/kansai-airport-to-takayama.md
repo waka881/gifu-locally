@@ -61,7 +61,7 @@ Partly. The Takayama-Hokuriku Area Tourist Pass (¥19,800 for adults, 5 consecut
 
 ## Should you stay a night before Takayama?
 
-If you land in the afternoon or later, yes. A night in Osaka lets you take the direct 7:58 Hida or the 8:50 bus and arrive in Takayama around midday. Landing at Chubu Centrair instead is much closer: see [Centrair Airport to Gifu](centrair-airport-to-gifu.html). Once in Takayama, plan your days with [how many days in Takayama](how-many-days-in-takayama.html) and [where to stay in Takayama](where-to-stay-takayama.html).
+If you land in the afternoon or later, yes. A night in Osaka lets you take the direct 7:58 Hida or the 8:50 bus and arrive in Takayama around midday. Landing in Tokyo instead? See [Narita or Haneda Airport to Takayama](narita-haneda-to-takayama.html). Landing at Chubu Centrair is much closer: see [Centrair Airport to Gifu](centrair-airport-to-gifu.html). Once in Takayama, plan your days with [how many days in Takayama](how-many-days-in-takayama.html) and [where to stay in Takayama](where-to-stay-takayama.html).
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay near JR Takayama Station|The Hida train and the Osaka bus both arrive by the station. Compare hotels on Klook.|See stays]]
 

@@ -28,7 +28,7 @@ Chubu Centrair International Airport (NGO), on an island south of Nagoya, is the
 
 *Sources: Chubu Centrair International Airport, Meitetsu, Nohi Bus, Gifu Bus and the Shirakawa-go Tourist Association, as of October 2026. Details below.*
 
-Landing at Kansai Airport instead? See [Kansai Airport to Takayama](kansai-airport-to-takayama.html).
+Landing at Kansai Airport or in Tokyo instead? See [Kansai Airport to Takayama](kansai-airport-to-takayama.html) or [Narita or Haneda Airport to Takayama](narita-haneda-to-takayama.html).
 
 ## How do I get from Centrair Airport to Nagoya?
 
