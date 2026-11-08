@@ -1,6 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
+    "takayama-to-gero-onsen": "Limited Express Hida HC85",
     "osaka-kyoto-to-gero-onsen": "Gero Station Gifu",
     "narita-haneda-to-takayama": "Narita Express Narita Airport station",
     "kansai-airport-to-takayama": "Haruka Kansai Airport Station",
