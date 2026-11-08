@@ -43,7 +43,7 @@ A day trip of a public bath, a few foot baths and the Gassho Village comes to we
 
 - **The water.** The Tourism Association describes it as an alkaline simple spring with a pH of 9.2, and counts Gero among Japan's "three famous hot springs" with Arima and Kusatsu ([Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/)).
 - **A real onsen town.** The Gifu Prefecture tourism site says about 50 ryokan and hotels line the Hida River, with nine foot baths around town ([Gifu Prefecture tourism](https://www.kankou-gifu.jp/article/detail_9.html), as of October 2026).
-- **Easy to reach.** Visit Gifu gives about 1 hour 30–40 minutes from Nagoya by Limited Express Hida ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya)); JR Central gives about 45–60 minutes from Takayama ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)).
+- **Easy to reach.** Visit Gifu gives about 1 hour 30–40 minutes from Nagoya by Limited Express Hida ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya)); JR Central gives about 45–60 minutes from Takayama ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)); see [Takayama to Gero Onsen](takayama-to-gero-onsen.html).
 
 **One thing to know:** older guides mention bathing in the open-air pool on the Hida riverbank. Bathing there has been prohibited since December 1, 2021 ([Gero Onsen Tourism Association](https://www.gero-spa.com/spot/detail_2.html)).
 

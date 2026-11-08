@@ -38,11 +38,11 @@ For the Hida ticketless charge, the Hayatoku advance discount and the walk from 
 
 ## Can you do Gero Onsen as a day trip from Osaka or Kyoto?
 
-It's possible but long: about 3 hours or more each way, and the direct train arrives only at 11:29, leaving an afternoon in town. Gero is better as an overnight stop, with an evening bath and a ryokan dinner. See [is Gero Onsen worth visiting?](is-gero-onsen-worth-visiting.html), [where to stay in Gero Onsen](where-to-stay-gero-onsen.html) and the [Gero Onsen guide](gero-onsen-guide.html) for baths and foot baths.
+It's possible but long: about 3 hours or more each way. The direct Hida arrives at 11:29, and a direct train back, Hida 36, leaves Gero at 16:18 and reaches Kyoto at 19:17 and Osaka at 19:50 ([JR West](https://timetable.jr-odekake.net/train-timetable/77031?date=20261027), October 2026), which leaves about 4 hours in town. Gero is better as an overnight stop, with an evening bath and a ryokan dinner. See [is Gero Onsen worth visiting?](is-gero-onsen-worth-visiting.html), [where to stay in Gero Onsen](where-to-stay-gero-onsen.html) and the [Gero Onsen guide](gero-onsen-guide.html) for baths and foot baths.
 
 ## Should you combine Gero with Takayama?
 
-Usually yes. The same direct Hida continues to Takayama, and JR Central gives Gero to Takayama as about 45–60 minutes by train ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). You can spend a night in Gero, then go on to Takayama the next morning; see [Osaka or Kyoto to Takayama](osaka-kyoto-to-takayama.html), [Gero vs Okuhida](gero-vs-okuhida-onsen.html) and our [Gifu 3-day itinerary](gifu-3-day-itinerary.html).
+Usually yes. The same direct Hida continues to Takayama, and JR Central gives Gero to Takayama as about 45–60 minutes by train ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). You can spend a night in Gero, then go on to Takayama the next morning (see [Takayama to Gero Onsen](takayama-to-gero-onsen.html)); see [Osaka or Kyoto to Takayama](osaka-kyoto-to-takayama.html), [Gero vs Okuhida](gero-vs-okuhida-onsen.html) and our [Gifu 3-day itinerary](gifu-3-day-itinerary.html).
 
 **Before you go:** you'll rely on your phone for train times, seat reservations and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
 
