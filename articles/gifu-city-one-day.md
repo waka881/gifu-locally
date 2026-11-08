@@ -54,6 +54,8 @@ Stay near JR Gifu Station for easy train and bus access, or by the Nagara River 
 
 [[cta|https://www.klook.com/en-US/destination/c6370-gifu/3-hotel/|Hotels in Gifu Prefecture|Compare prices and availability for your dates on Klook.|See stays]]
 
+Going on to Takayama? See [Gifu to Takayama](gifu-to-takayama.html) for the Hida and the express bus.
+
 ## FAQ
 
 ### How do you get to the Mt. Kinka Ropeway from Gifu Station?

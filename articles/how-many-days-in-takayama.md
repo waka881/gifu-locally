@@ -3,7 +3,7 @@ title: "How Many Days in Takayama? 1, 2 or 3 Days Compared"
 description: "How many days you need in Takayama: what fits in one day, two days with Shirakawa-go, and three days with Okuhida, Kamikochi or Gero Onsen, with travel times and opening hours from official sources."
 summary: Two days is the best fit for most first visits to Takayama: one day for Sanmachi old town, Takayama Jinya and Hida Folk Village, and a second for a morning market and Shirakawa-go, about 50 minutes away by bus. One day works as a long trip from Nagoya (about 2 hours 20 minutes each way by train) if you skip Shirakawa-go, and a third day lets you add Okuhida's hot springs and the Shinhotaka Ropeway, Kamikochi (mid-April to mid-November) or Gero Onsen.
 status: 公開
-facts_checked: 2026-10-23
+facts_checked: 2026-11-09
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book your nights in Takayama|Staying near JR Takayama Station puts you next to the buses for Shirakawa-go, Okuhida and Kamikochi. Compare hotels on Klook.|See stays
 image: Takayamacity center Old town No,2.JPG
 image_alt: Old merchant houses in central Takayama
@@ -46,7 +46,7 @@ Sake fans can add a brewery tasting in Sanmachi; see [Takayama sake breweries](t
 One night lets you see the town on day 1 and add a morning market and Shirakawa-go on day 2:
 
 - **Morning markets:** the Miyagawa and Jinya-mae markets open 7:00–12:00 from April to November and 8:00–12:00 from December to March ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html), as of October 2026).
-- **Shirakawa-go:** about 50 minutes by bus from the Takayama Nohi Bus Center, ¥2,800 one way, with the last bus back at 17:30 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked October 2026). The Tourist Association estimates 2–3 hours to walk around the village ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)).
+- **Shirakawa-go:** about 50 minutes by bus from the Takayama Nohi Bus Center, ¥2,800 one way (¥2,900 from December 1, 2026), with the last bus back at 17:30 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked November 2026). The Tourist Association estimates 2–3 hours to walk around the village ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)).
 
 Our [Takayama 2-day itinerary](takayama-2-day-itinerary.html) has an hour-by-hour plan, and [Takayama to Shirakawa-go](takayama-to-shirakawa-go.html) lists every bus.
 
@@ -91,4 +91,4 @@ Add a day trip to Okuhida and the Shinhotaka Ropeway, to Kamikochi between mid-A
 Yes, but it is rushed. A guided tour from Nagoya is the simplest way; on your own, you need an early train or bus and reserved seats on the Shirakawa-go buses.
 
 ---
-*Prices, hours and timetables change. Check official sources before you go. Facts last checked: 2026-10-23.*
+*Prices, hours and timetables change. Check official sources before you go. Facts last checked: 2026-11-09.*

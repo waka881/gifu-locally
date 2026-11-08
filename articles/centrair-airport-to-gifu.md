@@ -58,7 +58,7 @@ Nohi Bus sells a **Takayama–Centrair ticket** that covers the Meitetsu train b
 - **μSKY:** the ticket does not include the μticket, which you need to ride the μSKY.
 - **Bus reservation:** every bus needs a reserved seat. Reservations open one month before travel, by phone at the Nohi Bus Reservation Center (0577-32-1688, 9:00–17:00).
 
-The Gifu–Takayama express bus takes **about 2 hours**, runs six times a day in each direction, and leaves from the **Meitetsu Gifu (No.6)** stop. Departures from Meitetsu Gifu are at 7:40, 10:30, 12:30, 15:20, 17:05 and 19:10 ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/gifu_en/), as of October 2026). Plan your flight so you reach Gifu with time to spare before one of these.
+Full timetable and the train option: [Gifu to Takayama](gifu-to-takayama.html). The Gifu–Takayama express bus takes **about 2 hours**, runs six times a day in each direction, and leaves from the **Meitetsu Gifu (No.6)** stop. Departures from Meitetsu Gifu are at 7:40, 10:30, 12:30, 15:20, 17:05 and 19:10 ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/gifu_en/), as of October 2026). Plan your flight so you reach Gifu with time to spare before one of these.
 
 ### 2. Direct highway bus from the airport
 
