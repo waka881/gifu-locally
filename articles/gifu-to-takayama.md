@@ -58,7 +58,7 @@ Nohi Bus lists a reserved express bus from Meitetsu Gifu (stop No. 6) to the Tak
 
 *Source: [Nohi Bus](https://www.nouhibus.co.jp/highwaybus/gifu_en/), as of November 2026. Fares from Takayama: ¥2,900 to Gifu, ¥2,400 to Gujo Hachiman IC; a 4-ticket book to Gifu costs ¥9,900 (valid 3 months).*
 
-Reservations are required, open one month ahead, and can be made online at highwaybus.com or by phone; round-trip tickets aren't sold on the bus (same source). The bus suits a stop in [Gujo Hachiman](gujo-hachiman-day-trip.html), the castle town known for its [food samples](gujo-hachiman-food-samples.html).
+Reservations are required, open one month ahead, and can be made online at highwaybus.com or by phone; round-trip tickets aren't sold on the bus (same source). The bus suits a stop in [Gujo Hachiman](gujo-hachiman-day-trip.html) (see [Takayama to Gujo Hachiman](takayama-to-gujo-hachiman.html)), the castle town known for its [food samples](gujo-hachiman-food-samples.html).
 
 ## Train or bus: which should you choose?
 
