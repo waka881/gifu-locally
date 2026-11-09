@@ -1,9 +1,9 @@
 ---
 title: "Takayama to Kanazawa by Bus: Timetable, Fares and Stopping at Shirakawa-go"
 description: "How to get from Takayama to Kanazawa by Nohi Bus and Hokuriku Tetsudo: the four through buses a day, the ¥4,200 fare, about 2 h 15 min, reservations on Japan Bus Online, and how to stop off in Shirakawa-go on the way."
-summary: Four reserved buses a day run from the Takayama Nohi Bus Center to Kanazawa Station via Shirakawa-go (7:50, 11:20, 12:50 and 16:30), taking about 2 hours 15 minutes for ¥4,200 one way; to see Shirakawa-go on the way, buy two tickets (Takayama–Shirakawa-go ¥2,800 and Shirakawa-go–Kanazawa ¥2,800), leave your luggage in a coin locker at the bus terminal and catch a later bus to Kanazawa. Book every leg on Japan Bus Online, and in winter allow for delays of two hours or more.
+summary: Four reserved buses a day run from the Takayama Nohi Bus Center to Kanazawa Station via Shirakawa-go (7:50, 11:20, 12:50 and 16:30), taking about 2 hours 15 minutes for ¥4,200 one way (¥4,400 from December 1, 2026, when a 9:10 departure is added); to see Shirakawa-go on the way, buy two tickets (Takayama–Shirakawa-go ¥2,800 and Shirakawa-go–Kanazawa ¥2,800), leave your luggage in a coin locker at the bus terminal and catch a later bus to Kanazawa. Book every leg on Japan Bus Online, and in winter allow for delays of two hours or more.
 status: 公開
-facts_checked: 2026-10-24
+facts_checked: 2026-11-10
 cta: https://www.klook.com/en-US/destination/c445-kanazawa/3-hotel/|Book your night in Kanazawa|The buses from Takayama and Shirakawa-go arrive at Kanazawa Station. Compare hotels in Kanazawa on Klook.|See stays
 image: Tsuzumimon Gate in front of Kanazawa Station at dusk 20150120.JPG
 image_alt: The Tsuzumi-mon gate at Kanazawa Station's east exit at dusk
@@ -23,7 +23,7 @@ The bus is the direct way from Takayama to Kanazawa, and it passes through Shira
 | To | Kanazawa Station | Same |
 | Buses | 4 a day | Takayama–Shirakawa-go many a day; Shirakawa-go–Kanazawa several a day |
 | Time on the bus | About 2 h 15 min | About 50 min + about 1 h 15 min |
-| Adult fare (one way) | ¥4,200 | ¥2,800 + ¥2,800 = ¥5,600 |
+| Adult fare (one way) | ¥4,200 (¥4,400 from Dec 1, 2026) | ¥2,800 + ¥2,800 = ¥5,600 (¥2,900 + ¥2,900 = ¥5,800 from Dec 1, 2026) |
 | Reservations | Required | Required on most buses |
 
 *Source: [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked October 24, 2026. Timetables change; check the current one for your date.*
@@ -37,7 +37,7 @@ The bus is the direct way from Takayama to Kanazawa, and it passes through Shira
 | 12:50 | 13:50 | 15:05 | Nohi Bus |
 | 16:30 | 17:30 | 18:45 | Hokuriku Tetsudo |
 
-All four need a reservation ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked October 2026). The two companies run the line together on one timetable.
+All four need a reservation ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked October 2026). **From December 1, 2026**, Nohi Bus's revised timetable adds a 9:10 departure from Takayama arriving in Kanazawa at 11:10, and the fare rises to ¥4,400 (¥2,900 for each leg via Shirakawa-go); check the new table for other changes (Nohi Bus, checked November 10, 2026). Want a guide instead? See [Shirakawa-go tour from Takayama](shirakawa-go-tour-from-takayama.html). The two companies run the line together on one timetable.
 
 ## What time are the buses from Kanazawa to Takayama?
 
@@ -94,15 +94,15 @@ About 2 hours 15 minutes on the through buses, which stop at Shirakawa-go on the
 
 ### How much is the bus from Takayama to Kanazawa?
 
-¥4,200 one way for adults from the Takayama bus terminal to Kanazawa Station (same source).
+¥4,200 one way for adults from the Takayama bus terminal to Kanazawa Station, or ¥4,400 from December 1, 2026 (same source).
 
 ### Can I stop at Shirakawa-go between Takayama and Kanazawa?
 
-Yes. Buy a Takayama–Shirakawa-go ticket (¥2,800) and a Shirakawa-go–Kanazawa ticket (¥2,800), and use the coin lockers at the Shirakawago Bus Terminal for your bags, available 8:00–17:00 ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)).
+Yes. Buy a Takayama–Shirakawa-go ticket (¥2,800) and a Shirakawa-go–Kanazawa ticket (¥2,800), or ¥2,900 each from December 1, 2026, and use the coin lockers at the Shirakawago Bus Terminal for your bags, available 8:00–17:00 ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)).
 
 ### Do I need to reserve the Takayama to Kanazawa bus?
 
 Yes. All four through buses are reservation only; book on Japan Bus Online or by phone ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)).
 
 ---
-*Timetables and fares change. Check official sources before you go. Facts last checked: 2026-10-24.*
+*Timetables and fares change. Check official sources before you go. Facts last checked: 2026-11-10.*

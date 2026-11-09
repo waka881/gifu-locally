@@ -51,7 +51,7 @@ Departures from the Takayama Nohi Bus Center, from the Nohi Bus timetable ([Nohi
 | 14:30 | 15:20 | R |
 | 14:50 | 15:57 | Not reserved |
 
-Later buses leave at 16:20, 16:30 and 17:50, too late for a day trip. Several companies run these services together under the same timetable. Timetables change, so check the current one for your date. From December 1, 2026, Nohi Bus's revised timetable adds reserved departures at 9:10 and 9:50 from Takayama, and the return times change, so check the new table if you travel from December ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked November 8, 2026).
+Later buses leave at 16:20, 16:30 and 17:50, too late for a day trip. Several companies run these services together under the same timetable. Timetables change, so check the current one for your date. Prefer a guide? Compare the bus with a [guided tour from Takayama](shirakawa-go-tour-from-takayama.html). From December 1, 2026, Nohi Bus's revised timetable adds reserved departures at 9:10 and 9:50 from Takayama, and the return times change, so check the new table if you travel from December ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked November 8, 2026).
 
 ## What time is the last bus back to Takayama?
 
