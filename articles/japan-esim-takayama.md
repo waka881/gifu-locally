@@ -3,7 +3,7 @@ title: "Japan eSIM for Takayama, Shirakawa-go and the Japan Alps: How Much Data 
 description: "Mobile data for a trip to Takayama, Shirakawa-go and Gifu: why you'll want it for buses and maps, how much data to buy, Yesim Japan eSIM prices, when the plan starts, hotspot use and how to check your phone supports eSIM."
 summary: For a trip through Takayama, Shirakawa-go and the Japan Alps, buy a data eSIM before you fly and switch it on when you land, because you will rely on your phone for bus times, reservations and maps; Yesim's Japan plans start at $4.44 for 1 GB and $10.56 for 5 GB (30 days), the validity only starts when the eSIM first connects in Japan, and you must activate within 90 days of buying. Most travellers on a one-week trip will be comfortable with 5–10 GB.
 status: 公開
-facts_checked: 2026-10-24
+facts_checked: 2026-11-10
 cta: https://yesim.tpk.lu/T6xnCd9w|Get a Japan eSIM before you fly|Data-only eSIM with plans from 1 GB to 30 GB; install by QR code or app, switch on in Japan. See current prices on Yesim.|See plans
 image: Takayama Train and Bus Station from above.jpg
 image_alt: Takayama's train and bus station seen from above
@@ -30,7 +30,7 @@ A trip to Takayama and Shirakawa-go runs on buses that need reservations, timeta
 | Hotspot | Available (counts against your data) |
 | Refund | Unused plans within 30 days of purchase |
 
-*Source: [Yesim Japan plans](https://yesim.app/country/japan/) and [Yesim](https://yesim.app/), prices in USD as of October 2026. Prices and discounts change often; check the current price before you buy.*
+*Source: [Yesim Japan plans](https://yesim.app/country/japan/) and [Yesim](https://yesim.app/), prices in USD as of November 2026. Prices and discounts change often; check the current price before you buy.*
 
 ## Why do you need mobile data in Takayama and Shirakawa-go?
 
@@ -62,7 +62,7 @@ If you share your data with a partner's phone through the hotspot, the shared da
 
 Your usual number stays in your phone for messaging apps, and you avoid your home carrier's roaming charges by turning off data roaming on your home line. Check your home carrier's own rules before you travel.
 
-[[cta|https://yesim.tpk.lu/T6xnCd9w|Pick your Japan data plan|From $4.44 for 1 GB to $39.60 for 30 GB, valid 30 days from first connection in Japan (as of October 2026). See current prices on Yesim.|See plans]]
+[[cta|https://yesim.tpk.lu/T6xnCd9w|Pick your Japan data plan|From $4.44 for 1 GB to $39.60 for 30 GB, valid 30 days from first connection in Japan (as of November 2026). See current prices on Yesim.|See plans]]
 
 ## eSIM, pocket WiFi or roaming?
 
@@ -91,7 +91,7 @@ It isn't required, but it helps: most Takayama–Shirakawa-go buses need online 
 
 ### How much does a Japan eSIM cost?
 
-Yesim lists Japan plans from $4.44 for 1 GB up to $39.60 for 30 GB, each valid for 30 days, as of October 2026 ([Yesim Japan](https://yesim.app/country/japan/)). Prices change often.
+Yesim lists Japan plans from $4.44 for 1 GB up to $39.60 for 30 GB, each valid for 30 days, as of November 2026 ([Yesim Japan](https://yesim.app/country/japan/)). Prices change often.
 
 ### When does a Japan eSIM start counting days?
 
@@ -102,4 +102,4 @@ With Yesim, the validity period starts when the eSIM first connects to a network
 Yes. Yesim says hotspot sharing is available, and the shared data counts against your plan ([Yesim](https://yesim.app/)).
 
 ---
-*Prices and plan terms change. Check the provider's page before you buy. Facts last checked: 2026-10-24.*
+*Prices and plan terms change. Check the provider's page before you buy. Facts last checked: 2026-11-10.*

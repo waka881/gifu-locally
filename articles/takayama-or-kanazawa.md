@@ -36,6 +36,8 @@ Takayama's draw is its compact old town: the Sanmachi merchant quarter about 12 
 
 Kanazawa is a city whose best-known sights are a garden and its teahouse districts. **Kenrokuen** costs ¥320 for adults and opens 7:00–18:00 from March 1 to October 15 and 8:00–17:00 from October 16 to the end of February, with free early entry through two gates ([Kenrokuen](https://shiro-niwa.pref.ishikawa.lg.jp/kenrokuen-garden/e/info.html)). The **Higashi Chaya district**, a former teahouse quarter designated an Important Preservation District for Groups of Traditional Buildings, is about 7 minutes by bus from Kanazawa Station; Visit Kanazawa also says the city has a 99% share of Japan's gold leaf market ([Visit Kanazawa](https://visitkanazawa.jp/en/higashi)).
 
+Unsure about Takayama itself? See [Is Takayama worth visiting?](is-takayama-worth-visiting.html)
+
 ## Which should you choose?
 
 - **Choose Takayama** if you want a small, walkable town, a morning market, sake and Hida beef, onsen nearby, or are coming from Nagoya.

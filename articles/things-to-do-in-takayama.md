@@ -67,6 +67,8 @@ Takayama is a mountain town in northern Gifu with a preserved merchant quarter, 
 
 Riding the ropeway and buses in Okuhida? Nohi Bus's [Okuhida bus passes](okuhida-bus-pass.html) combine them. In winter, see [Takayama in winter](takayama-in-winter.html) and [skiing near Nagoya](skiing-near-nagoya.html).
 
+Still deciding whether to go? See [Is Takayama worth visiting?](is-takayama-worth-visiting.html)
+
 ## How many days do you need for Takayama?
 
 Two days suits most first visits: one for the old town and one for a morning market and Shirakawa-go. See [How many days in Takayama?](how-many-days-in-takayama.html) and our [Takayama 2-day itinerary](takayama-2-day-itinerary.html). Getting there: [from Nagoya](takayama-from-nagoya.html), [from Tokyo](tokyo-to-takayama.html), [from Osaka or Kyoto](osaka-kyoto-to-takayama.html) or [from Matsumoto](matsumoto-to-takayama.html).
