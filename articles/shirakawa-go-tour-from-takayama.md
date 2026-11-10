@@ -1,7 +1,7 @@
 ---
 title: "Shirakawa-go Tour from Takayama or the Bus on Your Own: Which Is Better?"
-description: "Should you book a Shirakawa-go day tour from Takayama or take the Nohi Bus yourself? Compare the guided Takayama & Shirakawa-go tour on Klook (about 9–9.5 hours, English guide, from US$149) with the 50-minute bus (¥2,800, ¥2,900 from December 1, 2026)."
-summary: Take the Nohi Bus on your own if you want the cheapest trip and can book reserved seats (about 50 minutes, ¥2,800 one way, ¥2,900 from December 1, 2026); book the guided Takayama & Shirakawa-go One Day Tour from Takayama on Klook (about 9 hours 10–40 minutes, English-speaking guide, from US$149.40, minimum 2 people, as listed in November 2026) if you want Takayama Jinya, the old town and Shirakawa-go in one guided day without planning buses.
+description: "Should you book a Shirakawa-go day tour from Takayama or take the Nohi Bus yourself? Compare the guided Takayama & Shirakawa-go tour on Klook (about 9–9.5 hours, English guide, from about US$150–172) with the 50-minute bus (¥2,800, ¥2,900 from December 1, 2026)."
+summary: Take the Nohi Bus on your own if you want the cheapest trip and can book reserved seats (about 50 minutes, ¥2,800 one way, ¥2,900 from December 1, 2026); book the guided Takayama & Shirakawa-go One Day Tour from Takayama on Klook (about 9 hours 10–40 minutes, English-speaking guide, from US$171.95, minimum 2 people, as listed on November 11, 2026) if you want Takayama Jinya, the old town and Shirakawa-go in one guided day without planning buses.
 status: 公開
 facts_checked: 2026-11-10
 cta: https://www.klook.com/activity/91141-takayama-shirakawa-go-one-day-bus-tour-takayama/|Takayama & Shirakawa-go guided day tour|English-speaking guide, Takayama Jinya, the old town and Shirakawa-go in one day. Check dates and price on Klook.|See tour
@@ -19,7 +19,7 @@ Shirakawa-go is only about 50 minutes from Takayama by bus, so many travellers g
 
 | | Nohi Bus on your own | Guided day tour from Takayama (Klook) |
 |---|---|---|
-| Price | ¥2,800 each way (¥2,900 from Dec 1, 2026) | From US$149.40 per person; minimum 2 travellers |
+| Price | ¥2,800 each way (¥2,900 from Dec 1, 2026) | From US$171.95 per person; minimum 2 travellers |
 | Time | About 50 min each way; your own pace | About 9 h 10–40 min in total |
 | What you see | Shirakawa-go (add Takayama sights yourself) | Takayama Jinya, Takayama old town, Miyagawa Morning Market, lunch break, Shirakawa-go lookout and gassho-zukuri houses |
 | Guide | None | English-speaking guide |
@@ -33,7 +33,7 @@ Nohi Bus lists ¥2,800 one way between the Takayama Bus Terminal and Shirakawa-g
 
 ## What does the guided tour from Takayama include?
 
-The Klook listing for the Takayama & Shirakawa-go One Day Tour from Takayama gives a duration of about 9 hours 10–40 minutes, an English-speaking guide, and an itinerary of Takayama Jinya, Takayama old town and the Miyagawa Morning Market, a lunch break, then Shirakawa-go's lookout and gassho-zukuri houses ([Klook](https://www.klook.com/activity/91141-takayama-shirakawa-go-one-day-bus-tour-takayama/), as of November 2026). Prices start from US$149.40, and the Takayama Station package needs at least 2 travellers. The listing doesn't say whether lunch is included, so check before you book.
+The Klook listing for the Takayama & Shirakawa-go One Day Tour from Takayama gives a duration of about 9 hours 10–40 minutes, an English-speaking guide, and an itinerary of Takayama Jinya, Takayama old town and the Miyagawa Morning Market, a lunch break, then Shirakawa-go's lookout and gassho-zukuri houses ([Klook](https://www.klook.com/activity/91141-takayama-shirakawa-go-one-day-bus-tour-takayama/), as of November 2026). Prices started from US$171.95 when we checked on November 11, 2026 (US$149.40 a day earlier, so the price varies), and the Takayama Station package needs at least 2 travellers. The listing doesn't say whether lunch is included, so check before you book.
 
 [[cta|https://www.klook.com/activity/91141-takayama-shirakawa-go-one-day-bus-tour-takayama/|Book the Takayama & Shirakawa-go tour|Guided day from Takayama with Takayama Jinya and Shirakawa-go. Check dates and price on Klook.|See tour]]
 

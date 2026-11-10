@@ -48,7 +48,7 @@ One night lets you see the town on day 1 and add a morning market and Shirakawa-
 - **Morning markets:** the Miyagawa and Jinya-mae markets open 7:00–12:00 from April to November and 8:00–12:00 from December to March ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html), as of October 2026).
 - **Shirakawa-go:** about 50 minutes by bus from the Takayama Nohi Bus Center, ¥2,800 one way (¥2,900 from December 1, 2026), with the last bus back at 17:30 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), checked November 2026). The Tourist Association estimates 2–3 hours to walk around the village ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)).
 
-Our [Takayama 2-day itinerary](takayama-2-day-itinerary.html) has an hour-by-hour plan, and [Takayama to Shirakawa-go](takayama-to-shirakawa-go.html) lists every bus.
+Our [one day in Takayama](one-day-in-takayama.html) plan covers a single day, our [Takayama 2-day itinerary](takayama-2-day-itinerary.html) has an hour-by-hour plan, and [Takayama to Shirakawa-go](takayama-to-shirakawa-go.html) lists every bus.
 
 ## What can you add with a third day?
 

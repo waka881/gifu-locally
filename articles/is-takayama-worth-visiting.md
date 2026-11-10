@@ -65,7 +65,7 @@ For most first-time visitors to central Japan, yes: a walkable old town, morning
 
 ### Is one day enough in Takayama?
 
-One full day covers the old town, a morning market and Takayama Jinya; stay a second night to add Shirakawa-go. See [how many days in Takayama](how-many-days-in-takayama.html).
+One full day covers the old town, a morning market and Takayama Jinya; stay a second night to add Shirakawa-go. See [one day in Takayama](one-day-in-takayama.html) and [how many days in Takayama](how-many-days-in-takayama.html).
 
 ### Is Takayama better than Kanazawa?
 

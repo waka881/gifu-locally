@@ -45,7 +45,7 @@ After the Jinya-mae market, Takayama Jinya opens at 8:45 right behind it; see ou
 
 ## Can you see the morning market on a day trip from Nagoya?
 
-Not easily. The Limited Express Hida takes about 2 hours 20 minutes from Nagoya ([JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/)), and the markets close at noon. The simple answer is to stay one night: arrive in the afternoon, see Sanmachi and Takayama Jinya, and do the markets the next morning before a bus to Shirakawa-go. Our [Takayama 2-day itinerary](takayama-2-day-itinerary.html) and [How many days in Takayama?](how-many-days-in-takayama.html) are built around this.
+Not easily. The Limited Express Hida takes about 2 hours 20 minutes from Nagoya ([JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/)), and the markets close at noon. The simple answer is to stay one night: arrive in the afternoon, see Sanmachi and Takayama Jinya, and do the markets the next morning before a bus to Shirakawa-go. Our [one day in Takayama](one-day-in-takayama.html) plan, [Takayama 2-day itinerary](takayama-2-day-itinerary.html) and [How many days in Takayama?](how-many-days-in-takayama.html) are built around this.
 
 **Where to stay:** both markets are within walking distance of the station area, and the station is where buses leave for Shirakawa-go and Okuhida. See [where to stay in Takayama](where-to-stay-takayama.html). Since October 1, 2025, Takayama adds an accommodation tax of ¥100–¥300 per person per night ([Takayama City](https://www.city.takayama.lg.jp/shisei/1000061/1022608/1022609.html)).
 

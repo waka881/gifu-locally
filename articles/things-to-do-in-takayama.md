@@ -91,7 +91,7 @@ It is the town's main historic building and costs ¥500 (free for 18 and under);
 
 ### What can I do in Takayama in one day?
 
-Walk Sanmachi, visit Takayama Jinya and either Hida Folk Village or a sake brewery; the morning markets close at noon, so a day trip from Nagoya usually misses them. See [How many days in Takayama?](how-many-days-in-takayama.html)
+Walk Sanmachi, visit Takayama Jinya and either Hida Folk Village or a sake brewery; the morning markets close at noon, so a day trip from Nagoya usually misses them. See [How many days in Takayama?](how-many-days-in-takayama.html) and our [one day in Takayama](one-day-in-takayama.html) plan
 
 ### What is the best day trip from Takayama?
 
