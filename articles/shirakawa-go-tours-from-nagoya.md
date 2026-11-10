@@ -71,7 +71,7 @@ Yes. The highway bus takes about 2 hours 50 minutes from Nagoya Station ([Shirak
 
 ### How much is a Shirakawa-go tour from Nagoya?
 
-Day tours on Klook listed prices from about US$45–50 per person in October 2026, with lunch extra on most tours. Prices change daily, so check the tour page for your date.
+Day tours on Klook listed prices from about US$45–50 per person in October 2026, with lunch extra on most tours. On November 11, 2026, the Hida beef lunch tour showed US$31.75 with a promotion (US$63.49 before the discount). Prices change daily, so check the tour page for your date.
 
 ### Is a tour better than the bus to Shirakawa-go?
 
