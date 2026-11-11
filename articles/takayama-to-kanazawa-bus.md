@@ -84,7 +84,7 @@ Nohi Bus warns that delays of two hours or more can happen on this line, caused 
 
 **Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
-Still deciding where to spend more time? See [Takayama or Kanazawa?](takayama-or-kanazawa.html)
+Still deciding where to spend more time? See [Takayama or Kanazawa?](takayama-or-kanazawa.html) Based in Kanazawa? See [Takayama day trip from Kanazawa](takayama-day-trip-from-kanazawa.html).
 
 ## FAQ
 

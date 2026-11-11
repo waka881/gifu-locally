@@ -68,6 +68,8 @@ Short on time and staying in Kanazawa? A [day trip to Shirakawa-go from Kanazawa
 
 **Before you go:** you'll rely on your phone for bus reservations and maps across both cities. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Staying in Kanazawa and short on time? Takayama works as a long day trip by bus; see [Takayama day trip from Kanazawa](takayama-day-trip-from-kanazawa.html).
+
 ## FAQ
 
 ### Is Takayama or Kanazawa better?
