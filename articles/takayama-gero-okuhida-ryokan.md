@@ -3,7 +3,7 @@ title: "Takayama, Gero or Okuhida: Where to Stay for a Ryokan and Onsen Night"
 description: "Choosing where to stay for a hot spring night in Gifu: Takayama for sightseeing, Gero Onsen for an easy onsen town on the Hida line, or Okuhida for mountain open-air baths. Access, water, costs and Takayama's accommodation tax."
 summary: Stay in Gero Onsen if you want a walkable hot spring town with about 50 ryokan and hotels and a direct train from Nagoya; stay in Okuhida if you want open-air baths with Northern Alps views and are going to the Shinhotaka Ropeway or Kamikochi; and stay in Takayama if sightseeing and bus connections matter more than the bath. Takayama City, which includes Okuhida, adds an accommodation tax of ¥100–¥300 per person per night.
 status: 公開
-facts_checked: 2026-10-24
+facts_checked: 2026-11-12
 cta: https://www.klook.com/en-US/destination/p60271486-gero-onsen/3-hotel/|Compare ryokan in Gero Onsen|Hot spring inns along the Hida River, a direct train ride from Nagoya. Check prices and availability on Klook.|See stays
 image: Hida River and Gero Onsen from Mutsumi Bridge.jpg
 image_alt: Gero Onsen and the Hida River seen from Mutsumi Bridge
@@ -27,11 +27,11 @@ A night in a ryokan with its own hot spring bath is one of the highlights of a t
 | Nearby | Morning markets, Sanmachi, Shirakawa-go | Gassho Village, public baths from ¥470 | Shinhotaka Ropeway, Kamikochi (in season) |
 | Accommodation tax | ¥100–¥300 per person per night | — | ¥100–¥300 (Okuhida is in Takayama City) |
 
-*Sources: [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/); [Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya); [Gifu Prefecture tourism](https://www.kankou-gifu.jp/article/detail_9.html); [Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/); [Okuhida tourism association](https://www.okuhida.or.jp/en/); [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shinhotaka-line-en/); [Takayama City](https://www.city.takayama.lg.jp/shisei/1000061/1022608/1022609.html), as of October 2026.*
+*Sources: [JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/); [Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya); [Gifu Prefecture tourism](https://www.kankou-gifu.jp/article/detail_9.html); [Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/); [Okuhida tourism association](https://www.okuhida.or.jp/en/); [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shinhotaka-line-en/); [Takayama City](https://www.city.takayama.lg.jp/shisei/1000061/1022608/1022609.html), as of November 2026.*
 
 ## Why stay in Gero Onsen?
 
-Gero is a single, compact hot spring town. The Gifu Prefecture tourism site says about 50 ryokan and hotels line the Hida River and counts nine foot baths around town ([Gifu Prefecture tourism](https://www.kankou-gifu.jp/article/detail_9.html), as of October 2026). The tourism association describes the water as an alkaline simple spring with a pH of 9.2 ([Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/)).
+Gero is a single, compact hot spring town. The Gifu Prefecture tourism site says about 50 ryokan and hotels line the Hida River and counts nine foot baths around town ([Gifu Prefecture tourism](https://www.kankou-gifu.jp/article/detail_9.html), as of November 2026). The tourism association describes the water as an alkaline simple spring with a pH of 9.2 ([Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/)).
 
 It is the easiest to reach: the Limited Express Hida runs direct from Nagoya, about 1 hour 30–40 minutes ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya)), and it is about 45–60 minutes by train from Takayama ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). Even before check-in you can use public baths such as Shirasagi-no-yu (¥470 for adults), about 7 minutes from the station ([Gero Onsen Tourism Association](https://www.gero-spa.com/spot/detail_3.html)).
 
@@ -41,7 +41,7 @@ It is the easiest to reach: the Limited Express Hida runs direct from Nagoya, ab
 
 For a village-by-village comparison, see [where to stay in Okuhida](where-to-stay-okuhida.html).
 
-Hida Takayama Tourism describes Okuhida Onsen-go as five hot spring areas ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/4000207.html), as of October 2026):
+Hida Takayama Tourism describes Okuhida Onsen-go as five hot spring areas ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/4000207.html), as of November 2026):
 
 | Area | How the tourism site describes it |
 |---|---|
@@ -67,7 +67,7 @@ Takayama is about the location, not the bath. The Nohi Bus Center next to JR Tak
 
 ## What is Takayama's accommodation tax?
 
-Since October 1, 2025, Takayama City charges an accommodation tax per person per night: ¥100 when the room charge is under ¥10,000, ¥200 from ¥10,000 to under ¥30,000, and ¥300 from ¥30,000. The room charge excludes meals and consumption tax. Children are exempt up to the first March 31 after their 12th birthday ([Takayama City](https://www.city.takayama.lg.jp/shisei/1000061/1022608/1022609.html); [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4001680.html), as of October 2026). The tax applies to lodging in the city, and Okuhida Onsen-go is part of Takayama City. How you pay varies: some inns add it to an advance payment, others collect it on site.
+Since October 1, 2025, Takayama City charges an accommodation tax per person per night: ¥100 when the room charge is under ¥10,000, ¥200 from ¥10,000 to under ¥30,000, and ¥300 from ¥30,000. The room charge excludes meals and consumption tax. Children are exempt up to the first March 31 after their 12th birthday ([Takayama City](https://www.city.takayama.lg.jp/shisei/1000061/1022608/1022609.html); [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4001680.html), as of November 2026). The tax applies to lodging in the city, and Okuhida Onsen-go is part of Takayama City. How you pay varies: some inns add it to an advance payment, others collect it on site.
 
 ## Can you combine them?
 
@@ -75,13 +75,13 @@ Yes, and on a longer trip that is often the best answer: Gero on the way up from
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Staying in Takayama?|Compare hotels near JR Takayama Station, next to the buses for Shirakawa-go and Okuhida, on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 
 ### Is Takayama or Gero better for an onsen ryokan?
 
-Gero is the hot spring town: about 50 ryokan and hotels along the Hida River, an alkaline simple spring and public baths from ¥470. Takayama is better for sightseeing and bus connections ([Gifu Prefecture tourism](https://www.kankou-gifu.jp/article/detail_9.html); [Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/), as of October 2026).
+Gero is the hot spring town: about 50 ryokan and hotels along the Hida River, an alkaline simple spring and public baths from ¥470. Takayama is better for sightseeing and bus connections ([Gifu Prefecture tourism](https://www.kankou-gifu.jp/article/detail_9.html); [Gero Onsen Tourism Association](https://www.gero-spa.com/onsen/), as of November 2026).
 
 ### Is Okuhida worth staying in?
 
@@ -93,7 +93,7 @@ Yes, if open-air baths with mountain views are the point of your trip. Okuhida h
 
 ### How do I get from Takayama to Okuhida?
 
-By Nohi Bus from the Takayama Nohi Bus Center: about 58 minutes to Hirayu Onsen (¥1,600) or about 1 hour 35–45 minutes to the Shinhotaka Ropeway (¥2,200) ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shinhotaka-line-en/), as of October 2026).
+By Nohi Bus from the Takayama Nohi Bus Center: about 58 minutes to Hirayu Onsen (¥1,600) or about 1 hour 35–45 minutes to the Shinhotaka Ropeway (¥2,200) ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shinhotaka-line-en/), as of November 2026).
 
 ---
-*Prices, timetables and tax rules change. Check official sources before you book. Facts last checked: 2026-10-24.*
+*Prices, timetables and tax rules change. Check official sources before you book. Facts last checked: 2026-11-12.*

@@ -87,6 +87,8 @@ Yes. The same line continues from Shirakawa-go to Takayama in about 50 minutes f
 
 Coming from Tokyo? See [Tokyo to Shirakawa-go](tokyo-to-shirakawa-go.html). Deciding between a Kanazawa base and a Takayama base? See [Takayama or Kanazawa?](takayama-or-kanazawa.html), or visit Takayama for the day with our [Takayama day trip from Kanazawa](takayama-day-trip-from-kanazawa.html) guide.
 
+Not sure whether to base yourself in Kanazawa or Takayama? See [where to stay for Shirakawa-go](where-to-stay-for-shirakawa-go.html).
+
 ## FAQ
 
 ### How long is the bus from Kanazawa to Shirakawa-go?
