@@ -1,6 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
+    "takayama-festival-floats-exhibition-hall": "Takayama Yatai Kaikan float",
     "where-to-stay-for-shirakawa-go": "Shirakawa-go Ogimachi gassho house",
     "takayama-day-trip-from-kanazawa": "Takayama Gifu old town",
     "one-day-in-takayama": "Miyagawa morning market Takayama",
