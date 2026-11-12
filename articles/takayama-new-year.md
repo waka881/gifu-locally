@@ -1,7 +1,7 @@
 ---
 title: "Takayama at New Year 2026–27: What's Open and Closed, Buses and Where to Stay"
 description: "Visiting Takayama between Christmas and early January: Takayama Jinya is closed December 29 to January 3, while the morning markets run all year and the Festival Floats Exhibition Hall lists daily opening. Bus changes over New Year, nearby closures and New Year events in Seki and Shirakawa-go."
-summary: Takayama is worth visiting over New Year, but plan around one big closure: Takayama Jinya shuts from December 29 to January 3, while the Miyagawa and Jinya-mae morning markets are listed as open all year (8:00–12:00 in winter, with fewer stalls), the Takayama Festival Floats Exhibition Hall lists daily opening (9:00–16:30 in winter, ¥900), and Hida Folk Village opens 8:30–17:00; some Takayama–Shirakawa-go buses don't run from December 29 to January 3, so book seats early and confirm holiday hours.
+summary: Takayama is worth visiting over New Year, but plan around one big closure: Takayama Jinya shuts from December 29 to January 3, while the Miyagawa and Jinya-mae morning markets are listed as open all year (8:00–12:00 in winter, with fewer stalls), the Takayama Festival Floats Exhibition Hall lists daily opening (9:00–16:30 in winter, ¥1,000 on the Gifu Prefecture tourism site), and Hida Folk Village opens 8:30–17:00; some Takayama–Shirakawa-go buses don't run from December 29 to January 3, so book seats early and confirm holiday hours.
 status: 公開
 facts_checked: 2026-11-01
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book Takayama for New Year early|Rooms near JR Takayama Station for the year-end holidays. Compare prices and availability on Klook.|See stays
@@ -21,7 +21,7 @@ The year-end holidays (roughly December 29 to January 3) are a popular time to t
 |---|---|---|---|
 | Takayama Jinya | **Closed December 29–January 3** | 8:45–16:30 (Nov–Mar) | ¥500 |
 | Miyagawa and Jinya-mae morning markets | Listed as open all year | 8:00–12:00 (Dec–Mar) | Free |
-| Takayama Festival Floats Exhibition Hall | Listed as open daily; call to confirm holiday hours | 9:00–16:30 (Dec–Feb) | ¥900 |
+| Takayama Festival Floats Exhibition Hall | Listed as open daily; call to confirm holiday hours | 9:00–16:30 (Dec–Feb) | ¥1,000 (¥900 on some pages) |
 | Hida Folk Village | No closed days listed | 8:30–17:00 | ¥700 |
 | Hida Furukawa Festival Hall | **Closed December 28–January 2** | 9:00–16:30 (Dec–Feb) | ¥500 |
 

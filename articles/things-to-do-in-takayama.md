@@ -25,7 +25,7 @@ Takayama is a mountain town in northern Gifu with a preserved merchant quarter, 
 | 4 | Hida Folk Village | ¥700 | 8:30–17:00 daily | [Hida Folk Village](hida-folk-village.html) |
 | 5 | Sake brewery tasting | Varies; guided tasting from about US$46 | Brewery hours vary | [Sake breweries](takayama-sake-breweries.html) |
 | 6 | Eat Hida beef | Varies | Street food and restaurants | [Hida beef](hida-beef-takayama.html) |
-| 7 | Festival Floats Exhibition Hall | ¥900 | 9:00–16:30 Dec–Feb | [Takayama Festival](takayama-festival.html) |
+| 7 | Festival Floats Exhibition Hall | ¥1,000 | 9:00–16:30 Dec–Feb | [Floats Exhibition Hall](takayama-festival-floats-exhibition-hall.html) |
 | 8 | Takayama Festival (April 14–15, October 9–10) | Free to watch | Fixed dates | [Takayama Festival](takayama-festival.html) |
 
 *Sources: [Takayama Jinya](https://jinya.gifu.jp/en/guide/info/); [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html); [Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Floats Exhibition Hall](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html); [JNTO, sake breweries](https://www.japan.travel/en/spot/153/); [Klook](https://www.klook.com/activity/35490-sake-brewery-tour-takayama/), as of November 2026. Details and more sources in each linked guide.*

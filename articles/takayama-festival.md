@@ -50,7 +50,7 @@ The Autumn Festival (Hachiman Matsuri) is held on **October 9–10** for Sakuray
 
 ## Can you see the floats on other days?
 
-Yes. The **Takayama Festival Floats Exhibition Hall** shows floats from the autumn festival: four of the 11 are on display at a time, rotated in March, July and November. It is open daily, 9:00–17:00 from March to November and 9:00–16:30 from December to February; adult admission is ¥900; about 20 minutes on foot from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html), as of October 2026).
+Yes. The **Takayama Festival Floats Exhibition Hall** shows floats from the autumn festival: four of the 11 are on display at a time, rotated in March, July and November. It is open daily, 9:00–17:00 from March to November and 9:00–16:30 from December to February; adult admission is ¥1,000 on the [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/spot/detail_1244.html) (¥900 on Hida Takayama Tourism's English page); about 20 minutes on foot from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html), as of October 2026).
 
 ## Where should you stay for the Takayama Festival?
 
@@ -72,6 +72,8 @@ From Hida Takayama Tourism's festival page (as of October 2026):
 
 **Before you go:** you'll rely on your phone for live festival updates, train times and maps. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
+More on tickets and hours: [Takayama Festival Floats Exhibition Hall](takayama-festival-floats-exhibition-hall.html).
+
 ## FAQ
 
 ### When is the Takayama Festival in 2027?
@@ -88,7 +90,7 @@ The procession, float display, puppet show and night festival are cancelled and 
 
 ### Can I see the Takayama Festival floats outside festival days?
 
-Yes, at the Takayama Festival Floats Exhibition Hall, open daily, ¥900 for adults, with four autumn-festival floats on display at a time ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html)).
+Yes, at the Takayama Festival Floats Exhibition Hall, open daily, ¥1,000 for adults on the Gifu Prefecture tourism site (¥900 on Hida Takayama Tourism's page), with four autumn-festival floats on display at a time ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html)).
 
 ---
 *Festival schedules change and depend on the weather. Check Hida Takayama Tourism before you go. Facts last checked: 2026-10-27.*
