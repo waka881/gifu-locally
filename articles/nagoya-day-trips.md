@@ -125,6 +125,8 @@ Not sure where to start? For a first visit with little planning, Gifu City is th
 
 **Shirakawa-go by tour:** see our comparison of [Shirakawa-go day tours from Nagoya](shirakawa-go-tours-from-nagoya.html).
 
+Thinking of sleeping in Gifu City instead of Nagoya? Compare them in [Nagoya or Gifu City as a base](nagoya-or-gifu-city-base.html).
+
 ## FAQ
 
 ### What is a good first day trip from Nagoya to Gifu?
