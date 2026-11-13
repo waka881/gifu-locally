@@ -129,6 +129,8 @@ Continuing to Takayama? Klook sells a [2-day Takayama–Gero Onsen bus ticket](h
 
 **Still deciding?** See [Is Gero Onsen worth visiting?](is-gero-onsen-worth-visiting.html) for costs and how long to stay.
 
+Visiting the thatched farmhouse museum on the hill? See [Gero Onsen Gassho Village](gero-onsen-gassho-village.html) for tickets, hours and the bus.
+
 ## FAQ
 
 ### How much is the train from Nagoya to Gero Onsen?

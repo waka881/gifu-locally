@@ -67,6 +67,8 @@ Gero is the easier, more walkable onsen town with a train station; Okuhida is a 
 
 **Before you go:** you'll rely on your phone for train times and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
 
+Visiting the thatched farmhouse museum on the hill? See [Gero Onsen Gassho Village](gero-onsen-gassho-village.html) for tickets, hours and the bus.
+
 ## FAQ
 
 ### Is Gero Onsen worth a day trip from Nagoya?
