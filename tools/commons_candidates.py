@@ -1,7 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
-    "gero-onsen-gassho-village": "Gero Onsen Gassho Village",
+    "gero-onsen-gassho-village": "下呂温泉合掌村",
     "nagoya-or-gifu-city-base": "Gifu city view from Mount Kinka",
     "takayama-festival-floats-exhibition-hall": "Takayama Yatai Kaikan float",
     "where-to-stay-for-shirakawa-go": "Shirakawa-go Ogimachi gassho house",
