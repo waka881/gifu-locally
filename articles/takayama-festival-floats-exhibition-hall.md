@@ -53,6 +53,8 @@ Klook lists the Shirakawago & Takayama Full Day Tour from Kanazawa, which includ
 
 **Before you go:** you'll rely on your phone for maps around town. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Another old-town museum to pair with the floats hall: the [Kusakabe Folk Museum](kusakabe-folk-museum.html).
+
 ## FAQ
 
 ### How much is the Takayama Festival Floats Exhibition Hall?

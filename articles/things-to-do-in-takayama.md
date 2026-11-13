@@ -79,6 +79,8 @@ For areas to stay, see [where to stay in Takayama](where-to-stay-takayama.html).
 
 **Before you go:** you'll rely on your phone for bus times, maps and translation. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Want to step inside a merchant house? See the [Kusakabe Folk Museum](kusakabe-folk-museum.html).
+
 ## FAQ
 
 ### What is Takayama best known for?
