@@ -1,7 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
-    "gifu-castle": "Gifu Castle Kinka ropeway",
+    "gifu-castle": "金華山ロープウェー",
     "kusakabe-folk-museum": "Kusakabe House Takayama",
     "gero-onsen-gassho-village": "下呂温泉合掌村",
     "nagoya-or-gifu-city-base": "Gifu city view from Mount Kinka",
