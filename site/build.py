@@ -271,11 +271,12 @@ commission at no extra cost to you. We only link to things we think are useful f
     # デザイン済みピンがある記事は除く（PinterestのRSS自動投稿で重複させないため）
     pinned = {x["slug"] for x in json.loads((ROOT / "social" / "pins" / "pins.json").read_text())} if (ROOT / "social" / "pins" / "pins.json").exists() else set()
     for p in sorted([q for q in posts if q["is_public"] and q["slug"] not in pinned], key=pub, reverse=True):
-        u, img = f"{BASE}{p['slug']}.html", image_url(p, 1000)
+        # Commons画像はリダイレクトでPinterestが読めないため、自サイトで配信するピンPNGを使う（2026-11-14 Pinterestから「画像なし」通知）
+        u, img = f"{BASE}{p['slug']}.html", (f"{BASE}pins/{p['slug']}.png" if p.get("image") else "")
         e = html.escape
         items += (f"<item><title>{e(p['title'])}</title><link>{u}</link><guid>{u}</guid>"
                   f"<pubDate>{format_datetime(pub(p))}</pubDate><description>{e(p.get('description', ''))}</description>"
-                  + (f'<media:content url="{e(img)}" medium="image"/><enclosure url="{e(img)}" type="image/jpeg" length="0"/>' if img else "")
+                  + (f'<media:content url="{e(img)}" medium="image"/><enclosure url="{e(img)}" type="image/png" length="0"/>' if img else "")
                   + "</item>")
     (OUT / "feed.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">'
                                   f"<channel><title>{SITE_NAME}</title><link>{BASE}</link><description>{TAGLINE}</description><language>en</language>"
