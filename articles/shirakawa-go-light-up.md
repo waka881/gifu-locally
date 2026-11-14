@@ -3,8 +3,8 @@ title: "Shirakawa-go Light-Up 2027: Dates, Reservations and How to Get There"
 description: "Shirakawa-go winter light-up 2027 runs Jan 11, 17, 24 and 31. Reservation rules, Nohi Bus tours from Takayama, and routes from Nagoya."
 summary: The 41st Shirakawa-go Light-Up takes place on January 11, 17, 24 and 31, 2027, lit 5:30–7:30 pm, and you must reserve in advance. You can book a Nohi Bus light-up tour from Takayama (from 13,000 yen), a lottery-allocated inn stay, or a parking slot, and the observation deck needs a pre-booked ticket.
 status: 公開
-facts_checked: 2026-10-26
-cta: https://www.klook.com/en-US/activity/233458-nagoya-shirakawa-go-winter-illumination-day-tour/|2027 light-up tour from Nagoya|Day tour on the 2027 light-up dates: Takayama old town, then about 5 hours in Shirakawa-go. Back in Nagoya around 22:30. Check dates and what's included on Klook.|Check dates
+facts_checked: 2026-11-15
+cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay in Takayama for the light-up|The Nohi Bus light-up tours leave from the Takayama Nohi Bus Center next to JR Takayama Station. Compare hotels nearby on Klook.|See stays
 image: Shirakawa Go (198622037).jpeg
 image_alt: Lit-up gassho-style houses in Shirakawa-go on a snowy night
 image_credit: Yoshiyuki Ito
@@ -26,7 +26,7 @@ The Shirakawa-go Tourist Association has confirmed the **41st Shirakawa-go Light
 | January 24, 2027 | Sunday |
 | January 31, 2027 | Sunday |
 
-The lights are on from **5:30 pm to 7:30 pm** ([Nohi Bus light-up tour page](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/), as of October 2026). The same four dates appear in Nohi Bus's [2027 schedule notice](https://www.nouhibus.co.jp/20260702-lu/).
+The lights are on from **5:30 pm to 7:30 pm** ([Nohi Bus light-up tour page](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/), as of November 2026). The same four dates appear in Nohi Bus's [2027 schedule notice](https://www.nouhibus.co.jp/20260702-lu/).
 
 The association published the schedule on July 1, 2026, and an event overview on September 2, 2026 ([announcements list](https://shirakawa-go.gr.jp/en/events/)). The final 2027 rules are on the [full 2027 overview page](https://shirakawa-go.gr.jp/en/events/142/), so read it before you book.
 
@@ -40,7 +40,7 @@ Expect the same approach in 2027, but check the [2027 overview](https://shirakaw
 
 ### 1. Nohi Bus light-up tour from Takayama (best for most visitors)
 
-Nohi Bus runs official light-up bus tours from the **Takayama Nohi Bus Center** on all four dates. There are three courses. All prices and times below come from the [Nohi Bus English page](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/), as of October 2026:
+Nohi Bus runs official light-up bus tours from the **Takayama Nohi Bus Center** on all four dates. There are three courses. All prices and times below come from the [Nohi Bus English page](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/), as of November 2026:
 
 | Course | Fare (adult or child 6–12) | Departs Takayama | Back in Takayama | Includes |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ Nohi Bus runs official light-up bus tours from the **Takayama Nohi Bus Center** 
 | B: Observation deck | 16,000 yen | 3:10 pm | 8:45 pm | Round-trip bus, Ogimachi Castle observation deck ticket, souvenir |
 | C: Hirase Onsen | 14,000 yen | 2:40 pm | 8:20 pm | Round-trip bus, Shiramizu-no-yu bath ticket with towel, souvenir |
 
-**Sales dates.** Sales open in stages at 2:00 pm (Japan time) ([Nohi Bus Japanese page](https://www.nouhibus.co.jp/shirakawa_lightup_2027/), as of October 2026):
+**Sales dates.** Sales open in stages at 2:00 pm (Japan time) ([Nohi Bus Japanese page](https://www.nouhibus.co.jp/shirakawa_lightup_2027/), as of November 2026):
 
 - January 11 tour: from October 13, 2026
 - January 17 tour: from October 19, 2026
 - January 24 tour: from October 26, 2026
 - January 31 tour: from November 2, 2026
 
-**Booking rules** (as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/)):
+**Booking rules** (as of November 2026, [Nohi Bus](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/)):
 
 - You can only book online, through the Japanese "Hassha Oline Net" site ([secure.j-bus.co.jp](https://secure.j-bus.co.jp/hon)). Phone bookings aren't accepted.
 - Each booking can include up to 6 people. You pay by credit card when you book.
@@ -66,7 +66,7 @@ Nohi Bus runs official light-up bus tours from the **Takayama Nohi Bus Center** 
 
 ### 2. Stay overnight in the village (lottery)
 
-Inns booked through the Tourist Association are allocated **by lottery**, not first come, first served. Applications opened on October 1, 2026 ([Tourist Association](https://shirakawa-go.gr.jp/en/), as of October 2026). Check the 2027 deadlines on the association's [lottery page](https://shirakawa-go.gr.jp/en/events/145/). For other nights, see [staying overnight in Shirakawa-go](shirakawa-go-overnight-stay.html).
+Inns booked through the Tourist Association are allocated **by lottery**, not first come, first served. Applications opened on October 1, 2026 ([Tourist Association](https://shirakawa-go.gr.jp/en/), as of October 2026). Check the 2027 deadlines on the association's [lottery page](https://shirakawa-go.gr.jp/en/events/145/). The association posted a notice about the lottery results on November 10, 2026 ([Tourist Association events](https://shirakawa-go.gr.jp/en/events/)). For other nights, see [staying overnight in Shirakawa-go](shirakawa-go-overnight-stay.html).
 
 Here is how it worked for the **2026 event** (Tourist Association, [published November 26, 2025](https://shirakawa-go.gr.jp/en/events/130/)):
 
@@ -85,19 +85,23 @@ Winter roads to Shirakawa-go can be snowy and icy. If you aren't used to driving
 
 Some travel companies sell light-up packages, including day tours from Nagoya. Before you buy one, check that it includes the light-up entry and, if you want it, an observation deck ticket.
 
-Light-up tours from Nagoya listed on Klook, checked October 26, 2026:
+Light-up tours from Nagoya listed on Klook, checked November 15, 2026:
 
 | Tour (Klook) | Status | Duration | What the listing states |
 |---|---|---|---|
-| [2027 Shirakawa-go Winter Illumination & Hida Takayama Tour](https://www.klook.com/en-US/activity/233458-nagoya-shirakawa-go-winter-illumination-day-tour/) | Bookable; next date January 11, 2027 | 13.5 h (9:00–22:30) | Meets near Nagoya Station West Exit; about 1.5 h guided walk in Takayama, then about 5 h in Shirakawa-go; English, Chinese and Japanese guides; full refund if cancelled at least 60 days before; meals not included; listed from US$181.85 |
-| [Takayama Old Town + Shirakawa-go Illumination](https://www.klook.com/en-US/activity/175324-shirakawa-go-light-up-2026-day-tour-nagoya-departure-via-takayama/) | No dates showing | 10 h | Small group of about 9; observation deck excluded; Chinese-speaking guide |
-| [Shirakawa-go Winter Light-Up and Hida Takayama Day Trip](https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/) | Currently unavailable | 12 h 25 min | Departs Meitetsu Bus Center; dinner plan options |
+| [2027 Shirakawa-go Winter Illumination & Hida Takayama Tour](https://www.klook.com/en-US/activity/233458-nagoya-shirakawa-go-winter-illumination-day-tour/) | Currently unavailable (bookable on October 26) | 13.5 h (9:00–22:30) | Meets near Nagoya Station West Exit; about 1.5 h guided walk in Takayama, then about 5 h in Shirakawa-go |
+| [Takayama Old Town + Shirakawa-go Illumination](https://www.klook.com/en-US/activity/175324-shirakawa-go-light-up-2026-day-tour-nagoya-departure-via-takayama/) | Lists the 2027 dates, but no bookable options were showing | 10 h | Small group of about 9; observation deck excluded; Chinese-speaking guide; listed at US$146.65 |
+| [Shirakawa-go Winter Light-Up and Hida Takayama Day Trip](https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/) | No dates showing | 12 h 25 min | Departs Meitetsu Bus Center; dinner plan options; listed at US$164.35 |
 
-*Source: each tour's Klook page, checked October 26, 2026. None of these listings says it includes the observation deck. The first listing doesn't say whether light-up entry is arranged, so ask the operator before you book.*
+*Source: each tour's Klook page, checked November 15, 2026. None of these listings says it includes the observation deck. Availability changes, so check the listing for your date.*
+
+If no light-up date works, Klook also lists a [Shirakawa-go and Hida Folk Village Winter Illumination Tour](https://www.klook.com/activity/193435-shirakawa-go-hida-folk-village-winter-illumination-tour/) from Nagoya. It is not the Shirakawa-go light-up: you see Shirakawa-go and Takayama's old town by day, then the Hida Folk Village winter illumination (January 9–February 28, 2027, 17:30–20:30). It is 10 hours (10:00–20:00), from US$65.19, with a Chinese- and Japanese-speaking host and free cancellation up to 48 hours before; next date January 9, 2027 ([Klook](https://www.klook.com/activity/193435-shirakawa-go-hida-folk-village-winter-illumination-tour/), as of November 15, 2026).
+
+[[cta|https://www.klook.com/activity/193435-shirakawa-go-hida-folk-village-winter-illumination-tour/|Winter illumination day from Nagoya|Shirakawa-go by day, then Hida Folk Village lit up at night (Jan 9–Feb 28, 2027). Check dates on Klook.|Check dates]]
 
 ## The observation deck: book it in advance
 
-The well-known overhead view comes from the **Ogimachi Castle Ruins observation deck**. According to Nohi Bus (as of October 2026, [source](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/)):
+The well-known overhead view comes from the **Ogimachi Castle Ruins observation deck**. According to Nohi Bus (as of November 2026, [source](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/)):
 
 - Entry is strictly controlled, and **tickets are not sold on site**.
 - You walk up from the village, about 20 minutes each way, on roads that can be slippery with snow.
@@ -137,7 +141,7 @@ There's no official Nohi light-up tour leaving from Nagoya, since its tours star
 
 ### When is the Shirakawa-go light-up in 2027?
 
-It takes place on January 11 (a national holiday), 17, 24 and 31, 2027, with lights on from 5:30 to 7:30 pm, according to the [Tourist Association](https://shirakawa-go.gr.jp/en/) and [Nohi Bus](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/), as of October 2026.
+It takes place on January 11 (a national holiday), 17, 24 and 31, 2027, with lights on from 5:30 to 7:30 pm, according to the [Tourist Association](https://shirakawa-go.gr.jp/en/) and [Nohi Bus](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/), as of November 2026.
 
 ### Can I go to the light-up without a reservation?
 
@@ -145,7 +149,7 @@ Probably not. For 2026, the organisers didn't allow same-day entry without a res
 
 ### How do I get an observation deck ticket?
 
-Tickets aren't sold on site. In 2027 you can get one through Nohi Bus Course B (16,000 yen as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/)). In 2026, inn stays booked through the Tourist Association also included one.
+Tickets aren't sold on site. In 2027 you can get one through Nohi Bus Course B (16,000 yen as of November 2026, [Nohi Bus](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/)). In 2026, inn stays booked through the Tourist Association also included one.
 
 ### Is there a light-up tour from Nagoya?
 

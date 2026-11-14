@@ -56,6 +56,8 @@ Stay near JR Gifu Station for easy train and bus access, or by the Nagara River 
 
 Going on to Takayama? See [Gifu to Takayama](gifu-to-takayama.html) for the Hida and the express bus.
 
+Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure dates to 2027, including the ropeway's winter inspection breaks.
+
 ## FAQ
 
 ### How do you get to the Mt. Kinka Ropeway from Gifu Station?

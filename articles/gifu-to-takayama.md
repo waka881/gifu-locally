@@ -79,6 +79,8 @@ Gifu City is worth a day for the Mt. Kinka Ropeway and the morning coffee shops 
 
 Not sure whether to stay in Gifu or Nagoya? See [Nagoya or Gifu City as a base](nagoya-or-gifu-city-base.html).
 
+Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure dates to 2027, including the ropeway's winter inspection breaks.
+
 ## FAQ
 
 ### How long does it take from Gifu to Takayama?

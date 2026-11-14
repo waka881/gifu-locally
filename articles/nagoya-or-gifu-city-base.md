@@ -49,6 +49,8 @@ If Takayama and Shirakawa-go are the main goal, yes. Both are far from Nagoya an
 
 **Before you go:** you'll rely on your phone for train times and bus reservations. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure dates to 2027, including the ropeway's winter inspection breaks.
+
 ## FAQ
 
 ### How far is Gifu City from Nagoya?

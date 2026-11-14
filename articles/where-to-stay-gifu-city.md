@@ -123,6 +123,8 @@ Heading to Takayama next? See [Gifu to Takayama](gifu-to-takayama.html).
 
 Deciding between Gifu City and Nagoya as a base? See [Nagoya or Gifu City](nagoya-or-gifu-city-base.html).
 
+Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure dates to 2027, including the ropeway's winter inspection breaks.
+
 ## FAQ
 
 ### Should I stay near Gifu Station or at Nagaragawa Onsen?
