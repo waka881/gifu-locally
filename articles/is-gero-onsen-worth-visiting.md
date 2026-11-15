@@ -3,7 +3,7 @@ title: "Is Gero Onsen Worth Visiting? Costs, Time Needed and What to Expect"
 description: "Is Gero Onsen worth it? What a visit costs (public baths from ¥470, the ¥2,500 Yumeguri Tegata pass, Gassho Village ¥800), how long you need, getting there from Nagoya and Takayama, and who will enjoy it most."
 summary: Gero Onsen is worth visiting if you want an easy, walkable hot spring town on the way between Nagoya (about 1 h 30–40 min by Limited Express Hida) and Takayama (about 45–60 min): you can bathe for ¥470 at a public bath, try three ryokan baths with the ¥2,500 Yumeguri Tegata pass, and soak your feet for free, but it is less worth it if you want mountain scenery from the bath (choose Okuhida) or have only one day in the region. A half day is enough to sample it, and a ryokan night gives the full experience.
 status: 公開
-facts_checked: 2026-10-26
+facts_checked: 2026-11-16
 cta: https://www.klook.com/en-US/destination/p60271486-gero-onsen/3-hotel/|Stay the night in Gero Onsen|Hot spring inns along the Hida River, a direct train ride from Nagoya. Compare prices and availability on Klook.|See stays
 image: 260125 Gero Onsen Gero Gifu pref Japan01s3.jpg
 image_alt: The hot spring town of Gero Onsen in Gifu Prefecture
@@ -69,11 +69,13 @@ Gero is the easier, more walkable onsen town with a train station; Okuhida is a 
 
 Visiting the thatched farmhouse museum on the hill? See [Gero Onsen Gassho Village](gero-onsen-gassho-village.html) for tickets, hours and the bus.
 
+Visiting in winter? [Gero Onsen winter fireworks](gero-onsen-winter-fireworks.html) has the December 2026 show dates and the Saturday fireworks from January to March.
+
 ## FAQ
 
 ### Is Gero Onsen worth a day trip from Nagoya?
 
-Yes, if your main aim is to try hot springs: it is about 1 hour 30–40 minutes by Limited Express Hida ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya)), and public baths such as Shirasagi-no-yu cost ¥470 ([Gero Onsen Tourism Association](https://www.gero-spa.com/spot/detail_3.html), as of October 2026).
+Yes, if your main aim is to try hot springs: it is about 1 hour 30–40 minutes by Limited Express Hida ([Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya)), and public baths such as Shirasagi-no-yu cost ¥470 ([Gero Onsen Tourism Association](https://www.gero-spa.com/spot/detail_3.html), as of November 2026).
 
 ### How much does it cost to bathe in Gero Onsen?
 
@@ -88,4 +90,4 @@ A half day is enough for a bath or two, the foot baths and a walk; add a few hou
 No. Bathing in the open-air pool on the Hida riverbank has been prohibited since December 1, 2021 ([Gero Onsen Tourism Association](https://www.gero-spa.com/spot/detail_2.html)).
 
 ---
-*Prices, hours and timetables change. Check official sources before you go. Facts last checked: 2026-10-26.*
+*Prices, hours and timetables change. Check official sources before you go. Facts last checked: 2026-11-16.*

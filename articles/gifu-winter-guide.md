@@ -109,6 +109,8 @@ Higher spots such as the ropeway's upper station are colder than the valleys. Br
 
 Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumination](hida-folk-village-winter-illumination.html) in Takayama runs every evening from January 9 to February 28, 2027.
 
+Visiting in winter? [Gero Onsen winter fireworks](gero-onsen-winter-fireworks.html) has the December 2026 show dates and the Saturday fireworks from January to March.
+
 ## FAQ
 
 ### When is the Shirakawa-go light-up in 2027?

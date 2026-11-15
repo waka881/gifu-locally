@@ -88,6 +88,8 @@ Coming from Osaka or Kyoto? One direct Hida a day reaches Gero without a change:
 
 **Still deciding?** See [Is Gero Onsen worth visiting?](is-gero-onsen-worth-visiting.html) for costs and how long to stay, and [where to stay in Gero Onsen](where-to-stay-gero-onsen.html) for riverside vs station inns.
 
+Visiting in winter? [Gero Onsen winter fireworks](gero-onsen-winter-fireworks.html) has the December 2026 show dates and the Saturday fireworks from January to March.
+
 ## FAQ
 
 ### How long does it take from Nagoya to Gero Onsen?
