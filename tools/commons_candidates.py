@@ -1,6 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
+    "hida-folk-village-winter-illumination": "飛騨の里 ライトアップ",
     "gifu-castle": "金華山ロープウェー",
     "kusakabe-folk-museum": "Kusakabe House Takayama",
     "gero-onsen-gassho-village": "下呂温泉合掌村",
