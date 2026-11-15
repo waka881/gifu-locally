@@ -137,6 +137,8 @@ There's no official Nohi light-up tour leaving from Nagoya, since its tours star
 - **Event rules, parking and lodging:** [Shirakawa-go Tourist Association announcements](https://shirakawa-go.gr.jp/en/events/). The Light-Up Committee can be reached at 05769-6-1013, 9:00 am–5:00 pm ([Shirakawa village](https://www.vill.shirakawa.lg.jp/2768.htm)).
 - **Bus tours from Takayama:** [Nohi Bus light-up page](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/).
 
+Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumination](hida-folk-village-winter-illumination.html) in Takayama runs every evening from January 9 to February 28, 2027.
+
 ## FAQ
 
 ### When is the Shirakawa-go light-up in 2027?

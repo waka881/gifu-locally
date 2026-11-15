@@ -107,6 +107,8 @@ Plan for below-freezing temperatures and snow underfoot. Useful items include:
 
 Higher spots such as the ropeway's upper station are colder than the valleys. Bring a small towel for onsen visits, and leave room in your schedule for weather changes.
 
+Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumination](hida-folk-village-winter-illumination.html) in Takayama runs every evening from January 9 to February 28, 2027.
+
 ## FAQ
 
 ### When is the Shirakawa-go light-up in 2027?
