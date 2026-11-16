@@ -127,6 +127,8 @@ Not sure where to start? For a first visit with little planning, Gifu City is th
 
 Thinking of sleeping in Gifu City instead of Nagoya? Compare them in [Nagoya or Gifu City as a base](nagoya-or-gifu-city-base.html).
 
+Looking for something unusual? The [Site of Reversible Destiny](yoro-park-site-of-reversible-destiny.html) in Yoro Park is a walk-through art park, about 10 minutes on foot from Yoro Station.
+
 ## FAQ
 
 ### What is a good first day trip from Nagoya to Gifu?

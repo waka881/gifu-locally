@@ -3,7 +3,7 @@ title: "Takayama Morning Markets: Hours, Miyagawa vs Jinya-mae and When to Go"
 description: "Takayama's two morning markets explained: Miyagawa and Jinya-mae, opening hours (7:00–12:00 April to November, 8:00–12:00 December to March), what each sells, how to get there and why you need to stay the night."
 summary: Takayama has two morning markets, Miyagawa along the river (about 60 stalls, about 15 minutes on foot from JR Takayama Station) and Jinya-mae in front of Takayama Jinya (farmers only), both open every day from 7:00 to 12:00 from April to November and 8:00 to 12:00 from December to March, with free entry. Day-trippers from Nagoya usually miss them, so stay a night in Takayama and go early.
 status: 公開
-facts_checked: 2026-10-27
+facts_checked: 2026-11-17
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay the night to catch the morning markets|The markets open at 7:00 (8:00 in winter) and close at noon. Compare hotels near JR Takayama Station on Klook.|See stays
 image: Miyagawa Morning market , 宮川朝市 - panoramio (1).jpg
 image_alt: Stalls of the Miyagawa Morning Market along the river in Takayama
@@ -31,7 +31,7 @@ Takayama's morning markets (asaichi) are one of the town's best-known sights, an
 
 ## What time do the Takayama morning markets open?
 
-From **7:00 to 12:00 from April to November**, and **8:00 to 12:00 from December to March**. Hida Takayama Tourism lists both markets as open all year round and suggests arriving around 6:00 to watch the vendors set up ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html), as of October 2026). It also notes the number of stalls can drop to about 10 in rain or in winter, so go on a dry morning if you can.
+From **7:00 to 12:00 from April to November**, and **8:00 to 12:00 from December to March**. Hida Takayama Tourism lists both markets as open all year round and suggests arriving around 6:00 to watch the vendors set up ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html), as of November 2026). It also notes the number of stalls can drop to about 10 in rain or in winter, so go on a dry morning if you can.
 
 ## Miyagawa or Jinya-mae: which market should you visit?
 
@@ -65,7 +65,7 @@ The markets open an hour later, at 8:00, from December to March, and fewer stall
 
 ### What time does the Takayama morning market start?
 
-7:00 from April to November and 8:00 from December to March; both markets close at 12:00 ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html), as of October 2026).
+7:00 from April to November and 8:00 from December to March; both markets close at 12:00 ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html), as of November 2026).
 
 ### Is the Takayama morning market open every day?
 
@@ -80,4 +80,4 @@ About 15 minutes on foot from JR Takayama Station (same source).
 Miyagawa has about 60 stalls including crafts and sweets; at Jinya-mae only farmers may open stalls, selling fresh and unusual local produce. They are close enough to visit both in one morning.
 
 ---
-*Hours and stall numbers change. Check Hida Takayama Tourism before you go. Facts last checked: 2026-10-27.*
+*Hours and stall numbers change. Check Hida Takayama Tourism before you go. Facts last checked: 2026-11-17.*

@@ -66,6 +66,8 @@ See our [3-day Gifu itinerary](gifu-3-day-itinerary.html), [Takayama 2-day itine
 
 Into planes and rockets? The [Gifu-Kakamigahara Air and Space Museum](kakamigahara-air-space-museum.html) is just east of Gifu City, by Meitetsu or JR and a community bus.
 
+Looking for something unusual? The [Site of Reversible Destiny](yoro-park-site-of-reversible-destiny.html) in Yoro Park is a walk-through art park, about 10 minutes on foot from Yoro Station.
+
 ## FAQ
 
 ### What is Gifu Prefecture best known for?
