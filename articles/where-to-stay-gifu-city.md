@@ -125,6 +125,8 @@ Deciding between Gifu City and Nagoya as a base? See [Nagoya or Gifu City](nagoy
 
 Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure dates to 2027, including the ropeway's winter inspection breaks.
 
+Into planes and rockets? The [Gifu-Kakamigahara Air and Space Museum](kakamigahara-air-space-museum.html) is just east of Gifu City, by Meitetsu or JR and a community bus.
+
 ## FAQ
 
 ### Should I stay near Gifu Station or at Nagaragawa Onsen?

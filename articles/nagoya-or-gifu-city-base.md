@@ -51,6 +51,8 @@ If Takayama and Shirakawa-go are the main goal, yes. Both are far from Nagoya an
 
 Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure dates to 2027, including the ropeway's winter inspection breaks.
 
+Into planes and rockets? The [Gifu-Kakamigahara Air and Space Museum](kakamigahara-air-space-museum.html) is just east of Gifu City, by Meitetsu or JR and a community bus.
+
 ## FAQ
 
 ### How far is Gifu City from Nagoya?
