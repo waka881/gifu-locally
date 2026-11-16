@@ -1,6 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
+    "kakamigahara-air-space-museum": "Kakamigahara Aerospace Science Museum",
     "gero-onsen-winter-fireworks": "Gero Onsen",
     "hida-folk-village-winter-illumination": "Hida Folk Village",
     "gifu-castle": "金華山ロープウェー",
