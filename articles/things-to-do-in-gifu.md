@@ -68,6 +68,8 @@ Into planes and rockets? The [Gifu-Kakamigahara Air and Space Museum](kakamigaha
 
 Looking for something unusual? The [Site of Reversible Destiny](yoro-park-site-of-reversible-destiny.html) in Yoro Park is a walk-through art park, about 10 minutes on foot from Yoro Station.
 
+Into castles? [Ogaki Castle](ogaki-castle.html), the Western Army's base at Sekigahara, is 7 minutes on foot from JR Ogaki Station and open while Gifu Castle is closed.
+
 ## FAQ
 
 ### What is Gifu Prefecture best known for?

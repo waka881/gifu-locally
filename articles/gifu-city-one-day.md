@@ -30,7 +30,7 @@ Gifu City is about 20 minutes from Nagoya by JR rapid train, yet most visitors p
 
 ## Morning: breakfast with your coffee
 
-Start at a neighborhood coffee shop for **morning service**: order a drink before late morning and toast or eggs come with it at no extra charge. Gifu City households spend more on coffee shops than any other prefectural capital or major city in Japan ([Gifu City](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/005/752/cafe_ura.pdf)). Read our full guide: [Gifu's Morning Service](gifu-morning-service.html).
+Start at a neighborhood coffee shop for **morning service**: order a drink before late morning and toast or eggs come with it at no extra charge. Gifu City ranked first in Japan for household coffee-shop spending four years running up to the 2023 survey ([Gifu City](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/005/752/cafe_ura.pdf)). Read our full guide: [Gifu's Morning Service](gifu-morning-service.html).
 
 ## Late morning: Mt. Kinka Ropeway
 
