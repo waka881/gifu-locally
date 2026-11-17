@@ -3,7 +3,7 @@ title: "Gifu in Winter 2026–27: Shirakawa-go, Takayama, Okuhida Onsen and Gett
 description: "Plan a Gifu winter trip: Shirakawa-go light-up 2027 dates, Takayama illuminations, Okuhida onsen, Gero fireworks and snow-safe transport."
 summary: The 41st Shirakawa-go Light-Up is listed for January 11, 17, 24 and 31, 2027, and the previous edition was a fully advance-reservation event with no same-day visits. Takayama is a winter base about 2 hours 20 minutes from Nagoya Station on the Limited Express Hida, with buses to Shirakawa-go and Okuhida, where the Shinhotaka Ropeway round trip costs 3,800 yen for adults. Snow tires are required to drive to the Shinhotaka Ropeway, Takayama asks visitors not to drive rental cars on normal tires in winter, and Takayama–Shirakawa-go buses can run two hours or more late, so build spare time into each day.
 status: 公開
-facts_checked: 2026-10-27
+facts_checked: 2026-11-18
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Leave the snowy roads to someone else|Takayama and Shirakawa-go day trip from Nagoya. Check winter dates and itinerary on Klook.|Check dates
 image: Snow in Ogimachi Area, Shirakawa village, Gifu.JPG
 image_alt: Snow in the Ogimachi area of Shirakawa-go
@@ -28,7 +28,7 @@ Visiting during the light-up takes planning:
 - **Accommodation:** Rooms handled by the Tourist Association are allocated **by lottery**, not first come, first served (as of October 2026, [Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/)).
 - **Tour buses:** A tour bus reservation system starts at Seseragi Park Oro Parking from December 1, 2026. This applies to buses, not private cars (as of October 2026, [Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/)).
 
-Start times, viewing-spot rules and any fees for 2027 were not set out on the pages checked. Look for them on the association's site, or call the association on +81-5769-6-1013 (9:00–17:00, as of October 2026).
+Nohi Bus, which runs official light-up tours from Takayama, gives the lighting hours as 5:30 pm to 7:30 pm ([Nohi Bus](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/), as of November 2026); see our [Shirakawa-go light-up guide](shirakawa-go-light-up.html) for tours and booking rules. Viewing-spot rules and fees are on the association's site, or call +81-5769-6-1013 (9:00–17:00).
 
 The easiest way to see the light-up without a car is often a reserved light-up bus tour or a package that includes entry. Shirakawa-go is also lovely on ordinary winter days. Our [Shirakawa-go from Nagoya](shirakawa-go-from-nagoya.html) guide covers the regular bus routes. For snow, driving rules and what to wear, see [Shirakawa-go in winter](shirakawa-go-in-winter.html).
 
@@ -41,7 +41,7 @@ For opening hours, every illumination and snow travel tips, see our full guide t
 Takayama's old town stays open all winter. Its winter evenings also have their own events. Hida Takayama's official tourism site listed these for the 2025–26 season (as of October 2026, [Hida Takayama event calendar, January](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000180.html)):
 
 - **Winter Illumination in Takayama:** The snow-covered Nakabashi bridge and Miyagawa River area were lit from December 1, 2025 to March 15, 2026.
-- **Winter Illumination of Hida-no-sato (Hida Folk Village):** Historic farmhouses, including steep-roofed ones, were lit from January 10 to February 28, 2026.
+- **Winter Illumination of Hida-no-sato (Hida Folk Village):** Historic farmhouses, including steep-roofed ones, were lit from January 10 to February 28, 2026. For 2027 the Gifu Prefecture tourism site lists January 9 to February 28, 17:30–20:30, with evening admission of ¥300 ([Gifu Prefecture tourism](https://www.kankou-gifu.jp/event/detail_3323.html), as of November 2026); see our [Hida Folk Village winter illumination guide](hida-folk-village-winter-illumination.html).
 - **Nijuyokka-ichi (Fair on the 24th Day):** This is held every year on **January 24**. Local farmers sell handmade crafts such as bamboo baskets and wooden pails on a street closed to traffic. The listing says the fair has run since 1872.
 
 The site's [February calendar](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000184.html) also lists **Setsubun** in early February. On this day, a costumed bean-throwing procession passes Takayama Station, Honmachi Street and Kokubunji Temple.
@@ -76,7 +76,7 @@ No 2026–27 maintenance dates had been posted on the [ropeway's news page](http
 
 Gero Onsen is on the JR Takayama Line between Nagoya and Takayama, so it fits easily into a winter route. Its winter fireworks, **Fuyu no Gero Onsen Hanabi Monogatari**, ran **every Saturday from January 10 to March 28, 2026**. The 12 shows started at **8:30 p.m.** and lasted about 10 minutes. They were launched from the Hida River bank downstream of Gero Ohashi bridge. Admission was **free**, and shows could be canceled in bad weather or high water (2026 edition, as of October 2026, [Gifu Prefecture Tourism Federation](https://www.kankou-gifu.jp/event/detail_3279.html)).
 
-The 2027 schedule had not been published when this guide was checked; the Tourism Association describes the usual pattern as every Saturday from mid-January to late March. In December, Gero usually holds a separate winter fireworks musical (Hanabi Musical) every Saturday plus a special show on December 24, with regular shows of about 15 minutes ([Gero Onsen Tourism Association](https://www.gero-spa.com/event/), as of October 2026). Dates are announced each year, so watch the [Gero Onsen Tourism Association](https://www.gero-spa.com/event/) and [Gifu's tourism site](https://www.kankou-gifu.jp/). For baths, ryokan and the walk through town, see our [Gero Onsen guide](gero-onsen-guide.html).
+The 2027 schedule had not been published when this guide was checked; the Tourism Association describes the usual pattern as every Saturday from mid-January to late March. In December, Gero holds a separate winter fireworks musical: for 2026 the Gifu Prefecture tourism site lists December 5, 12 and 19 (20:00–20:15) and a Christmas show on December 24 (20:00–20:30) ([Gifu Prefecture tourism](https://www.kankou-gifu.jp/event/detail_1279.html), as of November 2026). Dates are announced each year, so watch the [Gero Onsen Tourism Association](https://www.gero-spa.com/event/) and [Gifu's tourism site](https://www.kankou-gifu.jp/). For baths, ryokan and the walk through town, see our [Gero Onsen guide](gero-onsen-guide.html).
 
 ## Getting around in snow: bus or drive?
 
@@ -134,4 +134,4 @@ Hida Takayama's official site asks visitors not to drive rental cars with normal
 Nohi Bus warns that Takayama–Shirakawa-go buses can run two hours or more late because of parking-lot queues, heavy snow or expressway closures, and some services do not run from December 29 to January 3 (as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Build spare time into any day that includes Shirakawa-go.
 
 ---
-*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-10-27.*
+*Prices, hours and schedules change. Check official sources before you go. Facts last checked: 2026-11-18.*

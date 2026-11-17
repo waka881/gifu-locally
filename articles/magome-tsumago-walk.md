@@ -123,6 +123,8 @@ A day built from the official figures above might look like this:
 
 Check every connection against the current timetables before you set out. If you would rather join a guided trip, you can [browse Nakasendo tours on Klook](https://klook.tpk.lu/zp1hCE5f).
 
+Another old town in eastern Gifu: [Iwamura castle town](iwamura-castle-town.html), about 30 minutes on the Akechi Railway from JR Ena, with a walk up to the castle ruins.
+
 ## FAQ
 
 ### How long is the walk from Magome to Tsumago?

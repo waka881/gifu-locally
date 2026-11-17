@@ -70,6 +70,8 @@ Looking for something unusual? The [Site of Reversible Destiny](yoro-park-site-o
 
 Into castles? [Ogaki Castle](ogaki-castle.html), the Western Army's base at Sekigahara, is 7 minutes on foot from JR Ogaki Station and open while Gifu Castle is closed.
 
+Another old town in eastern Gifu: [Iwamura castle town](iwamura-castle-town.html), about 30 minutes on the Akechi Railway from JR Ena, with a walk up to the castle ruins.
+
 ## FAQ
 
 ### What is Gifu Prefecture best known for?

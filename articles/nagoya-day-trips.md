@@ -129,6 +129,8 @@ Thinking of sleeping in Gifu City instead of Nagoya? Compare them in [Nagoya or 
 
 Looking for something unusual? The [Site of Reversible Destiny](yoro-park-site-of-reversible-destiny.html) in Yoro Park is a walk-through art park, about 10 minutes on foot from Yoro Station.
 
+Another old town in eastern Gifu: [Iwamura castle town](iwamura-castle-town.html), about 30 minutes on the Akechi Railway from JR Ena, with a walk up to the castle ruins.
+
 ## FAQ
 
 ### What is a good first day trip from Nagoya to Gifu?
