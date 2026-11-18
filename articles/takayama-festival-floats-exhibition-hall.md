@@ -51,7 +51,7 @@ Yes, if you want to see the floats themselves. The Takayama Festival is held on 
 
 Klook lists the Shirakawago & Takayama Full Day Tour from Kanazawa, which includes Takayama's old town and the Floats Exhibition Hall alongside Shirakawa-go ([Klook](https://www.klook.com/activity/101875-shirakawago-takayama-join-one-day-bus-tour-kanazawa/), as of November 2026). See [Takayama day trip from Kanazawa](takayama-day-trip-from-kanazawa.html).
 
-**Before you go:** you'll rely on your phone for maps around town. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for maps around town. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Another old-town museum to pair with the floats hall: the [Kusakabe Folk Museum](kusakabe-folk-museum.html).
 

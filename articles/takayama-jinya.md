@@ -68,7 +68,7 @@ For the rest of your day, see [things to do in Takayama](things-to-do-in-takayam
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay near the old town|A night in Takayama lets you see the morning market and the Jinya before the day-trippers arrive. Compare hotels on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone for maps and translation in the old town. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for maps and translation in the old town. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

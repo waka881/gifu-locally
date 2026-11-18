@@ -3,7 +3,7 @@ title: "Japan eSIM vs Pocket WiFi vs SIM for Gifu and the Japanese Alps"
 description: "eSIM, pocket WiFi or SIM for Takayama, Shirakawa-go and the Nakasendo? How to check rural coverage, set up an eSIM and choose."
 summary: If your phone is unlocked and supports eSIM, a data-only travel eSIM is usually the simplest option for Gifu. Pocket WiFi suits groups sharing one connection, and a physical SIM suits phones without eSIM. Whatever you pick, check the carrier coverage map for the places on your route.
 status: 公開
-facts_checked: 2026-10-28
+facts_checked: 2026-11-18
 cta: https://yesim.tpk.lu/T6xnCd9w|Get a Japan eSIM before you fly|Japan eSIM data plans by number of days and GB. See plans and prices on Yesim.|See plans
 image: Takayama Train and Bus Station from above.jpg
 image_alt: Takayama train and bus station seen from above
@@ -69,17 +69,17 @@ An eSIM is a digital SIM built into your phone. A travel eSIM adds a data line a
 
 The page also says locked devices are not supported and that each QR code works on one device. Plans and compatible devices can change, so check both on the product page before you buy.
 
-**Another example:** [Yesim's Japan eSIM page](https://yesim.tpk.lu/T6xnCd9w) lists data-only plans by size and length, with 30-day plans from 1 GB to 30 GB, plus a separate tab for unlimited plans ([Yesim](https://yesim.app/country/japan/), as of October 2026). Validity starts when the eSIM connects to a network, and the plan must be activated within 90 days of purchase ([Yesim](https://yesim.app/country/japan/30days-10gb-esim-data-plan/)).
+**Another example:** [Yesim's Japan eSIM page](https://yesim.tpk.lu/T6xnCd9w) lists data-only plans by size and length, with 30-day plans from 1 GB to 30 GB, plus a separate tab for unlimited plans ([Yesim](https://yesim.app/country/japan/), as of November 2026). Validity starts when the eSIM connects to a network, and the plan must be activated within 90 days of purchase ([Yesim](https://yesim.app/country/japan/30days-10gb-esim-data-plan/)).
 
 | Yesim Japan plan (30 days) | Price |
 |---|---|
-| 1 GB | $4.44 |
-| 5 GB | $10.56 |
-| 10 GB | $19.20 |
-| 20 GB | $29.76 |
-| 30 GB | $39.60 |
+| 1 GB | $4.07 |
+| 5 GB | $9.68 |
+| 10 GB | $17.60 |
+| 20 GB | $27.28 |
+| 30 GB | $36.30 |
 
-*Source: [Yesim Japan plans](https://yesim.app/country/japan/), checked October 28, 2026.* Prices change, so check the current plan list before you buy.
+*Source: [Yesim Japan plans](https://yesim.app/country/japan/), checked November 18, 2026.* Prices change, so check the current plan list before you buy.
 
 ## How to set up an eSIM (iPhone and Android)
 

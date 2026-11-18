@@ -47,7 +47,7 @@ If Takayama and Shirakawa-go are the main goal, yes. Both are far from Nagoya an
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Hotels near JR Takayama Station|For the morning markets and the Shirakawa-go buses. Compare prices on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone for train times and bus reservations. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for train times and bus reservations. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure dates to 2027, including the ropeway's winter inspection breaks.
 

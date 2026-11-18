@@ -112,7 +112,7 @@ For the 2026 event, inn stays also came with a deck ticket ([Tourist Association
 
 ## How to get there from Takayama
 
-Takayama is the departure point for the official light-up tours, so it is the easiest base. Outside light-up evenings, Nohi Bus route buses take **about 50 minutes** from Takayama to Shirakawa-go and cost **2,800 yen one way** (as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Some buses are reservation-only. Nohi Bus warns that delays of two hours or more can happen. On light-up dates, book the tour rather than relying on route buses, because the tour includes your return.
+Takayama is the departure point for the official light-up tours, so it is the easiest base. Outside light-up evenings, Nohi Bus route buses take **about 50 minutes** from Takayama to Shirakawa-go and cost **2,800 yen one way** (2,900 yen from December 1, 2026) (as of October 2026, [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Some buses are reservation-only. Nohi Bus warns that delays of two hours or more can happen. On light-up dates, book the tour rather than relying on route buses, because the tour includes your return.
 
 ## How to get there from Nagoya
 

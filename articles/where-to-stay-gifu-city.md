@@ -119,7 +119,7 @@ For tours and passes to pair with your stay, you can also browse options on [Klo
 
 Heading to Takayama next? See [Gifu to Takayama](gifu-to-takayama.html).
 
-**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Deciding between Gifu City and Nagoya as a base? See [Nagoya or Gifu City](nagoya-or-gifu-city-base.html).
 

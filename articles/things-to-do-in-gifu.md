@@ -62,7 +62,7 @@ See our [3-day Gifu itinerary](gifu-3-day-itinerary.html), [Takayama 2-day itine
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Hotels near JR Takayama Station|The easiest base for northern Gifu. Compare on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone for bus bookings, train times and maps across Gifu. Our [Japan eSIM guide](japan-esim-gifu.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus bookings, train times and maps across Gifu. Our [Japan eSIM guide](japan-esim-gifu.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Into planes and rockets? The [Gifu-Kakamigahara Air and Space Museum](kakamigahara-air-space-museum.html) is just east of Gifu City, by Meitetsu or JR and a community bus.
 

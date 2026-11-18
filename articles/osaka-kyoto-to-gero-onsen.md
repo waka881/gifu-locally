@@ -44,7 +44,7 @@ It's possible but long: about 3 hours or more each way. The direct Hida arrives 
 
 Usually yes. The same direct Hida continues to Takayama, and JR Central gives Gero to Takayama as about 45–60 minutes by train ([JR Central](https://global.jr-central.co.jp/en/goldenroute/itineraries/takayama-gero-craftsmanship-onsen/)). You can spend a night in Gero, then go on to Takayama the next morning (see [Takayama to Gero Onsen](takayama-to-gero-onsen.html)); see [Osaka or Kyoto to Takayama](osaka-kyoto-to-takayama.html), [Gero vs Okuhida](gero-vs-okuhida-onsen.html) and our [Gifu 3-day itinerary](gifu-3-day-itinerary.html).
 
-**Before you go:** you'll rely on your phone for train times, seat reservations and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for train times, seat reservations and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

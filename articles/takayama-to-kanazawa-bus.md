@@ -1,6 +1,6 @@
 ---
 title: "Takayama to Kanazawa by Bus: Timetable, Fares and Stopping at Shirakawa-go"
-description: "How to get from Takayama to Kanazawa by Nohi Bus and Hokuriku Tetsudo: the four through buses a day, the ¥4,200 fare, about 2 h 15 min, reservations on Japan Bus Online, and how to stop off in Shirakawa-go on the way."
+description: "How to get from Takayama to Kanazawa by Nohi Bus and Hokuriku Tetsudo: the four through buses a day, the ¥4,200 (¥4,400 from December 1, 2026) fare, about 2 h 15 min, reservations on Japan Bus Online, and how to stop off in Shirakawa-go on the way."
 summary: Four reserved buses a day run from the Takayama Nohi Bus Center to Kanazawa Station via Shirakawa-go (7:50, 11:20, 12:50 and 16:30), taking about 2 hours 15 minutes for ¥4,200 one way (¥4,400 from December 1, 2026, when a 9:10 departure is added); to see Shirakawa-go on the way, buy two tickets (Takayama–Shirakawa-go ¥2,800 and Shirakawa-go–Kanazawa ¥2,800), leave your luggage in a coin locker at the bus terminal and catch a later bus to Kanazawa. Book every leg on Japan Bus Online, and in winter allow for delays of two hours or more.
 status: 公開
 facts_checked: 2026-11-10
@@ -82,7 +82,7 @@ Yes. The JR Takayama-Hokuriku Area Tourist Pass (¥19,800 for 5 days) includes t
 
 Nohi Bus warns that delays of two hours or more can happen on this line, caused by traffic waiting to park at Shirakawa-go, heavy snow or expressway closures ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Avoid booking a tight train or flight connection in Kanazawa on the same day. See [Shirakawa-go in winter](shirakawa-go-in-winter.html) and the [Nagoya–Takayama–Shirakawa-go–Kanazawa route guide](nagoya-takayama-shirakawa-go-kanazawa.html).
 
-**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Still deciding where to spend more time? See [Takayama or Kanazawa?](takayama-or-kanazawa.html) Based in Kanazawa? See [Takayama day trip from Kanazawa](takayama-day-trip-from-kanazawa.html).
 

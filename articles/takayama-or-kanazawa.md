@@ -1,7 +1,7 @@
 ---
 title: "Takayama or Kanazawa: Which Should You Visit (or How to Do Both)?"
 description: "Takayama or Kanazawa? Compare the mountain old town of Takayama with the bigger city of Kanazawa: sights and prices, getting there from Tokyo and Nagoya, Shirakawa-go access, and how to link the two by the 2-hour-15-minute bus via Shirakawa-go."
-summary: Choose Takayama for a small mountain town with morning markets, sake breweries and Takayama Jinya (about 2 hours 20 minutes from Nagoya by Limited Express Hida), or Kanazawa for a bigger city with Kenrokuen garden (¥320) and the Higashi Chaya teahouse district (2 hours 28 minutes from Tokyo by Hokuriku Shinkansen); they are linked by a bus via Shirakawa-go that takes about 2 hours 15 minutes for ¥4,200, so most first-time visitors do both with a night in each.
+summary: Choose Takayama for a small mountain town with morning markets, sake breweries and Takayama Jinya (about 2 hours 20 minutes from Nagoya by Limited Express Hida), or Kanazawa for a bigger city with Kenrokuen garden (¥320) and the Higashi Chaya teahouse district (2 hours 28 minutes from Tokyo by Hokuriku Shinkansen); they are linked by a bus via Shirakawa-go that takes about 2 hours 15 minutes for ¥4,200 (¥4,400 from December 1, 2026), so most first-time visitors do both with a night in each.
 status: 公開
 facts_checked: 2026-11-05
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book your Takayama night|Most Takayama sights and the Shirakawa-go bus are a walk from the station. Compare hotels on Klook.|See stays
@@ -23,8 +23,8 @@ Takayama and Kanazawa are often compared because they sit on either side of Shir
 | Signature sights | Sanmachi old town, morning markets, Takayama Jinya (¥500), sake breweries | Kenrokuen garden (¥320), Higashi Chaya district |
 | From Tokyo | About 4 h via Nagoya (Nozomi + Hida) or via Toyama | 2 h 28 min by Hokuriku Shinkansen |
 | From Nagoya | About 2 h 20 min by Limited Express Hida | Via Takayama, then the bus via Shirakawa-go |
-| To Shirakawa-go | About 50 min by bus, ¥2,800 | About 1 h 20 min by bus, ¥2,800 |
-| Between the two | Bus via Shirakawa-go, about 2 h 15 min, ¥4,200 | |
+| To Shirakawa-go | About 50 min by bus, ¥2,800 (¥2,900 from Dec 1, 2026) | About 1 h 20 min by bus, ¥2,800 (¥2,900 from Dec 1, 2026) |
+| Between the two | Bus via Shirakawa-go, about 2 h 15 min, ¥4,200 (¥4,400 from Dec 1, 2026) | |
 
 *Sources: [Takayama Jinya](https://jinya.gifu.jp/en/guide/info/); [Kenrokuen](https://shiro-niwa.pref.ishikawa.lg.jp/kenrokuen-garden/e/info.html); [Visit Kanazawa](https://visitkanazawa.jp/en/higashi); [JR West](https://www.westjr.co.jp/global/en/shinkansen/hokuriku-shinkansen/); [Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4000220.html); [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026.*
 
@@ -46,7 +46,7 @@ Unsure about Takayama itself? See [Is Takayama worth visiting?](is-takayama-wort
 
 ## How do you visit both Takayama and Kanazawa?
 
-Nohi Bus runs reserved buses from the Takayama Nohi Bus Center to Kanazawa Station via Shirakawa-go, about 2 hours 15 minutes for ¥4,200; to stop in Shirakawa-go, buy two tickets (¥2,800 each leg) and use a coin locker at the bus terminal. See [Takayama to Kanazawa by bus](takayama-to-kanazawa-bus.html) for the timetable. Nohi Bus says fares and timetables will be revised from December 1, 2026 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)), so check the page for your date.
+Nohi Bus runs reserved buses from the Takayama Nohi Bus Center to Kanazawa Station via Shirakawa-go, about 2 hours 15 minutes for ¥4,200 (¥4,400 from December 1, 2026); to stop in Shirakawa-go, buy two tickets (¥2,800; ¥2,900 from December 1, 2026 each leg) and use a coin locker at the bus terminal. See [Takayama to Kanazawa by bus](takayama-to-kanazawa-bus.html) for the timetable. Nohi Bus says fares and timetables will be revised from December 1, 2026 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)), so check the page for your date.
 
 | Route | Good for |
 |---|---|
@@ -66,7 +66,7 @@ In Takayama, stay near the station for the buses and an easy walk to the old tow
 
 Short on time and staying in Kanazawa? A [day trip to Shirakawa-go from Kanazawa](shirakawa-go-from-kanazawa.html) is about 1 hour 20 minutes each way.
 
-**Before you go:** you'll rely on your phone for bus reservations and maps across both cities. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus reservations and maps across both cities. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Staying in Kanazawa and short on time? Takayama works as a long day trip by bus; see [Takayama day trip from Kanazawa](takayama-day-trip-from-kanazawa.html).
 
@@ -78,7 +78,7 @@ Takayama suits travellers who want a small mountain town with markets and sake; 
 
 ### How far is Takayama from Kanazawa?
 
-About 2 hours 15 minutes by Nohi Bus via Shirakawa-go, ¥4,200 one way for adults ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026).
+About 2 hours 15 minutes by Nohi Bus via Shirakawa-go, ¥4,200 (¥4,400 from December 1, 2026) one way for adults ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026).
 
 ### Is Shirakawa-go closer to Takayama or Kanazawa?
 

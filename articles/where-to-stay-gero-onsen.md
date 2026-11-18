@@ -59,7 +59,7 @@ Combining Gero with Takayama? Klook sells a [2-day bus ticket covering Takayama 
 
 Getting there from Kansai? See [Osaka or Kyoto to Gero Onsen](osaka-kyoto-to-gero-onsen.html).
 
-**Before you go:** you'll rely on your phone for train times and finding your inn. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for train times and finding your inn. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Visiting in winter? [Gero Onsen winter fireworks](gero-onsen-winter-fireworks.html) has the December 2026 show dates and the Saturday fireworks from January to March.
 

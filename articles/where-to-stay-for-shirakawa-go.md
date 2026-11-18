@@ -50,7 +50,7 @@ If you want the village without the day-trip crowds, yes. The Shirakawa-go Touri
 
 Yes, and many people do. The same bus line runs Takayama–Shirakawa-go–Kanazawa, so you can sleep in Takayama, stop in Shirakawa-go and continue to Kanazawa the same day with two tickets. See [Takayama to Kanazawa by bus](takayama-to-kanazawa-bus.html) and the [Japan Alps route](nagoya-takayama-shirakawa-go-kanazawa.html).
 
-**Before you go:** you'll rely on your phone for bus reservations and maps. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus reservations and maps. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

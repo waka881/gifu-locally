@@ -51,7 +51,7 @@ Getting around: Nohi Bus's [Okuhida bus passes](okuhida-bus-pass.html) cover the
 
 Still deciding between Okuhida and somewhere easier to reach? See [Gero vs Okuhida](gero-vs-okuhida-onsen.html), [where to stay for a ryokan night: Takayama, Gero or Okuhida](takayama-gero-okuhida-ryokan.html) and [where to stay in Gero Onsen](where-to-stay-gero-onsen.html).
 
-**Before you go:** you'll rely on your phone for bus times and maps in the mountains. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus times and maps in the mountains. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

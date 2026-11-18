@@ -107,7 +107,7 @@ A guided tour from Takayama saves you from booking buses and can add Gokayama, a
 
 **Winter:** Nohi Bus warns of delays of two hours or more on this line in winter ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). See [Shirakawa-go in winter](shirakawa-go-in-winter.html).
 
-**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Still choosing a base? See [where to stay for Shirakawa-go](where-to-stay-for-shirakawa-go.html), which compares Takayama, Kanazawa and the village.
 

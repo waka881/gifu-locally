@@ -59,7 +59,7 @@ Would rather not plan the transport? Klook sells a [guided day tour from Nagoya]
 
 [[cta|https://www.klook.com/destination/p50051351-gujo-hachiman-castle/3-hotel/|Stays near Gujo Hachiman|Book a morning workshop and stay for the castle town. Compare prices and availability on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone to call the workshop and find your way between bus stops. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone to call the workshop and find your way between bus stops. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

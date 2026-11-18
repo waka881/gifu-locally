@@ -70,7 +70,7 @@ From Hida Takayama Tourism's festival page (as of October 2026):
 - Smoking is not allowed in the old town.
 - Watch for open roadside gutters, especially during the night festival.
 
-**Before you go:** you'll rely on your phone for live festival updates, train times and maps. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+**Before you go:** you'll rely on your phone for live festival updates, train times and maps. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 More on tickets and hours: [Takayama Festival Floats Exhibition Hall](takayama-festival-floats-exhibition-hall.html).
 

@@ -45,7 +45,7 @@ For where to sleep, we compare the areas in [where to stay in Gero Onsen](where-
 
 [[cta|https://www.klook.com/en-US/destination/p60271486-gero-onsen/3-hotel/|Ryokan and hotels in Gero Onsen|Hot-spring inns along the Hida River. Compare prices and availability on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone for train times and to check whether a show is going ahead. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for train times and to check whether a show is going ahead. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

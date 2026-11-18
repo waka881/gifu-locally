@@ -59,7 +59,7 @@ If you are staying in Takayama, a shorter tour works better. Klook lists a [Shir
 
 In winter, Nohi Bus warns of delays of two hours or more on the Shirakawa-go line because of snow and traffic ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)), and tour times can change too. The 2027 light-up evenings are January 11, 17, 24 and 31; Klook also lists [light-up tours from Nagoya](https://www.klook.com/activity/175324-shirakawa-go-light-up-2026-day-tour-nagoya-departure-via-takayama/), which sell out early. See [Shirakawa-go in winter](shirakawa-go-in-winter.html) and the [light-up guide](shirakawa-go-light-up.html).
 
-**Before you go:** you'll rely on your phone for meeting points, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for meeting points, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Already staying in Takayama? See [Shirakawa-go tour from Takayama](shirakawa-go-tour-from-takayama.html).
 

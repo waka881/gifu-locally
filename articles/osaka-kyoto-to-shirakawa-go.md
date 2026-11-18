@@ -64,7 +64,7 @@ See the full loop in our [Nagoya–Takayama–Shirakawa-go–Kanazawa route](nag
 - **Timetable changes.** Nohi Bus plans a fare and timetable revision on the Shirakawa-go line from December 1, 2026 (same source).
 - **Is it worth it?** See [Is Shirakawa-go worth visiting?](is-shirakawa-go-worth-visiting.html) and [staying overnight in Shirakawa-go](shirakawa-go-overnight-stay.html).
 
-**Before you go:** you'll rely on your phone for bus reservations and transfers on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus reservations and transfers on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

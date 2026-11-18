@@ -39,7 +39,7 @@ The regional pass costs ¥30,200 less than a 7-day Japan Rail Pass bought online
 
 ## Does the Japan Rail Pass cover the bus to Shirakawa-go?
 
-Not according to its official scope page. That page lists JR Bus local lines (with some exclusions) and says the pass is not valid on JR Bus express routes; it does not list Nohi Bus or other private bus companies ([Japan Rail Pass](https://japanrailpass.net/en/about_jrp/route/), as of October 2026). Shirakawa-go has no railway, so with a Japan Rail Pass you pay for the bus separately: Nohi Bus lists Takayama–Shirakawa-go and Shirakawa-go–Kanazawa at ¥2,800 each for adults ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
+Not according to its official scope page. That page lists JR Bus local lines (with some exclusions) and says the pass is not valid on JR Bus express routes; it does not list Nohi Bus or other private bus companies ([Japan Rail Pass](https://japanrailpass.net/en/about_jrp/route/), as of October 2026). Shirakawa-go has no railway, so with a Japan Rail Pass you pay for the bus separately: Nohi Bus lists Takayama–Shirakawa-go and Shirakawa-go–Kanazawa at ¥2,800 (¥2,900 from December 1, 2026) each for adults ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
 
 The Takayama-Hokuriku pass includes the bus lines between the Takayama Nohi Bus Center, Shirakawa-go and Kanazawa or Toyama, and between Takayama, Shirakawa-go and Shin-Takaoka, with reservations required and some exceptions ([JR Central and JR West](https://touristpass.jp/en/takayama_hokuriku/)).
 
@@ -70,7 +70,7 @@ The regional pass gives you 5 days, and the Japan Rail Pass's shortest option is
 - **Use the free seat reservations.** Both passes let you reserve seats at no extra cost (with the regional pass limited to 6).
 - **Check the arrival stamp.** The Japan Rail Pass is for foreign visitors with Temporary Visitor status ([Japan Rail Pass](https://japanrailpass.net/en/use/conditions-for-use/)), and Klook's listing for the regional pass also asks for a Temporary Visitor stamp, so avoid the automated immigration gates that skip the stamp ([Klook](https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/)).
 
-**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 
@@ -80,7 +80,7 @@ Usually not on its own. A 7-day Ordinary Japan Rail Pass costs ¥50,000 online a
 
 ### Does the Japan Rail Pass cover the Nohi Bus to Shirakawa-go?
 
-The official scope page lists only JR Bus local lines and does not mention Nohi Bus, so plan to pay ¥2,800 per leg between Takayama, Shirakawa-go and Kanazawa ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)).
+The official scope page lists only JR Bus local lines and does not mention Nohi Bus, so plan to pay ¥2,800 per leg (¥2,900 from December 1, 2026) between Takayama, Shirakawa-go and Kanazawa ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)).
 
 ### How much is the Japan Rail Pass?
 

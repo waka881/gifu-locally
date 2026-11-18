@@ -62,7 +62,7 @@ A night lets you see the town early and in the evening, without planning around 
 
 Short on time? A [guided day tour from Nagoya](https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/) on Klook combines Gujo Hachiman with Takayama and Shirakawa-go.
 
-**Before you go:** you'll rely on your phone for bus reservations and booking the shared taxi. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus reservations and booking the shared taxi. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

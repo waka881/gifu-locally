@@ -55,7 +55,7 @@ From Nagoya, Hida City gives about 2 hours 40 minutes by train or 2 hours 45 min
 
 **Prefer a guide?** Klook lists a [Hida-Furukawa walking tour from Takayama](https://www.klook.com/en-US/activity/98470-hida-furukawa-matsuri-dozogai-street-hida-furukawa-old-town-join-walking-tour-handcraft-experience/), a 6-hour English-guided tour covering the storehouse street, the Festival Hall and a weaving session; check what's included before booking.
 
-**Before you go:** you'll rely on your phone for train times and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for train times and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

@@ -75,7 +75,7 @@ Gifu City is worth a day for the Mt. Kinka Ropeway and the morning coffee shops 
 
 [[cta|https://www.klook.com/en-US/destination/c6370-gifu/3-hotel/|Hotels in Gifu|Compare stays near JR Gifu Station and the Nagara River on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone for bus reservations and train times on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus reservations and train times on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Not sure whether to stay in Gifu or Nagoya? See [Nagoya or Gifu City as a base](nagoya-or-gifu-city-base.html).
 

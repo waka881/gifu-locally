@@ -65,7 +65,7 @@ If you land in the afternoon or later, yes. A night in Osaka lets you take the d
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay near JR Takayama Station|The Hida train and the Osaka bus both arrive by the station. Compare hotels on Klook.|See stays]]
 
-**Before you go:** you'll want data from the moment you land for train times and bus bookings. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll want data from the moment you land for train times and bus bookings. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

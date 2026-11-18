@@ -1,7 +1,7 @@
 ---
 title: "Gifu 3-Day Itinerary: Gero Onsen, Takayama and Shirakawa-go from Nagoya"
 description: "A 3-day Gifu itinerary from Nagoya: a ryokan night in Gero Onsen, a day in Takayama's old town, and a morning market plus Shirakawa-go on day 3, with train and bus times, fares and where to stay, from official sources."
-summary: For three days in Gifu from Nagoya, take the Limited Express Hida to Gero Onsen (about 1 h 30–40 min) for a ryokan night on day 1, continue to Takayama (about 45–60 min) for the old town and Takayama Jinya on day 2, and on day 3 visit a morning market and Shirakawa-go (about 50 min by bus, ¥2,800) before returning to Nagoya or going on to Kanazawa. Book the Shirakawa-go buses in advance, and note that Takayama adds an accommodation tax of ¥100–¥300 per person per night.
+summary: For three days in Gifu from Nagoya, take the Limited Express Hida to Gero Onsen (about 1 h 30–40 min) for a ryokan night on day 1, continue to Takayama (about 45–60 min) for the old town and Takayama Jinya on day 2, and on day 3 visit a morning market and Shirakawa-go (about 50 min by bus, ¥2,800; ¥2,900 from December 1, 2026) before returning to Nagoya or going on to Kanazawa. Book the Shirakawa-go buses in advance, and note that Takayama adds an accommodation tax of ¥100–¥300 per person per night.
 status: 公開
 facts_checked: 2026-11-13
 cta: https://www.klook.com/en-US/destination/p60271486-gero-onsen/3-hotel/|Book your Gero Onsen ryokan night|Hot spring inns along the Hida River, a direct train ride from Nagoya. Compare prices and availability on Klook.|See stays
@@ -64,7 +64,7 @@ For dinner, see our [Hida beef guide](hida-beef-takayama.html). Stay near the st
 ## Day 3: How do you fit in the morning market and Shirakawa-go?
 
 - **Morning market:** the Miyagawa and Jinya-mae markets open 7:00–12:00 from April to November and 8:00–12:00 from December to March ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000162.html), as of November 2026). Go early, around 7:00–8:00 in season.
-- **Shirakawa-go:** buses from the Takayama Nohi Bus Center take about 50 minutes and cost ¥2,800 one way; most departures need a reserved seat, booked on Japan Bus Online ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). The Tourist Association suggests 2–3 hours in the village ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)).
+- **Shirakawa-go:** buses from the Takayama Nohi Bus Center take about 50 minutes and cost ¥2,800 (¥2,900 from December 1, 2026) one way; most departures need a reserved seat, booked on Japan Bus Online ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). The Tourist Association suggests 2–3 hours in the village ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/)).
 
 **Two ways to end the trip:**
 
@@ -85,7 +85,7 @@ Yes, if you want mountain views from the bath. Okuhida is about 58 minutes by No
 
 Shirakawa-go is under snow from late December to late February, and Nohi Bus warns of delays of two hours or more on the Shirakawa-go line in winter ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/4/); [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). Leave a buffer before any train or flight on day 3. See [Shirakawa-go in winter](shirakawa-go-in-winter.html) and [Takayama in winter](takayama-in-winter.html).
 
-**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Visiting the thatched farmhouse museum on the hill? See [Gero Onsen Gassho Village](gero-onsen-gassho-village.html) for tickets, hours and the bus.
 

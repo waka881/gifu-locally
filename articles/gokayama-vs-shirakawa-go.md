@@ -1,7 +1,7 @@
 ---
 title: "Gokayama vs Shirakawa-go: Which Thatched Village Should You Visit?"
 description: "Gokayama or Shirakawa-go? Both are part of the same UNESCO World Heritage site. Compare Ainokura and Suganuma in Gokayama with Ogimachi in Shirakawa-go: access from Takayama and Takaoka, time needed, parking, and a day tour that visits both."
-summary: Choose Shirakawa-go if you want the easiest trip and the best-known village, since it is about 50 minutes from Takayama by express bus (¥2,800) and takes 2–3 hours to walk around; choose Gokayama if you'd rather see a smaller village in the same UNESCO World Heritage site, such as Ainokura with about 20 gassho houses, reached by the World Heritage Bus from JR Takaoka Station (about 80 minutes) or about 20 minutes by car from Gokayama IC. To see both in one day from Takayama, a day tour such as Klook's Shirakawa-go and Gokayama tour (from about US$90) is the simplest option.
+summary: Choose Shirakawa-go if you want the easiest trip and the best-known village, since it is about 50 minutes from Takayama by express bus (¥2,800; ¥2,900 from December 1, 2026) and takes 2–3 hours to walk around; choose Gokayama if you'd rather see a smaller village in the same UNESCO World Heritage site, such as Ainokura with about 20 gassho houses, reached by the World Heritage Bus from JR Takaoka Station (about 80 minutes) or about 20 minutes by car from Gokayama IC. To see both in one day from Takayama, a day tour such as Klook's Shirakawa-go and Gokayama tour (from about US$90) is the simplest option.
 status: 公開
 facts_checked: 2026-11-01
 cta: https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/|See Shirakawa-go and Gokayama in one day|A full-day tour from the Takayama Nohi Bus Center that stops at both villages. Check dates and price on Klook.|See tour
@@ -21,7 +21,7 @@ Shirakawa-go and Gokayama are listed together by UNESCO as the "Historic Village
 |---|---|---|---|
 | Prefecture | Gifu | Toyama (Nanto City) | Toyama (Nanto City) |
 | Size | The best-known village; most visitors spend 2–3 hours | About 20 gassho houses, 100–350 years old; the largest gassho village in Gokayama | Smaller village by the river |
-| From Takayama | About 50 min by express bus, ¥2,800 | No direct route bus listed; use a tour or car | No direct route bus listed; use a tour or car |
+| From Takayama | About 50 min by express bus, ¥2,800 (¥2,900 from Dec 1, 2026) | No direct route bus listed; use a tour or car | No direct route bus listed; use a tour or car |
 | By World Heritage Bus | – | About 80 min from JR Takaoka, 65 min from Shin-Takaoka, 25 min from Johana, then 5 min on foot | About 95 min from JR Takaoka, 80 min from Shin-Takaoka, 40 min from Johana, then 1 min on foot |
 | By car | – | About 20 min from Gokayama IC; parking ¥1,000 per car | – |
 | Entry | Village free; most houses ¥300–¥400 | Free; 8:30–17:00 | – |
@@ -65,7 +65,7 @@ Want to stay overnight in a thatched house? See [staying overnight in Shirakawa-
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Base yourself in Takayama|Tours and buses to Shirakawa-go leave from by the station. Compare hotels nearby on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone for bus times and maps between the villages. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus times and maps between the villages. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 ## FAQ
 

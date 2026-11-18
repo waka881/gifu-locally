@@ -1,7 +1,7 @@
 ---
 title: "Shirakawa-go from Kanazawa: Day Trip by Bus or Guided Tour"
-description: "How to visit Shirakawa-go from Kanazawa: the express bus (about 1 hour 20 minutes, ¥2,800), reservations, luggage, winter delays, a sample day and guided tours that add Takayama."
-summary: Kanazawa is the closest big city to Shirakawa-go, about 1 hour 20 minutes by express bus from Kanazawa Station to Shirakawago Bus Terminal, and the adult fare is ¥2,800 one way. Book seats in advance through Japan Bus Online, plan 2–3 hours in the village, and allow extra time in winter, when delays of two hours or more can happen. A guided day tour from Kanazawa can add Takayama in 8–10 hours.
+description: "How to visit Shirakawa-go from Kanazawa: the express bus (about 1 hour 20 minutes, ¥2,800; ¥2,900 from December 1, 2026), reservations, luggage, winter delays, a sample day and guided tours that add Takayama."
+summary: Kanazawa is the closest big city to Shirakawa-go, about 1 hour 20 minutes by express bus from Kanazawa Station to Shirakawago Bus Terminal, and the adult fare is ¥2,800 (¥2,900 from December 1, 2026) one way. Book seats in advance through Japan Bus Online, plan 2–3 hours in the village, and allow extra time in winter, when delays of two hours or more can happen. A guided day tour from Kanazawa can add Takayama in 8–10 hours.
 status: 公開
 facts_checked: 2026-11-02
 cta: https://www.klook.com/activity/101875-shirakawago-takayama-join-one-day-bus-tour-kanazawa/|Shirakawa-go and Takayama day tour from Kanazawa|8–10 hour guided bus tour covering both towns, departing Kanazawa. See dates, itinerary and reviews on Klook.|Check dates
@@ -20,7 +20,7 @@ If you are staying in Kanazawa, Shirakawa-go is one of the easiest day trips you
 | | Details |
 |---|---|
 | Bus time | About 1 h 20 min from Kanazawa Station to Shirakawago Bus Terminal (about 1 h 30 min door to village) |
-| Adult fare | ¥2,800 one way (Shirakawa-go–Kanazawa) |
+| Adult fare | ¥2,800 (¥2,900 from Dec 1, 2026) one way (Shirakawa-go–Kanazawa) |
 | Booking | Reserved services can be booked through Japan Bus Online |
 | Time in the village | About 2–3 hours to walk around |
 | Winter | Delays of two hours or more can occur |
@@ -32,7 +32,7 @@ If you are staying in Kanazawa, Shirakawa-go is one of the easiest day trips you
 
 The express bus leaves from Kanazawa Station and takes about 1 hour 20 minutes to Shirakawago Bus Terminal. The village is about 1 minute on foot from the terminal, so the whole trip is about 1 hour 30 minutes ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026).
 
-The bus is part of the line that runs between Takayama, Shirakawa-go and Kanazawa, Takaoka or Toyama. Nohi Bus lists the adult fare between Shirakawa-go and Kanazawa as **¥2,800 one way**, and between Shirakawa-go and Toyama as ¥2,400 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
+The bus is part of the line that runs between Takayama, Shirakawa-go and Kanazawa, Takaoka or Toyama. Nohi Bus lists the adult fare between Shirakawa-go and Kanazawa as **¥2,800 (¥2,900 from December 1, 2026) one way**, and between Shirakawa-go and Toyama as ¥2,400 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
 
 **Reservations:** services marked "R" on the timetable need a reserved seat, and reserved services can be booked online through Japan Bus Online. Mobile tickets are only for non-reserved buses (same source). The Tourist Association also links to the reservation pages of Gifu Bus, Nohi Bus and Hokuriku Hida 3-Star Road ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/)). Book your return bus at the same time as the outbound one: it sets how long you can stay.
 
@@ -68,7 +68,7 @@ Go up to the viewpoint early: the shuttle's last run is 14:40. More on each sigh
 
 | | Express bus | Guided day tour from Kanazawa |
 |---|---|---|
-| Cost | ¥2,800 each way | Higher; varies by date |
+| Cost | ¥2,800 (¥2,900 from Dec 1, 2026) each way | Higher; varies by date |
 | Places | Shirakawa-go (add Takayama yourself) | Shirakawa-go and Takayama, including the Takayama Festival Floats Exhibition Hall on one tour |
 | Time | Your own pace within your bus times | 8–10 hours, fixed schedule |
 | Booking | Reserve two bus seats | One booking |
@@ -79,11 +79,11 @@ Go up to the viewpoint early: the shuttle's last run is 14:40. More on each sigh
 
 ## Can you continue to Takayama instead of going back?
 
-Yes. The same line continues from Shirakawa-go to Takayama in about 50 minutes for ¥2,800 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). That turns the trip into the classic route in reverse; see our [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html), [Kanazawa to Takayama bus times](takayama-to-kanazawa-bus.html) and [where to stay in Takayama](where-to-stay-takayama.html).
+Yes. The same line continues from Shirakawa-go to Takayama in about 50 minutes for ¥2,800 (¥2,900 from December 1, 2026) ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/)). That turns the trip into the classic route in reverse; see our [Japan Alps route guide](nagoya-takayama-shirakawa-go-kanazawa.html), [Kanazawa to Takayama bus times](takayama-to-kanazawa-bus.html) and [where to stay in Takayama](where-to-stay-takayama.html).
 
 [[cta|https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Continuing to Takayama?|Book a night near JR Takayama Station, where the bus from Shirakawa-go arrives. Compare hotels on Klook.|See stays]]
 
-**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of October 2026).
+**Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Coming from Tokyo? See [Tokyo to Shirakawa-go](tokyo-to-shirakawa-go.html). Deciding between a Kanazawa base and a Takayama base? See [Takayama or Kanazawa?](takayama-or-kanazawa.html), or visit Takayama for the day with our [Takayama day trip from Kanazawa](takayama-day-trip-from-kanazawa.html) guide.
 
@@ -99,7 +99,7 @@ About 1 hour 20 minutes from Kanazawa Station to Shirakawago Bus Terminal, or ab
 
 ### How much is the bus from Kanazawa to Shirakawa-go?
 
-Nohi Bus lists the adult fare between Shirakawa-go and Kanazawa as ¥2,800 one way ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
+Nohi Bus lists the adult fare between Shirakawa-go and Kanazawa as ¥2,800 (¥2,900 from December 1, 2026) one way ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
 
 ### Do I need to reserve the bus from Kanazawa to Shirakawa-go?
 

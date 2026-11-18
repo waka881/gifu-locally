@@ -57,7 +57,7 @@ Klook lists a guided Takayama & Shirakawa-go One Day Tour from Takayama, about 9
 
 [[cta|https://www.klook.com/activity/91141-takayama-shirakawa-go-one-day-bus-tour-takayama/|Takayama & Shirakawa-go guided day|English-speaking guide, Takayama Jinya, the old town and Shirakawa-go. Check dates and price on Klook.|See tour]]
 
-**Before you go:** you'll rely on your phone for bus times and maps around town. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
+**Before you go:** you'll rely on your phone for bus times and maps around town. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
 Time for one more museum? The [Kusakabe Folk Museum](kusakabe-folk-museum.html) is a merchant house about five minutes on foot from the old town.
 
