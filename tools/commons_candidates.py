@@ -1,6 +1,7 @@
 """Commonsで記事ごとの写真候補を探し、ライセンス情報つきで出力する（Actionsで実行）。"""
 import json, re, urllib.parse, urllib.request
 Q = {
+    "shirakawa-go-practical-tips": "Shirakawa-go Ogimachi",
     "iwamura-castle-town": "岩村町本通り",
     "ogaki-castle": "Ogaki Castle",
     "yoro-park-site-of-reversible-destiny": "Site of Reversible Destiny Yoro",
