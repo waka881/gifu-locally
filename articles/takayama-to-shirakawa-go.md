@@ -111,6 +111,8 @@ A guided tour from Takayama saves you from booking buses and can add Gokayama, a
 
 Still choosing a base? See [where to stay for Shirakawa-go](where-to-stay-for-shirakawa-go.html), which compares Takayama, Kanazawa and the village.
 
+Before you go: [Shirakawa-go practical tips](shirakawa-go-practical-tips.html) covers coin lockers, entry fees, the observatory shuttle and money exchange.
+
 ## FAQ
 
 ### How long is the bus from Takayama to Shirakawa-go?

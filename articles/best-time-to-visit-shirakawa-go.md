@@ -88,6 +88,8 @@ Note that the highway bus fare depends on the date: Gifu Bus uses five date cate
 
 **Before you go:** you'll rely on your phone for bus reservations, timetables and maps on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.44 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Before you go: [Shirakawa-go practical tips](shirakawa-go-practical-tips.html) covers coin lockers, entry fees, the observatory shuttle and money exchange.
+
 ## FAQ
 
 ### What month is best to visit Shirakawa-go?

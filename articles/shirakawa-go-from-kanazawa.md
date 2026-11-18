@@ -89,6 +89,8 @@ Coming from Tokyo? See [Tokyo to Shirakawa-go](tokyo-to-shirakawa-go.html). Deci
 
 Not sure whether to base yourself in Kanazawa or Takayama? See [where to stay for Shirakawa-go](where-to-stay-for-shirakawa-go.html).
 
+Before you go: [Shirakawa-go practical tips](shirakawa-go-practical-tips.html) covers coin lockers, entry fees, the observatory shuttle and money exchange.
+
 ## FAQ
 
 ### How long is the bus from Kanazawa to Shirakawa-go?

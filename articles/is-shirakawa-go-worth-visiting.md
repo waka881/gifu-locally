@@ -3,7 +3,7 @@ title: "Is Shirakawa-go Worth Visiting? What to Expect, Costs and Crowds"
 description: "Is Shirakawa-go worth it? What the UNESCO village is really like, how long you need, what it costs from Nagoya or Takayama, crowds, rules and who should skip it."
 summary: Shirakawa-go is worth visiting if you want to see Japan's thatched gassho-style farmhouses, which UNESCO describes as the only examples of their kind in Japan, but it is a small village that most people walk around in 2–3 hours, so it suits a half-day stop from Takayama or a long day trip from Nagoya rather than a full day on its own. Entry to the village is free, most houses charge ¥300–¥400, and the main costs are the reserved highway bus (¥3,600–¥4,700 one way from Nagoya) and your time.
 status: 公開
-facts_checked: 2026-10-28
+facts_checked: 2026-11-18
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|See Shirakawa-go without planning the buses|Guided day tour from Nagoya that also stops in Takayama and Gujo Hachiman. See dates, itinerary and reviews on Klook.|Check dates
 image: Overview of Ogimachi, Shirakawa, from the Ogimachi Castle observation point.jpg
 image_alt: Ogimachi village in Shirakawa-go seen from the observation point
@@ -39,7 +39,7 @@ That last point matters for visitors: this is a lived-in village, not an open-ai
 
 ## What do you actually do in Shirakawa-go?
 
-Most of a visit is walking: the Tourist Association says there is no sightseeing bus and every sight is within walking distance ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of October 2026). The main stops:
+Most of a visit is walking: the Tourist Association says there is no sightseeing bus and every sight is within walking distance ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of November 2026). The main stops:
 
 - **Shiroyama viewpoint** for the classic view over the whole village. The shuttle leaves from in front of Wada House every 20 minutes from 10:00 to 14:40, with a break from 12:00 to 13:00, and costs ¥200 one way, cash only (same source).
 - **Wada House**, which Visit Gifu calls the oldest and largest remaining gassho-zukuri house in the village. Adults pay ¥400, cash only, and it is open 9:00–17:00 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/active/13/)).
@@ -98,7 +98,7 @@ It is most worth it if the thatched farmhouse village is a sight you specificall
 |---|---|---|
 | Highway bus from Nagoya | Independent travellers on a day trip | Reserved seats; booking opens one month ahead ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html)) |
 | Express bus from Takayama | Anyone staying in Takayama | About 50 minutes; see [Takayama to Shirakawa-go](takayama-to-shirakawa-go.html) for times |
-| Express bus from Kanazawa | Anyone staying in Kanazawa | About 1 h 20 min, ¥2,800; see [Shirakawa-go from Kanazawa](shirakawa-go-from-kanazawa.html) |
+| Express bus from Kanazawa | Anyone staying in Kanazawa | About 1 h 20 min, ¥2,800 (¥2,900 from December 1, 2026); see [Shirakawa-go from Kanazawa](shirakawa-go-from-kanazawa.html) |
 | Guided day tour from Nagoya | One-day visitors who want to add Takayama | Less time in each place; check the itinerary |
 | Overnight stay | Avoiding the midday crowds | Farmhouse inns book up early |
 
@@ -110,11 +110,13 @@ For a two-day plan that includes both towns, see our [Takayama 2-day itinerary](
 
 Starting from Kansai? See [Osaka or Kyoto to Shirakawa-go](osaka-kyoto-to-shirakawa-go.html).
 
+Before you go: [Shirakawa-go practical tips](shirakawa-go-practical-tips.html) covers coin lockers, entry fees, the observatory shuttle and money exchange.
+
 ## FAQ
 
 ### How many hours do you need in Shirakawa-go?
 
-The Shirakawa-go Tourist Association estimates that walking around the village takes about 2–3 hours ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of October 2026).
+The Shirakawa-go Tourist Association estimates that walking around the village takes about 2–3 hours ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of November 2026).
 
 ### Is it free to enter Shirakawa-go?
 
@@ -129,4 +131,4 @@ It works as a day trip, but the highway bus takes about 2 hours 50 minutes each 
 Yes. The Tourist Association's accommodation search lists 41 places to stay, including gassho-style farmhouse inns, ryokan and a hotel ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/), as of October 2026).
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-28.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-11-18.*
