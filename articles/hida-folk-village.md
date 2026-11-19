@@ -3,7 +3,7 @@ title: "Hida Folk Village (Hida no Sato): Tickets, Bus from Takayama and Is It W
 description: "Hida Folk Village in Takayama: over 30 thatched and shingled farmhouses on a hillside, open 8:30–17:00, ¥700 for adults, 10 minutes by Sarubobo Bus (¥210) from Takayama Station, the ¥1,000 bus-and-entry combination ticket and the winter illumination."
 summary: Hida Folk Village (Hida no Sato) is an open-air museum of more than 30 traditional Hida buildings, including thatched farmhouses you can walk into, open every day 8:30–17:00 for ¥700 (adults); it is about 10 minutes from the Takayama Nohi Bus Center on the Sarubobo Bus (¥210 each way), or ¥1,000 for Nohi Bus's combination ticket with round-trip bus and entry. It is worth it if you won't reach Shirakawa-go, or want a quieter look at thatched houses close to Takayama.
 status: 公開
-facts_checked: 2026-10-28
+facts_checked: 2026-11-20
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Stay in Takayama for the Folk Village|The bus to Hida Folk Village leaves from the bus center next to JR Takayama Station. Compare hotels nearby on Klook.|See stays
 image: JP-Takayama-hida-no-sato-2.jpg
 image_alt: Thatched farmhouses at Hida Folk Village in Takayama
@@ -26,7 +26,7 @@ Hida Folk Village is a hillside open-air museum just outside central Takayama, w
 | Combination ticket | Nohi Bus: round-trip bus + admission, ¥1,000 (adults) |
 | Craft demonstrations | 10:00–15:00 (may change) |
 
-*Sources: [Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000165.html); [Nohi Bus economical tickets](https://www.nouhibus.co.jp/english/ticket/), as of October 2026.*
+*Sources: [Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000165.html); [Nohi Bus economical tickets](https://www.nouhibus.co.jp/english/ticket/), as of November 2026.*
 
 ## What is there to see?
 
@@ -45,7 +45,7 @@ The village has more than 30 buildings that recreate how Hida's mountain farming
 | Nohi Bus combination ticket (round-trip bus + admission) | — | ¥1,000 |
 | Walk | 20–30 min each way | Free |
 
-*Sources: [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000165.html); [Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Nohi Bus](https://www.nouhibus.co.jp/english/ticket/), as of October 2026.*
+*Sources: [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000165.html); [Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Nohi Bus](https://www.nouhibus.co.jp/english/ticket/), as of November 2026.*
 
 The bus leaves from the Takayama Nohi Bus Center next to JR Takayama Station; get off at "Hida-no-Sato-Shita". If you plan to ride the city buses several times, Nohi Bus also sells a Takayama City Two-Day Open Ticket for ¥1,000, valid on all Takayama city route buses ([Nohi Bus](https://www.nouhibus.co.jp/english/ticket/)).
 
@@ -58,7 +58,7 @@ The bus leaves from the Takayama Nohi Bus Center next to JR Takayama Station; ge
 | Entry | ¥700 | Some houses charge (e.g. Wada House ¥400) |
 | Time needed | Not stated; about 1–2 hours (our estimate) | 2–3 hours suggested |
 
-*Sources: as above; [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/); [Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/); [Wada House](https://shirakawa-go.gr.jp/en/active/13/), as of October 2026.*
+*Sources: as above; [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/); [Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/); [Wada House](https://shirakawa-go.gr.jp/en/active/13/), as of November 2026.*
 
 If you have time for both, do both: they show different things. If you only have one day in Takayama and won't reach Shirakawa-go, the Folk Village is the easy way to see thatched houses. See [Is Shirakawa-go worth visiting?](is-shirakawa-go-worth-visiting.html) and [Takayama or Shirakawa-go?](takayama-or-shirakawa-go.html).
 
@@ -76,7 +76,7 @@ Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumin
 
 ### How much is Hida Folk Village?
 
-¥700 for adults and ¥200 for ages 6–15. Nohi Bus's combination ticket with the round-trip bus costs ¥1,000 for adults ([Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Nohi Bus](https://www.nouhibus.co.jp/english/ticket/), as of October 2026).
+¥700 for adults and ¥200 for ages 6–15. Nohi Bus's combination ticket with the round-trip bus costs ¥1,000 for adults ([Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Nohi Bus](https://www.nouhibus.co.jp/english/ticket/), as of November 2026).
 
 ### How do I get to Hida Folk Village from Takayama Station?
 
@@ -91,4 +91,4 @@ Take the Sarubobo Bus from the Takayama Nohi Bus Center to "Hida-no-Sato-Shita",
 Both are worth it, as one is a museum of houses moved from around Hida and the other a living World Heritage village. If you can only do one, Shirakawa-go is the bigger trip; the Folk Village is the easy option from Takayama.
 
 ---
-*Hours, prices and bus fares change. Check official sources before you go. Facts last checked: 2026-10-28.*
+*Hours, prices and bus fares change. Check official sources before you go. Facts last checked: 2026-11-20.*
