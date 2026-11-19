@@ -60,6 +60,8 @@ Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure d
 
 Into planes and rockets? The [Gifu-Kakamigahara Air and Space Museum](kakamigahara-air-space-museum.html) is just east of Gifu City, by Meitetsu or JR and a community bus.
 
+In spring, the [Usuzumi cherry](usuzumi-cherry-blossom.html), a tree over 1,500 years old and one of Japan's Three Great Cherry Trees, is about an hour north of Ogaki on the Tarumi Railway.
+
 ## FAQ
 
 ### How do you get to the Mt. Kinka Ropeway from Gifu Station?

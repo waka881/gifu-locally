@@ -50,6 +50,8 @@ Walk about 7 minutes south from the south exit of JR Ogaki Station ([Ogaki touri
 
 **Before you go:** you'll rely on your phone for train times and maps. Our [Japan eSIM guide](japan-esim-gifu.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+In spring, the [Usuzumi cherry](usuzumi-cherry-blossom.html), a tree over 1,500 years old and one of Japan's Three Great Cherry Trees, is about an hour north of Ogaki on the Tarumi Railway.
+
 ## FAQ
 
 ### How much is Ogaki Castle?

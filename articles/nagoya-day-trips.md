@@ -131,6 +131,8 @@ Looking for something unusual? The [Site of Reversible Destiny](yoro-park-site-o
 
 Another old town in eastern Gifu: [Iwamura castle town](iwamura-castle-town.html), about 30 minutes on the Akechi Railway from JR Ena, with a walk up to the castle ruins.
 
+In spring, the [Usuzumi cherry](usuzumi-cherry-blossom.html), a tree over 1,500 years old and one of Japan's Three Great Cherry Trees, is about an hour north of Ogaki on the Tarumi Railway.
+
 ## FAQ
 
 ### What is a good first day trip from Nagoya to Gifu?

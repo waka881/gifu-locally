@@ -52,6 +52,8 @@ For more ideas, see [Nagoya or Gifu City as a base](nagoya-or-gifu-city-base.htm
 
 Into castles? [Ogaki Castle](ogaki-castle.html), the Western Army's base at Sekigahara, is 7 minutes on foot from JR Ogaki Station and open while Gifu Castle is closed.
 
+In spring, the [Usuzumi cherry](usuzumi-cherry-blossom.html), a tree over 1,500 years old and one of Japan's Three Great Cherry Trees, is about an hour north of Ogaki on the Tarumi Railway.
+
 ## FAQ
 
 ### How much is the Site of Reversible Destiny?
