@@ -3,7 +3,7 @@ title: "Takayama Festival 2027: Spring and Autumn Dates, Schedule and Where to S
 description: "Takayama Festival guide: the Spring Festival (April 14–15) and Autumn Festival (October 9–10), the float display, karakuri puppet show and night festival times, what happens in rain, the Floats Exhibition Hall, and why to book a hotel early."
 summary: The Takayama Festival is held twice a year on fixed dates, the Spring Festival (Sanno Matsuri) on April 14–15 with 12 floats and the Autumn Festival (Hachiman Matsuri) on October 9–10 with 11 floats; in spring the floats are displayed from 9:30, karakuri puppet shows run at 10:00 and 14:00 at the Takayama Jinya area, and the lantern-lit night festival starts at 18:00 on April 14. Most events are cancelled in rain and not postponed, and Takayama hotels fill early for both dates, so book as soon as your plans are set.
 status: 公開
-facts_checked: 2026-10-27
+facts_checked: 2026-11-19
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book Takayama early for festival dates|Rooms go fast around April 14–15 and October 9–10. Compare hotels near JR Takayama Station on Klook.|See stays
 image: Takayama Festival Float Exhibition Hall - Takayama, Gifu, Japan - DSC06503.jpg
 image_alt: A festival float inside the Takayama Festival Floats Exhibition Hall
@@ -25,7 +25,7 @@ The Takayama Festival fills the old town with ornate festival floats (yatai) twi
 | Night festival | First night, about 100 lanterns lit on each float | First night, about 100 lanterns lit on each float |
 | Area | South of Yasugawa Street, around Takayama Jinya | Varies by festival; see the official map for the year |
 
-*Sources: [Hida Takayama Tourism, Takayama Festival](https://www.hida.jp/english/festivalsandevents/4000105.html); [Spring Takayama Festival](https://www.hida.jp/english/festivalsandevents/4000208.html), as of October 2026. Weekdays calculated from the fixed dates.*
+*Sources: [Hida Takayama Tourism, Takayama Festival](https://www.hida.jp/english/festivalsandevents/4000105.html); [Spring Takayama Festival](https://www.hida.jp/english/festivalsandevents/4000208.html), as of November 2026. Weekdays calculated from the fixed dates.*
 
 Hida Takayama Tourism describes it as one of the three most beautiful festivals in Japan, said to date from the late 16th to 17th century ([Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000105.html)).
 
@@ -38,7 +38,7 @@ Hida Takayama Tourism describes it as one of the three most beautiful festivals 
 | Shrine procession | 12:45 from Hie Shrine, ends about 16:00 at Otabisho | 12:30 from Otabisho, ends about 15:30 at Hie Shrine | Through town |
 | Night festival (yomatsuri) | From 18:00, starting near Nakabashi Bridge | — | Old town |
 
-*Source: [Hida Takayama Tourism, Spring Takayama Festival](https://www.hida.jp/english/festivalsandevents/4000208.html), as of October 2026. Check the page for the year you go.*
+*Source: [Hida Takayama Tourism, Spring Takayama Festival](https://www.hida.jp/english/festivalsandevents/4000208.html), as of November 2026. Check the page for the year you go.*
 
 Three floats perform the karakuri puppet show: Sanbaso, Ryujin-tai and Shakkyo-tai. The tourism office also streams the puppet show on its YouTube channel (same source).
 
@@ -50,7 +50,7 @@ The Autumn Festival (Hachiman Matsuri) is held on **October 9–10** for Sakuray
 
 ## Can you see the floats on other days?
 
-Yes. The **Takayama Festival Floats Exhibition Hall** shows floats from the autumn festival: four of the 11 are on display at a time, rotated in March, July and November. It is open daily, 9:00–17:00 from March to November and 9:00–16:30 from December to February; adult admission is ¥1,000 on the [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/spot/detail_1244.html) (¥900 on Hida Takayama Tourism's English page); about 20 minutes on foot from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html), as of October 2026).
+Yes. The **Takayama Festival Floats Exhibition Hall** shows floats from the autumn festival: four of the 11 are on display at a time, rotated in March, July and November. It is open daily, 9:00–17:00 from March to November and 9:00–16:30 from December to February; adult admission is ¥1,000 on the [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/spot/detail_1244.html) (¥900 on Hida Takayama Tourism's English page); about 20 minutes on foot from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html), as of November 2026).
 
 ## Where should you stay for the Takayama Festival?
 
@@ -62,7 +62,7 @@ If Takayama is full, Gero Onsen is about 45–60 minutes away by train ([JR Cent
 
 ## Tips for festival days
 
-From Hida Takayama Tourism's festival page (as of October 2026):
+From Hida Takayama Tourism's festival page (as of November 2026):
 
 - Crowds are heavy: give way to others and don't block the parade for photos.
 - Don't touch the floats, and keep your distance when they are on display.
@@ -82,7 +82,7 @@ The Spring Festival is on April 14–15, 2027 (Wednesday–Thursday) and the Aut
 
 ### What time is the karakuri puppet show at the Spring Takayama Festival?
 
-At 10:00 and 14:00 on both April 14 and 15, about 50 minutes each, at Takayama Jinya (Otabisho) ([Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000208.html), as of October 2026).
+At 10:00 and 14:00 on both April 14 and 15, about 50 minutes each, at Takayama Jinya (Otabisho) ([Hida Takayama Tourism](https://www.hida.jp/english/festivalsandevents/4000208.html), as of November 2026).
 
 ### What happens if it rains during the Takayama Festival?
 
@@ -93,4 +93,4 @@ The procession, float display, puppet show and night festival are cancelled and 
 Yes, at the Takayama Festival Floats Exhibition Hall, open daily, ¥1,000 for adults on the Gifu Prefecture tourism site (¥900 on Hida Takayama Tourism's page), with four autumn-festival floats on display at a time ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html)).
 
 ---
-*Festival schedules change and depend on the weather. Check Hida Takayama Tourism before you go. Facts last checked: 2026-10-27.*
+*Festival schedules change and depend on the weather. Check Hida Takayama Tourism before you go. Facts last checked: 2026-11-19.*
