@@ -62,6 +62,8 @@ Into planes and rockets? The [Gifu-Kakamigahara Air and Space Museum](kakamigaha
 
 In spring, the [Usuzumi cherry](usuzumi-cherry-blossom.html), a tree over 1,500 years old and one of Japan's Three Great Cherry Trees, is about an hour north of Ogaki on the Tarumi Railway.
 
+For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html), from Gifu Park in late March to Okuhida in late April.
+
 ## FAQ
 
 ### How do you get to the Mt. Kinka Ropeway from Gifu Station?

@@ -133,6 +133,8 @@ Visiting the thatched farmhouse museum on the hill? See [Gero Onsen Gassho Villa
 
 Visiting in winter? [Gero Onsen winter fireworks](gero-onsen-winter-fireworks.html) has the December 2026 show dates and the Saturday fireworks from January to March.
 
+For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html), from Gifu Park in late March to Okuhida in late April.
+
 ## FAQ
 
 ### How much is the train from Nagoya to Gero Onsen?

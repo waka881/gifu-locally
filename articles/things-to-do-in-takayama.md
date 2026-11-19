@@ -81,6 +81,8 @@ For areas to stay, see [where to stay in Takayama](where-to-stay-takayama.html).
 
 Want to step inside a merchant house? See the [Kusakabe Folk Museum](kusakabe-folk-museum.html).
 
+For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html), from Gifu Park in late March to Okuhida in late April.
+
 ## FAQ
 
 ### What is Takayama best known for?

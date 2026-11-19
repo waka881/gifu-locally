@@ -74,6 +74,8 @@ From Hida Takayama Tourism's festival page (as of November 2026):
 
 More on tickets and hours: [Takayama Festival Floats Exhibition Hall](takayama-festival-floats-exhibition-hall.html).
 
+For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html), from Gifu Park in late March to Okuhida in late April.
+
 ## FAQ
 
 ### When is the Takayama Festival in 2027?
