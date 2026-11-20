@@ -70,6 +70,8 @@ Both the Hida and the bus arrive by JR Takayama Station, so a hotel near the sta
 
 **Before you go:** you'll rely on your phone for bus reservations and train times on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) starts about 2.5 hours from Takayama via Toyama, from mid-April.
+
 ## FAQ
 
 ### How long does it take from Toyama to Takayama?
