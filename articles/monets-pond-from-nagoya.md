@@ -27,7 +27,7 @@ Monet's Pond is a small spring-fed pond in the mountains of Itadori, in Seki Cit
 | By car | About 35 min from Mino IC; parking for 200 cars |
 | From Nagoya | Train to JR Gifu Station, about 20 min |
 
-*Sources: [Seki City tourism (Japanese)](https://www.sekikanko.jp/spot_post/162); [JNTO](https://www.japan.travel/en/spot/154/); [GLTJP (JTB)](https://gltjp.com/en/directory/item/11989); [Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya/), as of November 2026.*
+*Sources: [Seki City tourism (Japanese)](https://www.sekikanko.jp/spot_post/162); [JNTO](https://www.japan.travel/en/spot/154/); [GLTJP (JTB)](https://gltjp.com/en/directory/item/11989); [Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya/), as of October–November 2026.*
 
 ## How do you get to Monet's Pond from Nagoya by bus?
 
@@ -45,7 +45,7 @@ JNTO puts the trip from Gifu Station at about 90 minutes. The official pages don
 | Rental car | About 35 min from Mino IC | Car hire and tolls; parking for 200 cars | Combining with Mino or Gujo |
 | Private tour from Nagoya | 10-hour day with hotel pick-up | From about US$538 per vehicle on Klook | Groups up to 9, families |
 
-*Sources: [JNTO](https://www.japan.travel/en/spot/154/); [GLTJP](https://gltjp.com/en/directory/item/11989); [Seki City tourism](https://www.sekikanko.jp/spot_post/162); [Klook](https://www.klook.com/en-US/activity/218266), as of November 2026.*
+*Sources: [JNTO](https://www.japan.travel/en/spot/154/); [GLTJP](https://gltjp.com/en/directory/item/11989); [Seki City tourism](https://www.sekikanko.jp/spot_post/162); [Klook](https://www.klook.com/en-US/activity/218266), as of October 2026.*
 
 **Driving:** JNTO says the pond is easiest to reach by car. Seki City notes that car navigation may not find "Monet's Pond" (モネの池), and suggests setting Flower Park Itadori (フラワーパーク板取) as the destination ([Seki City tourism](https://www.sekikanko.jp/spot_post/162)).
 
@@ -83,7 +83,7 @@ Take the train to JR Gifu Station (about 20 minutes), the Gifu Bus Itadori line 
 
 ### Is Monet's Pond free?
 
-Yes. Entry is free and it is open every day ([Seki City tourism](https://www.sekikanko.jp/spot_post/162); [GLTJP](https://gltjp.com/en/directory/item/11989), as of November 2026).
+Yes. Entry is free and it is open every day ([Seki City tourism](https://www.sekikanko.jp/spot_post/162); [GLTJP](https://gltjp.com/en/directory/item/11989), as of October–November 2026).
 
 ### When do the water lilies bloom at Monet's Pond?
 
