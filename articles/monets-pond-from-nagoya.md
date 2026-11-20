@@ -3,7 +3,7 @@ title: "Monet's Pond from Nagoya: Bus, Car or Tour, Best Time and What to Expect
 description: "How to get to Monet's Pond (Namonaki Ike) in Seki, Gifu from Nagoya: train to Gifu Station, the Gifu Bus to Horado Kiwi Plaza and the Itadori Fureai Bus, driving from Mino IC, a private tour with Mino Old Town, plus free entry, the best season and best light."
 summary: To reach Monet's Pond (the "nameless pond" in Itadori, Seki City) from Nagoya without a car, take the train to JR Gifu Station (about 20 minutes), then the Gifu Bus Itadori line to Horado Kiwi Plaza (about 70 minutes) and the Itadori Fureai Bus to "Monet-no-Ike-mae" (about 15 minutes), allowing about 90 minutes from Gifu Station; driving takes about 35 minutes from Mino IC. Entry is free and the pond is open every day; water lilies peak from mid-June to early August, and the light is best from about 9 to 11 am.
 status: 公開
-facts_checked: 2026-10-29
+facts_checked: 2026-11-21
 cta: https://www.klook.com/en-US/activity/218266|Skip the two buses: private tour from Nagoya|Hotel pick-up in Nagoya, Monet's Pond, Mino Old Town and Tagata Shrine by private van. Check dates and price on Klook.|See tour
 image: JPN nemichi shrine and Monet pond.jpg
 image_alt: Monet's Pond beside Nemichi Shrine in Itadori, Seki, Gifu
@@ -27,7 +27,7 @@ Monet's Pond is a small spring-fed pond in the mountains of Itadori, in Seki Cit
 | By car | About 35 min from Mino IC; parking for 200 cars |
 | From Nagoya | Train to JR Gifu Station, about 20 min |
 
-*Sources: [Seki City tourism (Japanese)](https://www.sekikanko.jp/spot_post/162); [JNTO](https://www.japan.travel/en/spot/154/); [GLTJP (JTB)](https://gltjp.com/en/directory/item/11989); [Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya/), as of October 2026.*
+*Sources: [Seki City tourism (Japanese)](https://www.sekikanko.jp/spot_post/162); [JNTO](https://www.japan.travel/en/spot/154/); [GLTJP (JTB)](https://gltjp.com/en/directory/item/11989); [Visit Gifu](https://visitgifu.com/how-to-get-to/nagoya/), as of November 2026.*
 
 ## How do you get to Monet's Pond from Nagoya by bus?
 
@@ -45,7 +45,7 @@ JNTO puts the trip from Gifu Station at about 90 minutes. The official pages don
 | Rental car | About 35 min from Mino IC | Car hire and tolls; parking for 200 cars | Combining with Mino or Gujo |
 | Private tour from Nagoya | 10-hour day with hotel pick-up | From about US$538 per vehicle on Klook | Groups up to 9, families |
 
-*Sources: [JNTO](https://www.japan.travel/en/spot/154/); [GLTJP](https://gltjp.com/en/directory/item/11989); [Seki City tourism](https://www.sekikanko.jp/spot_post/162); [Klook](https://www.klook.com/en-US/activity/218266), as of October 2026.*
+*Sources: [JNTO](https://www.japan.travel/en/spot/154/); [GLTJP](https://gltjp.com/en/directory/item/11989); [Seki City tourism](https://www.sekikanko.jp/spot_post/162); [Klook](https://www.klook.com/en-US/activity/218266), as of November 2026.*
 
 **Driving:** JNTO says the pond is easiest to reach by car. Seki City notes that car navigation may not find "Monet's Pond" (モネの池), and suggests setting Flower Park Itadori (フラワーパーク板取) as the destination ([Seki City tourism](https://www.sekikanko.jp/spot_post/162)).
 
@@ -58,6 +58,7 @@ JNTO puts the trip from Gifu Station at about 90 minutes. The official pages don
 - **Mid-June to early August:** water lilies in full bloom; the exact timing varies by year ([GLTJP](https://gltjp.com/en/directory/item/11989)). JNTO calls early summer the best time to visit ([JNTO](https://www.japan.travel/en/spot/154/)).
 - **Late June to early July:** hydrangeas along the Itadori area's Hydrangea Road (same GLTJP source).
 - **November:** the trees around the pond turn red (same source).
+- **Winter:** Seki City says the pond can be seen all year; in winter the water does not freeze, water lilies still flower and steam rises from the surface ([Seki City tourism](https://www.sekikanko.jp/spot_post/162), as of November 2026).
 - **Time of day:** Seki City says the light is best in the morning, from about 9:00 to 11:00 ([Seki City tourism](https://www.sekikanko.jp/spot_post/162)).
 
 JNTO notes that the pond is popular with photographers and painters, so you may need patience to get a spot on the small bridge and viewing platform ([JNTO](https://www.japan.travel/en/spot/154/)).
@@ -82,7 +83,7 @@ Take the train to JR Gifu Station (about 20 minutes), the Gifu Bus Itadori line 
 
 ### Is Monet's Pond free?
 
-Yes. Entry is free and it is open every day ([Seki City tourism](https://www.sekikanko.jp/spot_post/162); [GLTJP](https://gltjp.com/en/directory/item/11989), as of October 2026).
+Yes. Entry is free and it is open every day ([Seki City tourism](https://www.sekikanko.jp/spot_post/162); [GLTJP](https://gltjp.com/en/directory/item/11989), as of November 2026).
 
 ### When do the water lilies bloom at Monet's Pond?
 
@@ -93,4 +94,4 @@ Mostly from mid-June to early August, with exact timing varying each year ([GLTJ
 Yes, Seki City lists parking for 200 cars and for large buses ([Seki City tourism](https://www.sekikanko.jp/spot_post/162)).
 
 ---
-*Bus times and conditions change. Check Seki City and Gifu Bus before you go. Facts last checked: 2026-10-29.*
+*Bus times and conditions change. Check Seki City and Gifu Bus before you go. Facts last checked: 2026-11-21.*
