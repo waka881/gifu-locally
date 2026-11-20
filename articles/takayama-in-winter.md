@@ -90,6 +90,8 @@ Our [Gifu winter guide](gifu-winter-guide.html) covers the rest of the prefectur
 
 Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumination](hida-folk-village-winter-illumination.html) in Takayama runs every evening from January 9 to February 28, 2027.
 
+Planning for April or May? See [Takayama in spring](takayama-in-spring.html) for the festival, cherry blossoms and the mountain routes that reopen in mid-April.
+
 ## FAQ
 
 ### Is Takayama worth visiting in winter?

@@ -60,6 +60,8 @@ If your dates fall on the Takayama Festival (April 14–15), yes: the festival f
 
 **Before you go:** you'll rely on your phone to check bloom reports and train times. Our [Japan eSIM guide](japan-esim-gifu.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Planning for April or May? See [Takayama in spring](takayama-in-spring.html) for the festival, cherry blossoms and the mountain routes that reopen in mid-April.
+
 ## FAQ
 
 ### When is cherry blossom season in Gifu?

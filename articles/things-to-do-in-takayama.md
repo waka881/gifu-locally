@@ -85,6 +85,8 @@ For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html
 
 Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) is reached from Takayama by the Hida to Toyama (about 90 minutes) and a local train to Tateyama (about 1 hour), from mid-April.
 
+Planning for April or May? See [Takayama in spring](takayama-in-spring.html) for the festival, cherry blossoms and the mountain routes that reopen in mid-April.
+
 ## FAQ
 
 ### What is Takayama best known for?

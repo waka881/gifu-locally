@@ -76,6 +76,8 @@ More on tickets and hours: [Takayama Festival Floats Exhibition Hall](takayama-f
 
 For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html), from Gifu Park in late March to Okuhida in late April.
 
+Planning for April or May? See [Takayama in spring](takayama-in-spring.html) for the festival, cherry blossoms and the mountain routes that reopen in mid-April.
+
 ## FAQ
 
 ### When is the Takayama Festival in 2027?
