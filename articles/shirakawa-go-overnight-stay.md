@@ -3,7 +3,7 @@ title: "Staying Overnight in Shirakawa-go: Gassho Farmhouse Inns, Ryokan and How
 description: "Is it worth staying overnight in Shirakawa-go? The 41 places to stay listed by the Tourist Association (gassho farmhouse inns, ryokan, minshuku, guest houses), how to book, why only guests can be in the village after dark, light-up night stays and buses."
 summary: Staying overnight is the only way to be in Shirakawa-go after dark outside the light-up evenings, because day visitors are not admitted to the village at night; the Tourist Association lists 41 places to stay, from thatched gassho-house inns in Ogimachi to ryokan with hot springs in Hirase, bookable through its "Book a room in Shirakawa" search or by phone (+81-5769-6-1013, 9:00–17:00). Book early, and for the January light-up nights the Association's inn rooms are allocated by lottery.
 status: 公開
-facts_checked: 2026-10-28
+facts_checked: 2026-11-20
 cta: https://www.klook.com/en-US/destination/p50049597-shirakawa-go/3-hotel/|Find a room in Shirakawa-go|Gassho farmhouse inns and ryokan in and around the village. Compare availability and prices on Klook.|See stays
 image: Shirakawa Gassho-zukuri 12.jpg
 image_alt: Thatched gassho-zukuri houses in Shirakawa-go
@@ -26,11 +26,11 @@ Most visitors see Shirakawa-go on a day trip and leave on an afternoon bus. Stay
 | At night | Only overnight guests can be in the village after dark, except on light-up evenings |
 | Light-up nights 2027 | January 11, 17, 24 and 31; Association inn rooms allocated by lottery |
 
-*Sources: [Shirakawa-go Tourist Association, stay](https://shirakawa-go.gr.jp/en/stay/); [night-time notice](https://shirakawa-go.gr.jp/en/events/106/); [Tourist Association](https://shirakawa-go.gr.jp/), as of October 2026.*
+*Sources: [Shirakawa-go Tourist Association, stay](https://shirakawa-go.gr.jp/en/stay/); [night-time notice](https://shirakawa-go.gr.jp/en/events/106/); [Tourist Association](https://shirakawa-go.gr.jp/), as of November 2026.*
 
 ## Is it worth staying overnight in Shirakawa-go?
 
-Yes, if seeing the village at night or without the midday crowds matters to you. The Tourist Association says day visitors are not admitted to Ogimachi after dark, to protect residents' lives and privacy, so outside the light-up evenings only overnight guests can be in the village at night ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/events/106/)). A stay also removes the pressure of the last bus to Takayama, which leaves at 17:30 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
+Yes, if seeing the village at night or without the midday crowds matters to you. The Tourist Association says day visitors are not admitted to Ogimachi after dark, to protect residents' lives and privacy, so outside the light-up evenings only overnight guests can be in the village at night ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/events/106/)). A stay also removes the pressure of the last bus to Takayama, which leaves at 17:30 ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026).
 
 It is less worth it if you just want a look at the thatched houses: a day trip from Takayama (about 50 minutes by bus) or Kanazawa covers the main sights. See [Is Shirakawa-go worth visiting?](is-shirakawa-go-worth-visiting.html).
 
@@ -41,11 +41,11 @@ It is less worth it if you just want a look at the thatched houses: a day trip f
 | Bus time pressure | None that day | Last bus back 17:30 |
 | Choice of rooms | 41 places, fills early | Many more hotels near Takayama Station |
 
-*Sources: as above; [Takayama to Shirakawa-go bus guide](takayama-to-shirakawa-go.html), as of October 2026.*
+*Sources: as above; [Takayama to Shirakawa-go bus guide](takayama-to-shirakawa-go.html), as of November 2026.*
 
 ## What kind of places can you stay in?
 
-The Association's search lists five types (examples from its listings, as of October 2026):
+The Association's search lists five types (examples from its listings, as of November 2026):
 
 - **Gassho houses:** inns inside thatched farmhouses in Ogimachi. Juemon describes itself as nearly 300 years old; Hisamatsu and Yoshiro list an irori open hearth; Wadaya is lodging only and takes one group per day.
 - **Ryokan:** Yamakoshi lists plans at ¥18,000 and ¥15,000 (Hida beef dishes cost extra on the cheaper plan); Shirakawago No Yu has a sodium chloride hot spring; Fujiya in Hirase offers natural hot spring bathing.
@@ -68,7 +68,7 @@ Rooms are limited, so book as soon as your dates are set, especially for autumn 
 
 ## Can you stay overnight for the light-up?
 
-Yes, but the Tourist Association allocates the inn rooms it handles for the light-up nights by lottery, not first come, first served. The 41st light-up is on January 11, 17, 24 and 31, 2027 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of October 2026). For the 2026 event, the lottery closed on October 31 and rooms declined by winners were then released first come, first served ([Tourist Association](https://shirakawa-go.gr.jp/en/events/130/)). See our [Shirakawa-go light-up guide](shirakawa-go-light-up.html) for tours and the observation deck.
+Yes, but the Tourist Association allocates the inn rooms it handles for the light-up nights by lottery, not first come, first served. The 41st light-up is on January 11, 17, 24 and 31, 2027 ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/), as of November 2026). For the 2026 event, the lottery closed on October 31 and rooms declined by winners were then released first come, first served ([Tourist Association](https://shirakawa-go.gr.jp/en/events/130/)). See our [Shirakawa-go light-up guide](shirakawa-go-light-up.html) for tours and the observation deck.
 
 ## What if the village is full?
 
@@ -84,7 +84,7 @@ Comparing a night in the village with a base in Takayama or Kanazawa? See [where
 
 ### Can you stay overnight in Shirakawa-go?
 
-Yes. The Shirakawa-go Tourist Association lists 41 places to stay, including thatched gassho-house inns, ryokan, minshuku, a hotel and guest houses ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/), as of October 2026).
+Yes. The Shirakawa-go Tourist Association lists 41 places to stay, including thatched gassho-house inns, ryokan, minshuku, a hotel and guest houses ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/stay/), as of November 2026).
 
 ### Can you visit Shirakawa-go at night without staying?
 
@@ -96,7 +96,7 @@ Use the "Book a room in Shirakawa" search on the Tourist Association's stay page
 
 ### How much does it cost to stay in Shirakawa-go?
 
-It varies by property. As one example, the ryokan Yamakoshi lists plans at ¥18,000 and ¥15,000 (same source, as of October 2026); check each property for current prices.
+It varies by property. As one example, the ryokan Yamakoshi lists plans at ¥18,000 and ¥15,000 (same source, as of November 2026); check each property for current prices.
 
 ---
-*Prices, rooms and rules change. Check the Shirakawa-go Tourist Association before you go. Facts last checked: 2026-10-28.*
+*Prices, rooms and rules change. Check the Shirakawa-go Tourist Association before you go. Facts last checked: 2026-11-20.*

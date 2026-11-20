@@ -72,7 +72,7 @@ For a two- or three-day stay, the area around JR Takayama Station is the practic
 
 **Short on time?** [Hida Folk Village](hida-folk-village.html), 10 minutes by bus from Takayama Station, has over 30 traditional farmhouses you can walk into.
 
-Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) starts about 2.5 hours from Takayama via Toyama, from mid-April.
+Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) is reached from Takayama by the Hida to Toyama (about 90 minutes) and a local train to Tateyama (about 1 hour), from mid-April.
 
 ## FAQ
 

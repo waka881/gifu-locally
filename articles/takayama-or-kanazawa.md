@@ -70,7 +70,7 @@ Short on time and staying in Kanazawa? A [day trip to Shirakawa-go from Kanazawa
 
 Staying in Kanazawa and short on time? Takayama works as a long day trip by bus; see [Takayama day trip from Kanazawa](takayama-day-trip-from-kanazawa.html).
 
-Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) starts about 2.5 hours from Takayama via Toyama, from mid-April.
+Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) is reached from Takayama by the Hida to Toyama (about 90 minutes) and a local train to Tateyama (about 1 hour), from mid-April.
 
 ## FAQ
 

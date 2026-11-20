@@ -83,7 +83,7 @@ Want to step inside a merchant house? See the [Kusakabe Folk Museum](kusakabe-fo
 
 For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html), from Gifu Park in late March to Okuhida in late April.
 
-Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) starts about 2.5 hours from Takayama via Toyama, from mid-April.
+Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) is reached from Takayama by the Hida to Toyama (about 90 minutes) and a local train to Tateyama (about 1 hour), from mid-April.
 
 ## FAQ
 
