@@ -1,7 +1,7 @@
 ---
 title: "Toyama to Takayama: Limited Express Hida vs the Bus via Shirakawa-go"
-description: "How to get from Toyama to Takayama: the JR Limited Express Hida (about 90 minutes) or the Nohi/Chitetsu bus via Shirakawa-go (about 2 hours 20 minutes, ¥3,800), with bus times, the Takayama-Hokuriku pass, and connections from the Hokuriku Shinkansen and Kanazawa."
-summary: The fastest way from Toyama to Takayama is the JR Limited Express Hida, about 90 minutes direct, while the bus from Toyama Station takes about 2 hours 20 minutes for ¥3,800 but stops at Shirakawa-go on the way (¥2,400 Toyama–Shirakawa-go), with three departures a day (9:00, 10:10 and 12:00 as of November 2026); both are covered by the Takayama-Hokuriku Area Tourist Pass, and Toyama is 2 hours 8 minutes from Tokyo on the Hokuriku Shinkansen.
+description: "How to get from Toyama to Takayama: the JR Limited Express Hida (about 90 minutes) or the Nohi/Chitetsu bus via Shirakawa-go (about 2 hours 20 minutes, ¥3,800; ¥3,900 from December 1, 2026), with bus times, the Takayama-Hokuriku pass, and connections from the Hokuriku Shinkansen and Kanazawa."
+summary: The fastest way from Toyama to Takayama is the JR Limited Express Hida, about 90 minutes direct, while the bus from Toyama Station takes about 2 hours 20 minutes for ¥3,800 (¥3,900 from December 1, 2026) but stops at Shirakawa-go on the way (¥2,400 Toyama–Shirakawa-go), with three departures a day (9:00, 10:10 and 12:00 as of November 2026); both are covered by the Takayama-Hokuriku Area Tourist Pass, and Toyama is 2 hours 8 minutes from Tokyo on the Hokuriku Shinkansen.
 status: 公開
 facts_checked: 2026-11-05
 cta: https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/|Takayama-Hokuriku Area Tourist Pass|5 days of JR trains via Toyama, the Hida and the Shirakawa-go bus. Check price and conditions on Klook.|See pass
@@ -20,7 +20,7 @@ Toyama is the Hokuriku Shinkansen station closest to Takayama, so it is the natu
 | | Limited Express Hida (train) | Bus via Shirakawa-go |
 |---|---|---|
 | Time | About 90 min, direct | About 2 h 20 min to Takayama Bus Terminal |
-| Adult fare | Check JR | ¥3,800 (¥2,400 to Shirakawa-go) |
+| Adult fare | Check JR | ¥3,800 (¥3,900 from Dec 1, 2026); ¥2,400 to Shirakawa-go |
 | From Toyama | JR Toyama Station | Toyama Station, 9:00, 10:10, 12:00 |
 | Stops at Shirakawa-go | No | Yes, about 1 h 20 min from Toyama |
 | Booking | Reserve a seat (all seats reserved December 25–January 5) | Some departures need a reservation |
@@ -52,7 +52,7 @@ Nohi Bus and Toyama Chiho Railway run buses between Toyama Station and Takayama 
 
 *Source: [Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026. "About" times are worked out from the listed Toyama–Shirakawa-go time of about 1 h 20 min. Nohi Bus says fares and timetables will be revised from December 1, 2026, so check the page for your date.*
 
-Fares are ¥3,800 Toyama–Takayama and ¥2,400 Toyama–Shirakawa-go (adult, one way). Some departures need a reservation, through Japan Bus Online or the Toyama Chiho Railway highway bus reservation center, +81-76-433-4890 (8:30–19:00). Nohi Bus warns that delays of two hours or more can happen because of parking queues at Shirakawa-go, snow or expressway closures (same source).
+Fares are ¥3,800 Toyama–Takayama (¥3,900 from December 1, 2026) and ¥2,400 Toyama–Shirakawa-go (adult, one way). Some departures need a reservation, through Japan Bus Online or the Toyama Chiho Railway highway bus reservation center, +81-76-433-4890 (8:30–19:00). Nohi Bus warns that delays of two hours or more can happen because of parking queues at Shirakawa-go, snow or expressway closures (same source).
 
 **Stopping at Shirakawa-go:** you can get off, spend 2–3 hours in the village and take a later bus to Takayama, but plan both legs before you go; see [Takayama to Shirakawa-go](takayama-to-shirakawa-go.html) for the Takayama-side timetable and luggage tips. Want Gokayama too? It is reached from the Toyama side; see [Gokayama vs Shirakawa-go](gokayama-vs-shirakawa-go.html).
 
@@ -80,7 +80,7 @@ About 90 minutes by JR Limited Express Hida, or about 2 hours 20 minutes by bus 
 
 ### How much is the bus from Toyama to Takayama?
 
-¥3,800 for adults one way, or ¥2,400 to Shirakawa-go ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026; revision planned from December 1, 2026).
+¥3,800 for adults one way (¥3,900 from December 1, 2026), or ¥2,400 to Shirakawa-go, unchanged ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026).
 
 ### Can I go from Toyama to Shirakawa-go by bus?
 

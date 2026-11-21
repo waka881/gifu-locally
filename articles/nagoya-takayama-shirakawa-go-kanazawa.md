@@ -3,7 +3,7 @@ title: "Nagoya to Kanazawa via Takayama and Shirakawa-go: The Japan Alps Route"
 description: "How to travel Nagoya → Takayama → Shirakawa-go → Kanazawa: trains, the Nohi Bus to Kanazawa, fares, reservations, luggage, winter delays and a sample 2–3 day plan."
 summary: The classic Japan Alps route runs Nagoya to Takayama by Limited Express Hida (about 2 hours 20 minutes), then Takayama to Shirakawa-go by Nohi Bus (about 50 minutes, ¥2,800; ¥2,900 from December 1, 2026), then Shirakawa-go to Kanazawa by bus (about 1 hour 20 minutes, ¥2,800; ¥2,900 from December 1, 2026); the Takayama–Kanazawa bus fare is ¥4,200 (¥4,400 from December 1, 2026) if you ride through. Most buses need a reserved seat, and in winter delays of two hours or more can happen, so plan 2–3 days with a night in Takayama.
 status: 公開
-facts_checked: 2026-10-29
+facts_checked: 2026-11-21
 cta: https://www.klook.com/activity/2969-5-day-jr-takayama-hokuriku-area-tourist-pass-jr-pass/|JR Takayama-Hokuriku Area Tourist Pass|5-day pass for travelling between Nagoya, Takayama and the Hokuriku region. Check the route map and price on Klook.|See pass
 image: Takayama Train and Bus Station from above.jpg
 image_alt: Takayama's train and bus station seen from above
@@ -36,7 +36,7 @@ The train suits rail-pass holders and anyone who wants to stop at Gero Onsen on 
 
 ## How do you get from Takayama to Shirakawa-go and Kanazawa?
 
-Nohi Bus runs a line from the Takayama Nohi Bus Center, next to JR Takayama Station, to Shirakawa-go and on to Kanazawa Station, Takaoka or Toyama Station ([Nohi Bus](https://www.nouhibus.co.jp/english/highwaybus/), as of October 2026). Key points from the operator's route page ([Nohi Bus, Shirakawa-go line](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026):
+Nohi Bus runs a line from the Takayama Nohi Bus Center, next to JR Takayama Station, to Shirakawa-go and on to Kanazawa Station, Takaoka or Toyama Station ([Nohi Bus](https://www.nouhibus.co.jp/english/highwaybus/), as of October 2026). Key points from the operator's route page ([Nohi Bus, Shirakawa-go line](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026):
 
 - **Fares (adult, one way):** Takayama–Shirakawa-go ¥2,800 (¥2,900 from December 1, 2026); Shirakawa-go–Kanazawa ¥2,800 (¥2,900 from December 1, 2026); Takayama–Kanazawa ¥4,200 (¥4,400 from December 1, 2026); Shirakawa-go–Toyama ¥2,400 (see [Toyama to Takayama](toyama-to-takayama.html)).
 - **Time:** about 50 minutes from Takayama to Shirakawa-go.
@@ -60,7 +60,7 @@ Travelling light makes every bus leg easier. If you are starting in Nagoya, you 
 
 ## Is this route possible in winter?
 
-Yes, but plan for delays. Nohi Bus warns that in winter, delays of two hours or more can occur, because of traffic waiting for parking at Shirakawa-go, heavy snow or expressway closures ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026). Don't book a tight onward train or flight from Kanazawa on the same day.
+Yes, but plan for delays. Nohi Bus warns that in winter, delays of two hours or more can occur, because of traffic waiting for parking at Shirakawa-go, heavy snow or expressway closures ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026). Don't book a tight onward train or flight from Kanazawa on the same day.
 
 The Shirakawa-go light-up on January 11, 17, 24 and 31, 2027 is the busiest time, and the 2026 event was reservation-only. See our [light-up guide](shirakawa-go-light-up.html) and [best time to visit Shirakawa-go](best-time-to-visit-shirakawa-go.html).
 
@@ -86,11 +86,11 @@ Klook sells the [JR Takayama-Hokuriku Area Tourist Pass](https://www.klook.com/a
 
 ### How long does it take from Takayama to Kanazawa by bus?
 
-Nohi Bus lists 2 hours 5 minutes to 2 hours 20 minutes for its line from Takayama via Shirakawa-go to Kanazawa, Takaoka and Toyama, and the adult fare from Takayama to Kanazawa is ¥4,200 (¥4,400 from December 1, 2026) ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
+Nohi Bus lists 2 hours 5 minutes to 2 hours 20 minutes for its line from Takayama via Shirakawa-go to Kanazawa, Takaoka and Toyama, and the adult fare from Takayama to Kanazawa is ¥4,200 (¥4,400 from December 1, 2026) ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026).
 
 ### How much is the bus from Takayama to Shirakawa-go?
 
-¥2,800 (¥2,900 from December 1, 2026) one way for adults, and the trip takes about 50 minutes ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of October 2026).
+¥2,800 (¥2,900 from December 1, 2026) one way for adults, and the trip takes about 50 minutes ([Nohi Bus](https://www.nouhibus.co.jp/route_bus/shirakawago_en/), as of November 2026).
 
 ### Do I need to reserve the bus from Takayama to Shirakawa-go?
 
@@ -101,4 +101,4 @@ Usually yes. Nohi Bus marks reservation-required services with "R" on the timeta
 Yes. Coin lockers at Shirakawago Bus Terminal cost ¥500 or ¥1,000 per use, and a luggage storage service next to the terminal is open until 17:00 ([Shirakawa-go Tourist Association FAQ](https://shirakawa-go.gr.jp/en/faq/5/), as of October 2026).
 
 ---
-*Prices, timetables and booking rules change. Check official sources before you travel. Facts last checked: 2026-10-29.*
+*Prices, timetables and booking rules change. Check official sources before you travel. Facts last checked: 2026-11-21.*
