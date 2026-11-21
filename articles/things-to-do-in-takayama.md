@@ -87,6 +87,8 @@ Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-
 
 Planning for April or May? See [Takayama in spring](takayama-in-spring.html) for the festival, cherry blossoms and the mountain routes that reopen in mid-April.
 
+In April, Hida-Furukawa's [Furukawa Festival](furukawa-festival.html) (April 19–20) follows a few days after the Takayama Festival, with the Okoshi Daiko drum procession on the night of the 19th.
+
 ## FAQ
 
 ### What is Takayama best known for?
