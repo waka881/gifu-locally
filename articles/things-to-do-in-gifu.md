@@ -74,6 +74,8 @@ Another old town in eastern Gifu: [Iwamura castle town](iwamura-castle-town.html
 
 In spring, the [Usuzumi cherry](usuzumi-cherry-blossom.html), a tree over 1,500 years old and one of Japan's Three Great Cherry Trees, is about an hour north of Ogaki on the Tarumi Railway.
 
+Would rather not plan the buses? Compare [Magome and Tsumago day tours from Nagoya](magome-tsumago-tour-from-nagoya.html) with going on your own.
+
 ## FAQ
 
 ### What is Gifu Prefecture best known for?

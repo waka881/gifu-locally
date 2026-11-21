@@ -63,6 +63,8 @@ For another historic street in eastern Gifu, see the [Magome to Tsumago walk](ma
 
 **Before you go:** you'll rely on your phone for train times on a rural line. Our [Japan eSIM guide](japan-esim-gifu.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Would rather not plan the buses? Compare [Magome and Tsumago day tours from Nagoya](magome-tsumago-tour-from-nagoya.html) with going on your own.
+
 ## FAQ
 
 ### How do I get to Iwamura by train?

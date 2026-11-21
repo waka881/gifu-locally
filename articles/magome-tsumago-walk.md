@@ -125,6 +125,8 @@ Check every connection against the current timetables before you set out. If you
 
 Another old town in eastern Gifu: [Iwamura castle town](iwamura-castle-town.html), about 30 minutes on the Akechi Railway from JR Ena, with a walk up to the castle ruins.
 
+Would rather not plan the buses? Compare [Magome and Tsumago day tours from Nagoya](magome-tsumago-tour-from-nagoya.html) with going on your own.
+
 ## FAQ
 
 ### How long is the walk from Magome to Tsumago?
