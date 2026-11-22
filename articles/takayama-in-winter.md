@@ -92,6 +92,8 @@ Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumin
 
 Planning for April or May? See [Takayama in spring](takayama-in-spring.html) for the festival, cherry blossoms and the mountain routes that reopen in mid-April.
 
+How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-month.html) for the official averages.
+
 ## FAQ
 
 ### Is Takayama worth visiting in winter?

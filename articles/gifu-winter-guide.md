@@ -113,6 +113,8 @@ Visiting in winter? [Gero Onsen winter fireworks](gero-onsen-winter-fireworks.ht
 
 Not skiing? See [snow day trips from Nagoya for non-skiers](snow-day-trip-from-nagoya.html): sledding, snow tubing and an onsen at Bokka no Sato.
 
+How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-month.html) for the official averages.
+
 ## FAQ
 
 ### When is the Shirakawa-go light-up in 2027?

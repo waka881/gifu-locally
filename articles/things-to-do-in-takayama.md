@@ -89,6 +89,8 @@ Planning for April or May? See [Takayama in spring](takayama-in-spring.html) for
 
 In April, Hida-Furukawa's [Furukawa Festival](furukawa-festival.html) (April 19–20) follows a few days after the Takayama Festival, with the Okoshi Daiko drum procession on the night of the 19th.
 
+How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-month.html) for the official averages.
+
 ## FAQ
 
 ### What is Takayama best known for?

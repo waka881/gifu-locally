@@ -74,6 +74,8 @@ For a two- or three-day stay, the area around JR Takayama Station is the practic
 
 Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-alpine-route-from-takayama.html) is reached from Takayama by the Hida to Toyama (about 90 minutes) and a local train to Tateyama (about 1 hour), from mid-April.
 
+How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-month.html) for the official averages.
+
 ## FAQ
 
 ### Is one day enough for Takayama?
