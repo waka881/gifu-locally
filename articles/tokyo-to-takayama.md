@@ -3,7 +3,7 @@ title: "Tokyo to Takayama: Train via Nagoya or Toyama vs the Shinjuku Highway Bu
 description: "How to get from Tokyo to Takayama: Shinkansen to Nagoya plus the Limited Express Hida (about 4 hours of riding), the Hokuriku Shinkansen to Toyama plus the Hida, or the reserved highway bus from Shinjuku (5 hours 30 minutes, ¥8,000), with the Japan Rail Pass and booking tips."
 summary: The usual way from Tokyo to Takayama is the Tokaido Shinkansen to Nagoya (about 100 minutes on the Nozomi) and then the Limited Express Hida (about 140 minutes), while the cheapest is the reserved Keio/Nohi highway bus from the Shinjuku Expressway Bus Terminal, about 5 hours 30 minutes for ¥8,000 with six daytime departures; a third option is the Hokuriku Shinkansen to Toyama (about 2 hours 8 minutes) and the Hida from there (about 90 minutes), which suits a loop that returns via Nagoya or continues to Kanazawa.
 status: 公開
-facts_checked: 2026-10-29
+facts_checked: 2026-11-22
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book your Takayama stay|Trains and the Shinjuku bus both arrive at JR Takayama Station. Compare hotels nearby on Klook.|See stays
 image: JRC HC85-D106 Hida-25.jpg
 image_alt: The Limited Express Hida train that runs to Takayama
@@ -48,7 +48,7 @@ Keio and Nohi Bus run the Takayama–Tokyo (Shinjuku) line, with all seats reser
 | Booking | Reservation required; opens one month before; online at highwaybus.com |
 | On board | Toilet on all buses |
 
-*Source: [Nohi Bus, Shinjuku line](https://www.nouhibus.co.jp/highwaybus/shinjuku_en/), as of October 2026. Seasonal services ran on set dates in spring and July–October 2026; check the page for your date.*
+*Source: [Nohi Bus, Shinjuku line](https://www.nouhibus.co.jp/highwaybus/shinjuku_en/), as of November 2026. Seasonal services ran on set dates in spring and July–October 2026; check the page for your date.*
 
 Nohi Bus lists a ¥500 web discount when booking through a site with Japanese-language support, and unpaid online reservations are cancelled automatically, so pay promptly after booking (same source). Keep mobile batteries with you: they may not go in the luggage bay.
 
@@ -78,7 +78,7 @@ By train via Nagoya, about 100 minutes on the Nozomi plus about 140 minutes on t
 
 ### How much is the bus from Tokyo to Takayama?
 
-¥8,000 for adults on daytime buses and ¥9,000 on the seasonal overnight bus, from the Shinjuku Expressway Bus Terminal; seats must be reserved ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/shinjuku_en/), as of October 2026).
+¥8,000 for adults on daytime buses and ¥9,000 on the seasonal overnight bus, from the Shinjuku Expressway Bus Terminal; seats must be reserved ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/shinjuku_en/), as of November 2026).
 
 ### Is there a direct train from Tokyo to Takayama?
 
@@ -89,4 +89,4 @@ No. Change at Nagoya to the Limited Express Hida, or take the Hokuriku Shinkanse
 The pass covers JR trains with exceptions, including Nozomi and Mizuho on the Tokaido Shinkansen, so pass holders ride Hikari or Kodama to Nagoya or buy the separate Nozomi ticket ([Japan Rail Pass](https://japanrailpass.net/en/about_jrp/route/)).
 
 ---
-*Timetables and fares change. Check Nohi Bus and JR before you travel. Facts last checked: 2026-10-29.*
+*Timetables and fares change. Check Nohi Bus and JR before you travel. Facts last checked: 2026-11-22.*
