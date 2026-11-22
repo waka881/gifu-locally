@@ -3,7 +3,7 @@ title: "Matsumoto to Takayama by Bus: Timetable, Fare and a Stop at Hirayu Onsen
 description: "How to get from Matsumoto to Takayama: the reserved Nohi/Alpico bus via Hirayu Onsen (about 2.5 hours, ¥4,400), departure times in both directions, stopping at Okuhida, and combining the route with Kamikochi."
 summary: The bus is the direct way from Matsumoto to Takayama: Nohi Bus and Alpico run six reserved-seat buses a day each way (plus a seasonal extra) from the Matsumoto Bus Terminal via Shin-Shimashima Station and Hirayu Onsen to the Takayama Bus Terminal, taking about 2.5 to 2¾ hours for ¥4,400 (adults), and you can stop off at Hirayu Onsen (¥3,000 from Matsumoto) for the Okuhida hot springs or the Kamikochi bus.
 status: 公開
-facts_checked: 2026-10-30
+facts_checked: 2026-11-23
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book your Takayama stay|The Matsumoto bus arrives at the Takayama Bus Terminal next to JR Takayama Station. Compare hotels nearby on Klook.|See stays
 image: 130608 Matsumoto Castle Matsumoto Nagano pref Japan02bs4.jpg
 image_alt: Matsumoto Castle in Matsumoto, Nagano, the start of the bus route to Takayama
@@ -27,7 +27,7 @@ Matsumoto and Takayama sit on either side of the Northern Alps, and the bus cros
 | Reservations | Required (since April 1, 2024); online at highwaybus.com or by phone |
 | Children | Half fare, ages 1–12 |
 
-*Source: [Nohi Bus, Takayama–Matsumoto line](https://www.nouhibus.co.jp/highwaybus/matsumoto_en/), as of October 2026.*
+*Source: [Nohi Bus, Takayama–Matsumoto line](https://www.nouhibus.co.jp/highwaybus/matsumoto_en/), as of November 2026.*
 
 ## What time are the buses from Matsumoto to Takayama?
 
@@ -55,7 +55,7 @@ The 14:55 bus from Matsumoto runs only on seasonal dates (August 8–16, 2026 an
 
 On the same seasonal dates, an extra bus leaves the Shinhotaka Ropeway at 11:30 for Matsumoto (13:38).
 
-*Source for both timetables: [Nohi Bus](https://www.nouhibus.co.jp/highwaybus/matsumoto_en/), as of October 2026. Check the page for your travel date.*
+*Source for both timetables: [Nohi Bus](https://www.nouhibus.co.jp/highwaybus/matsumoto_en/), as of November 2026. Check the page for your travel date.*
 
 ## How much is the bus, and where can you stop?
 
@@ -66,7 +66,7 @@ On the same seasonal dates, an extra bus leaves the Shinhotaka Ropeway at 11:30 
 | Tochio Onsen | ¥3,560 |
 | Shinhotaka Ropeway | ¥3,910 |
 
-*Source: [Nohi Bus](https://www.nouhibus.co.jp/highwaybus/matsumoto_en/), as of October 2026. Shin-Shimashima Station to Takayama is ¥4,000.*
+*Source: [Nohi Bus](https://www.nouhibus.co.jp/highwaybus/matsumoto_en/), as of November 2026. Shin-Shimashima Station to Takayama is ¥4,000.*
 
 **Stop at Hirayu Onsen.** Hirayu is a hot spring village on the route, and it is where the shuttle to Kamikochi leaves in season. You could leave Matsumoto in the morning, spend a night in the Okuhida hot springs, and continue to Takayama the next day. See [Gero vs Okuhida](gero-vs-okuhida-onsen.html), [Kamikochi from Takayama](kamikochi-from-takayama.html) and the [Shinhotaka Ropeway guide](shinhotaka-ropeway.html).
 
@@ -93,7 +93,7 @@ The bus arrives at the Takayama Bus Terminal next to JR Takayama Station, so a h
 
 ### How long is the bus from Matsumoto to Takayama?
 
-Nohi Bus lists 2 hours 20 minutes; on the timetable, buses take about 2 hours 33 minutes to 2 hours 48 minutes from the Matsumoto Bus Terminal to the Takayama Bus Terminal ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/matsumoto_en/), as of October 2026).
+Nohi Bus lists 2 hours 20 minutes; on the timetable, buses take about 2 hours 33 minutes to 2 hours 48 minutes from the Matsumoto Bus Terminal to the Takayama Bus Terminal ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/matsumoto_en/), as of November 2026).
 
 ### How much is the bus from Matsumoto to Takayama?
 
@@ -108,4 +108,4 @@ Yes. Nohi Bus says reservations have been required since April 1, 2024; book on 
 Yes. Hirayu Onsen is a stop on every bus; the adult fare from Matsumoto to Hirayu is ¥3,000 (same source).
 
 ---
-*Timetables and fares change. Check Nohi Bus before you travel. Facts last checked: 2026-10-30.*
+*Timetables and fares change. Check Nohi Bus before you travel. Facts last checked: 2026-11-23.*
