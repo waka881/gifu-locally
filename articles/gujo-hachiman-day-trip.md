@@ -70,6 +70,8 @@ Gujo Hachiman has traditional inns with dinner and breakfast, as well as room-on
 
 [[cta|https://www.klook.com/destination/p50051351-gujo-hachiman-castle/3-hotel/|Stays near Gujo Hachiman|Compare prices and availability for your dates on Klook.|See stays]]
 
+Not skiing? See [snow day trips from Nagoya for non-skiers](snow-day-trip-from-nagoya.html): sledding, snow tubing and an onsen at Bokka no Sato.
+
 ## FAQ
 
 ### How do I get from Nagoya to Gujo Hachiman?

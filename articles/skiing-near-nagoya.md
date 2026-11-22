@@ -73,6 +73,8 @@ Yes. JNTO lists resorts in the Takayama and Hida area including Hounokidaira, wh
 
 **Before you go:** you'll rely on your phone for bus pick-up details and maps on a ski day. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Not skiing? See [snow day trips from Nagoya for non-skiers](snow-day-trip-from-nagoya.html): sledding, snow tubing and an onsen at Bokka no Sato.
+
 ## FAQ
 
 ### What is the closest ski resort to Nagoya?

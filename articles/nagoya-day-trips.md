@@ -135,6 +135,8 @@ In spring, the [Usuzumi cherry](usuzumi-cherry-blossom.html), a tree over 1,500 
 
 Would rather not plan the buses? Compare [Magome and Tsumago day tours from Nagoya](magome-tsumago-tour-from-nagoya.html) with going on your own.
 
+Not skiing? See [snow day trips from Nagoya for non-skiers](snow-day-trip-from-nagoya.html): sledding, snow tubing and an onsen at Bokka no Sato.
+
 ## FAQ
 
 ### What is a good first day trip from Nagoya to Gifu?

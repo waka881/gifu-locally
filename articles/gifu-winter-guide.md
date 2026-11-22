@@ -111,6 +111,8 @@ Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumin
 
 Visiting in winter? [Gero Onsen winter fireworks](gero-onsen-winter-fireworks.html) has the December 2026 show dates and the Saturday fireworks from January to March.
 
+Not skiing? See [snow day trips from Nagoya for non-skiers](snow-day-trip-from-nagoya.html): sledding, snow tubing and an onsen at Bokka no Sato.
+
 ## FAQ
 
 ### When is the Shirakawa-go light-up in 2027?
