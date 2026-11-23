@@ -60,6 +60,8 @@ Our [Gifu City in one day](gifu-city-one-day.html) plan covers the morning coffe
 
 Into castles? [Ogaki Castle](ogaki-castle.html), the Western Army's base at Sekigahara, is 7 minutes on foot from JR Ogaki Station and open while Gifu Castle is closed.
 
+How hot or cold is it? See [Gifu City weather by month](gifu-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### When will Gifu Castle reopen?

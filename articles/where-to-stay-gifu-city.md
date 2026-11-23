@@ -127,6 +127,8 @@ Planning the ropeway? [Is Gifu Castle open?](gifu-castle.html) has the closure d
 
 Into planes and rockets? The [Gifu-Kakamigahara Air and Space Museum](kakamigahara-air-space-museum.html) is just east of Gifu City, by Meitetsu or JR and a community bus.
 
+How hot or cold is it? See [Gifu City weather by month](gifu-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### Should I stay near Gifu Station or at Nagaragawa Onsen?

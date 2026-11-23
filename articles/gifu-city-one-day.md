@@ -64,6 +64,8 @@ In spring, the [Usuzumi cherry](usuzumi-cherry-blossom.html), a tree over 1,500 
 
 For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html), from Gifu Park in late March to Okuhida in late April.
 
+How hot or cold is it? See [Gifu City weather by month](gifu-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### How do you get to the Mt. Kinka Ropeway from Gifu Station?

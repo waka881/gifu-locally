@@ -59,6 +59,8 @@ For getting there, compare the options in [Shirakawa-go from Nagoya](shirakawa-g
 
 **Before you go:** you'll rely on your phone for bus times and weather warnings in snow. Our [Japan eSIM guide](japan-esim-gifu.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+How hot or cold is it? See [Gifu City weather by month](gifu-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### Does Shirakawa-go have snow?

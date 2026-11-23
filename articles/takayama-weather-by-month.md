@@ -61,6 +61,8 @@ If you are heading higher, to Shirakawa-go or Okuhida, see [Shirakawa-go in wint
 
 How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-weather-by-month.html) for the Japan Meteorological Agency's official averages.
 
+How hot or cold is it? See [Gifu City weather by month](gifu-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### Does Takayama get snow?
