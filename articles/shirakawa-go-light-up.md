@@ -139,6 +139,8 @@ There's no official Nohi light-up tour leaving from Nagoya, since its tours star
 
 Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumination](hida-folk-village-winter-illumination.html) in Takayama runs every evening from January 9 to February 28, 2027.
 
+How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### When is the Shirakawa-go light-up in 2027?

@@ -90,6 +90,8 @@ Note that the highway bus fare depends on the date: Gifu Bus uses five date cate
 
 Before you go: [Shirakawa-go practical tips](shirakawa-go-practical-tips.html) covers coin lockers, entry fees, the observatory shuttle and money exchange.
 
+How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### What month is best to visit Shirakawa-go?

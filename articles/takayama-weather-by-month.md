@@ -59,6 +59,8 @@ If you are heading higher, to Shirakawa-go or Okuhida, see [Shirakawa-go in wint
 
 **Before you go:** you'll rely on your phone for weather warnings and bus changes in snow. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### Does Takayama get snow?

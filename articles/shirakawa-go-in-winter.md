@@ -87,6 +87,8 @@ Staying in a farmhouse inn is the only way to see the village at night outside t
 
 Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumination](hida-folk-village-winter-illumination.html) in Takayama runs every evening from January 9 to February 28, 2027.
 
+How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-weather-by-month.html) for the Japan Meteorological Agency's official averages.
+
 ## FAQ
 
 ### Is Shirakawa-go worth visiting in winter?
