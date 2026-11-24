@@ -3,7 +3,7 @@ title: "Takayama or Shirakawa-go? Which to Visit, and How to Do Both"
 description: "Takayama vs Shirakawa-go compared: travel time and cost from Nagoya, what each place is like, how long you need, and the easiest ways to see both."
 summary: Choose Takayama if you want a walkable old town with morning markets, sake breweries and museums that rewards a night's stay; choose Shirakawa-go if you mainly want to see the thatched gassho-zukuri farmhouse village, which takes about 2–3 hours on foot. They are about 50 minutes apart by express bus, so many travelers do both, either on a guided day tour from Nagoya or by staying a night in Takayama.
 status: 公開
-facts_checked: 2026-10-30
+facts_checked: 2026-11-24
 cta: https://www.klook.com/activity/15800-takayama-shirakawa-go-day-trip-nagoya/|Takayama and Shirakawa-go in one day from Nagoya|Guided tour with transport included. See the itinerary, time in each place and reviews on Klook.|Check dates
 image: Shirakawa-go 002.jpg
 image_alt: Thatched gassho-zukuri farmhouses in Shirakawa-go village
@@ -46,14 +46,14 @@ In short, Takayama has more to do and suits a longer stay. Shirakawa-go is a sin
 
 Both take a little over two hours each way.
 
-- **Takayama:** The Limited Express Hida from JR Nagoya Station takes approximately 2 hours 20 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/), as of October 2026). The Nohi Bus highway bus takes 2 hours 40 minutes and costs ¥3,600 one way, or ¥3,300 with the web discount, and every seat must be reserved ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/), as of October 2026).
-- **Shirakawa-go:** The direct highway bus leaves from the Meitetsu Bus Center, about a 5-minute walk from Nagoya Station, and the trip takes about 2 hours 50 minutes in total ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). Seats must be reserved, bookings open one month before the travel date, and the adult one-way fare is ¥3,600–¥4,700 depending on the date ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026).
+- **Takayama:** The Limited Express Hida from JR Nagoya Station takes approximately 2 hours 20 minutes ([JR Central](https://global.jr-central.co.jp/en/goldenroute/area/hida-takayama/), as of November 2026). The Nohi Bus highway bus takes 2 hours 40 minutes and costs ¥3,600 one way, or ¥3,300 with the web discount, and every seat must be reserved ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/), as of November 2026).
+- **Shirakawa-go:** The direct highway bus leaves from the Meitetsu Bus Center, about a 5-minute walk from Nagoya Station, and the bus takes about 2 hours 30 minutes ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of November 2026). Seats must be reserved, bookings open one month before the travel date, and the adult one-way fare is ¥3,600–¥4,700 depending on the date ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of November 2026).
 
 Takayama has the extra option of the train, which suits travelers using a rail pass.
 
 ## Can you do both Takayama and Shirakawa-go?
 
-Yes. The express bus between Takayama and Shirakawago Bus Terminal takes about 50 minutes ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026). There are two common ways to combine them.
+Yes. The express bus between Takayama and Shirakawago Bus Terminal takes about 50 minutes ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of November 2026). There are two common ways to combine them.
 
 ### 1. A guided day tour from Nagoya
 
@@ -72,7 +72,7 @@ This is the most relaxed option and gives you the morning markets. If you are tr
 
 ## Which is better in winter?
 
-Shirakawa-go in snow is the image many people have in mind. On four evenings in 2027 (January 11, 17, 24 and 31), the village holds its winter light-up, and the 2026 event was reservation-only ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/); [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/event/detail_1287.html), as of October 2026). Read our [light-up guide](shirakawa-go-light-up.html) before you plan. For cherry blossom and autumn leaf dates, see the [best time to visit Shirakawa-go](best-time-to-visit-shirakawa-go.html).
+Shirakawa-go in snow is the image many people have in mind. On four evenings in 2027 (January 11, 17, 24 and 31), the village holds its winter light-up, lit 17:30–19:30, and you must reserve in advance ([Nohi Bus](https://www.nouhibus.co.jp/shirakawa_lightup_2027en/), as of November 2026). Read our [light-up guide](shirakawa-go-light-up.html) before you plan. For cherry blossom and autumn leaf dates, see the [best time to visit Shirakawa-go](best-time-to-visit-shirakawa-go.html).
 
 Highway buses can be delayed by road and weather conditions, and Gifu Bus does not refund fares or cover missed connections caused by delays ([Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html)). In winter, leave a buffer before any onward train or flight. Our [Gifu winter guide](gifu-winter-guide.html) has more.
 
@@ -98,7 +98,7 @@ Both work as day trips. Takayama has more to fill a day, with the old town, Taka
 
 ### How far is Shirakawa-go from Takayama?
 
-The express bus from Takayama to Shirakawago Bus Terminal takes about 50 minutes ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of October 2026).
+The express bus from Takayama to Shirakawago Bus Terminal takes about 50 minutes ([Shirakawa-go Tourist Association](https://shirakawa-go.gr.jp/en/access/), as of November 2026).
 
 ### Can I see Takayama and Shirakawa-go in one day?
 
@@ -106,7 +106,7 @@ Yes, most easily on a guided day tour from Nagoya that includes both. Expect les
 
 ### Do I need to book buses to Takayama and Shirakawa-go?
 
-Yes for the highway buses from Nagoya. Nohi Bus requires a reservation on every Nagoya–Takayama bus, and the Nagoya–Shirakawa-go bus has reserved seats that open for booking one month before the travel date ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/); [Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of October 2026).
+Yes for the highway buses from Nagoya. Nohi Bus requires a reservation on every Nagoya–Takayama bus, and the Nagoya–Shirakawa-go bus has reserved seats that open for booking one month before the travel date ([Nohi Bus](https://www.nouhibus.co.jp/highwaybus/nagoya_en/); [Gifu Bus](https://www.gifubus.co.jp/highway/shirakawago.html), as of November 2026).
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-10-30.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-11-24.*

@@ -76,6 +76,8 @@ Going on into the mountains? The [Tateyama Kurobe Alpine Route](tateyama-kurobe-
 
 How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-month.html) for the official averages.
 
+Travelling in January? See [Takayama in January](takayama-in-january.html) for the weather, opening hours and the January 2027 light-up dates in one place.
+
 ## FAQ
 
 ### Is one day enough for Takayama?

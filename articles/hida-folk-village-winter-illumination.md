@@ -65,6 +65,8 @@ Staying the night in Takayama is the simpler way: you can see the illumination a
 
 **Before you go:** you'll rely on your phone for bus times on a winter night. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Travelling in January? See [Takayama in January](takayama-in-january.html) for the weather, opening hours and the January 2027 light-up dates in one place.
+
 ## FAQ
 
 ### When is the Hida Folk Village winter illumination in 2027?

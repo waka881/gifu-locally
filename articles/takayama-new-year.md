@@ -64,6 +64,8 @@ Prefer a hot spring for New Year? See [Gero Onsen](gero-onsen-guide.html) and [G
 
 **Before you go:** you'll rely on your phone for bus changes and holiday hours on this trip. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Travelling in January? See [Takayama in January](takayama-in-january.html) for the weather, opening hours and the January 2027 light-up dates in one place.
+
 ## FAQ
 
 ### Is Takayama Jinya open on New Year's Day?
