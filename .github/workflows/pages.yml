@@ -36,6 +36,8 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+      - name: Wait for the artifact to be listed
+        run: sleep 30
       - id: deployment
         uses: actions/deploy-pages@v4
       - name: Notify search engines (IndexNow)
