@@ -67,6 +67,8 @@ Staying the night in Takayama is the simpler way: you can see the illumination a
 
 Travelling in January? See [Takayama in January](takayama-in-january.html) for the weather, opening hours and the January 2027 light-up dates in one place.
 
+Travelling in February? See [Takayama in February](takayama-in-february.html) for the weather, the illumination dates and the Okuhida ice events.
+
 ## FAQ
 
 ### When is the Hida Folk Village winter illumination in 2027?

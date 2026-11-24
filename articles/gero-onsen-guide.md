@@ -3,7 +3,7 @@ title: "Gero Onsen for First-Timers: Day Trip from Nagoya, Baths and Ryokan"
 description: "How to reach Gero Onsen from Nagoya on the Hida Limited Express, where to bathe, how the Yumeguri Tegata pass works, and how to choose a ryokan."
 summary: Take the JR Limited Express Hida from Nagoya Station to Gero Station; the ticketless limited express charge is 2,390 yen for an adult ordinary reserved seat or 4,660 yen for the Green Car, one way in the normal season, plus the base fare (as of July 16, 2025). You can bathe without staying at a ryokan: public baths such as Shirasagi-no-yu and Sachi-no-yu charge 470 yen for adults, and the Yumeguri Tegata pass costs 2,500 yen for 3 ryokan baths within 6 months (as of October 2026). Gero works as a day trip from Nagoya or as an overnight stop on the way to Takayama.
 status: 公開
-facts_checked: 2026-10-31
+facts_checked: 2026-11-25
 cta: https://www.klook.com/activity/179451-hida-takayama-gero-onsen-2-day-free-ticket/|Gero Onsen + Takayama on one bus ticket|2-day bus ticket covering Takayama and Gero Onsen. See price and conditions on Klook.|See ticket
 image: Hida River and Gero Onsen from Mutsumi Bridge.jpg
 image_alt: Gero Onsen and the Hida River seen from Mutsumi Bridge
@@ -53,11 +53,11 @@ From Gero Station, the town's public baths and foot baths are within walking dis
 
 You do not need a ryokan booking to bathe in Gero. The town has public bathhouses (*kyōdō yokujō*) that charge a small fee. You usually bring or buy your own towel and soap.
 
-**Shirasagi-no-yu (白鷺乃湯).** A public bathhouse in the Yunoshima area, about a 7-minute walk from Gero Station. Hours are 10:00–20:45 (last entry 20:00). It closes on Wednesdays, or on Friday when Wednesday is a public holiday. Admission is 470 yen for adults, 180 yen for elementary school children and 100 yen for small children ([tourism association page](https://www.gero-spa.com/spot/detail_3.html), as of October 2026).
+**Shirasagi-no-yu (白鷺乃湯).** A public bathhouse in the Yunoshima area, about a 7-minute walk from Gero Station. Hours are 10:00–20:45 (last entry 20:00). It closes on Wednesdays, or on Friday when Wednesday is a public holiday. Admission is 470 yen for adults, 180 yen for elementary school children and 100 yen for small children ([tourism association page](https://www.gero-spa.com/spot/detail_3.html), as of November 2026).
 
-**Sachi-no-yu (幸乃湯).** About a 4-minute walk from the station. It opens 12:00–21:00 on weekdays and 11:00–21:00 on weekends and holidays (last entry 20:30). It closes on Tuesdays and the fourth Monday of the month. Admission is 470 yen for adults, 180 yen for elementary school children and 100 yen for small children. Its family baths are currently all suspended ([tourism association page](https://www.gero-spa.com/spot/detail_5.html), as of October 2026).
+**Sachi-no-yu (幸乃湯).** About a 4-minute walk from the station. It opens 12:00–21:00 on weekdays and 11:00–21:00 on weekends and holidays (last entry 20:30). It closes on Tuesdays and the fourth Monday of the month. Admission is 470 yen for adults, 180 yen for elementary school children and 100 yen for small children. Its family baths are currently all suspended ([tourism association page](https://www.gero-spa.com/spot/detail_5.html), as of November 2026).
 
-**Kur Garden Rotenburo (クアガーデン露天風呂).** About a 10-minute walk from the station. It offers six types of baths, including an open-air bath beside the Hida River. Hours are 8:00–20:45 (last entry 20:00), and it closes on Thursdays, or the following day when Thursday is a holiday. Admission is 800 yen for adults, 400 yen for elementary school children and 200 yen for small children ([tourism association page](https://www.gero-spa.com/spot/detail_4.html), as of October 2026).
+**Kur Garden Rotenburo (クアガーデン露天風呂).** About a 10-minute walk from the station. It offers six types of baths, including an open-air bath beside the Hida River. Hours are 8:00–20:45 (last entry 20:00), and it closes on Thursdays, or the following day when Thursday is a holiday. Admission is 800 yen for adults, 400 yen for elementary school children and 200 yen for small children ([tourism association page](https://www.gero-spa.com/spot/detail_4.html), as of November 2026).
 
 **A note on Funsen-chi.** Older guides describe the open-air pool on the Hida riverbank as a free outdoor bath. According to the [tourism association](https://www.gero-spa.com/spot/detail_2.html), bathing there has been prohibited since December 1, 2021. You can still look at it, but do not plan to get in.
 
@@ -65,14 +65,14 @@ You do not need a ryokan booking to bathe in Gero. The town has public bathhouse
 
 Foot baths (*ashiyu*) are the easiest way to try Gero's water. You just roll up your trousers and sit. The [Gifu Prefecture tourism site](https://www.kankou-gifu.jp/article/detail_9.html) counts nine foot baths around town (as of October 2026). Bring a small towel to dry your feet.
 
-- **Venus no Ashiyu (ビーナスの足湯):** A round foot bath that seats 12, about a 7-minute walk from the station. It is free and open 10:00–20:45, and it closes on Wednesdays ([tourism association page](https://www.gero-spa.com/spot/detail_9.html), as of October 2026).
-- **Sagi no Ashiyu (鷺の足湯):** A roofed hinoki-wood foot bath that seats five, on Yunomachi-dori across from Kaeru Shrine. It is about an 8-minute walk from the station. It is free and open 24 hours ([tourism association page](https://www.gero-spa.com/spot/detail_6.html), as of October 2026).
+- **Venus no Ashiyu (ビーナスの足湯):** A round foot bath that seats 12, about a 7-minute walk from the station. It is free and open 10:00–20:45, and it closes on Wednesdays ([tourism association page](https://www.gero-spa.com/spot/detail_9.html), as of November 2026).
+- **Sagi no Ashiyu (鷺の足湯):** A roofed hinoki-wood foot bath that seats five, on Yunomachi-dori across from Kaeru Shrine. It is about an 8-minute walk from the station. It is free and open 24 hours ([tourism association page](https://www.gero-spa.com/spot/detail_6.html), as of November 2026).
 
 The [tourism association's spot list](https://www.gero-spa.com/spot/) has more foot baths, including Miyabi no Ashiyu, Yuamiya no Ashiyu, Ta-no-Kami no Ashiyu and Sarubobo Ōgon no Ashiyu.
 
 ## The Yumeguri Tegata bath pass
 
-The **Yumeguri Tegata** (湯めぐり手形) is a pass for day-use bathing at member ryokan, so day-trippers can try several inns' baths without booking a room. According to the [tourism association](https://www.gero-spa.com/spot/detail_50.html) (as of October 2026):
+The **Yumeguri Tegata** (湯めぐり手形) is a pass for day-use bathing at member ryokan, so day-trippers can try several inns' baths without booking a room. According to the [tourism association](https://www.gero-spa.com/spot/detail_50.html) (as of November 2026):
 
 - **Price:** 2,500 yen per pass (adults, junior high school age and up)
 - **Uses:** 3 baths
@@ -141,10 +141,10 @@ For spring trips, see [Gifu cherry blossom spots](gifu-cherry-blossom-spots.html
 JR Central's [July 2025 press release](https://jr-central.co.jp/news/release/_pdf/000044393.pdf) lists the ticketless limited express charge for Nagoya to Gero on the Hida as 2,390 yen for an adult ordinary reserved seat and 4,660 yen for the Green Car, one way in the normal season (as of July 16, 2025). The base fare is extra.
 
 ### Can you bathe in Gero Onsen without staying at a ryokan?
-Yes. Public bathhouses such as Shirasagi-no-yu, about a 7-minute walk from Gero Station, charge 470 yen for adults ([tourism association page](https://www.gero-spa.com/spot/detail_3.html), as of October 2026). Kur Garden Rotenburo, about a 10-minute walk from the station, charges 800 yen for adults ([tourism association page](https://www.gero-spa.com/spot/detail_4.html), as of October 2026).
+Yes. Public bathhouses such as Shirasagi-no-yu, about a 7-minute walk from Gero Station, charge 470 yen for adults ([tourism association page](https://www.gero-spa.com/spot/detail_3.html), as of November 2026). Kur Garden Rotenburo, about a 10-minute walk from the station, charges 800 yen for adults ([tourism association page](https://www.gero-spa.com/spot/detail_4.html), as of November 2026).
 
 ### How does the Gero Onsen Yumeguri Tegata pass work?
-The Yumeguri Tegata costs 2,500 yen per adult pass and covers 3 day-use baths at member ryokan, valid for 6 months, with a towel and a drawstring bag included ([tourism association](https://www.gero-spa.com/spot/detail_50.html), as of October 2026). It is sold at member ryokan, convenience stores and souvenir shops, and bathing hours differ from inn to inn.
+The Yumeguri Tegata costs 2,500 yen per adult pass and covers 3 day-use baths at member ryokan, valid for 6 months, with a towel and a drawstring bag included ([tourism association](https://www.gero-spa.com/spot/detail_50.html), as of November 2026). It is sold at member ryokan, convenience stores and souvenir shops, and bathing hours differ from inn to inn.
 
 ### Can you still bathe at Funsen-chi in Gero?
 No. According to the [tourism association](https://www.gero-spa.com/spot/detail_2.html), bathing at the open-air pool on the Hida riverbank has been prohibited since December 1, 2021. Visitors can still look at it.
@@ -153,4 +153,4 @@ No. According to the [tourism association](https://www.gero-spa.com/spot/detail_
 A day trip suits travellers based in Nagoya who mainly want to try the water at a public bath, a few foot baths or Yumeguri Tegata baths. Staying overnight gives the full ryokan experience with dinner and a morning soak, and fits well when continuing to Takayama the next day.
 
 ---
-*Prices, hours and train schedules change. Check official sources before you go. Facts last checked: 2026-10-31.*
+*Prices, hours and train schedules change. Check official sources before you go. Facts last checked: 2026-11-25.*

@@ -65,6 +65,8 @@ How hot or cold is it? See [Gifu City weather by month](gifu-weather-by-month.ht
 
 Travelling in January? See [Takayama in January](takayama-in-january.html) for the weather, opening hours and the January 2027 light-up dates in one place.
 
+Travelling in February? See [Takayama in February](takayama-in-february.html) for the weather, the illumination dates and the Okuhida ice events.
+
 ## FAQ
 
 ### Does Takayama get snow?

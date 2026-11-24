@@ -96,6 +96,8 @@ How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-
 
 Travelling in January? See [Takayama in January](takayama-in-january.html) for the weather, opening hours and the January 2027 light-up dates in one place.
 
+Travelling in February? See [Takayama in February](takayama-in-february.html) for the weather, the illumination dates and the Okuhida ice events.
+
 ## FAQ
 
 ### Is Takayama worth visiting in winter?
