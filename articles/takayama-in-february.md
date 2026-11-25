@@ -58,6 +58,8 @@ The town runs on winter hours. Takayama Jinya is open 8:45–16:30 from November
 
 **Before you go:** you'll rely on your phone for bus times, snow delays and event updates. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Travelling in March? See [Takayama in March](takayama-in-march.html) for the weather, the last winter events and the switch to spring hours.
+
 ## FAQ
 
 ### Is February a good time to visit Takayama?

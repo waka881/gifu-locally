@@ -100,6 +100,8 @@ Travelling in February? See [Takayama in February](takayama-in-february.html) fo
 
 Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
 
+Travelling in March? See [Takayama in March](takayama-in-march.html) for the weather, the last winter events and the switch to spring hours.
+
 ## FAQ
 
 ### Is Takayama worth visiting in winter?

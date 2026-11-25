@@ -49,6 +49,8 @@ For where to sleep, we compare the areas in [where to stay in Gero Onsen](where-
 
 Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
 
+Travelling in March? See [Takayama in March](takayama-in-march.html) for the weather, the last winter events and the switch to spring hours.
+
 ## FAQ
 
 ### When are the Gero Onsen fireworks in December 2026?

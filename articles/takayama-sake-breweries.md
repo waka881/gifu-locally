@@ -1,9 +1,9 @@
 ---
 title: "Takayama Sake Breweries: Where to Taste, Guided Tastings and Tips"
 description: "Takayama's old town has seven sake breweries over 100 years old, marked by cedar balls (sugidama) over the door. Where they are, how tasting works, a guided English tasting on Klook, the drinking age and how to fit it into a Takayama stay."
-summary: Takayama has seven sake breweries, all over 100 years old, most of them in the Sanmachi old town about a 12-minute walk from JR Takayama Station, and you can spot them by the ball of cedar leaves (sugidama) hanging over the door; you can walk between them and sample, for example at Harada Sake Brewery, which JNTO says offers over 10 types, or book a guided English tasting such as Klook's 30-minute session at Hirase Sake Brewery (at least five sakes, from about US$46).
+summary: Takayama has seven sake breweries, all over 100 years old, most of them in the Sanmachi old town about a 12-minute walk from JR Takayama Station, and you can spot them by the ball of cedar leaves (sugidama) hanging over the door; you can walk between them and sample, for example at Harada Sake Brewery, which JNTO says offers over 10 types, or book a guided English tasting such as Klook's 30-minute session at Hirase Sake Brewery (at least five sakes, about US$50.55 per person (at least 2 people)).
 status: 公開
-facts_checked: 2026-10-31
+facts_checked: 2026-11-26
 cta: https://www.klook.com/activity/35490-sake-brewery-tour-takayama/|Guided sake tasting in Takayama|A 30-minute English-guided tasting of at least five local sakes at a historic brewery. Check dates on Klook.|See tasting
 image: Sugidama (cedar ball) outside sake brewery, Takayama, May 2017.jpg
 image_alt: A sugidama cedar ball hanging outside a sake brewery in Takayama
@@ -24,9 +24,9 @@ Sake is one of the things Takayama is known for, and the breweries are right in 
 | Walk from the station | Sanmachi is about 12 minutes on foot |
 | How to spot them | A ball of cedar leaves (sugidama) hanging over the door |
 | Example | Harada Sake Brewery: over 10 types to taste, and you keep the cup |
-| Guided option | Klook: 30-minute English tasting at Hirase Sake Brewery, at least five sakes, from about US$46 |
+| Guided option | Klook: 30-minute English tasting at Hirase Sake Brewery, at least five sakes, about US$50.55 per person (at least 2 people) |
 
-*Sources: [JNTO](https://www.japan.travel/en/spot/153/); [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000153.html); [Klook](https://www.klook.com/activity/35490-sake-brewery-tour-takayama/), as of October 2026.*
+*Sources: [JNTO](https://www.japan.travel/en/spot/153/); [Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000153.html); [Klook](https://www.klook.com/activity/35490-sake-brewery-tour-takayama/), as of November 2026.*
 
 ## Where are the sake breweries in Takayama?
 
@@ -41,10 +41,10 @@ You can walk around town and sample sake from the breweries; JNTO notes that Har
 | Option | What you get | Good for |
 |---|---|---|
 | Walk in and taste | Tastings at individual breweries, at each one's own fee and hours | Flexible, self-paced |
-| Guided tasting (Klook) | 30 min at Hirase Sake Brewery, at least five sakes, with an English explanation of sake basics; from about US$46 | Understanding what you're drinking |
+| Guided tasting (Klook) | 30 min at Hirase Sake Brewery, at least five sakes, with an English explanation of sake basics; about US$50.55 per person (at least 2 people) | Understanding what you're drinking |
 | With a meal | JNTO says local sake is also served at restaurants around the city | Pairing with Hida beef |
 
-*Sources: [JNTO](https://www.japan.travel/en/spot/153/); [Klook](https://www.klook.com/activity/35490-sake-brewery-tour-takayama/), as of October 2026.*
+*Sources: [JNTO](https://www.japan.travel/en/spot/153/); [Klook](https://www.klook.com/activity/35490-sake-brewery-tour-takayama/), as of November 2026.*
 
 [[cta|https://www.klook.com/activity/35490-sake-brewery-tour-takayama/|Book an English-guided tasting|At least five local sakes at Hirase Sake Brewery, with a guide. Check availability on Klook.|See tasting]]
 
@@ -75,11 +75,11 @@ The ball of cedar leaves (sugidama) hanging over the door marks a sake brewery (
 
 ### Can I do a guided sake tasting in English in Takayama?
 
-Yes. Klook lists a 30-minute English-guided tasting at Hirase Sake Brewery with at least five sakes, from about US$46 ([Klook](https://www.klook.com/activity/35490-sake-brewery-tour-takayama/), as of October 2026).
+Yes. Klook lists a 30-minute English-guided tasting at Hirase Sake Brewery with at least five sakes, about US$50.55 per person (at least 2 people) ([Klook](https://www.klook.com/activity/35490-sake-brewery-tour-takayama/), as of November 2026).
 
 ### How far are the breweries from Takayama Station?
 
 Most are in Sanmachi, about a 12-minute walk from JR Takayama Station ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000153.html)).
 
 ---
-*Brewery hours and tasting fees change. Check each brewery before you go. Facts last checked: 2026-10-31.*
+*Brewery hours and tasting fees change. Check each brewery before you go. Facts last checked: 2026-11-26.*

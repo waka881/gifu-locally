@@ -56,6 +56,8 @@ In April, Hida-Furukawa's [Furukawa Festival](furukawa-festival.html) (April 19â
 
 How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-month.html) for the official averages.
 
+Travelling in March? See [Takayama in March](takayama-in-march.html) for the weather, the last winter events and the switch to spring hours.
+
 ## FAQ
 
 ### When is the Takayama Spring Festival?
