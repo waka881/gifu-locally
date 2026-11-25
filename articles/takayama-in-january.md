@@ -54,6 +54,8 @@ For the Shirakawa-go light-up, yes: the dates are fixed and a reservation is req
 
 Travelling in February? See [Takayama in February](takayama-in-february.html) for the weather, the illumination dates and the Okuhida ice events.
 
+Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
+
 ## FAQ
 
 ### Is January a good time to visit Takayama?

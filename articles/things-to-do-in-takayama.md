@@ -91,6 +91,8 @@ In April, Hida-Furukawa's [Furukawa Festival](furukawa-festival.html) (April 19â
 
 How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-month.html) for the official averages.
 
+Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
+
 ## FAQ
 
 ### What is Takayama best known for?

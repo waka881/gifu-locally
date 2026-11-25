@@ -66,6 +66,8 @@ Prefer a hot spring for New Year? See [Gero Onsen](gero-onsen-guide.html) and [G
 
 Travelling in January? See [Takayama in January](takayama-in-january.html) for the weather, opening hours and the January 2027 light-up dates in one place.
 
+Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
+
 ## FAQ
 
 ### Is Takayama Jinya open on New Year's Day?

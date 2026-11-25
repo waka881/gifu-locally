@@ -98,6 +98,8 @@ Travelling in January? See [Takayama in January](takayama-in-january.html) for t
 
 Travelling in February? See [Takayama in February](takayama-in-february.html) for the weather, the illumination dates and the Okuhida ice events.
 
+Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
+
 ## FAQ
 
 ### Is Takayama worth visiting in winter?

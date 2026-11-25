@@ -3,7 +3,7 @@ title: "Skiing Near Nagoya: Gifu's Gujo Ski Resorts, Day Bus Tours and How to Ch
 description: "The ski resorts closest to Nagoya are in Gujo, Gifu: Dynaland, Washigatake, Takasu Snow Park, Meiho and more. Runs, longest slopes and beginner share compared, plus the Klook day package with bus and lift ticket from Nagoya, Takayama or Osaka, and the resorts near Takayama."
 summary: The easiest skiing from Nagoya is in Gujo, Gifu, where the Gujo Tourism Federation lists 10 ski resorts about 1.5 hours away by car, including Dynaland (17 trails, longest run 3,200 m), Takasu Snow Park (longest run 4,900 m) and Meiho (5,000 m); without a car, the simplest option is a day package with round-trip bus and lift ticket, such as Klook's Dynaland 1-day tour from Nagoya Station (from about US$61). Skiers based in Takayama can use the Hida resorts such as Hounokidaira or Hirayu Onsen instead.
 status: 公開
-facts_checked: 2026-10-31
+facts_checked: 2026-11-25
 cta: https://www.klook.com/activity/138223-dynaland-ski-resort-1-day-lift-ticket-round-trip-bus-from-nagoya/|Dynaland day trip from Nagoya|Round-trip bus and 1-day lift ticket, with rental add-ons. Check dates and price on Klook.|See tour
 image: Dynaland 2.jpg
 image_alt: Ski slopes at Dynaland in Gujo, Gifu
@@ -30,7 +30,7 @@ Nagoya has no mountains of its own, but the snow is close: the Gujo area of Gifu
 | Outdoor In Motai | 5 | 600 m | 16° | 80% / 20% / – |
 | Gujo Vacation Mura | 3 | 550 m | 18° | 80% / 20% / – |
 
-*Source: [Gujo Tourism Federation (TABITABI Gujo)](https://en.tabitabigujo.com/appeal/ski/?c=th), as of October 2026. Percentages are as published.*
+*Source: [Gujo Tourism Federation (TABITABI Gujo)](https://en.tabitabigujo.com/appeal/ski/?c=th), as of November 2026. Percentages are as published.*
 
 The Federation gives the drive from Nagoya as about 1.5 hours, and notes that the Snowboard World Cup has been held in Gujo twice (same source). JNTO says all the Gujo resorts can be reached by bus from Nagoya and Gifu, and describes Dynaland as about two hours from Nagoya and very busy on weekends ([JNTO](https://www.japan.travel/en/destinations/tokai/gifu/gifu-ski-resorts)).
 
@@ -49,10 +49,16 @@ The Federation gives the drive from Nagoya as about 1.5 hours, and notes that th
 | Option | From | What's included | Good for |
 |---|---|---|---|
 | Klook Dynaland 1-day package | Nagoya, Takayama or Shin-Osaka | Round-trip bus + lift ticket; rental optional | First-timers, no car, one day |
+| Klook Washigatake bus tour | JR Nagoya Station (meet 7:20, back 19:10) | Bus + lift ticket, full rental or snow play; from US$52.10 | Mixed groups of skiers and non-skiers |
+| Klook Takasu Snow Park 1-day tour | JR Nagoya Station | Bus + lift ticket, full rental, or YUKINOS snow play; from US$59.95 | Snowboarders |
 | Bus to each resort | Nagoya or Gifu | Check each resort's website for schedules | Other Gujo resorts |
 | Rental car | Nagoya | About 1.5 hours' drive | Groups; moving between resorts |
 
-*Sources: [Klook](https://www.klook.com/activity/138223-dynaland-ski-resort-1-day-lift-ticket-round-trip-bus-from-nagoya/); [JNTO](https://www.japan.travel/en/destinations/tokai/gifu/gifu-ski-resorts); [Gujo Tourism Federation](https://en.tabitabigujo.com/appeal/ski/?c=th), as of October 2026.*
+*Sources: [Klook, Dynaland](https://www.klook.com/activity/138223-dynaland-ski-resort-1-day-lift-ticket-round-trip-bus-from-nagoya/); [Klook, Washigatake](https://www.klook.com/en-US/activity/138873/); [Klook, Takasu Snow Park](https://www.klook.com/en-US/activity/138789/); [JNTO](https://www.japan.travel/en/destinations/tokai/gifu/gifu-ski-resorts); [Gujo Tourism Federation](https://en.tabitabigujo.com/appeal/ski/?c=th), as of November 2026. Klook prices change with the date.*
+
+The Washigatake tour is bookable from December 12, 2026, with free cancellation up to 24 hours before, and its "Playing in the Snow" option suits anyone in the group who doesn't ski ([Klook](https://www.klook.com/en-US/activity/138873/), as of November 25, 2026).
+
+[[cta|https://www.klook.com/en-US/activity/138873/|Washigatake ski bus from Nagoya|Bus and lift ticket, with rental and snow-play options. Check dates and price on Klook.|See tour]]
 
 If you drive, read the winter-driving advice in our [Gifu winter guide](gifu-winter-guide.html) first.
 
@@ -94,4 +100,4 @@ On the Federation's figures, Outdoor In Motai and Gujo Vacation Mura are 80% beg
 Yes, including Hounokidaira and Hirayu Onsen; JNTO says Hirayu's small resort is a short walk from the bus terminal ([JNTO](https://www.japan.travel/en/destinations/tokai/gifu/gifu-ski-resorts)).
 
 ---
-*Resort data, prices and bus schedules change. Check each resort before you go. Facts last checked: 2026-10-31.*
+*Resort data, prices and bus schedules change. Check each resort before you go. Facts last checked: 2026-11-25.*

@@ -47,6 +47,8 @@ For where to sleep, we compare the areas in [where to stay in Gero Onsen](where-
 
 **Before you go:** you'll rely on your phone for train times and to check whether a show is going ahead. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
+
 ## FAQ
 
 ### When are the Gero Onsen fireworks in December 2026?
