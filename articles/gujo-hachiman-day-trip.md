@@ -3,7 +3,7 @@ title: "Gujo Hachiman Day Trip from Nagoya: Castle, Water Town and Autumn Leaves
 description: "How to reach Gujo Hachiman from Nagoya by highway bus, what to see in the castle town, and the autumn 2026 dates for leaves and the castle above the clouds."
 summary: From Nagoya, take the highway bus from the JR Nagoya Station (Shinkansen side) bus stop to the Gujo Hachiman IC stop: about 1 hour 20 minutes, six buses each way per day, ¥2,600 one way or ¥2,300 if booked online (fares as of April 2026). From the IC stop, a reservation-only shared taxi to the town center costs ¥350 per person. The town suits a day trip for its castle, canals and autumn leaves, with peak color forecast around November 7 to 23, 2026.
 status: 公開
-facts_checked: 2026-11-01
+facts_checked: 2026-11-27
 cta: https://www.klook.com/activity/197419-shirakawa-go-takayama-and-gujo-hachiman-day-tour-from-nagoya/|Gujo Hachiman + Shirakawa-go + Takayama in one day|Guided day tour from Nagoya, no transfers to plan. See dates and reviews on Klook.|Check dates
 image: Gujo from Gujo Hachiman castle.jpg
 image_alt: View over Gujo Hachiman town from Gujo Hachiman Castle
@@ -84,10 +84,10 @@ A shared taxi takes you from the expressway stop to the town center for ¥350 pe
 Admission is ¥400 for adults and ¥200 for children. It opens 9:00 to 17:00 (8:00 to 18:00 from June to August, 9:00 to 16:30 from November to February), and closes December 20 to January 10 ([source](https://www.gltjp.com/en/directory/item/11949/), as of 2026-11-01).
 
 ### When are the autumn leaves in Gujo Hachiman in 2026?
-The Momiji Festival starts November 1, and peak autumn color is forecast around November 7 to 23 at the castle and at Jion-ji Temple's garden ([Gujo Hachiman Tourism Association](https://www.gujohachiman.com/kanko/), as of 2026-10-15).
+In 2026 the Momiji Festival started on November 1, with peak autumn color forecast around November 7 to 23 at the castle and at Jion-ji Temple's garden ([Gujo Hachiman Tourism Association](https://www.gujohachiman.com/kanko/), as of 2026-10-15); check the association's page for next year's dates.
 
 ### When can you see Gujo Hachiman Castle above the clouds?
-From October to March, early mornings can leave the castle floating above a sea of cloud. The usual viewpoint is Horigoe Pass, and parking on the road there is not allowed ([Gujo Hachiman Tourism Association](https://www.gujohachiman.com/kanko/), as of 2026-10-15).
+From October to March, early mornings can leave the castle floating above a sea of cloud. The usual viewpoint is Horigoe Pass, and parking on the road there is not allowed ([Gujo Hachiman Tourism Association](https://www.gujohachiman.com/kanko/), as of 2026-11-27).
 
 ## Book ahead
 
@@ -96,4 +96,4 @@ From October to March, early mornings can leave the castle floating above a sea 
 - **Tours and tickets:** browse everything else for your Japan trip on [Klook](https://klook.tpk.lu/zp1hCE5f).
 
 ---
-*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-11-01.*
+*Prices, hours and bus schedules change. Check official sources before you go. Facts last checked: 2026-11-27.*

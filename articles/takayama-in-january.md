@@ -44,6 +44,10 @@ Most of the town. Takayama Jinya is closed from December 29 to January 3 and the
 
 For a night in an onsen town, Gero Onsen holds Saturday-night winter fireworks from January; the 2027 dates are in our [Gero Onsen winter fireworks guide](gero-onsen-winter-fireworks.html) once announced.
 
+Coming from Nagoya for the light-up? Klook lists a day tour that it says runs on all four 2027 dates, with dinner and Takayama by day ([Klook](https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/), as of November 27, 2026).
+
+[[cta|https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/|Shirakawa-go light-up tour from Nagoya|Day trip with dinner, all four 2027 dates listed as guaranteed. Check seats on Klook.|Check dates]]
+
 ## Should you book ahead for January?
 
 For the Shirakawa-go light-up, yes: the dates are fixed and a reservation is required. Staying near JR Takayama Station keeps you close to the trains, the Nohi Bus Center for light-up tours and the bus to Hida Folk Village; see [where to stay in Takayama](where-to-stay-takayama.html). Hida Takayama Tourism also warns that taxis can take more than an hour to arrive on snowy days ([Hida Takayama Tourism](https://www.hida.jp/english/traveltips/practicalguide/4000219.html)).

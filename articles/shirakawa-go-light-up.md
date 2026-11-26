@@ -85,17 +85,21 @@ Winter roads to Shirakawa-go can be snowy and icy. If you aren't used to driving
 
 Some travel companies sell light-up packages, including day tours from Nagoya. Before you buy one, check that it includes the light-up entry and, if you want it, an observation deck ticket.
 
-Light-up tours from Nagoya listed on Klook, checked November 15, 2026:
+Light-up tours from Nagoya listed on Klook, checked November 27, 2026:
 
 | Tour (Klook) | Status | Duration | What the listing states |
 |---|---|---|---|
 | [2027 Shirakawa-go Winter Illumination & Hida Takayama Tour](https://www.klook.com/en-US/activity/233458-nagoya-shirakawa-go-winter-illumination-day-tour/) | Currently unavailable (bookable on October 26) | 13.5 h (9:00–22:30) | Meets near Nagoya Station West Exit; about 1.5 h guided walk in Takayama, then about 5 h in Shirakawa-go |
-| [Takayama Old Town + Shirakawa-go Illumination](https://www.klook.com/en-US/activity/175324-shirakawa-go-light-up-2026-day-tour-nagoya-departure-via-takayama/) | Lists the 2027 dates, but no bookable options were showing | 10 h | Small group of about 9; observation deck excluded; Chinese-speaking guide; listed at US$146.65 |
-| [Shirakawa-go Winter Light-Up and Hida Takayama Day Trip](https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/) | No dates showing | 12 h 25 min | Departs Meitetsu Bus Center; dinner plan options; listed at US$164.35 |
+| [Takayama Old Town + Shirakawa-go Illumination](https://www.klook.com/en-US/activity/175324-shirakawa-go-light-up-2026-day-tour-nagoya-departure-via-takayama/) | Lists the 2027 dates, but no bookable options were showing | 10 h | Small group in a 10-seater van; observation deck excluded; English/Chinese; rated 3.5 (6 reviews); US$146.65 |
+| [Shirakawa-go Winter Light-Up and Hida Takayama Day Trip](https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/) | "All 4 departure dates are guaranteed"; rated 4.7 (66 reviews) | 12 h 25 min | Departs Meitetsu Bus Center 4th floor; English-speaking staff; dinner included (Hida beef or restaurant plan); US$164.35 |
 
-*Source: each tour's Klook page, checked November 15, 2026. None of these listings says it includes the observation deck. Availability changes, so check the listing for your date.*
+*Source: each tour's Klook page, checked November 27, 2026. None of these listings says it includes the observation deck. Availability changes, so check the listing for your date.*
 
-If no light-up date works, Klook also lists a [Shirakawa-go and Hida Folk Village Winter Illumination Tour](https://www.klook.com/activity/193435-shirakawa-go-hida-folk-village-winter-illumination-tour/) from Nagoya. It is not the Shirakawa-go light-up: you see Shirakawa-go and Takayama's old town by day, then the Hida Folk Village winter illumination (January 9–February 28, 2027, 17:30–20:30). It is 10 hours (10:00–20:00), from US$65.19, with a Chinese- and Japanese-speaking host and free cancellation up to 48 hours before; next date January 9, 2027 ([Klook](https://www.klook.com/activity/193435-shirakawa-go-hida-folk-village-winter-illumination-tour/), as of November 15, 2026).
+Of the three, the Meitetsu Bus Center tour is the one that states all four 2027 dates are guaranteed to run, and it includes dinner ([Klook](https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/), as of November 27, 2026).
+
+[[cta|https://www.klook.com/en-US/activity/80951-shirakawa-go-winter-light-up-hida-takayama-day-trip-from-nagoya/|Light-up day trip from Nagoya with dinner|All four 2027 dates listed as guaranteed, with Takayama by day. Check seats on Klook.|Check dates]]
+
+If no light-up date works, Klook also lists a [Shirakawa-go and Hida Folk Village Winter Illumination Tour](https://www.klook.com/activity/193435-shirakawa-go-hida-folk-village-winter-illumination-tour/) from Nagoya. It is not the Shirakawa-go light-up: you see Shirakawa-go and Takayama's old town by day, then the Hida Folk Village winter illumination (January 9–February 28, 2027, 17:30–20:30). It is 10 hours (10:00–20:00), from US$65.19, with a Chinese- and Japanese-speaking host and free cancellation up to 48 hours before; next date January 9, 2027 ([Klook](https://www.klook.com/activity/193435-shirakawa-go-hida-folk-village-winter-illumination-tour/), as of November 27, 2026).
 
 [[cta|https://www.klook.com/activity/193435-shirakawa-go-hida-folk-village-winter-illumination-tour/|Winter illumination day from Nagoya|Shirakawa-go by day, then Hida Folk Village lit up at night (Jan 9–Feb 28, 2027). Check dates on Klook.|Check dates]]
 
