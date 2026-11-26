@@ -58,6 +58,8 @@ How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-
 
 Travelling in March? See [Takayama in March](takayama-in-march.html) for the weather, the last winter events and the switch to spring hours.
 
+Deciding when to go? See the [best time to visit Takayama](best-time-to-visit-takayama.html) for a month-by-month table of weather and festivals.
+
 ## FAQ
 
 ### When is the Takayama Spring Festival?

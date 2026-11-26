@@ -92,6 +92,8 @@ Before you go: [Shirakawa-go practical tips](shirakawa-go-practical-tips.html) c
 
 How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-weather-by-month.html) for the Japan Meteorological Agency's official averages.
 
+Deciding when to go? See the [best time to visit Takayama](best-time-to-visit-takayama.html) for a month-by-month table of weather and festivals.
+
 ## FAQ
 
 ### What month is best to visit Shirakawa-go?

@@ -93,6 +93,8 @@ How cold or wet will it be? See [Takayama weather by month](takayama-weather-by-
 
 Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
 
+Deciding when to go? See the [best time to visit Takayama](best-time-to-visit-takayama.html) for a month-by-month table of weather and festivals.
+
 ## FAQ
 
 ### What is Takayama best known for?
