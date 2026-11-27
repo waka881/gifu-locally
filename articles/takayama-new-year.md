@@ -3,7 +3,7 @@ title: "Takayama at New Year 2026–27: What's Open and Closed, Buses and Where 
 description: "Visiting Takayama between Christmas and early January: Takayama Jinya is closed December 29 to January 3, while the morning markets run all year and the Festival Floats Exhibition Hall lists daily opening. Bus changes over New Year, nearby closures and New Year events in Seki and Shirakawa-go."
 summary: Takayama is worth visiting over New Year, but plan around one big closure: Takayama Jinya shuts from December 29 to January 3, while the Miyagawa and Jinya-mae morning markets are listed as open all year (8:00–12:00 in winter, with fewer stalls), the Takayama Festival Floats Exhibition Hall lists daily opening (9:00–16:30 in winter, ¥1,000 on the Gifu Prefecture tourism site), and Hida Folk Village opens 8:30–17:00; some Takayama–Shirakawa-go buses don't run from December 29 to January 3, so book seats early and confirm holiday hours.
 status: 公開
-facts_checked: 2026-11-01
+facts_checked: 2026-11-27
 cta: https://www.klook.com/en-US/destination/p50003173-takayama-station/3-hotel/|Book Takayama for New Year early|Rooms near JR Takayama Station for the year-end holidays. Compare prices and availability on Klook.|See stays
 image: Takayama's Early Winter Welcome (NE).jpg
 image_alt: Takayama under early winter snow
@@ -33,7 +33,7 @@ The year-end holidays (roughly December 29 to January 3) are a popular time to t
 
 **The Floats Exhibition Hall** is a good indoor option. Hida Takayama Tourism lists it as open daily, but suggests calling +81-577-32-5100 to confirm holiday hours ([Hida Takayama Tourism](https://www.hida.jp/english/touristattractions/takayamacity/historyandculture/4000170.html)). See our [Takayama Festival guide](takayama-festival.html).
 
-**Hida Folk Village** lists winter illuminations in January and February among its events; the 2026 winter illumination ran from January 10 to February 28 ([Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Hida Takayama event calendar](https://www.hida.jp/english/festivalsandevents/eventcalendar/4000180.html)). See our [Hida Folk Village guide](hida-folk-village.html).
+**Hida Folk Village** lists winter illuminations in January and February among its events; the 2027 winter illumination runs every evening from January 9 to February 28, 17:30–20:30 ([Hida Folk Village](https://www.hidanosato-tpo.jp/english12.htm); [Gifu Prefecture tourism](https://www.kankou-gifu.jp/event/detail_3323.html), as of November 2026). See our [Hida Folk Village guide](hida-folk-village.html).
 
 ## Do buses run normally over New Year?
 
@@ -87,4 +87,4 @@ Yes, but Nohi Bus says some services do not run from December 29 to January 3, s
 Hida Takayama Tourism lists the morning markets as open all year and the Floats Exhibition Hall as open daily (call to confirm holiday hours); Takayama Jinya is closed (sources above).
 
 ---
-*Holiday hours change. Check each sight before you go. Facts last checked: 2026-11-01.*
+*Holiday hours change. Check each sight before you go. Facts last checked: 2026-11-27.*

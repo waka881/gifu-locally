@@ -61,6 +61,8 @@ For getting there, compare the options in [Shirakawa-go from Nagoya](shirakawa-g
 
 How hot or cold is it? See [Gifu City weather by month](gifu-weather-by-month.html) for the Japan Meteorological Agency's official averages.
 
+For a February trip, see [Shirakawa-go in February](shirakawa-go-in-february.html): the deepest snow, buses and day tours.
+
 ## FAQ
 
 ### Does Shirakawa-go have snow?

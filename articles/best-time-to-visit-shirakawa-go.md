@@ -94,6 +94,8 @@ How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-we
 
 Deciding when to go? See the [best time to visit Takayama](best-time-to-visit-takayama.html) for a month-by-month table of weather and festivals.
 
+For the deepest snow, see [Shirakawa-go in February](shirakawa-go-in-february.html).
+
 ## FAQ
 
 ### What month is best to visit Shirakawa-go?

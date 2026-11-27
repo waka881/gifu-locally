@@ -60,6 +60,8 @@ The town runs on winter hours. Takayama Jinya is open 8:45–16:30 from November
 
 Travelling in March? See [Takayama in March](takayama-in-march.html) for the weather, the last winter events and the switch to spring hours.
 
+Adding Shirakawa-go? See [Shirakawa-go in February](shirakawa-go-in-february.html) for snow, buses and day tours.
+
 ## FAQ
 
 ### Is February a good time to visit Takayama?

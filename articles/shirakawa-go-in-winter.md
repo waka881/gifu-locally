@@ -89,6 +89,8 @@ Can't get a Shirakawa-go light-up booking? The [Hida Folk Village winter illumin
 
 How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-weather-by-month.html) for the Japan Meteorological Agency's official averages.
 
+Going in February? See [Shirakawa-go in February](shirakawa-go-in-february.html) for the deepest snow of the year, buses and tours.
+
 ## FAQ
 
 ### Is Shirakawa-go worth visiting in winter?
