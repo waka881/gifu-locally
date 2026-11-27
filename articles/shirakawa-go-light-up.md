@@ -147,6 +147,8 @@ How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-we
 
 Travelling in January? See [Takayama in January](takayama-in-january.html) for the weather, opening hours and the January 2027 light-up dates in one place.
 
+For the rest of a January trip, see [Shirakawa-go in January](shirakawa-go-in-january.html): snow, weather and tours.
+
 ## FAQ
 
 ### When is the Shirakawa-go light-up in 2027?

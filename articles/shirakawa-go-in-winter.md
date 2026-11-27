@@ -91,6 +91,8 @@ How much snow, and how cold? See [Shirakawa-go weather by month](shirakawa-go-we
 
 Going in February? See [Shirakawa-go in February](shirakawa-go-in-february.html) for the deepest snow of the year, buses and tours.
 
+Going in January? See [Shirakawa-go in January](shirakawa-go-in-january.html) for the light-up dates, tours and snow.
+
 ## FAQ
 
 ### Is Shirakawa-go worth visiting in winter?

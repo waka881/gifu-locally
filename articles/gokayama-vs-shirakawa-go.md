@@ -1,9 +1,9 @@
 ---
 title: "Gokayama vs Shirakawa-go: Which Thatched Village Should You Visit?"
 description: "Gokayama or Shirakawa-go? Both are part of the same UNESCO World Heritage site. Compare Ainokura and Suganuma in Gokayama with Ogimachi in Shirakawa-go: access from Takayama and Takaoka, time needed, parking, and a day tour that visits both."
-summary: Choose Shirakawa-go if you want the easiest trip and the best-known village, since it is about 50 minutes from Takayama by express bus (¥2,800; ¥2,900 from December 1, 2026) and takes 2–3 hours to walk around; choose Gokayama if you'd rather see a smaller village in the same UNESCO World Heritage site, such as Ainokura with about 20 gassho houses, reached by the World Heritage Bus from JR Takaoka Station (about 80 minutes) or about 20 minutes by car from Gokayama IC. To see both in one day from Takayama, a day tour such as Klook's Shirakawa-go and Gokayama tour (from about US$90) is the simplest option.
+summary: Choose Shirakawa-go if you want the easiest trip and the best-known village, since it is about 50 minutes from Takayama by express bus (¥2,800; ¥2,900 from December 1, 2026) and takes 2–3 hours to walk around; choose Gokayama if you'd rather see a smaller village in the same UNESCO World Heritage site, such as Ainokura with about 20 gassho houses, reached by the World Heritage Bus from JR Takaoka Station (about 80 minutes) or about 20 minutes by car from Gokayama IC. To see both in one day from Takayama, a day tour such as Klook's Shirakawa-go and Gokayama tour (from US$88.80) is the simplest option.
 status: 公開
-facts_checked: 2026-11-01
+facts_checked: 2026-11-28
 cta: https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/|See Shirakawa-go and Gokayama in one day|A full-day tour from the Takayama Nohi Bus Center that stops at both villages. Check dates and price on Klook.|See tour
 image: Toyama Gokayama Ainokura xl.jpg
 image_alt: Thatched gassho-style houses in Ainokura village, Gokayama
@@ -50,7 +50,7 @@ For help in English, the Gokayama Tourist Information Center is on +81-763-66-24
 
 ## Can you visit Gokayama and Shirakawa-go in one day?
 
-Yes, most easily on a tour. Klook lists a full-day tour from the Takayama Nohi Bus Center (meet 8:15, about 8:30–15:50) with about 50 minutes in Gokayama and about 2 hours 40 minutes in Shirakawa-go, both self-guided, from about US$90. The listing gives Japanese as the guide language, so don't count on English commentary ([Klook](https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/), as of November 2026).
+Yes, most easily on a tour. Klook lists a full-day tour from the Takayama Nohi Bus Center (meet 8:15, about 8:30–15:50) with about 50 minutes in Gokayama and about 2 hours 40 minutes in Shirakawa-go, both self-guided, at US$88.80 on most December dates, with a 4.9 rating from 76 reviews. The listing gives Japanese as the guide language, so don't count on English commentary ([Klook](https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/), as of November 2026).
 
 | Option | Villages | Good for |
 |---|---|---|
@@ -83,7 +83,7 @@ Visit Toyama lists free admission, 8:30–17:00, with parking at ¥1,000 per car
 
 ### Can I see Gokayama and Shirakawa-go in one day from Takayama?
 
-Yes. Klook lists a full-day tour from the Takayama Nohi Bus Center that stops at both, from about US$90 ([Klook](https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/), as of November 2026).
+Yes. Klook lists a full-day tour from the Takayama Nohi Bus Center that stops at both, at US$88.80 on most December dates ([Klook](https://www.klook.com/en-US/activity/90970-historic-villages-shirakawa-go-gokayama-join-bus-trip-takayama/), as of November 28, 2026).
 
 ---
-*Bus times, fares and tour details change. Check before you travel. Facts last checked: 2026-11-01.*
+*Bus times, fares and tour details change. Check before you travel. Facts last checked: 2026-11-28.*

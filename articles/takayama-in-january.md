@@ -60,6 +60,8 @@ Travelling in February? See [Takayama in February](takayama-in-february.html) fo
 
 Travelling in December? See [Takayama in December](takayama-in-december.html) for the weather, the illumination and the year-end closures.
 
+Adding Shirakawa-go? See [Shirakawa-go in January](shirakawa-go-in-january.html) for the light-up tours from Takayama and the snow.
+
 ## FAQ
 
 ### Is January a good time to visit Takayama?

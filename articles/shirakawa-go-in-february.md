@@ -58,6 +58,8 @@ Warm, waterproof boots with grip, a warm coat, gloves and a hat: daily lows aver
 
 **Before you go:** you'll rely on your phone for bus delays and the tour meeting point. Our [Japan eSIM guide](japan-esim-gifu.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Going in January instead? See [Shirakawa-go in January](shirakawa-go-in-january.html) for the light-up and tours.
+
 ## FAQ
 
 ### Is February a good time to visit Shirakawa-go?
