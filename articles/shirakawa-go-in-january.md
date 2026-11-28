@@ -70,6 +70,8 @@ Takayama is the easiest base for the light-up, because the Nohi Bus tours leave 
 
 **Before you go:** you'll rely on your phone for tour tickets, bus delays and snow updates. Our [Japan eSIM guide](japan-esim-gifu.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Going earlier? See [Shirakawa-go in December](shirakawa-go-in-december.html) for snow, New Year buses and tours.
+
 ## FAQ
 
 ### When is the Shirakawa-go light-up in 2027?

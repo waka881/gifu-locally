@@ -93,6 +93,8 @@ Going in February? See [Shirakawa-go in February](shirakawa-go-in-february.html)
 
 Going in January? See [Shirakawa-go in January](shirakawa-go-in-january.html) for the light-up dates, tours and snow.
 
+Going in December? See [Shirakawa-go in December](shirakawa-go-in-december.html) for the first deep snow, buses and tours.
+
 ## FAQ
 
 ### Is Shirakawa-go worth visiting in winter?

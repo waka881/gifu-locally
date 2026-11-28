@@ -63,6 +63,8 @@ How hot or cold is it? See [Gifu City weather by month](gifu-weather-by-month.ht
 
 For a February trip, see [Shirakawa-go in February](shirakawa-go-in-february.html): the deepest snow, buses and day tours.
 
+For a December trip, see [Shirakawa-go in December](shirakawa-go-in-december.html).
+
 ## FAQ
 
 ### Does Shirakawa-go have snow?

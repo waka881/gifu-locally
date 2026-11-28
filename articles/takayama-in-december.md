@@ -53,6 +53,8 @@ Nohi Bus revises fares and timetables from December 1, 2026: Takayama to Shiraka
 
 **Before you go:** you'll rely on your phone for snow delays, bus times and holiday hours. Our [Japan eSIM guide](japan-esim-takayama.html) explains how much data to get; [Yesim's Japan plans](https://yesim.tpk.lu/T6xnCd9w) start at $4.07 for 1 GB, valid 30 days from first connection (as of November 2026).
 
+Adding Shirakawa-go? See [Shirakawa-go in December](shirakawa-go-in-december.html) for snow, buses and day tours.
+
 ## FAQ
 
 ### Does it snow in Takayama in December?
